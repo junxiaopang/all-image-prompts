@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+.pnpm-store
+
+# Build output
+dist
+dist-ssr
+coverage
+scripts
+public/images
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.idea
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo

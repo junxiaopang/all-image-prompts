@@ -1,0 +1,27 @@
+/* Tailwind CSS 导入 - 兼容v4版本 */
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+/* 基础样式重置和主题支持 */
+html,
+body {
+  overscroll-behavior-y: none; /* 防止顶部/底部无限拉长的橡皮筋效果 */
+}
+
+body {
+  background-color: rgb(249 250 251); /* gray-50 to match App background */
+  color: rgb(15 23 42); /* slate-900 */
+  transition: color 300ms, background-color 300ms;
+}
+
+/* 当 html 有 dark 类时，修改 body 的背景和文字颜色 */
+.dark body {
+  background-color: rgb(15 23 42); /* slate-900 */
+  color: rgb(248 250 252); /* slate-100 */
+}
+
+/* 确保背景色正确过渡 */
+#root {
+  min-height: 100vh;
+  width: 100%;
+}

@@ -1,0 +1,1221 @@
+[
+  {
+    "id": 1,
+    "slug": "prompt-111",
+    "title": "3d 超写实场景模型",
+    "source": {
+      "name": "@PatriciaRed_",
+      "url": "https://x.com/PatriciaRed_/status/1931165199987278330"
+    },
+    "images": [
+      "images/111.jpeg",
+      "images/111-2.jpeg"
+    ],
+    "prompts": [
+      "3d hyperrealistic model-scenery of a long-haired woman wearing a flowing maxi dress walking up a curved staircase with an arched doorway at the end with a view to a tiny glowing moon, framed by lush climbing vines, setting over a round base made out of moss and tiny bioluminescent mushrooms, ethereal lighting, staging aesthetics, dark plain background --ar 4:5 --c 6 --s 100"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "3d",
+      "interior",
+      "landscape"
+    ],
+    "coverImage": "images/111.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "960:1200",
+    "likes": "",
+    "width": 960,
+    "height": 1200
+  },
+  {
+    "id": 367,
+    "slug": "prompt-417",
+    "title": "一幅超写实的高品质特写肖像",
+    "source": {
+      "name": "@ZaraIrahh",
+      "url": "https://x.com/ZaraIrahh/status/1987684052028297552"
+    },
+    "images": [
+      "images/417.jpeg"
+    ],
+    "prompts": [
+      "Using the exact facial features from the attached image \nCreate an hyperrealistic and high quality close-up portrait of a styling young woman,  her dark thick long hair styled in twin high artistic braids that falls over her ears, few loose trendils clipped using a different style matte brown statement hair clips ,with few loose strands falls across and frames her face, wearing a drawstring halter top, a thick-frame  brown cat-eye eyeglasses slightly lowered, soft hazel nut eyes, glossy red pouty lips, peached dewy blush and soft warm tone eyeshadows with a little bit shimmers and glitters on her cheeks and under her eyes, artistic brown eyeliner, natural dewy skin, head slightly tilted, relaxed and confident gaze hand-on-cheek pose, minimalistic background, warm beige and brown tones, bright and harsh illumination coming from the camera highlighting the texture of her figure, soft studio background lighting, K-fashion editorial aesthetic, Seoul street style influence, hyper-detailed face texture, cinematic tone, 85mm lens photography, Vogue Korea vibe, stylish and modern mood --ar 2:3 --v 6 --style raw --q 2 --s 250",
+      "使用附图中的精确面部特征\n创作一幅超写实的高品质特写肖像，描绘一位正在打扮的年轻女性。她浓密乌黑的长发被编成两条高高的艺术辫子，垂落在耳边，几缕碎发用不同风格的哑光棕色发夹别住，几缕散落的发丝垂在脸颊两侧，勾勒出她精致的脸庞。她身穿一件抽绳露背上衣，戴着一副略微下垂的棕色粗框猫眼眼镜，拥有一双柔和的榛子色眼睛，涂着光泽饱满的红唇，腮红是水润的蜜桃色，眼影是柔和的暖色调，带有少许珠光和亮片，点缀在脸颊和眼下。她画着艺术感十足的棕色眼线，肌肤呈现自然水润的状态。她微微侧着头，眼神放松自信，一只手轻抚脸颊。背景简洁，以温暖的米色和棕色为主色调。相机发出明亮而强烈的光线，突显了她的身材纹理。柔和的影棚背景灯光，展现出韩式时尚大片的风格，融合了首尔街头风的元素，并着重刻画了面部细节，营造出电影般的质感。这幅作品使用85mm镜头拍摄，灵感来自韩国版《Vogue》。氛围，时尚现代的格调 --ar 2:3 --v 6 --style raw --q 2 --s 250"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "README.md",
+    "description": "",
+    "tags": [
+      "fashion",
+      "minimalist",
+      "nature",
+      "photography",
+      "portrait"
+    ],
+    "coverImage": "images/417.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "700:900",
+    "likes": "",
+    "width": 700,
+    "height": 900
+  },
+  {
+    "id": 11,
+    "slug": "prompt-451",
+    "title": "中国传统水墨彩画",
+    "source": {
+      "name": "@dotey",
+      "url": "https://x.com/dotey/status/1992366309288595681"
+    },
+    "images": [
+      "images/451.jpeg"
+    ],
+    "prompts": [
+      "A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. \n\nThree Minions dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. \n\nTraditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9",
+      "这是一幅工笔风格的中国传统水墨彩画，绘制在古旧的宣纸上。画中一位身着华丽唐代汉服的贵妇坐在木凳上，手持现代吹风机吹干她飘逸的长发。她穿着黑色丝袜，一只脚踩着红色高跟鞋，倚靠在小凳上。\n\n三个身着古代中国仆人服、头戴礼帽的小黄人侍奉着她：左边一个看起来很紧张，手里拿着吹风机的电源线；中间一个跪在地上，用布擦拭她的红皮鞋；右边一个举着智能手机，帮她拍照。背景是古老的苍劲松树、竹林和太湖岩石。\n\n右上角是传统的中国书法，旁边盖有红色的艺术家印章（宝玉）。色彩运用了柔和的矿物颜料。幽默而又时代错置的融合。——ar 16:9"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "README.md",
+    "description": "",
+    "tags": [
+      "paper-craft",
+      "photography"
+    ],
+    "coverImage": "images/451.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "1200:670",
+    "likes": "",
+    "width": 1200,
+    "height": 670
+  },
+  {
+    "id": 76,
+    "slug": "prompt-191",
+    "title": "后世界末日氛围",
+    "source": {
+      "name": "@Artedeingenio",
+      "url": "https://x.com/Artedeingenio/status/1935369568408523045"
+    },
+    "images": [
+      "images/191.jpeg",
+      "images/191-2.jpeg"
+    ],
+    "prompts": [
+      "a young cartoon boy with big goggles and scarf driving a tiny makeshift vehicle in the desert, cute post-apocalyptic vibe, indie animation style, soft colors, emotional and adventurous --ar 3:4 --raw --p",
+      "一个戴着大护目镜和围巾的年轻卡通男孩在沙漠中驾驶着一辆小型临时车辆，可爱的后世界末日氛围，独立动画风格，柔和的色彩，情感和冒险 --AR 3：4 --原始 --p"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "cartoon",
+      "vehicle"
+    ],
+    "coverImage": "images/191.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "720:1280",
+    "likes": "",
+    "width": 720,
+    "height": 1280
+  },
+  {
+    "id": 82,
+    "slug": "prompt-312",
+    "title": "品牌工作室照片",
+    "source": {
+      "name": "@samann_ai",
+      "url": "https://x.com/samann_ai/status/1968656265673871644"
+    },
+    "images": [
+      "images/312.jpeg"
+    ],
+    "prompts": [
+      "[CHARACTER] sitting centered on an oversized puffy lounge sofa in [SOFA_COLOR], relaxed pose with one hand under chin, full-body. Clean white seamless studio, premium fashion-editorial lighting, hyper-real, minimal. Big spray-paint graffiti on the back wall reading “[TEXT]” with soft overspray and slight drips. 85mm look, crisp details, no clutter, no watermark. --ar 3:4",
+      "[人物] 坐在一张[沙发颜色]的超大蓬松休闲沙发上，姿势放松，单手托着下巴，全身放松。干净的白色无缝工作室，高端时尚编辑灯光，超现实，极简。后墙上的大型喷漆涂鸦写着“[文本]”，喷漆略微过喷，略有滴落。85毫米画质，细节清晰，没有杂乱，没有水印。——ar 3:4"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "branding",
+      "character",
+      "fashion",
+      "minimalist",
+      "portrait"
+    ],
+    "coverImage": "images/312.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "1536:2048",
+    "likes": "",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "id": 86,
+    "slug": "prompt-337",
+    "title": "低马尾女孩在日式居酒屋",
+    "source": {
+      "name": "@MANISH1027512",
+      "url": "https://x.com/MANISH1027512/status/1978672690740310181"
+    },
+    "images": [
+      "images/337.jpeg"
+    ],
+    "prompts": [
+      "a young beautiful sweet smiling Asian woman with soft brown hair tied loosely in a low ponytail with gentle face-framing bangs, sitting sideways on a narrow wooden bar stool inside a tiny, crowded Japanese izakaya, turning back toward the camera with a gentle natural smile; wearing a white blouse and gray plaid high-waisted shorts; surrounded by middle-aged and elderly Japanese men in dark suits chatting quietly beside her; the bar interior is narrow and dimly lit, walls covered with old handwritten menus and vintage posters, cluttered shelves of bottles, ceramics, and small trinkets; soft warm tungsten lighting with slight haze, smoke lingering in the air, evoking the scent of grilled food and sake; authentic candid moment, intimate social atmosphere, nostalgic Showa-era Japanese nightlife vibe;cozy ambient tungsten lighting, low contrast, muted color palette with subtle green tint, shallow depth of field, film-like softness, slight haze, nostalgic 35mm analog photo, visible fine film grain, authentic Japanese retro bar atmosphere, candid portrait, in the style of Daido Moriyama, Takashi Homma, and Wong Kar Wai, Kodak Portra 400 film aesthetic --ar 3:4 --v 7",
+      "一位年轻美丽、笑容甜美的亚洲女性，一头柔软的棕色头发扎成低马尾，刘海柔和地修饰着脸型，她侧身坐在一间狭小拥挤的日式居酒屋里，坐在一张狭窄的木质吧台凳上，面带温柔自然的微笑；她身穿白色衬衫和灰色格子高腰短裤；她周围是穿着深色西装的中老年日本男子，他们在她旁边轻声聊天；酒吧内部狭窄而昏暗，墙上贴满了古老的手写菜单和复古海报，架子上杂乱地摆满了瓶子、陶瓷和小饰品；柔和温暖的钨丝灯略带薄雾，烟雾在空气中缭绕，散发着烧烤食物和清酒的香味；真实的坦率时刻，亲密的社交氛围，怀旧的昭和时代日本夜生活氛围；舒适的环境钨丝灯，低对比度，柔和的色调，微妙的绿色色调，浅景深，胶片般的柔软度，轻微的雾霾，怀旧的 35 毫米模拟照片，可见的细胶片颗粒，真实的日本复古酒吧氛围，坦率的肖像，森山大道、本间隆和王家卫的风格，柯达 Portra 400 胶片美学 --ar 3:4 --v 7"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "food",
+      "interior",
+      "nature",
+      "photography",
+      "portrait",
+      "poster",
+      "retro"
+    ],
+    "coverImage": "images/337.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "600:900",
+    "likes": "",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "id": 117,
+    "slug": "prompt-103",
+    "title": "刺绣风格",
+    "source": {
+      "name": "@firatbilal",
+      "url": "https://x.com/firatbilal/status/1931762571876446256"
+    },
+    "images": [
+      "images/103.png"
+    ],
+    "prompts": [
+      "{\n  \"title\": \"Adaptive Embroidered Brooch Prompt Generator\",\n  \"version\": \"2.0\",\n  \"description\": \"Generate a prompt for an embroidered brooch based on text description or uploaded image.\",\n  \"inputs\": {\n    \"reference_mode\": {\n      \"type\": \"select\",\n      \"label\": \"Reference Source\",\n      \"options\": [\"describe manually\", \"use uploaded image\", \"combine both\"],\n      \"default\": \"describe manually\"\n    },\n    \"theme_text\": {\n      \"type\": \"text\",\n      \"label\": \"Describe the Theme or Motif\",\n      \"placeholder\": \"e.g. an owl in a forest, biomechanical skull, dancing figures\"\n    },\n    \"image_reference_description\": {\n      \"type\": \"text\",\n      \"label\": \"Describe what's in the uploaded image (if using image mode)\",\n      \"placeholder\": \"e.g. a mechanical skull with succulents growing from it\"\n    },\n    \"shape\": {\n      \"type\": \"select\",\n      \"label\": \"Brooch Shape\",\n      \"options\": [\"circular\", \"oval\", \"square\", \"irregular\"],\n      \"default\": \"oval\"\n    },\n    \"style\": {\n      \"type\": \"select\",\n      \"label\": \"Embroidery Style\",\n      \"options\": [\n        \"traditional\", \n        \"folkloric\", \n        \"surreal\", \n        \"biomech-organic fusion\", \n        \"modern minimal\"\n      ],\n      \"default\": \"traditional\"\n    },\n    \"color_palette\": {\n      \"type\": \"select\",\n      \"label\": \"Color Palette\",\n      \"options\": [\n        \"earth tones and muted greens\",\n        \"pastel shades\",\n        \"neon surreal\",\n        \"rusted metal and white florals\",\n        \"monochrome with silver threads\"\n      ],\n      \"default\": \"earth tones and muted greens\"\n    }\n  },\n  \"prompt_template\": \"{final_theme} hand-embroidered brooch, {style} style, crafted with intricate threadwork and metallic accents, soft wool and silk embroidery, fine beadwork outlining the {shape} shape, natural color palette ({color_palette}), macro shot on neutral linen or stone background, ultra-detailed artisan aesthetic, realistic embroidery textures, soft atmospheric lighting --ar 1:1 --style raw --v 6 --q 2\",\n  \"logic\": {\n    \"final_theme\": {\n      \"if\": \"reference_mode == 'describe manually'\",\n      \"value\": \"{theme_text}\"\n    },\n    \"final_theme_alt\": {\n      \"if\": \"reference_mode == 'use uploaded image'\",\n      \"value\": \"{image_reference_description}\"\n    },\n    \"final_theme_combined\": {\n      \"if\": \"reference_mode == 'combine both'\",\n      \"value\": \"{theme_text} and elements from: {image_reference_description}\"\n    }\n  }\n}"
+    ],
+    "examples": [],
+    "notes": [
+      "{shape}、{theme}、{style} 可自己修改"
+    ],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "felt",
+      "minimalist",
+      "nature",
+      "neon"
+    ],
+    "coverImage": "images/103.png",
+    "model": "midjourney-v6",
+    "ratio": "1112:614",
+    "likes": "",
+    "width": 1112,
+    "height": 614
+  },
+  {
+    "id": 182,
+    "slug": "prompt-335",
+    "title": "美丽的浅蓝色警服日本女子",
+    "source": {
+      "name": "@MANISH1027512",
+      "url": "https://x.com/MANISH1027512/status/1979033662294241673"
+    },
+    "images": [
+      "images/335.jpeg"
+    ],
+    "prompts": [
+      "a young beautiful Japanese woman with porcelain skin, soft makeup and bright red lips, straight chestnut-brown hair neatly tied in a ponytail with straight bangs framing her face, wearing a fitted light-blue police uniform shirt with gold buttons and badge, a dark green flat ribbon tie knotted at the collar with two short tails hanging down like a gift bow, navy skirt, dark belt with brass buckle, white gloves, black shoes, \nsitting with her knees together and hands gently folded over a glass, calm and elegant posture, \noxygen-fresh natural makeup look with translucent dewy base, barely-there eyeliner, soft straight brows, faint rosy blush on the cheeks, subtle inner-corner highlight that makes her eyes look bright and airy, lips a clean vivid red yet not glossy, \nher pose delicate and composed: seated on a narrow wooden bench in a cramped booth, ankles tucked slightly back, torso subtly leaning forward from the hips, forearms relaxed, gloved hands overlapping lightly above the small tumbler placed between her knees, chin slightly lowered while gazing directly at the camera, \nflanked by two older Japanese policemen in uniform on each side, \nthe man on the left leaning inward from the doorway, cap slightly tilted, short-sleeve standard police shirt, one elbow resting on his knee with the hand hanging loosely, attentive and calm expression; \nthe man on the right wearing a striped short-sleeve shirt with a dark tie and badge, cap set square with a gold band, arms firmly crossed over his chest, body angled toward the woman, a reserved, thoughtful look, \ninside a small dimly-lit bar filled with vintage Japanese posters, old bottles, narrow wooden walls, cluttered shelves, \ndetailed physical environment: shot from the doorway so the worn wooden jambs create a frame-within-frame; scuffed varnished beams, handwritten Japanese slips and price tags pinned among utensils, cords and trinkets hanging overhead, glassware and liquor bottles stacked tight on shallow shelves, a tiny aisle underfoot, faint reflections on lacquered wood, humid air; one or two bare incandescent bulbs casting a localized amber pool of light that fades rapidly into darkness, \ncamera perspective and ratio: intimate eye-level viewpoint at close conversational distance (about 1–1.5 m), classic 35mm focal feel, vertical portrait framing with a 3:4 aspect, slight center-weighted composition emphasizing the trio in a tight booth, \nwarm incandescent lighting with nostalgic amber tone, low saturation colors, fine 35mm film grain texture, slightly overexposed highlights, retro 1980s analog snapshot aesthetic, candid composition, shallow depth of field, cinematic color grading, in the style of Nobuyoshi Araki and Daido Moriyama street photography --ar 3:4 --v 7",
+      "一位年轻美丽的日本女子，有着瓷器般的肌肤、柔和的妆容和鲜红的嘴唇，栗色的直发扎成马尾辫，齐刘海修饰着她的脸型，身穿合身的浅蓝色警服衬衫，上面有金色的纽扣和徽章，深绿色的扁平丝带领带在领口处打结，两条短尾巴像礼物蝴蝶结一样垂下来，海军蓝裙子，深色腰带配黄铜扣，白手套，黑色鞋子，\n她双膝并拢，双手轻轻地放在玻璃杯上，姿势平静而优雅，\n氧气清新的自然妆容，透明水润的底妆，几乎看不见的眼线，柔软的直眉，脸颊上淡淡的玫瑰色腮红，微妙的内眼角高光使她的眼睛看起来明亮通风，嘴唇是干净鲜红但不油腻，\n她的姿势精致而沉稳：坐在狭小隔间的一张窄木凳上，脚踝微微向后弯曲，躯干从臀部微微向前倾斜，前臂放松，戴着手套的双手轻轻重叠放在放在膝盖之间的小玻璃杯上方，下巴微微放低，直视镜头，\n两侧各有两名身穿制服的年长日本警察，\n左边的男人从门口探身向内，帽子微微倾斜，穿着短袖制式警服，一肘撑在膝盖上，手随意垂着，表情专注而平静；\n右边的男人穿着条纹短袖衬衫，系着深色领带，戴着徽章，帽子是方形的，上面有一条金边，双臂紧紧地交叉在胸前，身体朝着女人倾斜，一副内敛、若有所思的样子，\n在一个灯光昏暗的小酒吧里，摆满了复古的日本海报、旧瓶子、狭窄的木墙、杂乱的架子，\n详细的物理环境：从门口拍摄，磨损的木质门框形成了一个画框；磨损的涂漆横梁、手写的日文单子​​和价格标签夹在餐具之间，电线和小饰品悬挂在头顶，玻璃器皿和酒瓶紧紧地堆放在浅浅的架子上，脚下是一条小过道，漆木上隐约的反光，潮湿的空气；一两个裸露的白炽灯泡投射出局部琥珀色的光晕，迅速消失在黑暗中，\n相机视角和比例：近距离对话距离（约 1-1.5 米）的亲密视线视角，经典的 35 毫米焦距感，3：4 比例的垂直人像取景，轻微的中央重点构图，强调紧凑展位中的三人组，\n温暖的白炽灯，怀旧的琥珀色调，低饱和度的色彩，细腻的 35 毫米胶片颗粒纹理，略微过度曝光的高光，复古的 1980 年代模拟快照美学，坦率的构图，浅景深，电影色彩分级，风格类似于荒木经惟和森山大道的街头摄影 -ar 3:4 --v 7"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "food",
+      "landscape",
+      "nature",
+      "photography",
+      "portrait",
+      "poster",
+      "retro"
+    ],
+    "coverImage": "images/335.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "678:900",
+    "likes": "",
+    "width": 678,
+    "height": 900
+  },
+  {
+    "id": 297,
+    "slug": "prompt-336",
+    "title": "一幅如梦似幻的私密肖像照",
+    "source": {
+      "name": "@MANISH1027512",
+      "url": "https://x.com/MANISH1027512/status/1978041705623343437"
+    },
+    "images": [
+      "images/336.jpeg"
+    ],
+    "prompts": [
+      "a dreamy intimate portrait of a beautiful realistic asian woman lying under a blanket, soft natural light, cozy warm bedroom, cinematic film grain, 35mm film aesthetic, shallow depth of field, soft focus, delicate skin texture, natural makeup, slightly messy hair, Fujifilm Pro 400H look, pastel warm tones, realistic lighting, subtle haze, gentle atmosphere, by Petra Collins and Ren Hang --ar 3:4 --v7 --style raw",
+      "一幅如梦似幻的私密肖像照：一位容貌精致、形象写实的亚裔女性躺在毛毯下，柔和的自然光线洒落，背景是温馨舒适的卧室。画面带有电影感颗粒质感，呈现 35 毫米胶片的美学风格，采用浅景深与柔焦效果，清晰展现细腻的肌肤纹理。人物妆容自然，头发略带凌乱，整体色调为柔和温暖的马卡龙色系，光线真实自然，还带有淡淡的朦胧感，营造出轻柔舒缓的氛围。（由佩特拉・科林斯与任航风格创作） --ar 3:4 --v7 --style raw"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "interior",
+      "nature",
+      "portrait"
+    ],
+    "coverImage": "images/336.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "930:1200",
+    "likes": "",
+    "width": 930,
+    "height": 1200
+  },
+  {
+    "id": 422,
+    "slug": "prompt-178",
+    "title": "生物发光",
+    "source": {
+      "name": "@LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/1938692576720085242"
+    },
+    "images": [
+      "images/178.png",
+      "images/178-2.png",
+      "images/178-3.jpeg",
+      "images/178-4.jpeg"
+    ],
+    "prompts": [
+      "[SUBJECT] depicted as a Mythical Creature Luminescence, with glowing edges that accentuate the fantastical and legendary aspects. Utilize [COLOR1] and [COLOR2] to enhance the mythical and enchanting qualities.",
+      "[对象] 被描绘成一个神话生物的发光，发光的边缘突出了奇幻和传奇的一面。利用 [COLOR1] 和 [COLOR2] 来增强神话和迷人的品质。",
+      "White Tiger depicted as a Mythical Creature Luminescence, with glowing edges that accentuate the fantastical and legendary aspects. Utilize icy blue and silver to enhance the mythical and enchanting qualities --ar 3:2 --v 7.0",
+      "White Tiger 被描绘成神话生物的发光，发光的边缘突出了奇幻和传奇的一面。利用冰蓝色和银色来增强神话和迷人的品质 --ar 3：2 --v 7.0"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "animal",
+      "fantasy"
+    ],
+    "coverImage": "images/178.png",
+    "model": "midjourney-v6",
+    "ratio": "1012:566",
+    "likes": "",
+    "width": 1012,
+    "height": 566
+  },
+  {
+    "id": 476,
+    "slug": "prompt-339",
+    "title": "百褶迷你裙美女",
+    "source": {
+      "name": "@cheerselflin",
+      "url": "https://x.com/cheerselflin/status/1979203321262149903"
+    },
+    "images": [
+      "images/339.jpeg"
+    ],
+    "prompts": [
+      "The image features a subject with long, dark hair, dressed in a short-sleeved, cropped white top and a high-waisted, pleated blue mini skirt that ends well above mid-thigh, fitting snugly to accentuate the figure. The subject is captured in a slightly turned pose, leaning forward with one hand resting on a wall covered in a dense collage of overlapping posters, flyers, and advertisements in various colors such as red, yellow, blue, and white, with text in multiple languages, suggesting an urban or vintage environment. The wall appears worn, with visible creases and minor damage, adding to the nostalgic ambiance. The subject's facial expression, partially visible from a side angle, conveys a subtle mix of curiosity and playfulness. The lighting is dim with a warm tone, casting soft shadows that enhance the mood. The composition employs a low-angle perspective, drawing attention to the subject's lower body and the skirt's height, with a sharp focus on the subject against a slightly blurred background. The overall mood is provocative yet nostalgic, blending modern attire with a retro aesthetic. Technically, the image exhibits a deliberate soft-focus effect, contributing to a hazy, dreamlike quality that softens details and edges. Additionally, noticeable grain and noise texture are present, enhancing the vintage aesthetic and adding a tactile, gritty feel to the photograph. The resolution remains moderate, typical of digital photography, with a slightly desaturated color profile featuring a vintage filter effect. The aspect ratio is vertical, approximately 4:5, supporting the focused framing of the subject.",
+      "照片中的人物留着一头乌黑的长发，身穿白色短袖上衣和高腰蓝色百褶迷你裙，裙摆长及大腿中部，贴身剪裁，凸显身材。人物略微侧身，身体前倾，一只手扶在墙上，墙上贴满了红、黄、蓝、白等各种颜色的海报、传单和广告，并配有多种语言的文字，营造出一种都市或复古的氛围。墙壁显得有些破旧，有明显的折痕和轻微的损坏，更增添了怀旧的氛围。从侧面看，人物的面部表情部分可见，流露出好奇与俏皮的微妙交织。昏暗的灯光搭配温暖的色调，投射出柔和的阴影，增强了氛围。构图采用低角度透视，将注意力吸引到人物的下半身和裙子的高度，并在略微模糊的背景上清晰地聚焦于人物。整体氛围既挑逗又怀旧，将现代服饰与复古美学融为一体。从技术角度来看，这张照片展现出一种刻意的柔焦效果，营造出朦胧梦幻的质感，柔化了细节和边缘。此外，明显的颗粒感和噪点纹理增强了复古美感，为照片增添了质感和粗糙感。分辨率保持中等水平，符合数码摄影的典型特征，略微降低的色彩饱和度，呈现出复古滤镜效果。画面纵横比约为4:5，有利于主体的聚焦构图。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "landscape",
+      "photography",
+      "portrait",
+      "poster",
+      "retro"
+    ],
+    "coverImage": "images/339.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "678:900",
+    "likes": "",
+    "width": 678,
+    "height": 900
+  },
+  {
+    "id": 161,
+    "slug": "prompt-342",
+    "title": "一位坐地铁的女性",
+    "source": {
+      "name": "@cheerselflin",
+      "url": "https://x.com/cheerselflin/status/1979203307873931360"
+    },
+    "images": [
+      "images/342.jpeg"
+    ],
+    "prompts": [
+      "a young beautiful Japanese woman with porcelain skin, soft makeup and bright red lips, straight chestnut-brown hair neatly tied in a ponytail with straight bangs framing her face, wearing a fitted light-blue police uniform shirt with gold buttons and badge, a dark green flat ribbon tie knotted at the collar with two short tails hanging down like a gift bow, navy skirt, dark belt with brass buckle, white gloves, black shoes, sitting with her knees together and hands gently folded over a glass, calm and elegant posture, oxygen-fresh natural makeup look with translucent dewy base, barely-there eyeliner, soft straight brows, faint rosy blush on the cheeks, subtle inner-corner highlight that makes her eyes look bright and airy, lips a clean vivid red yet not glossy, her pose delicate and composed: seated on a narrow wooden bench in a cramped booth, ankles tucked slightly back, torso subtly leaning forward from the hips, forearms relaxed, gloved hands overlapping lightly above the small tumbler placed between her knees, chin slightly lowered while gazing directly at the camera, flanked by two older Japanese policemen in uniform on each side, the man on the left leaning inward from the doorway, cap slightly tilted, short-sleeve standard police shirt, one elbow resting on his knee with the hand hanging loosely, attentive and calm expression; the man on the right wearing a striped short-sleeve shirt with a dark tie and badge, cap set square with a gold band, arms firmly crossed over his chest, body angled toward the woman, a reserved, thoughtful look, inside a small dimly-lit bar filled with vintage Japanese posters, old bottles, narrow wooden walls, cluttered shelves, detailed physical environment: shot from the doorway so the worn wooden jambs create a frame-within-frame; scuffed varnished beams, handwritten Japanese slips and price tags pinned among utensils, cords and trinkets hanging overhead, glassware and liquor bottles stacked tight on shallow shelves, a tiny aisle underfoot, faint reflections on lacquered wood, humid air; one or two bare incandescent bulbs casting a localized amber pool of light that fades rapidly into darkness, camera perspective and ratio: intimate eye-level viewpoint at close conversational distance (about 1-1.5 m), classic 35mm focal feel, vertical portrait framing with a 3:4 aspect, slight center-weighted composition emphasizing the trio in a tight booth, warm incandescent lighting with nostalgic amber tone, low saturation colors, fine 35mm film grain texture, slightly overexposed highlights, retro 1980s analog snapshot aesthetic, candid composition, shallow depth of field, cinematic color grading, in the style of Nobuyoshi Araki and Daido Moriyama street photography",
+      "一位年轻美丽的日本女性，有着瓷器般的肌肤、柔和的妆容和鲜红的嘴唇，栗色的直发扎成马尾辫，齐刘海修饰着她的脸型，身穿一件合身的浅蓝色警服衬衫，上面有金色的纽扣和徽章，一条深绿色的扁平丝带领带在领口处打结，两条短尾巴像礼物蝴蝶结一样垂下来，海军蓝裙子，深色腰带配黄铜扣，白手套，黑色鞋子，双膝并拢坐着，双手轻轻地交叉放在玻璃杯上，姿态平静而优雅，氧气清新的自然妆容搭配半透明的露珠底妆，几乎看不见的眼线，柔软的直眉，脸颊上淡淡的玫瑰色腮红，微妙的内眼角高光使她的眼睛看起来明亮而通透，嘴唇是干净的鲜红色，但不油腻，她的姿势精致而沉稳：坐在狭窄的卡座中的一张狭窄的木凳上，脚踝略微向后弯曲，躯干从臀部微微向前倾斜，前臂放松，戴着手套的双手轻轻地重叠在小玻璃杯放在两膝之间，下巴微微低垂，直视镜头，两侧各站着两名年纪稍长的穿制服的日本警察，左边的男子从门口探出身子，帽子微微倾斜，穿着短袖制式警服，一肘撑在膝盖上，手随意地垂着，表情专注而平静；右边的男子穿着条纹短袖衬衫，系着深色领带和警徽，帽子镶着金边，双臂紧紧地交叉在胸前，身体朝着女人倾斜，一副矜持、若有所思的样子，身处一间灯光昏暗的小酒吧里，里面摆满了老式的日本海报、旧酒瓶、狭窄的木墙、杂乱的架子，细致的物理环境：从门口拍摄，磨损的木门框形成了框中框；磨损的漆面横梁，手写的日文单据和价格标签夹在餐具之间，电线和小饰品悬挂在头顶，玻璃器皿和酒瓶紧紧地堆放在浅浅的架子上，脚下是一条小过道，漆木上反射着微弱的光线，空气潮湿；一两个裸露的白炽灯泡投射出局部琥珀色的光晕，迅速消失在黑暗中，相机视角和比例：近距离交谈（约 1-1.5 米）的亲密视线视角，经典的 35 毫米焦距感，3：4 宽高的垂直人像取景，轻微的中央重点构图强调了紧凑展位中的三人组，温暖的白炽灯光带有怀旧的琥珀色调，低饱和度色彩，细腻的 35 毫米胶片颗粒纹理，略微过度曝光的高光，复古的 1980 年代模拟快照美学，坦率的构图，浅景深，电影调色，荒木经惟和森山大道的街头摄影风格"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "food",
+      "landscape",
+      "nature",
+      "photography",
+      "portrait",
+      "poster",
+      "retro"
+    ],
+    "coverImage": "images/342.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "928:1232",
+    "likes": "",
+    "width": 928,
+    "height": 1232
+  },
+  {
+    "id": 269,
+    "slug": "prompt-341",
+    "title": "东京地铁楼梯间美女照",
+    "source": {
+      "name": "@cheerselflin",
+      "url": "https://x.com/cheerselflin/status/1979203277553307820"
+    },
+    "images": [
+      "images/341.jpeg"
+    ],
+    "prompts": [
+      "A blurry, high-grain snapshot taken in a Tokyo subway stairwell, charged with motion, humidity, and raw urban energy. The air feels thick and fluorescent, lit by overhead tube lights that cast a cold green-blue tint across the frame. The film grain, chromatic aberration, and lens distortion add a tactile sense of chaos — a fleeting instant suspended mid-run.\n\nAt the center, a young woman in a tied white shirt and short plaid skirt is caught mid-step, descending the stairs. Her movement blurs, skirt flaring slightly, hair swept by motion. The focus drifts between her and the background, giving the shot a dreamlike disorientation, as if seen through memory or adrenaline.\n\nHer expression holds the entire frame together — eyes open, lips slightly parted, cheeks flushed, as if between alertness and vulnerability. There’s no posed awareness, only instinct — a moment stolen from time.\n\nAround her, commuters blur into silhouettes, the hallway tight and echoing, the walls reflecting harsh fluorescent glare. The composition feels accidental yet perfect: tilted, urgent, intimate.\n\nThe atmosphere is electric and nostalgic, a mix of youth, motion, and fleeting emotion, like a fragment from a fever dream or an afterimage burned into film — not cinematic, but hyper-real, the kind of moment only disposable-camera photography captures: alive, imperfect, and painfully real.",
+      "这是一张模糊的高颗粒快照，拍摄于东京地铁楼梯间，充满了运动、潮湿和原始的城市能量。空气感觉浓重而荧光，头顶的筒灯在画面上投射出冰冷的蓝绿色调。胶片颗粒、色差和镜头畸变增添了一种触觉上的混乱感——仿佛瞬间静止在运行中。\n照片中央，一位身着系带白衬衫和格子短裙的年轻女子正迈着轻快的步伐走下楼梯。她的动作模糊不清，裙摆微微扬起，头发随风飘动。焦点在她和背景之间游移，让这张照片呈现出一种如梦似幻的迷离感，仿佛透过记忆或肾上腺素的刺激而呈现。\n她的表情与整个画面融为一体——双眼睁开，嘴唇微张，脸颊泛红，仿佛介于警觉与脆弱之间。没有故作姿态的警觉，只有本能——一个从时间中偷来的瞬间。\n在她周围，通勤者的身影模糊不清，走廊狭窄而回声不断，墙壁反射着刺眼的荧光灯。这构图看似偶然，却又完美：倾斜、急促、亲密。\n氛围充满活力和怀旧，混合着青春、运动和转瞬即逝的情感，就像发烧梦境中的片段或刻在胶片上的残像——不是电影般的，而是超现实的，只有一次性相机摄影才能捕捉到的那种瞬间：鲜活、不完美、痛苦的真实。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "photography"
+    ],
+    "coverImage": "images/341.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "928:1232",
+    "likes": "",
+    "width": 928,
+    "height": 1232
+  },
+  {
+    "id": 252,
+    "slug": "prompt-400",
+    "title": "一张抓拍的年轻女子山间徒步照片",
+    "source": {
+      "name": "@MANISH1027512",
+      "url": "https://x.com/MANISH1027512/status/1984610333831414061"
+    },
+    "images": [
+      "images/400.jpeg"
+    ],
+    "prompts": [
+      "A natural grab shot of an alluring day-style woman hiking in the mountains, ponytail with bangs, flushed cheeks from exertion, in a sports bra top and leggings, pausing to look at the view, misty background with slight fog, captured mid-step for dynamic feel.",
+      "一张自然抓拍的照片，展现了一位迷人的日间风格女性在山间徒步。她梳着带刘海的马尾辫，因运动而双颊泛红，穿着运动内衣和紧身裤，正停下来欣赏风景。背景薄雾朦胧，照片捕捉到她迈步的瞬间，营造出动态感。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "nature"
+    ],
+    "coverImage": "images/400.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "896:1344",
+    "likes": "",
+    "width": 896,
+    "height": 1344
+  },
+  {
+    "id": 136,
+    "slug": "prompt-272",
+    "title": "铅笔素描画",
+    "source": {
+      "name": "@CharaspowerAI",
+      "url": "https://x.com/CharaspowerAI/status/1895481600592269400"
+    },
+    "images": [
+      "images/272.png",
+      "images/272-2.jpeg"
+    ],
+    "prompts": [
+      "A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose",
+      "一幅[你的角色]的铅笔素描画，在白纸上用细致的线条和阴影描绘，捕捉其肌肉发达的身体中蕴含的活力与力量，角色周围带有[元素效果]，呈现出充满动感的姿势，纸上有纹身图案，采用漫画艺术风格，背景偏暗，对比度高，阴影强烈，有光影效果，为黑色墨水画，姿势富有动感。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "300.md",
+    "description": "",
+    "tags": [
+      "character",
+      "paper-craft"
+    ],
+    "coverImage": "images/272.png",
+    "model": "midjourney-v6",
+    "ratio": "680:381",
+    "likes": "",
+    "width": 680,
+    "height": 381
+  },
+  {
+    "id": 482,
+    "slug": "prompt-248",
+    "title": "一张铅笔素描",
+    "source": {
+      "name": "@CharaspowerAI",
+      "url": "https://x.com/CharaspowerAI/status/1895481600592269400"
+    },
+    "images": [
+      "images/248.png",
+      "images/248-2.jpeg"
+    ],
+    "prompts": [
+      "A pencil drawing of [Your character], with detailed lines and shading on white paper, capturing the energy and strength in his muscular body [with element effects] around  the character, in a dynamic pose,   tattoo design on paper, manga art style, dark background, high contrast, strong shadows, light and shadow effects, black ink drawing,  dynamic pose",
+      "一张铅笔素描，描绘了 [你的角色]，在白纸上用细致的线条和阴影，捕捉了他肌肉身体中的能量和力量 [带有元素效果] 围绕着角色，动态姿势，纸上的纹身设计，漫画艺术风格，深色背景，高对比度，强烈的阴影，光影效果，黑色墨水绘画，动态姿势"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "300.md",
+    "description": "",
+    "tags": [
+      "character",
+      "paper-craft"
+    ],
+    "coverImage": "images/248.png",
+    "model": "midjourney-v6",
+    "ratio": "680:381",
+    "likes": "",
+    "width": 680,
+    "height": 381
+  },
+  {
+    "id": 345,
+    "slug": "prompt-144",
+    "title": "梦幻般的蒸汽波失真",
+    "source": {
+      "name": "@LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/1937027922679775432"
+    },
+    "images": [
+      "images/144.png",
+      "images/144-2.png"
+    ],
+    "prompts": [
+      "[SUBJECT] rendered in Dreamlike Vaporwave Distortion, with soft pastels and surreal effects. Employ a nostalgic color palette of [COLOR1] and [COLOR2] to evoke a sense of longing and ethereal beauty",
+      "[主题] 以梦幻般的蒸汽波失真渲染，带有柔和的粉彩和超现实效果。采用 [COLOR1] 和 [COLOR2] 的怀旧调色板，唤起渴望和空灵之美"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "creative"
+    ],
+    "coverImage": "images/144.png",
+    "model": "midjourney-v6",
+    "ratio": "1016:562",
+    "likes": "",
+    "width": 1016,
+    "height": 562
+  },
+  {
+    "id": 430,
+    "slug": "prompt-361",
+    "title": "毛绒世界",
+    "source": {
+      "name": "@azed_ai",
+      "url": "https://x.com/azed_ai/status/1980664924918727038"
+    },
+    "images": [
+      "images/361.jpeg",
+      "images/361-2.jpeg"
+    ],
+    "prompts": [
+      "A soft and plush 3D model of a [subject] with a [key detail], rendered in a cute, stylized aesthetic. The texture appears velvety, squeezable, and toy-like, emphasizing the charm of animated [object type] designs. Clean background, centered composition, soft ambient lighting, pastel tones, subtle shadows, high-resolution render, front-facing view.",
+      "一个柔软毛绒绒的3D模型，带有一个[关键细节]，以可爱、风格化的美感呈现。纹理柔软，可挤压，像玩具一样，凸显了动画[物体类型]设计的魅力。干净的背景，居中的构图，柔和的环境光，柔和的色调，微妙的阴影，高分辨率渲染，正面视图。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "toy"
+    ],
+    "coverImage": "images/361.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "680:453",
+    "likes": "",
+    "width": 680,
+    "height": 453
+  },
+  {
+    "id": 427,
+    "slug": "prompt-145",
+    "title": "用自己的审美下棋",
+    "source": {
+      "name": "@TheRelianceAI",
+      "url": "https://x.com/TheRelianceAI/status/1937064180017971501"
+    },
+    "images": [
+      "images/145.png",
+      "images/145-2.jpeg"
+    ],
+    "prompts": [
+      "A highly realistic vertical photograph of a traditional chessboard viewed from above, set against a textured surface inspired by [COUNTRY]’s artistic heritage. The chessboard features intricate patterns and national motifs, with the word “[COUNTRY]” written across the board in elegant golden calligraphy. All the chess pieces are off the board, arranged around it on the fabric — some lying on their side, others upright — as if waiting to be placed. Each piece is uniquely reimagined in shape, ornament, and texture, reflecting the architecture, cultural symbols, and color palette of [COUNTRY]. Rich materials, soft directional light, cinematic shadows, ultra-detailed editorial still life style, symmetrical top-down framing, 9:16 format.",
+      "一张高度逼真的传统棋盘垂直照片，从上方看，背景是受 [COUNTRY] 艺术遗产启发的纹理表面。棋盘上有复杂的图案和国家图案，棋盘上用优雅的金色书法写着“[COUNTRY]”字样。所有的棋子都离开了棋盘，围绕着棋盘排列在织物上——有些侧躺着，有些直立着——仿佛等待着被放置。每件作品在形状、装饰和质地上都经过独特的重新构想，反映了 [COUNTRY] 的建筑、文化符号和调色板。丰富的素材、柔和的定向光、电影般的阴影、超详细的编辑静物风格、对称的自上而下的取景、9：16 格式。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "architecture",
+      "photography"
+    ],
+    "coverImage": "images/145.png",
+    "model": "midjourney-v6",
+    "ratio": "683:1024",
+    "likes": "",
+    "width": 683,
+    "height": 1024
+  },
+  {
+    "id": 401,
+    "slug": "prompt-267",
+    "title": "一个复古茶包",
+    "source": {
+      "name": "@TheRelianceAI",
+      "url": "https://x.com/TheRelianceAI/status/1955240654440894730"
+    },
+    "images": [
+      "images/267.png",
+      "images/267-2.jpeg"
+    ],
+    "prompts": [
+      "A single vintage tea bag lying on a clean white background, hand-painted with an intricate illustration resembling a book cover. The tea bag has delicate aged paper texture, soft warm lighting, and realistic details. On the painted design, leave a clear blank space labeled [BOOK] for the book title. Cinematic, high-resolution, vertical format 9:16.",
+      "一个复古茶包孤零零地放在干净的白色背景上，上面手绘着类似书籍封面的复杂图案。这个茶包有着细腻的陈旧纸张质感，搭配柔和温暖的光线，细节逼真。在手绘图案上，留出一块清晰的空白区域，并标注为【BOOK】，用于填写书名。整体呈现电影般的质感，高分辨率，采用9:16的竖版格式。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "300.md",
+    "description": "",
+    "tags": [
+      "illustration",
+      "paper-craft",
+      "retro"
+    ],
+    "coverImage": "images/267.png",
+    "model": "midjourney-v6",
+    "ratio": "600:900",
+    "likes": "",
+    "width": 600,
+    "height": 900
+  },
+  {
+    "id": 359,
+    "slug": "prompt-39",
+    "title": "网络矩阵梦境",
+    "source": {
+      "name": "@LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/1924382022002250151"
+    },
+    "images": [
+      "images/39.png",
+      "images/39-2.jpeg"
+    ],
+    "prompts": [
+      "[SUBJECT] reinterpreted through Cyber Matrix Dreamscapes, where cascading streams of digital code form the immersive backdrop. Imbue the scene with radical neon [COLOR1] and luminous [COLOR2] accents to evoke a futuristic reality where art converges with algorithm"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "100.md",
+    "description": "",
+    "tags": [
+      "futuristic",
+      "neon",
+      "sci-fi"
+    ],
+    "coverImage": "images/39.png",
+    "model": "midjourney-v6",
+    "ratio": "960:1568",
+    "likes": "",
+    "width": 960,
+    "height": 1568
+  },
+  {
+    "id": 464,
+    "slug": "prompt-47",
+    "title": "无声电影场景",
+    "source": {
+      "name": "@LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/1925469185288572953"
+    },
+    "images": [
+      "images/47.png"
+    ],
+    "prompts": [
+      "[SUBJECT] depicted in a Sepia-Toned Silent Film Scene, evoking the drama and expression of early cinema. Use muted [COLOR1] and [COLOR2] sepia tones to enhance the nostalgic atmosphere"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "100.md",
+    "description": "",
+    "tags": [
+      "landscape"
+    ],
+    "coverImage": "images/47.png",
+    "model": "midjourney-v6",
+    "ratio": "1102:612",
+    "likes": "",
+    "width": 1102,
+    "height": 612
+  },
+  {
+    "id": 516,
+    "slug": "prompt-123",
+    "title": "植物雕塑",
+    "source": {
+      "name": "@azed_ai",
+      "url": "https://x.com/azed_ai/status/1934566157736083614"
+    },
+    "images": [
+      "images/123.png",
+      "images/123-2.jpeg"
+    ],
+    "prompts": [
+      "The [subject] appears as if organically grown from intertwining plants, flowers, and vines. Leaf-like textures and blooming forms fuse seamlessly with anatomical or structural details, creating a surreal hybrid of nature and design. The composition feels ethereal, with natural asymmetry and dreamlike flow.",
+      "[主题] 看起来就像是从交织在一起的植物、花朵和藤蔓中有机生长出来的。叶子般的纹理和盛开的形式与解剖学或结构细节无缝融合，创造出自然与设计的超现实混合体。构图感觉空灵，具有自然的不对称和梦幻般的流动。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "nature",
+      "sculpture"
+    ],
+    "coverImage": "images/123.png",
+    "model": "midjourney-v6",
+    "ratio": "680:453",
+    "likes": "",
+    "width": 680,
+    "height": 453
+  },
+  {
+    "id": 416,
+    "slug": "prompt-64",
+    "title": "洞壁画",
+    "source": {
+      "name": "@azed_ai",
+      "url": "https://x.com/azed_ai/status/1925854528831643689"
+    },
+    "images": [
+      "images/64.png"
+    ],
+    "prompts": [
+      "A cave painting of a [subject], rendered with primitive ochres and charcoal lines on a rough stone wall. Smudged handprints, crude geometry, and flickering torchlight add a primal, ancient mood."
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "100.md",
+    "description": "",
+    "tags": [
+      "creative"
+    ],
+    "coverImage": "images/64.png",
+    "model": "midjourney-v6",
+    "ratio": "1098:612",
+    "likes": "",
+    "width": 1098,
+    "height": 612
+  },
+  {
+    "id": 374,
+    "slug": "prompt-186",
+    "title": "装饰艺术大都会",
+    "source": {
+      "name": "@LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/1939054964405305830"
+    },
+    "images": [
+      "images/186.png",
+      "images/186-2.png"
+    ],
+    "prompts": [
+      "[SUBJECT] set within an Art Deco Metropolis, showcasing the grandeur and geometric elegance of 1920s architecture. Use streamlined forms and ornamental details, highlighting a sophisticated color palette of [COLOR1] and [COLOR2] to reflect the prosperity of the era.",
+      "[主题] 位于装饰艺术大都市内，展示了 1920 年代建筑的宏伟和几何优雅。使用流线型的形式和装饰性细节，突出 [COLOR1] 和 [COLOR2] 的复杂调色板，以反映那个时代的繁荣。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "architecture"
+    ],
+    "coverImage": "images/186.png",
+    "model": "midjourney-v6",
+    "ratio": "1018:566",
+    "likes": "",
+    "width": 1018,
+    "height": 566
+  },
+  {
+    "id": 381,
+    "slug": "prompt-36",
+    "title": "马赛克壁画",
+    "source": {
+      "name": "@azed_ai",
+      "url": "https://x.com/azed_ai/status/1924405701985853714"
+    },
+    "images": [
+      "images/36.png"
+    ],
+    "prompts": [
+      "A mosaic mural of a [subject], crafted from chipped ceramic and glass shards in sun-faded [color1] and weathered [color2]. Set into a cracked plaster wall, the irregular shapes and grout lines add a rustic, timeworn charm."
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "100.md",
+    "description": "",
+    "tags": [
+      "creative"
+    ],
+    "coverImage": "images/36.png",
+    "model": "midjourney-v6",
+    "ratio": "1114:620",
+    "likes": "",
+    "width": 1114,
+    "height": 620
+  },
+  {
+    "id": 321,
+    "slug": "prompt-115",
+    "title": "冰爽优雅的产品海报",
+    "source": {
+      "name": "@TheRelianceAI",
+      "url": "https://x.com/TheRelianceAI/status/1931371954524545120"
+    },
+    "images": [
+      "images/115.png",
+      "images/115-2.jpeg"
+    ],
+    "prompts": [
+      "Imagine a visual concept where [insert your product] — featuring Korean text on the label — is suspended inside a cracked, ultra-clear block of ice. The product is fully visible through the ice, with soft frost forming around it. It rests on smooth white silk, and the ambient lighting is cold and elegant, with reflections dancing across the surface. Describe the entire scene in rich visual detail, in the style of a luxurious Korean skincare advertisement."
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "poster",
+      "product",
+      "vehicle"
+    ],
+    "coverImage": "images/115.png",
+    "model": "midjourney-v6",
+    "ratio": "800:1200",
+    "likes": "",
+    "width": 800,
+    "height": 1200
+  },
+  {
+    "id": 257,
+    "slug": "prompt-162",
+    "title": "超现实主义蒸汽波",
+    "source": {
+      "name": "@LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/1936703218827817358"
+    },
+    "images": [
+      "images/162.png",
+      "images/162-2.jpeg"
+    ],
+    "prompts": [
+      "[SUBJECT] in a Surrealist Vaporwave collage. Combine elements of classical sculpture, 80s retrofuturism, and Japanese cityscapes. Use pastel shades of [COLOR1] and [COLOR2] with hints of neon",
+      "[主题] 在超现实主义蒸汽波拼贴画中。结合古典雕塑、80 年代复古未来主义和日本城市景观的元素。使用 [COLOR1] 和 [COLOR2] 的柔和色调，并带有淡淡的霓虹灯"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "futuristic",
+      "landscape",
+      "neon",
+      "retro",
+      "sculpture"
+    ],
+    "coverImage": "images/162.png",
+    "model": "midjourney-v6",
+    "ratio": "1024:1024",
+    "likes": "",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "id": 502,
+    "slug": "prompt-44",
+    "title": "附魔粒子泛光",
+    "source": {
+      "name": "@LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/1925069047948849443"
+    },
+    "images": [
+      "images/44.png"
+    ],
+    "prompts": [
+      "[SUBJECT] surrounded by an Enchanted Particle Bloom, with particles resembling magical flower petals or leaves. Employ soft, enchanting hues of [COLOR1] and [COLOR2] to create a sense of natural magic."
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "100.md",
+    "description": "",
+    "tags": [
+      "creative"
+    ],
+    "coverImage": "images/44.png",
+    "model": "midjourney-v6",
+    "ratio": "1106:612",
+    "likes": "",
+    "width": 1106,
+    "height": 612
+  },
+  {
+    "id": 276,
+    "slug": "prompt-287",
+    "title": "3D纸艺作品",
+    "source": {
+      "name": "@azed_ai",
+      "url": "https://x.com/azed_ai/status/1951237016215232931"
+    },
+    "images": [
+      "images/287.png",
+      "images/287-2.jpeg"
+    ],
+    "prompts": [
+      "A 3D papercraft representation of [Subject], composed of layered paper cutouts, resting on a simple cardboard base. Highlights of [color 1] and [color 2] paper textures create depth and dimension. Set against a softly lit crafts room, realistic lighting, intricate paper edges, shallow depth of field",
+      "一幅3D纸艺作品，以 [主题] 为原型，由多层剪纸组成，放置在简单的纸板底座上。[颜色 1] 和 [颜色 2] 纸张纹理的亮点营造出深度和立体感。作品背景为灯光柔和的手工房，光线逼真，纸张边缘精致，景深浅。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "300.md",
+    "description": "",
+    "tags": [
+      "3d",
+      "interior",
+      "paper-craft",
+      "vehicle"
+    ],
+    "coverImage": "images/287.png",
+    "model": "midjourney-v6",
+    "ratio": "680:453",
+    "likes": "",
+    "width": 680,
+    "height": 453
+  },
+  {
+    "id": 306,
+    "slug": "prompt-188",
+    "title": "微型毛毡羊毛人物",
+    "source": {
+      "name": "@azed_ai",
+      "url": "https://x.com/azed_ai/status/1939277984441250111"
+    },
+    "images": [
+      "images/188.png",
+      "images/188-2.png"
+    ],
+    "prompts": [
+      "A felted wool figure of a [subject], handcrafted with soft fibers, uneven stitching, and visible textures. Set within a miniature diorama of layered fabrics and pastel props, the scene radiates cozy, storybook charm like a still from a tactile, stop-motion fairytale made entirely of felt and thread.",
+      "一个 [主题] 的毛毡羊毛人物，用柔软的纤维手工制作，缝线不均匀，纹理可见。该场景设置在分层织物和柔和道具的微型立体模型中，散发着舒适的故事书魅力，就像完全由毛毡和线制成的触觉定格动画童话中的剧照。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "200.md",
+    "description": "",
+    "tags": [
+      "3d",
+      "felt",
+      "landscape",
+      "portrait"
+    ],
+    "coverImage": "images/188.png",
+    "model": "midjourney-v6",
+    "ratio": "1018:570",
+    "likes": "",
+    "width": 1018,
+    "height": 570
+  },
+  {
+    "id": 242,
+    "slug": "prompt-340",
+    "title": "居酒屋里用闪光灯拍摄的美女照片",
+    "source": {
+      "name": "@cheerselflin",
+      "url": "https://x.com/cheerselflin/status/1979203220061982872"
+    },
+    "images": [
+      "images/340.jpeg"
+    ],
+    "prompts": [
+      "A flash snapshot taken in a small, crowded Japanese izakaya, filled with handwritten menus, old posters, and wooden textures. The lighting is from a direct on-camera flash, producing bright highlights, harsh shadows, and a slightly grainy texture that enhances the candid feeling.\n\nThe main subject is a young woman sitting on a wooden bar stool, turning her body slightly and looking back over her shoulder toward the camera. She wears a white button-up shirt and a short high-waisted checkered skirt, revealing her legs and adding to the youthful, casual tone of the scene.\n\nHer face is softly lit by the flash — cheeks vividly blushed, red lips glossy, and eyes meeting the lens with a subtle, playful yet intimate expression. The smile is gentle but suggestive, carrying a slight sense of awareness and warmth. Her posture and gaze create a delicate tension between confidence and softness.\n\nThe background is dim and crowded with older patrons in dark clothes, contrasting with her bright presence. The composition is tight and spontaneous, typical of 90s Japanese disposable camera photography — high flash contrast, slight blur, and natural imperfection.\n\nThe overall mood is nostalgic, warm, and faintly ambiguous — capturing a moment that feels real, close, and emotionally charged, like a personal memory illuminated by flash rather than a staged portrait.",
+      "这是一张在狭小拥挤的日式居酒屋里用闪光灯拍摄的照片，屋里摆满了手写菜单、老海报和木质纹理。光线来自机顶闪光灯的直射，营造出明亮的高光、刺眼的阴影和略带颗粒感的纹理，增强了照片的自然感。\n画面主体是一位年轻女子坐在酒吧木凳上，微微侧身，目光越过肩膀，望向镜头。她身穿白色纽扣衬衫和高腰格纹短裙，露出双腿，为画面增添了一抹青春随意的气息。\n闪光灯柔和地照亮了她的脸庞——双颊绯红，红唇闪耀光泽，目光与镜头交汇，眼神微妙、俏皮却又充满亲密感。她的笑容温柔却又充满暗示，透着一丝警觉与温暖。她的姿态和目光在自信与柔和之间营造出一种微妙的张力。\n背景昏暗，挤满了身着深色衣服的老年顾客，与她明亮的身影形成鲜明对比。构图紧凑自然，是90年代日本一次性相机摄影的典型特征——高闪光对比度、轻微的模糊和自然的瑕疵。\n整体氛围怀旧、温暖，略带一丝暧昧——捕捉真实、亲近、充满情感的瞬间，就像闪光灯照亮的个人记忆，而不是摆拍的肖像。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "nature",
+      "photography",
+      "portrait",
+      "poster",
+      "vehicle"
+    ],
+    "coverImage": "images/340.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "928:1232",
+    "likes": "",
+    "width": 928,
+    "height": 1232
+  },
+  {
+    "id": 174,
+    "slug": "prompt-397",
+    "title": "一张抓拍的年轻女子照片",
+    "source": {
+      "name": "@MANISH1027512",
+      "url": "https://x.com/MANISH1027512/status/1984456357752250749"
+    },
+    "images": [
+      "images/397.jpeg"
+    ],
+    "prompts": [
+      "A candid snapshot of a young woman with straight black hair, blunt bangs, large expressive eyes, and fair skin, standing casually in a bustling Tokyo street, wearing a low-cut crop top and high-waisted shorts, slight motion blur on the edges, natural daylight filtering through buildings, captured as if from a hidden angle with a smartphone camera.",
+      "一张抓拍的年轻女子照片，她有着乌黑的直发、齐刘海、明亮的大眼睛和白皙的皮肤，随意地站在熙熙攘攘的东京街头，身穿低胸露脐上衣和高腰短裤，边缘略带动态模糊，自然光透过建筑物洒下，仿佛是用智能手机从隐蔽角度拍摄的。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "architecture",
+      "nature"
+    ],
+    "coverImage": "images/397.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "896:1344",
+    "likes": "",
+    "width": 896,
+    "height": 1344
+  },
+  {
+    "id": 201,
+    "slug": "prompt-82",
+    "title": "霓虹花卉和谐插图",
+    "source": {
+      "name": "@LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/1926246931661042132"
+    },
+    "images": [
+      "images/82.png"
+    ],
+    "prompts": [
+      "A Neon Floral Harmony illustration of [SUBJECT], with flowers and plants outlined in glowing neon hues. Use vibrant [COLOR1] and [COLOR2] to create a serene yet electrifying botanical scene"
+    ],
+    "examples": [
+      "A Neon Floral Harmony illustration of a graceful hummingbird, with flowers and plants outlined in glowing neon hues. Use vibrant turquoise and magenta to create a serene yet electrifying botanical scene"
+    ],
+    "notes": [],
+    "originFile": "100.md",
+    "description": "",
+    "tags": [
+      "illustration",
+      "nature",
+      "neon"
+    ],
+    "coverImage": "images/82.png",
+    "model": "midjourney-v6",
+    "ratio": "1106:618",
+    "likes": "",
+    "width": 1106,
+    "height": 618
+  },
+  {
+    "id": 194,
+    "slug": "prompt-306",
+    "title": "分层剪纸插图",
+    "source": {
+      "name": "@azed_ai",
+      "url": "https://x.com/azed_ai/status/1968631874663891175"
+    },
+    "images": [
+      "images/306.jpeg",
+      "images/306-2.jpeg"
+    ],
+    "prompts": [
+      "Layered paper-cut illustration of [subject], built with overlapping shapes in soft [color1] and [color2], handcrafted textures, subtle shadows between layers, clean vector edges, centered on a matte cream background, whimsical and modern visual storytelling.",
+      "[主题] 的分层剪纸插图，由柔和的 [颜色 1] 和 [颜色 2] 的重叠形状、手工制作的纹理、层间微妙的阴影、干净的矢量边缘构成，以哑光奶油色背景为中心，呈现出异想天开且现代的视觉叙事。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "400.md",
+    "description": "",
+    "tags": [
+      "illustration",
+      "paper-craft"
+    ],
+    "coverImage": "images/306.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "680:453",
+    "likes": "",
+    "width": 680,
+    "height": 453
+  },
+  {
+    "id": 73,
+    "slug": "prompt-508",
+    "title": "女子海边电影风格肖像照",
+    "source": {
+      "name": "@MANISH1027512",
+      "url": "https://x.com/MANISH1027512/status/1992795956597628978"
+    },
+    "images": [
+      "images/508.jpeg"
+    ],
+    "prompts": [
+      "A young woman standing on the beach at dusk, captured in a soft emotional film-style portrait. \nHer dark hair is messy from the sea breeze, strands blowing across her face. \nShe has natural, slightly flushed skin with a subtle grainy texture. \nWearing a white spaghetti-strap top and denim bottoms. \nThe background shows dark ocean waves and a moody sky with soft sunset colors—dusty pink, blue-gray, and muted lavender. \nThe overall image features a low-saturation, cool-toned cinematic film filter with soft contrast, slight grain, and a hazy atmosphere. \nClose-up portrait, melancholic mood, natural lighting, realistic details, 8K.",
+      "黄昏时分，一位年轻女子站在海滩上，被拍摄成一张柔和而富有情感的电影风格肖像照。\n海风吹乱了她乌黑的头发，几缕发丝飘落在她的脸上。\n她的皮肤自然红润，质地略带颗粒感。\n身穿白色吊带背心和牛仔裤。\n背景是深色的海浪和阴郁的天空，夕阳的颜色柔和而朦胧——灰粉色、蓝灰色和淡紫色。\n整体画面采用低饱和度、冷色调的电影胶片滤镜，对比度柔和，颗粒感轻微，氛围朦胧。\n特写人像，忧郁氛围，自然光线，逼真细节，8K分辨率。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "README.md",
+    "description": "",
+    "tags": [
+      "nature",
+      "portrait"
+    ],
+    "coverImage": "images/508.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "896:1344",
+    "likes": "",
+    "width": 896,
+    "height": 1344
+  },
+  {
+    "id": 146,
+    "slug": "prompt-216",
+    "title": "穿越梦境迷宫",
+    "source": {
+      "name": "@B_4AI",
+      "url": "https://x.com/B_4AI/status/1942850557548388499"
+    },
+    "images": [
+      "images/216.png",
+      "images/216-2.jpeg"
+    ],
+    "prompts": [
+      "[Character] sprinting past dream elements, Storybook illustration, Maze of floating doors, clocks, and whispers, Lantern glow and ambient sparkle trails, [Color1] and [Color2], Whimsical and fast-paced, Follow-cam style with trailing POV",
+      "[角色] 冲过梦境元素，故事书插画风格，漂浮的门、时钟和低语组成的迷宫，灯笼光芒和周围闪烁的轨迹，[颜色 1]和[颜色 2]，奇幻且节奏快速，跟随镜头风格，带有轨迹的 POV 视角"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "300.md",
+    "description": "",
+    "tags": [
+      "character",
+      "fantasy",
+      "illustration"
+    ],
+    "coverImage": "images/216.png",
+    "model": "midjourney-v6",
+    "ratio": "1344:896",
+    "likes": "",
+    "width": 1344,
+    "height": 896
+  },
+  {
+    "id": 15,
+    "slug": "prompt-38",
+    "title": "捷克木偶风格",
+    "source": {
+      "name": "@AllaAisling",
+      "url": "https://x.com/AllaAisling/status/1924231647894896732"
+    },
+    "images": [
+      "images/38.png",
+      "images/38-2.jpeg"
+    ],
+    "prompts": [
+      "Hand-Carved Wooden Puppet (Czech Marionette Style)\n\nA hand-carved wooden marionette interpretation of [SUBJECT], with jointed limbs, painted details, and a slightly eerie antique finish. Showcase theatrical posture, stage lighting, and cultural craftsmanship in the styling."
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "100.md",
+    "description": "",
+    "tags": [
+      "vehicle"
+    ],
+    "coverImage": "images/38.png",
+    "model": "midjourney-v6",
+    "ratio": "895:792",
+    "likes": "",
+    "width": 895,
+    "height": 792
+  },
+  {
+    "id": 8,
+    "slug": "prompt-52",
+    "title": "清洁琴键的小人物",
+    "source": {
+      "name": "@BeanieBlossom",
+      "url": "https://x.com/BeanieBlossom/status/1925522114972713147"
+    },
+    "images": [
+      "images/52.jpeg"
+    ],
+    "prompts": [
+      "tilt-shift photo of a grand piano keyboard, side view from the left looking along the keys to the right, shallow depth of field, tiny human figures cleaning the piano keys with brushes, cloths, and buckets, whimsical and surreal scene, soft lighting, hyper-detailed, high realism"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "100.md",
+    "description": "",
+    "tags": [
+      "photography",
+      "portrait"
+    ],
+    "coverImage": "images/52.jpeg",
+    "model": "midjourney-v6",
+    "ratio": "1200:800",
+    "likes": "",
+    "width": 1200,
+    "height": 800
+  }
+]
