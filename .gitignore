@@ -16,8 +16,7 @@ dist
 dist-ssr
 coverage
 scripts
-public/images/chatgpt-images
-public/images/seedream-images
+
 # System Files
 .DS_Store
 Thumbs.db
