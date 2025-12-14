@@ -168,7 +168,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
           <div className="flex-1 overflow-y-auto p-4 sm:p-6 space-y-4 sm:space-y-6">
 
             {/* Action Bar */}
-            <div className="flex flex-row gap-2 sm:gap-3">
+            <div className="flex flex-row gap-2 sm:gap-3" id="action-bar">
               <button
                 onClick={onToggleLike}
                 className={`cursor-pointer flex-1 flex items-center justify-center gap-1.5 sm:gap-2 py-2 sm:py-3 rounded-lg sm:rounded-xl transition-colors font-medium active:scale-95 transform duration-100 ${isLiked
@@ -219,15 +219,16 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
                   <Copy size={14} className="sm:w-4 sm:h-4" />
                 </button>
               </div>
-              <div className="mt-2 sm:mt-3">
+              <div className="mt-2 sm:mt-3 flex flex-row gap-2 sm:gap-3" id="make-copy">
                 <button
-                  onClick={handleMakeSimilar}
-                  title={t.aiSimilarBtn}
+                  onClick={() => handleCopy(getCurrentText())}
+                  title={t.copyTooltip}
                   className="cursor-pointer w-full py-2.5 sm:py-3 rounded-lg sm:rounded-xl border border-violet-200 dark:border-violet-900/50 bg-violet-50 dark:bg-violet-900/20 text-violet-700 dark:text-violet-300 hover:bg-violet-100 dark:hover:bg-violet-900/30 flex items-center justify-center gap-2 transition-all font-medium group"
                 >
-                  <Sparkles size={16} className="group-hover:scale-110 transition-transform sm:w-5 sm:h-5" />
-                  <span className="text-sm sm:text-base">{t.aiSimilarBtn}</span>
+                  <Copy size={16} className="group-hover:scale-110 transition-transform sm:w-5 sm:h-5" />
+                  <span className="text-sm sm:text-base">{t.copyTooltip}</span>
                 </button>
+                
               </div>
             </div>
 
