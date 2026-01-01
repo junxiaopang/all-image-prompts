@@ -1,7 +1,7 @@
 [
   {
-    "id": 1,
-    "slug": "prompt-1",
+    "id": "1551",
+    "slug": "prompt-1551",
     "title": "色轮徽标",
     "source": {
       "name": "OpenAI",
@@ -27,11 +27,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 2,
-    "slug": "prompt-2",
+    "id": "1552",
+    "slug": "prompt-1552",
     "title": "浮雕商务名片字母组合",
     "source": {
       "name": "OpenAI",
@@ -57,11 +60,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 3,
-    "slug": "prompt-3",
+    "id": "1553",
+    "slug": "prompt-1553",
     "title": "极简家具照片",
     "source": {
       "name": "OpenAI",
@@ -88,11 +94,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 4,
-    "slug": "prompt-4",
+    "id": "1554",
+    "slug": "prompt-1554",
     "title": "手袋搭配服装",
     "source": {
       "name": "OpenAI",
@@ -118,11 +127,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 5,
-    "slug": "prompt-5",
+    "id": "1555",
+    "slug": "prompt-1555",
     "title": "家用音箱广告",
     "source": {
       "name": "OpenAI",
@@ -147,11 +159,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 6,
-    "slug": "prompt-6",
+    "id": "1556",
+    "slug": "prompt-1556",
     "title": "球鞋材料再创想",
     "source": {
       "name": "OpenAI",
@@ -177,11 +192,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 7,
-    "slug": "prompt-7",
+    "id": "1557",
+    "slug": "prompt-1557",
     "title": "3D 等距城市模拟视图",
     "source": {
       "name": "OpenAI",
@@ -207,11 +225,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 8,
-    "slug": "prompt-8",
+    "id": "1558",
+    "slug": "prompt-1558",
     "title": "吹制玻璃音箱",
     "source": {
       "name": "OpenAI",
@@ -236,11 +257,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 9,
-    "slug": "prompt-9",
+    "id": "1559",
+    "slug": "prompt-1559",
     "title": "巧克力包装口味变体",
     "source": {
       "name": "OpenAI",
@@ -266,11 +290,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 10,
-    "slug": "prompt-10",
+    "id": "15510",
+    "slug": "prompt-15510",
     "title": "京都旅行指南封面",
     "source": {
       "name": "OpenAI",
@@ -294,11 +321,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 11,
-    "slug": "prompt-11",
+    "id": "15511",
+    "slug": "prompt-15511",
     "title": "生日卡礼物插画",
     "source": {
       "name": "OpenAI",
@@ -323,11 +353,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 12,
-    "slug": "prompt-12",
+    "id": "15512",
+    "slug": "prompt-15512",
     "title": "生活方式杂志封面（Urban Pulse）",
     "source": {
       "name": "OpenAI",
@@ -352,11 +385,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 13,
-    "slug": "prompt-13",
+    "id": "15513",
+    "slug": "prompt-15513",
     "title": "牙买加 Jerk 餐车品牌化",
     "source": {
       "name": "OpenAI",
@@ -382,11 +418,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 14,
-    "slug": "prompt-14",
+    "id": "15514",
+    "slug": "prompt-15514",
     "title": "意式咖啡馆菜单设计",
     "source": {
       "name": "OpenAI",
@@ -413,11 +452,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 15,
-    "slug": "prompt-15",
+    "id": "15515",
+    "slug": "prompt-15515",
     "title": "停车场立柱图案应用",
     "source": {
       "name": "OpenAI",
@@ -442,11 +484,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 16,
-    "slug": "prompt-16",
+    "id": "15516",
+    "slug": "prompt-15516",
     "title": "鳄梨酱食材排布",
     "source": {
       "name": "OpenAI",
@@ -470,11 +515,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 17,
-    "slug": "prompt-17",
+    "id": "15517",
+    "slug": "prompt-15517",
     "title": "游戏角色精灵表(Sprite Sheet)",
     "source": {
       "name": "OpenAI",
@@ -499,11 +547,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 18,
-    "slug": "prompt-18",
+    "id": "15518",
+    "slug": "prompt-15518",
     "title": "室内空间再设计",
     "source": {
       "name": "OpenAI",
@@ -529,11 +580,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 19,
-    "slug": "prompt-19",
+    "id": "15519",
+    "slug": "prompt-15519",
     "title": "虚拟试衣",
     "source": {
       "name": "OpenAI",
@@ -559,11 +613,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 20,
-    "slug": "prompt-20",
+    "id": "15520",
+    "slug": "prompt-15520",
     "title": "平面图到 3D 渲染",
     "source": {
       "name": "OpenAI",
@@ -590,11 +647,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 21,
-    "slug": "prompt-21",
+    "id": "15521",
+    "slug": "prompt-15521",
     "title": "鲸鱼科普海报",
     "source": {
       "name": "OpenAI",
@@ -619,11 +679,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 22,
-    "slug": "prompt-22",
+    "id": "15522",
+    "slug": "prompt-15522",
     "title": "蛋白棒包装（GPU Crunch）",
     "source": {
       "name": "OpenAI",
@@ -647,11 +710,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 23,
-    "slug": "prompt-23",
+    "id": "15523",
+    "slug": "prompt-15523",
     "title": "独立专辑封面（Neon Dusk）",
     "source": {
       "name": "OpenAI",
@@ -676,11 +742,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 24,
-    "slug": "prompt-24",
+    "id": "15524",
+    "slug": "prompt-15524",
     "title": "果冻外星角色渲染",
     "source": {
       "name": "OpenAI",
@@ -705,11 +774,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 25,
-    "slug": "prompt-25",
+    "id": "15525",
+    "slug": "prompt-15525",
     "title": "水瓶形态探索",
     "source": {
       "name": "OpenAI",
@@ -734,11 +806,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 26,
-    "slug": "prompt-26",
+    "id": "15526",
+    "slug": "prompt-15526",
     "title": "奇幻梦境环境",
     "source": {
       "name": "OpenAI",
@@ -763,11 +838,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 27,
-    "slug": "prompt-27",
+    "id": "15527",
+    "slug": "prompt-15527",
     "title": "T-恤效果图 (mockup)",
     "source": {
       "name": "OpenAI",
@@ -792,11 +870,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 28,
-    "slug": "prompt-28",
+    "id": "15528",
+    "slug": "prompt-15528",
     "title": "匹克球拍图形设计",
     "source": {
       "name": "OpenAI",
@@ -820,11 +901,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 29,
-    "slug": "prompt-29",
+    "id": "15529",
+    "slug": "prompt-15529",
     "title": "演唱会门票设计（朋克风）",
     "source": {
       "name": "OpenAI",
@@ -849,11 +933,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 30,
-    "slug": "prompt-30",
+    "id": "15530",
+    "slug": "prompt-15530",
     "title": "马跳跃动画关键帧",
     "source": {
       "name": "OpenAI",
@@ -877,11 +964,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 31,
-    "slug": "prompt-31",
+    "id": "15531",
+    "slug": "prompt-15531",
     "title": "无缝平铺纺织图案",
     "source": {
       "name": "OpenAI",
@@ -906,11 +996,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 32,
-    "slug": "prompt-32",
+    "id": "15532",
+    "slug": "prompt-15532",
     "title": "玻璃花瓶设计（琥珀球体）",
     "source": {
       "name": "OpenAI",
@@ -936,11 +1029,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 33,
-    "slug": "prompt-33",
+    "id": "15533",
+    "slug": "prompt-15533",
     "title": "中世纪体素建筑精灵图",
     "source": {
       "name": "OpenAI",
@@ -965,11 +1061,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 34,
-    "slug": "prompt-34",
+    "id": "15534",
+    "slug": "prompt-15534",
     "title": "重金属唱片封套设计",
     "source": {
       "name": "OpenAI",
@@ -994,11 +1093,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 35,
-    "slug": "prompt-35",
+    "id": "15535",
+    "slug": "prompt-15535",
     "title": "番茄酱广告包装镜头",
     "source": {
       "name": "OpenAI",
@@ -1023,11 +1125,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 36,
-    "slug": "prompt-36",
+    "id": "15536",
+    "slug": "prompt-15536",
     "title": "回针教程（二战海报风）",
     "source": {
       "name": "OpenAI",
@@ -1051,11 +1156,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 37,
-    "slug": "prompt-37",
+    "id": "15537",
+    "slug": "prompt-15537",
     "title": "温馨客厅氛围添加",
     "source": {
       "name": "OpenAI",
@@ -1081,11 +1189,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 38,
-    "slug": "prompt-38",
+    "id": "15538",
+    "slug": "prompt-15538",
     "title": "透明 3D 图标",
     "source": {
       "name": "OpenAI",
@@ -1110,11 +1221,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 39,
-    "slug": "prompt-39",
+    "id": "15539",
+    "slug": "prompt-15539",
     "title": "橄榄油瓶融入静物画",
     "source": {
       "name": "OpenAI",
@@ -1140,11 +1254,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 40,
-    "slug": "prompt-40",
+    "id": "15540",
+    "slug": "prompt-15540",
     "title": "礼品篮合成图",
     "source": {
       "name": "OpenAI",
@@ -1169,11 +1286,14 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 77,
-    "slug": "prompt-4",
+    "id": "15577",
+    "slug": "prompt-15577",
     "title": "马斯克在公园画画",
     "source": null,
     "images": [
@@ -1197,10 +1317,13 @@
     "ratio": "1000:1500",
     "likes": "",
     "width": 1000,
-    "height": 1500
+    "height": 1500,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 515,
+    "id": "515",
     "slug": "prompt-236",
     "title": "直升机品牌广告",
     "source": {
@@ -1232,10 +1355,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 521,
+    "id": "521",
     "slug": "prompt-46",
     "title": "简单的输入中构思和创建有影响力的图像",
     "source": {
@@ -1260,10 +1386,13 @@
     "ratio": "1200:900",
     "likes": "",
     "width": 1200,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 509,
+    "id": "509",
     "slug": "prompt-5",
     "title": "创建你自己的GTA角色",
     "source": {
@@ -1291,10 +1420,13 @@
     "ratio": "1020:558",
     "likes": "",
     "width": 1020,
-    "height": 558
+    "height": 558,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 465,
+    "id": "465",
     "slug": "prompt-235",
     "title": "讽刺版的你",
     "source": {
@@ -1322,10 +1454,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 514,
+    "id": "514",
     "slug": "prompt-303",
     "title": "卡通风格的应用程序图标",
     "source": {
@@ -1357,10 +1492,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 512,
+    "id": "512",
     "slug": "prompt-77",
     "title": "3D零食卡通世界",
     "source": {
@@ -1393,10 +1531,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 504,
+    "id": "504",
     "slug": "prompt-514",
     "title": "复刻图片提示词",
     "source": {
@@ -1421,10 +1562,13 @@
     "ratio": "672:900",
     "likes": "",
     "width": 672,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 492,
+    "id": "492",
     "slug": "prompt-165",
     "title": "用气泡膜覆盖表情符号",
     "source": {
@@ -1451,10 +1595,13 @@
     "ratio": "1026:570",
     "likes": "",
     "width": 1026,
-    "height": 570
+    "height": 570,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 489,
+    "id": "489",
     "slug": "prompt-271",
     "title": "超现实几何艺术风格的数字插画",
     "source": {
@@ -1485,10 +1632,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 473,
+    "id": "473",
     "slug": "prompt-294",
     "title": "钩针玩偶",
     "source": {
@@ -1519,40 +1669,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 498,
-    "slug": "prompt-215",
-    "title": "Gorillaz风格",
-    "source": {
-      "name": "@azed_ai",
-      "url": "https://x.com/azed_ai/status/1942586412920103180"
-    },
-    "images": [
-      "images/215.png",
-      "images/215-2.png"
-    ],
-    "prompts": [
-      "Restyle this image into a gritty Gorillaz-style illustration, bold thick black outlines, sharp angular edges, flat expressive lighting, stylized high-contrast shadows, dirty distressed surface textures, muted color palette: washed-out teals, olive greens, rusty reds, mustard yellows, dusty browns, raw grungy urban atmosphere, comic book flatness mixed with painterly grit, hand-drawn finish with faded gradients, graphic novel aesthetic\nwith a rebellious, animated tone, dark stylish tone, full of attitude.",
-      "将这张图片改造成硬朗的 Gorillaz 风格插画，粗犷的黑色轮廓线，尖锐的角边，平面化的表现性光照，风格化的高对比度阴影，脏污的磨损表面纹理，柔和的调色板：褪色的蓝绿色，橄榄绿，锈红色，芥末黄，尘土棕，原始的粗糙都市氛围，漫画书平面感与绘画性粗糙的混合，手绘效果带有褪色渐变，漫画小说美学带有叛逆、动画化的风格，暗黑时尚的调调，充满态度。"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "300.md",
-    "description": "",
-    "tags": [
-      "illustration"
-    ],
-    "coverImage": "images/215.png",
-    "model": "gpt-4o",
-    "ratio": "1024:572",
-    "likes": "",
-    "width": 1024,
-    "height": 572
-  },
-  {
-    "id": 491,
+    "id": "491",
     "slug": "prompt-274",
     "title": "创作漫画风格插画",
     "source": {
@@ -1579,10 +1702,13 @@
     "ratio": "1108:622",
     "likes": "",
     "width": 1108,
-    "height": 622
+    "height": 622,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 471,
+    "id": "471",
     "slug": "prompt-57",
     "title": "手工毛线纹理",
     "source": {
@@ -1607,10 +1733,13 @@
     "ratio": "1108:622",
     "likes": "",
     "width": 1108,
-    "height": 622
+    "height": 622,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 469,
+    "id": "469",
     "slug": "prompt-105",
     "title": "刺绣logo",
     "source": {
@@ -1636,10 +1765,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 480,
+    "id": "480",
     "slug": "prompt-395",
     "title": "赛博美学未来社交软件界面照片",
     "source": {
@@ -1666,10 +1798,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 425,
+    "id": "425",
     "slug": "prompt-135",
     "title": "棱柱形玻璃图标",
     "source": {
@@ -1697,10 +1832,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 474,
+    "id": "474",
     "slug": "prompt-154",
     "title": "五颜六色的针织",
     "source": {
@@ -1728,10 +1866,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 511,
+    "id": "511",
     "slug": "prompt-205",
     "title": "以动物为灵感的品牌",
     "source": {
@@ -1762,10 +1903,13 @@
     "ratio": "1112:622",
     "likes": "",
     "width": 1112,
-    "height": 622
+    "height": 622,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 519,
+    "id": "519",
     "slug": "prompt-265",
     "title": "品牌杂志",
     "source": {
@@ -1796,10 +1940,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 463,
+    "id": "463",
     "slug": "prompt-33",
     "title": "复古像素UI图标",
     "source": {
@@ -1828,10 +1975,13 @@
     "ratio": "1108:614",
     "likes": "",
     "width": 1108,
-    "height": 614
+    "height": 614,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 518,
+    "id": "518",
     "slug": "prompt-19",
     "title": "Emoji变成一个花盆",
     "source": {
@@ -1860,10 +2010,13 @@
     "ratio": "1094:1100",
     "likes": "",
     "width": 1094,
-    "height": 1100
+    "height": 1100,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 484,
+    "id": "484",
     "slug": "prompt-42",
     "title": "Logo超写实微型摄影",
     "source": {
@@ -1894,10 +2047,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 483,
+    "id": "483",
     "slug": "prompt-264",
     "title": "纸制玩具版本",
     "source": {
@@ -1931,10 +2087,13 @@
     "ratio": "1114:1108",
     "likes": "",
     "width": 1114,
-    "height": 1108
+    "height": 1108,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 495,
+    "id": "495",
     "slug": "prompt-138",
     "title": "Gumroad样式图标",
     "source": {
@@ -1965,10 +2124,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 493,
+    "id": "493",
     "slug": "prompt-96",
     "title": "3D蒸汽朋克Logo",
     "source": {
@@ -1994,10 +2156,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 507,
+    "id": "507",
     "slug": "prompt-277",
     "title": "极简风格插画",
     "source": {
@@ -2027,10 +2192,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 437,
+    "id": "437",
     "slug": "prompt-183",
     "title": "霓虹效果海报",
     "source": {
@@ -2060,10 +2228,13 @@
     "ratio": "1014:568",
     "likes": "",
     "width": 1014,
-    "height": 568
+    "height": 568,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 460,
+    "id": "460",
     "slug": "prompt-423",
     "title": "一幅逼真的全身肖像",
     "source": {
@@ -2094,10 +2265,13 @@
     "ratio": "1000:1400",
     "likes": "",
     "width": 1000,
-    "height": 1400
+    "height": 1400,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 433,
+    "id": "433",
     "slug": "prompt-286",
     "title": "Q版木雕人偶",
     "source": {
@@ -2129,10 +2303,13 @@
     "ratio": "1536:2048",
     "likes": "",
     "width": 1536,
-    "height": 2048
+    "height": 2048,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 431,
+    "id": "431",
     "slug": "prompt-156",
     "title": "作为家具的著名地标",
     "source": {
@@ -2162,10 +2339,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 417,
+    "id": "417",
     "slug": "prompt-34",
     "title": "云的艺术",
     "source": {
@@ -2190,10 +2370,13 @@
     "ratio": "1536:2048",
     "likes": "",
     "width": 1536,
-    "height": 2048
+    "height": 2048,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 488,
+    "id": "488",
     "slug": "prompt-113",
     "title": "发光图标",
     "source": {
@@ -2223,10 +2406,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 447,
+    "id": "447",
     "slug": "prompt-119",
     "title": "城市绣花贴纸照片",
     "source": {
@@ -2257,10 +2443,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 522,
+    "id": "522",
     "slug": "prompt-309",
     "title": "奢侈品牌广告",
     "source": {
@@ -2290,10 +2479,13 @@
     "ratio": "1365:2048",
     "likes": "",
     "width": 1365,
-    "height": 2048
+    "height": 2048,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 449,
+    "id": "449",
     "slug": "prompt-153",
     "title": "霓虹灯线框",
     "source": {
@@ -2322,10 +2514,13 @@
     "ratio": "896:1152",
     "likes": "",
     "width": 896,
-    "height": 1152
+    "height": 1152,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 458,
+    "id": "458",
     "slug": "prompt-91",
     "title": "动感雕塑",
     "source": {
@@ -2352,10 +2547,13 @@
     "ratio": "1110:606",
     "likes": "",
     "width": 1110,
-    "height": 606
+    "height": 606,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 392,
+    "id": "392",
     "slug": "prompt-278",
     "title": "3D卡通钥匙扣",
     "source": {
@@ -2387,10 +2585,13 @@
     "ratio": "1118:628",
     "likes": "",
     "width": 1118,
-    "height": 628
+    "height": 628,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 444,
+    "id": "444",
     "slug": "prompt-268",
     "title": "童趣插画",
     "source": {
@@ -2421,10 +2622,13 @@
     "ratio": "595:680",
     "likes": "",
     "width": 595,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 402,
+    "id": "402",
     "slug": "prompt-270",
     "title": "乐高超级英雄摆出充满动感的动作姿势",
     "source": {
@@ -2455,10 +2659,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 361,
+    "id": "361",
     "slug": "prompt-189",
     "title": "心爱的角色制作动漫风格的签名",
     "source": {
@@ -2489,10 +2696,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 378,
+    "id": "378",
     "slug": "prompt-101",
     "title": "将你的Logo变成吉祥物",
     "source": {
@@ -2526,10 +2736,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 408,
+    "id": "408",
     "slug": "prompt-223",
     "title": "惊人的外骨骼图像",
     "source": {
@@ -2558,10 +2771,13 @@
     "ratio": "1117:2048",
     "likes": "",
     "width": 1117,
-    "height": 2048
+    "height": 2048,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 272,
+    "id": "272",
     "slug": "prompt-234",
     "title": "产品成为霓虹灯下的梦想",
     "source": {
@@ -2591,10 +2807,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 204,
+    "id": "204",
     "slug": "prompt-173",
     "title": "复古风格图标",
     "source": {
@@ -2624,10 +2843,13 @@
     "ratio": "512:512",
     "likes": "",
     "width": 512,
-    "height": 512
+    "height": 512,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 203,
+    "id": "203",
     "slug": "prompt-160",
     "title": "新动漫风格",
     "source": {
@@ -2654,10 +2876,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 178,
+    "id": "178",
     "slug": "prompt-280",
     "title": "制作照片中人物的玩具",
     "source": {
@@ -2686,10 +2911,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 313,
+    "id": "313",
     "slug": "prompt-98",
     "title": "3D卡通雕塑风格",
     "source": {
@@ -2722,10 +2950,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 135,
+    "id": "135",
     "slug": "prompt-109",
     "title": "涂料飞溅Logo",
     "source": {
@@ -2750,10 +2981,13 @@
     "ratio": "1114:616",
     "likes": "",
     "width": 1114,
-    "height": 616
+    "height": 616,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 398,
+    "id": "398",
     "slug": "prompt-66",
     "title": "霓虹灯风格工具",
     "source": {
@@ -2779,10 +3013,13 @@
     "ratio": "1106:610",
     "likes": "",
     "width": 1106,
-    "height": 610
+    "height": 610,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 470,
+    "id": "470",
     "slug": "prompt-10",
     "title": "熔化变异文本",
     "source": {
@@ -2810,10 +3047,13 @@
     "ratio": "1076:576",
     "likes": "",
     "width": 1076,
-    "height": 576
+    "height": 576,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 457,
+    "id": "457",
     "slug": "prompt-269",
     "title": "透明X光扫描面板后面",
     "source": {
@@ -2847,10 +3087,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 428,
+    "id": "428",
     "slug": "prompt-40",
     "title": "品牌领导骑行",
     "source": {
@@ -2877,10 +3120,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 407,
+    "id": "407",
     "slug": "prompt-281",
     "title": "创建Airbnb创意广告",
     "source": {
@@ -2907,10 +3153,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 461,
+    "id": "461",
     "slug": "prompt-231",
     "title": "形状为生日气球文字",
     "source": {
@@ -2937,10 +3186,13 @@
     "ratio": "1118:628",
     "likes": "",
     "width": 1118,
-    "height": 628
+    "height": 628,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 399,
+    "id": "399",
     "slug": "prompt-130",
     "title": "创建超现实不可能的图像",
     "source": {
@@ -2968,10 +3220,13 @@
     "ratio": "1200:800",
     "likes": "",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 421,
+    "id": "421",
     "slug": "prompt-247",
     "title": "90年代美国卡通片定格动画风格插画",
     "source": {
@@ -3002,10 +3257,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 388,
+    "id": "388",
     "slug": "prompt-76",
     "title": "黑白漫画风格插图",
     "source": {
@@ -3031,10 +3289,13 @@
     "ratio": "1096:610",
     "likes": "",
     "width": 1096,
-    "height": 610
+    "height": 610,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 384,
+    "id": "384",
     "slug": "prompt-253",
     "title": "亚克力钥匙扣",
     "source": {
@@ -3063,10 +3324,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 380,
+    "id": "380",
     "slug": "prompt-48",
     "title": "警方照片风格",
     "source": {
@@ -3093,10 +3357,13 @@
     "ratio": "1104:620",
     "likes": "",
     "width": 1104,
-    "height": 620
+    "height": 620,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 362,
+    "id": "362",
     "slug": "prompt-283",
     "title": "精致纸艺折纸模型",
     "source": {
@@ -3126,10 +3393,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 353,
+    "id": "353",
     "slug": "prompt-97",
     "title": "复古电脑开机画面解析为ASCII艺术",
     "source": {
@@ -3156,10 +3426,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 338,
+    "id": "338",
     "slug": "prompt-23",
     "title": "平面设计等边风格",
     "source": {
@@ -3187,10 +3460,13 @@
     "ratio": "1110:622",
     "likes": "",
     "width": 1110,
-    "height": 622
+    "height": 622,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 420,
+    "id": "420",
     "slug": "prompt-217",
     "title": "卡通现代风格插画",
     "source": {
@@ -3223,10 +3499,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 424,
+    "id": "424",
     "slug": "prompt-83",
     "title": "Glitch 矢量徽标样式",
     "source": {
@@ -3256,10 +3535,13 @@
     "ratio": "1098:612",
     "likes": "",
     "width": 1098,
-    "height": 612
+    "height": 612,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 332,
+    "id": "332",
     "slug": "prompt-258",
     "title": "20世纪50年代的海报",
     "source": {
@@ -3287,10 +3569,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 523,
+    "id": "523",
     "slug": "prompt-316",
     "title": "品牌字体",
     "source": {
@@ -3319,10 +3604,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 404,
+    "id": "404",
     "slug": "prompt-489",
     "title": "艺术家正在绘制自己的微型人偶",
     "source": {
@@ -3354,10 +3642,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 355,
+    "id": "355",
     "slug": "prompt-210",
     "title": "90年代风格的摔跤人物",
     "source": {
@@ -3388,10 +3679,13 @@
     "ratio": "512:512",
     "likes": "",
     "width": 512,
-    "height": 512
+    "height": 512,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 467,
+    "id": "467",
     "slug": "prompt-276",
     "title": "马赛克彩色玻璃徽章",
     "source": {
@@ -3421,10 +3715,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 468,
+    "id": "468",
     "slug": "prompt-257",
     "title": "透明蜂窝状变形",
     "source": {
@@ -3452,10 +3749,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 426,
+    "id": "426",
     "slug": "prompt-6",
     "title": "金色抽象综合风格",
     "source": {
@@ -3481,10 +3781,13 @@
     "ratio": "1100:620",
     "likes": "",
     "width": 1100,
-    "height": 620
+    "height": 620,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 419,
+    "id": "419",
     "slug": "prompt-206",
     "title": "工业内部品牌广告",
     "source": {
@@ -3515,10 +3818,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 395,
+    "id": "395",
     "slug": "prompt-74",
     "title": "3D可爱粉彩粘土图标",
     "source": {
@@ -3545,10 +3851,13 @@
     "ratio": "1098:612",
     "likes": "",
     "width": 1098,
-    "height": 612
+    "height": 612,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 168,
+    "id": "168",
     "slug": "prompt-170",
     "title": "新卡通风格",
     "source": {
@@ -3579,10 +3888,13 @@
     "ratio": "680:453",
     "likes": "",
     "width": 680,
-    "height": 453
+    "height": 453,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 436,
+    "id": "436",
     "slug": "prompt-184",
     "title": "乐高风格套装",
     "source": {
@@ -3612,10 +3924,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 379,
+    "id": "379",
     "slug": "prompt-394",
     "title": "和索尼克马里奥在一起合照",
     "source": {
@@ -3642,10 +3957,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 462,
+    "id": "462",
     "slug": "prompt-147",
     "title": "玻璃变形海报",
     "source": {
@@ -3674,10 +3992,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 450,
+    "id": "450",
     "slug": "prompt-81",
     "title": "品牌乐器",
     "source": {
@@ -3705,10 +4026,13 @@
     "ratio": "1104:620",
     "likes": "",
     "width": 1104,
-    "height": 620
+    "height": 620,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 441,
+    "id": "441",
     "slug": "prompt-418",
     "title": "将电影海报重新设计成黏土动画风格",
     "source": {
@@ -3738,10 +4062,13 @@
     "ratio": "1270:2000",
     "likes": "",
     "width": 1270,
-    "height": 2000
+    "height": 2000,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 456,
+    "id": "456",
     "slug": "prompt-134",
     "title": "生成真实电影海报",
     "source": {
@@ -3773,10 +4100,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 454,
+    "id": "454",
     "slug": "prompt-112",
     "title": "重点线条勾勒",
     "source": {
@@ -3802,10 +4132,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 386,
+    "id": "386",
     "slug": "prompt-196",
     "title": "字母景观",
     "source": {
@@ -3832,10 +4165,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 479,
+    "id": "479",
     "slug": "prompt-211",
     "title": "灯泡中的城市",
     "source": {
@@ -3867,10 +4203,13 @@
     "ratio": "1199:674",
     "likes": "",
     "width": 1199,
-    "height": 674
+    "height": 674,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 397,
+    "id": "397",
     "slug": "prompt-50",
     "title": "通过钥匙孔看世界",
     "source": {
@@ -3896,10 +4235,13 @@
     "ratio": "1098:606",
     "likes": "",
     "width": 1098,
-    "height": 606
+    "height": 606,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 371,
+    "id": "371",
     "slug": "prompt-198",
     "title": "可爱的设计师玩偶",
     "source": {
@@ -3928,10 +4270,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 373,
+    "id": "373",
     "slug": "prompt-238",
     "title": "用花朵美化你的产品",
     "source": {
@@ -3960,10 +4305,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 412,
+    "id": "412",
     "slug": "prompt-200",
     "title": "真人和风格对照直出",
     "source": {
@@ -4000,10 +4348,13 @@
     "ratio": "1027:1370",
     "likes": "",
     "width": 1027,
-    "height": 1370
+    "height": 1370,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 485,
+    "id": "485",
     "slug": "prompt-88",
     "title": "AirBnB 任何东西",
     "source": {
@@ -4032,10 +4383,13 @@
     "ratio": "1074:986",
     "likes": "",
     "width": 1074,
-    "height": 986
+    "height": 986,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 403,
+    "id": "403",
     "slug": "prompt-125",
     "title": "时尚品牌娃娃",
     "source": {
@@ -4069,10 +4423,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 341,
+    "id": "341",
     "slug": "prompt-78",
     "title": "毛绒形式表情符号",
     "source": {
@@ -4101,10 +4458,13 @@
     "ratio": "1098:1098",
     "likes": "",
     "width": 1098,
-    "height": 1098
+    "height": 1098,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 360,
+    "id": "360",
     "slug": "prompt-187",
     "title": "新卡通风格",
     "source": {
@@ -4132,10 +4492,13 @@
     "ratio": "1118:622",
     "likes": "",
     "width": 1118,
-    "height": 622
+    "height": 622,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 337,
+    "id": "337",
     "slug": "prompt-171",
     "title": "霓虹灯品牌重新构想",
     "source": {
@@ -4170,10 +4533,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 322,
+    "id": "322",
     "slug": "prompt-116",
     "title": "任天堂风格的3D卡通插画",
     "source": {
@@ -4208,10 +4574,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 319,
+    "id": "319",
     "slug": "prompt-100",
     "title": "终极跨界",
     "source": {
@@ -4240,10 +4609,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 440,
+    "id": "440",
     "slug": "prompt-28",
     "title": "狭窄走廊里奔跑",
     "source": {
@@ -4270,10 +4642,13 @@
     "ratio": "1104:600",
     "likes": "",
     "width": 1104,
-    "height": 600
+    "height": 600,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 156,
+    "id": "156",
     "slug": "prompt-13",
     "title": "创意广告",
     "source": {
@@ -4303,10 +4678,13 @@
     "ratio": "1006:552",
     "likes": "",
     "width": 1006,
-    "height": 552
+    "height": 552,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 327,
+    "id": "327",
     "slug": "prompt-244",
     "title": "转换马赛克风格照片",
     "source": {
@@ -4333,10 +4711,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 348,
+    "id": "348",
     "slug": "prompt-305",
     "title": "复古漫画风格卡通插画",
     "source": {
@@ -4367,10 +4748,13 @@
     "ratio": "680:453",
     "likes": "",
     "width": 680,
-    "height": 453
+    "height": 453,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 375,
+    "id": "375",
     "slug": "prompt-63",
     "title": "选择你的阵营",
     "source": {
@@ -4399,10 +4783,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 344,
+    "id": "344",
     "slug": "prompt-203",
     "title": "3D表情符号头部",
     "source": {
@@ -4431,10 +4818,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 177,
+    "id": "177",
     "slug": "prompt-14",
     "title": "创意广告",
     "source": {
@@ -4462,10 +4852,13 @@
     "ratio": "1088:1372",
     "likes": "",
     "width": 1088,
-    "height": 1372
+    "height": 1372,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 357,
+    "id": "357",
     "slug": "prompt-71",
     "title": "景观洞穴入口的形状",
     "source": {
@@ -4476,7 +4869,7 @@
       "images/71.png"
     ],
     "prompts": [
-      "Prompt: An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance."
+      "An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance."
     ],
     "examples": [],
     "notes": [],
@@ -4490,10 +4883,13 @@
     "ratio": "1110:610",
     "likes": "",
     "width": 1110,
-    "height": 610
+    "height": 610,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 350,
+    "id": "350",
     "slug": "prompt-12",
     "title": "创意广告",
     "source": {
@@ -4520,10 +4916,13 @@
     "ratio": "820:996",
     "likes": "",
     "width": 820,
-    "height": 996
+    "height": 996,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 513,
+    "id": "513",
     "slug": "prompt-150",
     "title": "乙烯基玩具",
     "source": {
@@ -4556,10 +4955,13 @@
     "ratio": "1014:566",
     "likes": "",
     "width": 1014,
-    "height": 566
+    "height": 566,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 415,
+    "id": "415",
     "slug": "prompt-122",
     "title": "史莱姆制成的玩具运输车",
     "source": {
@@ -4587,10 +4989,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 363,
+    "id": "363",
     "slug": "prompt-301",
     "title": "超写实肖像位于石膏中心",
     "source": {
@@ -4618,10 +5023,13 @@
     "ratio": "1536:2048",
     "likes": "",
     "width": 1536,
-    "height": 2048
+    "height": 2048,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 455,
+    "id": "455",
     "slug": "prompt-53",
     "title": "由鲜花组成的小房子",
     "source": {
@@ -4647,40 +5055,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 394,
-    "slug": "prompt-263",
-    "title": "低多边形马赛克风格",
-    "source": {
-      "name": "@fy360593",
-      "url": "https://x.com/fy360593/status/1945118291703284152"
-    },
-    "images": [
-      "images/263.jpeg",
-      "images/263-2.jpeg"
-    ],
-    "prompts": [
-      "Transform this image into a refined low-poly mosaic style. Preserve the original structure and recognizable details, especially facial features and contours. Use small, high-density polygons to maintain clarity and identity while creating a crystalline, faceted look. Keep the original color palette for a harmonious and natural aesthetic. Avoid altering or adding new elements.",
-      "将这张图片转换为精致的低多边形马赛克风格。保留原始结构和可识别的细节，尤其是面部特征和轮廓。使用小而密集的多边形，在保持清晰度和辨识度的同时，营造出水晶般的多面效果。保留原始色调，以获得和谐自然的美感。避免修改或添加新元素。"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "300.md",
-    "description": "",
-    "tags": [
-      "nature"
-    ],
-    "coverImage": "images/263.jpeg",
-    "model": "gpt-4o",
-    "ratio": "680:680",
-    "likes": "",
-    "width": 680,
-    "height": 680
-  },
-  {
-    "id": 358,
+    "id": "358",
     "slug": "prompt-133",
     "title": "幽灵形态",
     "source": {
@@ -4709,10 +5090,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 307,
+    "id": "307",
     "slug": "prompt-151",
     "title": "Neoglo风格Logo",
     "source": {
@@ -4742,10 +5126,13 @@
     "ratio": "1006:566",
     "likes": "",
     "width": 1006,
-    "height": 566
+    "height": 566,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 325,
+    "id": "325",
     "slug": "prompt-220",
     "title": "3D店铺渲染图",
     "source": {
@@ -4774,10 +5161,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 324,
+    "id": "324",
     "slug": "prompt-142",
     "title": "为任何品牌设计运动鞋",
     "source": {
@@ -4809,10 +5199,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 305,
+    "id": "305",
     "slug": "prompt-209",
     "title": "吃掉你的文字",
     "source": {
@@ -4845,10 +5238,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 328,
+    "id": "328",
     "slug": "prompt-62",
     "title": "品牌设计指南海报",
     "source": {
@@ -4877,10 +5273,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 300,
+    "id": "300",
     "slug": "prompt-140",
     "title": "现代数字动漫风格",
     "source": {
@@ -4908,10 +5307,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 279,
+    "id": "279",
     "slug": "prompt-58",
     "title": "血月下的决斗",
     "source": {
@@ -4936,10 +5338,13 @@
     "ratio": "1094:620",
     "likes": "",
     "width": 1094,
-    "height": 620
+    "height": 620,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 296,
+    "id": "296",
     "slug": "prompt-126",
     "title": "重新构想的超现实主义广告",
     "source": {
@@ -4970,10 +5375,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 310,
+    "id": "310",
     "slug": "prompt-41",
     "title": "卡通角色转换成超写实人类",
     "source": {
@@ -5004,10 +5412,13 @@
     "ratio": "493:1248",
     "likes": "",
     "width": 493,
-    "height": 1248
+    "height": 1248,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 250,
+    "id": "250",
     "slug": "prompt-412",
     "title": "3D漫画肖像",
     "source": {
@@ -5034,10 +5445,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 352,
+    "id": "352",
     "slug": "prompt-87",
     "title": "品牌解锁童年回忆",
     "source": {
@@ -5068,10 +5482,13 @@
     "ratio": "1108:614",
     "likes": "",
     "width": 1108,
-    "height": 614
+    "height": 614,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 277,
+    "id": "277",
     "slug": "prompt-237",
     "title": "电影镜头拍摄",
     "source": {
@@ -5098,10 +5515,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 249,
+    "id": "249",
     "slug": "prompt-21",
     "title": "产品变成纸玻璃",
     "source": {
@@ -5130,10 +5550,13 @@
     "ratio": "2730:4096",
     "likes": "",
     "width": 2730,
-    "height": 4096
+    "height": 4096,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 292,
+    "id": "292",
     "slug": "prompt-212",
     "title": "品牌在悬浮平台上",
     "source": {
@@ -5163,10 +5586,13 @@
     "ratio": "1018:566",
     "likes": "",
     "width": 1018,
-    "height": 566
+    "height": 566,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 293,
+    "id": "293",
     "slug": "prompt-166",
     "title": "几何禅",
     "source": {
@@ -5194,10 +5620,13 @@
     "ratio": "1022:570",
     "likes": "",
     "width": 1022,
-    "height": 570
+    "height": 570,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 336,
+    "id": "336",
     "slug": "prompt-185",
     "title": "人体工程学",
     "source": {
@@ -5225,10 +5654,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 333,
+    "id": "333",
     "slug": "prompt-17",
     "title": "未来一瞥",
     "source": {
@@ -5254,10 +5686,13 @@
     "ratio": "1098:608",
     "likes": "",
     "width": 1098,
-    "height": 608
+    "height": 608,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 290,
+    "id": "290",
     "slug": "prompt-146",
     "title": "全息叠加效果彩虹渐变",
     "source": {
@@ -5284,10 +5719,13 @@
     "ratio": "1014:562",
     "likes": "",
     "width": 1014,
-    "height": 562
+    "height": 562,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 258,
+    "id": "258",
     "slug": "prompt-243",
     "title": "卡通照片转换",
     "source": {
@@ -5318,10 +5756,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 287,
+    "id": "287",
     "slug": "prompt-240",
     "title": "定制的枕头",
     "source": {
@@ -5351,10 +5792,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 289,
+    "id": "289",
     "slug": "prompt-32",
     "title": "卡通风格文本标志",
     "source": {
@@ -5381,10 +5825,13 @@
     "ratio": "1106:606",
     "likes": "",
     "width": 1106,
-    "height": 606
+    "height": 606,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 255,
+    "id": "255",
     "slug": "prompt-16",
     "title": "品牌星球世界",
     "source": {
@@ -5415,10 +5862,13 @@
     "ratio": "1100:614",
     "likes": "",
     "width": 1100,
-    "height": 614
+    "height": 614,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 225,
+    "id": "225",
     "slug": "prompt-168",
     "title": "水果蜡烛",
     "source": {
@@ -5449,10 +5899,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 206,
+    "id": "206",
     "slug": "prompt-233",
     "title": "超现实鸟类幻想",
     "source": {
@@ -5480,10 +5933,13 @@
     "ratio": "1024:768",
     "likes": "",
     "width": 1024,
-    "height": 768
+    "height": 768,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 271,
+    "id": "271",
     "slug": "prompt-190",
     "title": "品牌虚拟人物",
     "source": {
@@ -5517,10 +5973,13 @@
     "ratio": "1022:576",
     "likes": "",
     "width": 1022,
-    "height": 576
+    "height": 576,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 270,
+    "id": "270",
     "slug": "prompt-24",
     "title": "新市场中的美妆品牌",
     "source": {
@@ -5549,10 +6008,13 @@
     "ratio": "1102:1134",
     "likes": "",
     "width": 1102,
-    "height": 1134
+    "height": 1134,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 326,
+    "id": "326",
     "slug": "prompt-89",
     "title": "海洋中三艘不同的奇幻帆船",
     "source": {
@@ -5578,10 +6040,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 266,
+    "id": "266",
     "slug": "prompt-284",
     "title": "字母毛茸茸形象",
     "source": {
@@ -5613,10 +6078,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 320,
+    "id": "320",
     "slug": "prompt-172",
     "title": "棱柱形水晶",
     "source": {
@@ -5645,10 +6113,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 264,
+    "id": "264",
     "slug": "prompt-56",
     "title": "玻璃盒内的图像可视化",
     "source": {
@@ -5673,10 +6144,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 315,
+    "id": "315",
     "slug": "prompt-61",
     "title": "破碎的真相",
     "source": {
@@ -5701,10 +6175,13 @@
     "ratio": "1098:612",
     "likes": "",
     "width": 1098,
-    "height": 612
+    "height": 612,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 262,
+    "id": "262",
     "slug": "prompt-163",
     "title": "半透明玻璃物品ASMR",
     "source": {
@@ -5734,10 +6211,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 304,
+    "id": "304",
     "slug": "prompt-260",
     "title": "20世纪20年代亚瑟·拉克姆风格的童话插画",
     "source": {
@@ -5767,10 +6247,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 281,
+    "id": "281",
     "slug": "prompt-75",
     "title": "可爱干净的底座立体模型",
     "source": {
@@ -5798,10 +6281,13 @@
     "ratio": "1110:788",
     "likes": "",
     "width": 1110,
-    "height": 788
+    "height": 788,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 234,
+    "id": "234",
     "slug": "prompt-152",
     "title": "新动漫风格",
     "source": {
@@ -5830,10 +6316,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 233,
+    "id": "233",
     "slug": "prompt-43",
     "title": "Airbnb风格的图标",
     "source": {
@@ -5862,10 +6351,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 248,
+    "id": "248",
     "slug": "prompt-449",
     "title": "你生气的时候其实也可以很可爱",
     "source": {
@@ -5895,10 +6387,13 @@
     "ratio": "604:900",
     "likes": "",
     "width": 604,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 251,
+    "id": "251",
     "slug": "prompt-227",
     "title": "糖果形状物品",
     "source": {
@@ -5925,10 +6420,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 278,
+    "id": "278",
     "slug": "prompt-137",
     "title": "透视一切",
     "source": {
@@ -5958,10 +6456,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 247,
+    "id": "247",
     "slug": "prompt-54",
     "title": "三种形状和三种颜色",
     "source": {
@@ -5986,10 +6487,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 245,
+    "id": "245",
     "slug": "prompt-149",
     "title": "Gorillaz风格角色",
     "source": {
@@ -6018,10 +6522,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 299,
+    "id": "299",
     "slug": "prompt-15",
     "title": "树屋",
     "source": {
@@ -6048,10 +6555,13 @@
     "ratio": "1090:616",
     "likes": "",
     "width": 1090,
-    "height": 616
+    "height": 616,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 268,
+    "id": "268",
     "slug": "prompt-285",
     "title": "卡通插图药丸形象",
     "source": {
@@ -6083,10 +6593,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 240,
+    "id": "240",
     "slug": "prompt-380",
     "title": "卡通插图",
     "source": {
@@ -6120,10 +6633,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 275,
+    "id": "275",
     "slug": "prompt-107",
     "title": "超级动物英雄",
     "source": {
@@ -6150,10 +6666,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 239,
+    "id": "239",
     "slug": "prompt-22",
     "title": "自定义气球",
     "source": {
@@ -6181,10 +6700,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 238,
+    "id": "238",
     "slug": "prompt-159",
     "title": "渲染宝石",
     "source": {
@@ -6211,10 +6733,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 215,
+    "id": "215",
     "slug": "prompt-255",
     "title": "头部的几何肖像",
     "source": {
@@ -6248,10 +6773,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 200,
+    "id": "200",
     "slug": "prompt-55",
     "title": "彩色卡通俏皮图标和徽标",
     "source": {
@@ -6278,10 +6806,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 226,
+    "id": "226",
     "slug": "prompt-261",
     "title": "城市糖果传奇的风格",
     "source": {
@@ -6312,10 +6843,13 @@
     "ratio": "1200:800",
     "likes": "",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 199,
+    "id": "199",
     "slug": "prompt-118",
     "title": "品牌产品数字广告",
     "source": {
@@ -6346,10 +6880,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 222,
+    "id": "222",
     "slug": "prompt-415",
     "title": "九个不同服装姿势和表情的Q版贴纸",
     "source": {
@@ -6377,10 +6914,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 197,
+    "id": "197",
     "slug": "prompt-218",
     "title": "超现实的黑白彩色页面",
     "source": {
@@ -6407,10 +6947,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 213,
+    "id": "213",
     "slug": "prompt-86",
     "title": "未来的OpenAI可穿戴设备",
     "source": {
@@ -6438,10 +6981,13 @@
     "ratio": "1100:1092",
     "likes": "",
     "width": 1100,
-    "height": 1092
+    "height": 1092,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 184,
+    "id": "184",
     "slug": "prompt-79",
     "title": "Alloy图标",
     "source": {
@@ -6470,10 +7016,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 181,
+    "id": "181",
     "slug": "prompt-80",
     "title": "水果的形状",
     "source": {
@@ -6499,10 +7048,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 150,
+    "id": "150",
     "slug": "prompt-45",
     "title": "复古锡玩具立体模型风格",
     "source": {
@@ -6533,10 +7085,13 @@
     "ratio": "1200:800",
     "likes": "",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 149,
+    "id": "149",
     "slug": "prompt-30",
     "title": "公司金币",
     "source": {
@@ -6547,7 +7102,7 @@
       "images/30.jpeg"
     ],
     "prompts": [
-      "Prompt: A high-resolution photograph of a gold coin featuring the [COMPANY NAME] logo at the center. The coin should have the year [YEAR] engraved at the top. Include finely detailed engravings, ornamental border patterns, and authentic coin textures like reeded edges, matte"
+      "A high-resolution photograph of a gold coin featuring the [COMPANY NAME] logo at the center. The coin should have the year [YEAR] engraved at the top. Include finely detailed engravings, ornamental border patterns, and authentic coin textures like reeded edges, matte"
     ],
     "examples": [],
     "notes": [],
@@ -6561,10 +7116,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 202,
+    "id": "202",
     "slug": "prompt-273",
     "title": "超现实主义极简概念广告",
     "source": {
@@ -6595,10 +7153,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 127,
+    "id": "127",
     "slug": "prompt-282",
     "title": "品牌模切乙烯基贴纸",
     "source": {
@@ -6629,10 +7190,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 128,
+    "id": "128",
     "slug": "prompt-90",
     "title": "将您的标志变成毛毡纹理",
     "source": {
@@ -6663,10 +7227,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 125,
+    "id": "125",
     "slug": "prompt-102",
     "title": "纹理化图片",
     "source": {
@@ -6695,10 +7262,13 @@
     "ratio": "1104:618",
     "likes": "",
     "width": 1104,
-    "height": 618
+    "height": 618,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 163,
+    "id": "163",
     "slug": "prompt-9",
     "title": "青花瓷风格",
     "source": {
@@ -6727,10 +7297,13 @@
     "ratio": "1112:620",
     "likes": "",
     "width": 1112,
-    "height": 620
+    "height": 620,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 124,
+    "id": "124",
     "slug": "prompt-315",
     "title": "Funko Pop风格乙烯基公仔",
     "source": {
@@ -6760,10 +7333,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 123,
+    "id": "123",
     "slug": "prompt-199",
     "title": "自定义纹理的复古玩具",
     "source": {
@@ -6793,10 +7369,13 @@
     "ratio": "1200:800",
     "likes": "",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 159,
+    "id": "159",
     "slug": "prompt-182",
     "title": "鸟类羽毛制成LOGO",
     "source": {
@@ -6823,10 +7402,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 105,
+    "id": "105",
     "slug": "prompt-262",
     "title": "街头顽童（Gorillaz）风格插画",
     "source": {
@@ -6853,10 +7435,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 104,
+    "id": "104",
     "slug": "prompt-60",
     "title": "令人垂涎欲滴的广告",
     "source": {
@@ -6885,10 +7470,13 @@
     "ratio": "1365:2048",
     "likes": "",
     "width": 1365,
-    "height": 2048
+    "height": 2048,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 187,
+    "id": "187",
     "slug": "prompt-35",
     "title": "人物戏剧夸张风格",
     "source": {
@@ -6918,10 +7506,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 227,
+    "id": "227",
     "slug": "prompt-250",
     "title": "被优雅水漩涡环绕的品牌产品",
     "source": {
@@ -6951,10 +7542,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 295,
+    "id": "295",
     "slug": "prompt-120",
     "title": "奇趣风格3D乙烯基玩具",
     "source": {
@@ -6982,10 +7576,13 @@
     "ratio": "750:750",
     "likes": "",
     "width": 750,
-    "height": 750
+    "height": 750,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 286,
+    "id": "286",
     "slug": "prompt-181",
     "title": "抽象液体排版文字",
     "source": {
@@ -7014,10 +7611,13 @@
     "ratio": "1200:800",
     "likes": "",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 285,
+    "id": "285",
     "slug": "prompt-256",
     "title": "漂浮玻璃霓虹3D",
     "source": {
@@ -7046,10 +7646,13 @@
     "ratio": "680:454",
     "likes": "",
     "width": 680,
-    "height": 454
+    "height": 454,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 356,
+    "id": "356",
     "slug": "prompt-424",
     "title": "一个可爱的拟人化动物",
     "source": {
@@ -7078,10 +7681,13 @@
     "ratio": "680:453",
     "likes": "",
     "width": 680,
-    "height": 453
+    "height": 453,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 237,
+    "id": "237",
     "slug": "prompt-488",
     "title": "极简儿童绘画风格",
     "source": {
@@ -7110,10 +7716,13 @@
     "ratio": "680:453",
     "likes": "",
     "width": 680,
-    "height": 453
+    "height": 453,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 418,
+    "id": "418",
     "slug": "prompt-201",
     "title": "纸上的小卡通角色",
     "source": {
@@ -7143,10 +7752,13 @@
     "ratio": "1536:1024",
     "likes": "",
     "width": 1536,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 267,
+    "id": "267",
     "slug": "prompt-279",
     "title": "俏皮现代的应用程序图标设计",
     "source": null,
@@ -7171,10 +7783,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 439,
+    "id": "439",
     "slug": "prompt-93",
     "title": "不同情绪状态的思想泡泡",
     "source": {
@@ -7201,10 +7816,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 208,
+    "id": "208",
     "slug": "prompt-318",
     "title": "益智玩具角色",
     "source": {
@@ -7234,10 +7852,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 207,
+    "id": "207",
     "slug": "prompt-99",
     "title": "玩具盒中的历史",
     "source": {
@@ -7268,10 +7889,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 314,
+    "id": "314",
     "slug": "prompt-224",
     "title": "舒适的周末从这里开始",
     "source": {
@@ -7298,10 +7922,13 @@
     "ratio": "1062:728",
     "likes": "",
     "width": 1062,
-    "height": 728
+    "height": 728,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 205,
+    "id": "205",
     "slug": "prompt-396",
     "title": "创建3D推特个人资料卡片",
     "source": {
@@ -7331,10 +7958,13 @@
     "ratio": "682:1024",
     "likes": "",
     "width": 682,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 151,
+    "id": "151",
     "slug": "prompt-289",
     "title": "我知道你很急但你先别急",
     "source": {
@@ -7360,10 +7990,13 @@
     "ratio": "1536:1024",
     "likes": "",
     "width": 1536,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 176,
+    "id": "176",
     "slug": "prompt-27",
     "title": "品牌奢华之物从天而降",
     "source": {
@@ -7389,10 +8022,13 @@
     "ratio": "1102:1104",
     "likes": "",
     "width": 1102,
-    "height": 1104
+    "height": 1104,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 195,
+    "id": "195",
     "slug": "prompt-197",
     "title": "数字粘土雕塑",
     "source": {
@@ -7421,10 +8057,13 @@
     "ratio": "1024:768",
     "likes": "",
     "width": 1024,
-    "height": 768
+    "height": 768,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 190,
+    "id": "190",
     "slug": "prompt-242",
     "title": "有趣的块状 3D 世界",
     "source": {
@@ -7456,10 +8095,13 @@
     "ratio": "1200:800",
     "likes": "",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 165,
+    "id": "165",
     "slug": "prompt-245",
     "title": "Kiro卡通幽灵",
     "source": {
@@ -7489,10 +8131,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 111,
+    "id": "111",
     "slug": "prompt-158",
     "title": "品牌3D卡通动物角色",
     "source": {
@@ -7528,10 +8173,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 185,
+    "id": "185",
     "slug": "prompt-31",
     "title": "超写实拼图肖像",
     "source": {
@@ -7558,10 +8206,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 102,
+    "id": "102",
     "slug": "prompt-266",
     "title": "树上挂着产品",
     "source": {
@@ -7590,10 +8241,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 119,
+    "id": "119",
     "slug": "prompt-214",
     "title": "部分咬掉的糕点",
     "source": {
@@ -7620,10 +8274,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 116,
+    "id": "116",
     "slug": "prompt-193",
     "title": "将您的徽标放在月球上",
     "source": {
@@ -7653,10 +8310,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 154,
+    "id": "154",
     "slug": "prompt-252",
     "title": "怪诞又梦幻的超现实插画",
     "source": {
@@ -7688,10 +8348,13 @@
     "ratio": "680:453",
     "likes": "",
     "width": 680,
-    "height": 453
+    "height": 453,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 58,
+    "id": "58",
     "slug": "prompt-259",
     "title": "20世纪30年代弗莱舍工作室风格的动画",
     "source": {
@@ -7718,10 +8381,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 87,
+    "id": "87",
     "slug": "prompt-202",
     "title": "创建半透明图标",
     "source": {
@@ -7749,10 +8415,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 133,
+    "id": "133",
     "slug": "prompt-26",
     "title": "水流身份",
     "source": {
@@ -7780,10 +8449,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 120,
+    "id": "120",
     "slug": "prompt-302",
     "title": "超写实3D漫画肖像",
     "source": {
@@ -7814,10 +8486,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 263,
+    "id": "263",
     "slug": "prompt-67",
     "title": "可爱微缩场景",
     "source": {
@@ -7847,10 +8522,13 @@
     "ratio": "1200:900",
     "likes": "",
     "width": 1200,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 209,
+    "id": "209",
     "slug": "prompt-8",
     "title": "刺绣插图风格",
     "source": {
@@ -7875,10 +8553,13 @@
     "ratio": "1106:620",
     "likes": "",
     "width": 1106,
-    "height": 620
+    "height": 620,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 157,
+    "id": "157",
     "slug": "prompt-177",
     "title": "2D单词海报设计",
     "source": {
@@ -7908,10 +8589,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 158,
+    "id": "158",
     "slug": "prompt-208",
     "title": "逼真的产品照片",
     "source": {
@@ -7941,10 +8625,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 122,
+    "id": "122",
     "slug": "prompt-251",
     "title": "超细节盒状纸艺玩具",
     "source": {
@@ -7979,10 +8666,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 113,
+    "id": "113",
     "slug": "prompt-179",
     "title": "创建多种3D风格头像",
     "source": {
@@ -8022,10 +8712,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 155,
+    "id": "155",
     "slug": "prompt-20",
     "title": "透明塑料袋装物体",
     "source": {
@@ -8050,10 +8743,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 130,
+    "id": "130",
     "slug": "prompt-161",
     "title": "物品纹理处理",
     "source": {
@@ -8084,10 +8780,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 90,
+    "id": "90",
     "slug": "prompt-241",
     "title": "9格Q版风格贴纸",
     "source": {
@@ -8114,10 +8813,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 41,
+    "id": "41",
     "slug": "prompt-92",
     "title": "霓虹玻璃发光",
     "source": {
@@ -8142,10 +8844,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 214,
+    "id": "214",
     "slug": "prompt-192",
     "title": "月光屋顶茶话会",
     "source": {
@@ -8172,10 +8877,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 80,
+    "id": "80",
     "slug": "prompt-136",
     "title": "日常用品有皮肤",
     "source": {
@@ -8205,10 +8913,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 131,
+    "id": "131",
     "slug": "prompt-207",
     "title": "超现实的高冲击力的图像",
     "source": {
@@ -8235,10 +8946,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 67,
+    "id": "67",
     "slug": "prompt-11",
     "title": "品牌之爱话术",
     "source": {
@@ -8266,10 +8980,13 @@
     "ratio": "4096:4096",
     "likes": "",
     "width": 4096,
-    "height": 4096
+    "height": 4096,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 14,
+    "id": "14",
     "slug": "prompt-254",
     "title": "磨砂泡泡 3D 图标",
     "source": {
@@ -8297,10 +9014,13 @@
     "ratio": "680:510",
     "likes": "",
     "width": 680,
-    "height": 510
+    "height": 510,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 66,
+    "id": "66",
     "slug": "prompt-73",
     "title": "有趣的毛茸茸字母",
     "source": {
@@ -8327,10 +9047,13 @@
     "ratio": "1108:612",
     "likes": "",
     "width": 1108,
-    "height": 612
+    "height": 612,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 49,
+    "id": "49",
     "slug": "prompt-37",
     "title": "Logo放进我的世界中",
     "source": {
@@ -8362,10 +9085,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 144,
+    "id": "144",
     "slug": "prompt-175",
     "title": "半透明晶体效果",
     "source": {
@@ -8392,10 +9118,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 23,
+    "id": "23",
     "slug": "prompt-213",
     "title": "3D蓬松的物体",
     "source": {
@@ -8423,10 +9152,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 21,
+    "id": "21",
     "slug": "prompt-221",
     "title": "钻石镶嵌风格",
     "source": {
@@ -8458,10 +9190,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 114,
+    "id": "114",
     "slug": "prompt-164",
     "title": "将表情符号变成纸板",
     "source": {
@@ -8491,10 +9226,13 @@
     "ratio": "1020:570",
     "likes": "",
     "width": 1020,
-    "height": 570
+    "height": 570,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 63,
+    "id": "63",
     "slug": "prompt-293",
     "title": "软质高品质毛绒玩具",
     "source": {
@@ -8522,10 +9260,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 62,
+    "id": "62",
     "slug": "prompt-65",
     "title": "皱巴巴的纸片",
     "source": {
@@ -8551,10 +9292,13 @@
     "ratio": "1200:800",
     "likes": "",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 13,
+    "id": "13",
     "slug": "prompt-7",
     "title": "刺绣肖像",
     "source": {
@@ -8580,10 +9324,13 @@
     "ratio": "1098:614",
     "likes": "",
     "width": 1098,
-    "height": 614
+    "height": 614,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 132,
+    "id": "132",
     "slug": "prompt-195",
     "title": "经典的微型玩具风格",
     "source": {
@@ -8612,10 +9359,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 137,
+    "id": "137",
     "slug": "prompt-249",
     "title": "路牌图片",
     "source": {
@@ -8642,10 +9392,13 @@
     "ratio": "990:2048",
     "likes": "",
     "width": 990,
-    "height": 2048
+    "height": 2048,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 71,
+    "id": "71",
     "slug": "prompt-127",
     "title": "符号冲突",
     "source": {
@@ -8673,10 +9426,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 274,
+    "id": "274",
     "slug": "prompt-228",
     "title": "日本搞笑漫画风格插画",
     "source": {
@@ -8707,10 +9463,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 145,
+    "id": "145",
     "slug": "prompt-308",
     "title": "人物电影级渲染",
     "source": {
@@ -8739,10 +9498,13 @@
     "ratio": "680:453",
     "likes": "",
     "width": 680,
-    "height": 453
+    "height": 453,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 74,
+    "id": "74",
     "slug": "prompt-106",
     "title": "时间之神",
     "source": {
@@ -8770,10 +9532,13 @@
     "ratio": "1024:1536",
     "likes": "",
     "width": 1024,
-    "height": 1536
+    "height": 1536,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 31,
+    "id": "31",
     "slug": "prompt-85",
     "title": "知名戏曲片段的MBTI人格类型卡片",
     "source": {
@@ -8802,10 +9567,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 54,
+    "id": "54",
     "slug": "prompt-139",
     "title": "将您最喜欢的品牌变成生活方式产品",
     "source": {
@@ -8837,10 +9605,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 51,
+    "id": "51",
     "slug": "prompt-29",
     "title": "面包形态",
     "source": {
@@ -8865,10 +9636,13 @@
     "ratio": "1108:1096",
     "likes": "",
     "width": 1108,
-    "height": 1096
+    "height": 1096,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 95,
+    "id": "95",
     "slug": "prompt-292",
     "title": "3D超写实食品广告",
     "source": {
@@ -8896,10 +9670,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 33,
+    "id": "33",
     "slug": "prompt-131",
     "title": "自定义毛绒钥匙扣",
     "source": {
@@ -8933,10 +9710,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 35,
+    "id": "35",
     "slug": "prompt-18",
     "title": "品牌我的世界风格",
     "source": {
@@ -8965,10 +9745,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 9,
+    "id": "9",
     "slug": "prompt-246",
     "title": "色彩缤纷的手工雕塑",
     "source": {
@@ -8998,10 +9781,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 10,
+    "id": "10",
     "slug": "prompt-25",
     "title": "按键删除周一",
     "source": {
@@ -9027,10 +9813,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 6,
+    "id": "6",
     "slug": "prompt-114",
     "title": "Monochrome LCD 效果",
     "source": {
@@ -9061,10 +9850,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 4,
+    "id": "4",
     "slug": "prompt-222",
     "title": "宝石渲染风格",
     "source": {
@@ -9091,10 +9883,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 68,
+    "id": "68",
     "slug": "prompt-275",
     "title": "品牌着陆页-年轻女性运动后的面部特写",
     "source": {
@@ -9121,10 +9916,13 @@
     "ratio": "1200:693",
     "likes": "",
     "width": 1200,
-    "height": 693
+    "height": 693,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 27,
+    "id": "27",
     "slug": "prompt-72",
     "title": "超现实主义油画",
     "source": {
@@ -9151,10 +9949,13 @@
     "ratio": "1096:618",
     "likes": "",
     "width": 1096,
-    "height": 618
+    "height": 618,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 2,
+    "id": "2",
     "slug": "prompt-104",
     "title": "珐琅马赛克瓷砖风格",
     "source": {
@@ -9181,10 +9982,13 @@
     "ratio": "1116:620",
     "likes": "",
     "width": 1116,
-    "height": 620
+    "height": 620,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 3,
+    "id": "3",
     "slug": "prompt-117",
     "title": "动漫机甲风格化机械设计图",
     "source": {
@@ -9214,10 +10018,13 @@
     "ratio": "1536:1024",
     "likes": "",
     "width": 1536,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 261,
+    "id": "261",
     "slug": "prompt-95",
     "title": "品牌平面纸风格",
     "source": {
@@ -9245,10 +10052,13 @@
     "ratio": "1096:608",
     "likes": "",
     "width": 1096,
-    "height": 608
+    "height": 608,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 490,
+    "id": "490",
     "slug": "prompt-148",
     "title": "怀旧午后阳光",
     "source": {
@@ -9275,10 +10085,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 330,
+    "id": "330",
     "slug": "prompt-495",
     "title": "微缩的温馨客厅",
     "source": {
@@ -9308,10 +10121,13 @@
     "ratio": "1529:2048",
     "likes": "",
     "width": 1529,
-    "height": 2048
+    "height": 2048,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 126,
+    "id": "126",
     "slug": "prompt-69",
     "title": "品牌折叠纸",
     "source": {
@@ -9343,10 +10159,13 @@
     "ratio": "1100:610",
     "likes": "",
     "width": 1100,
-    "height": 610
+    "height": 610,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 211,
+    "id": "211",
     "slug": "prompt-59",
     "title": "军事计划",
     "source": {
@@ -9374,10 +10193,13 @@
     "ratio": "1106:622",
     "likes": "",
     "width": 1106,
-    "height": 622
+    "height": 622,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 284,
+    "id": "284",
     "slug": "prompt-194",
     "title": "装饰艺术未来主义",
     "source": {
@@ -9407,10 +10229,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 43,
+    "id": "43",
     "slug": "prompt-132",
     "title": "悬浮魔幻现实主义",
     "source": {
@@ -9437,10 +10262,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 385,
+    "id": "385",
     "slug": "prompt-128",
     "title": "一个字的无限反射",
     "source": {
@@ -9472,10 +10300,13 @@
     "ratio": "600:900",
     "likes": "",
     "width": 600,
-    "height": 900
+    "height": 900,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 283,
+    "id": "283",
     "slug": "prompt-124",
     "title": "磨砂模糊剪影",
     "source": {
@@ -9503,10 +10334,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 97,
+    "id": "97",
     "slug": "prompt-288",
     "title": "食物与运动结合的广告",
     "source": {
@@ -9544,10 +10378,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 26,
+    "id": "26",
     "slug": "prompt-155",
     "title": "自己的国家地标时尚杂志",
     "source": {
@@ -9575,10 +10412,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 18,
+    "id": "18",
     "slug": "prompt-291",
     "title": "英语单词闪卡制作",
     "source": {
@@ -9604,10 +10444,13 @@
     "ratio": "680:680",
     "likes": "",
     "width": 680,
-    "height": 680
+    "height": 680,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 167,
+    "id": "167",
     "slug": "prompt-239",
     "title": "沙滩胶囊城市",
     "source": {
@@ -9635,10 +10478,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 65,
+    "id": "65",
     "slug": "prompt-229",
     "title": "品牌快餐胶囊",
     "source": {
@@ -9669,10 +10515,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 162,
+    "id": "162",
     "slug": "prompt-143",
     "title": "迪士尼鸡尾酒",
     "source": {
@@ -9701,10 +10550,13 @@
     "ratio": "800:1200",
     "likes": "",
     "width": 800,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 50,
+    "id": "50",
     "slug": "prompt-68",
     "title": "透明容器里有一个微型的3D世界",
     "source": {
@@ -9732,10 +10584,13 @@
     "ratio": "1104:618",
     "likes": "",
     "width": 1104,
-    "height": 618
+    "height": 618,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 20,
+    "id": "20",
     "slug": "prompt-70",
     "title": "重新构想的玫瑰金",
     "source": {
@@ -9763,10 +10618,13 @@
     "ratio": "1200:1200",
     "likes": "",
     "width": 1200,
-    "height": 1200
+    "height": 1200,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 79,
+    "id": "79",
     "slug": "prompt-225",
     "title": "时尚的胶囊海报",
     "source": {
@@ -9796,10 +10654,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 298,
+    "id": "298",
     "slug": "prompt-169",
     "title": "微型透明胶囊",
     "source": {
@@ -9832,10 +10693,13 @@
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 19,
+    "id": "19",
     "slug": "prompt-167",
     "title": "液态金属设计产品",
     "source": {
@@ -9866,10 +10730,13 @@
     "ratio": "1014:562",
     "likes": "",
     "width": 1014,
-    "height": 562
+    "height": 562,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 99,
+    "id": "99",
     "slug": "prompt-51",
     "title": "霓虹灯发光的可爱动物",
     "source": {
@@ -9898,10 +10765,13 @@
     "ratio": "1108:614",
     "likes": "",
     "width": 1108,
-    "height": 614
+    "height": 614,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 48,
+    "id": "48",
     "slug": "prompt-180",
     "title": "可爱粉彩乙烯基人物",
     "source": {
@@ -9934,10 +10804,13 @@
     "ratio": "1114:616",
     "likes": "",
     "width": 1114,
-    "height": 616
+    "height": 616,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 45,
+    "id": "45",
     "slug": "prompt-94",
     "title": "制药风格商品",
     "source": {
@@ -9965,10 +10838,13 @@
     "ratio": "1080:1080",
     "likes": "",
     "width": 1080,
-    "height": 1080
+    "height": 1080,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
-    "id": 414,
+    "id": "414",
     "slug": "prompt-108",
     "title": "标志液化",
     "source": {
@@ -9996,6 +10872,292 @@
     "ratio": "1012:556",
     "likes": "",
     "width": 1012,
-    "height": 556
+    "height": 556,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
+  },
+  {
+    "id": "2002826415939682600",
+    "slug": "prompt-2002826415939682600",
+    "title": "草图中的现实与愿景",
+    "source": {
+      "name": "ΛRMIN | AI",
+      "url": "https://x.com/Arminn_Ai/status/2002826415939682584"
+    },
+    "images": [
+      "/images/2025-12-21/2002826415939682600_0.jpg",
+      "/images/2025-12-21/2002826415939682600_1.jpg",
+      "/images/2025-12-21/2002826415939682600_2.jpg",
+      "/images/2025-12-21/2002826415939682600_3.jpg"
+    ],
+    "prompts": [
+      "Bring sketches out of ideas and into reality. \n\nwith chatGPT image 1.5 on @higgsfield_ai \n\n- Prompt 👇\nA [person type] standing full-body near the edge of the frame, slightly to the left, in [real-world incomplete / empty / damaged environment]. The camera is positioned behind and slightly to the right of the person, capturing them from a three-quarter rear angle. The person stands calmly and thoughtfully, looking toward the space ahead.\n\nThe environment is [describe the real space as it exists now: empty, unfinished, decayed, rigid, lifeless]. The atmosphere feels [emotional tone: quiet, dry, historical, minimal, raw]. Natural light illuminates the scene, creating realistic shadows and depth. Floating hand-drawn sketch lines appear over and within the environment, aligned precisely in perspective with the real space. These sketches represent [what is missing / what once existed / what could exist in the future].\n\nThe sketch lines are black, clean, and hand-drawn, resembling [architectural / interior / restoration / urban planning] concept sketches made with pencil or ink. The strokes are expressive, slightly imperfect, and organic — not rigid or mechanical. The sketched elements occupy the foreground and midground, appearing closer to the person than expected. Some sketch lines subtly overlap the person’s silhouette and the real surfaces, visually merging imagination with reality. The sketches float naturally within the scene, seamlessly blending with the environment and conveying the idea of [vision / restoration / transformation / potential] coming to life.",
+      "将草图从构想变为现实。\n\n使用 @higgsfield_ai 上的 chatGPT Image 1.5\n\n- 提示词 👇  \n一位[人物类型]全身站立于画面边缘附近，略微偏左，身处[现实世界中未完成／空旷／破损的环境]中。相机位于人物后方并稍偏右侧，以四分之三后侧角度捕捉人物。人物平静而沉思地站立，目光望向前方的空间。\n\n环境呈现为[描述当前真实空间的状态：空荡、未完工、衰败、僵硬、毫无生气]。整体氛围带有[情感基调：静谧、干涩、历史感、极简、原始]。自然光照射场景，营造出逼真的阴影与景深。漂浮的手绘草图线条精准地按照现实空间的透视关系叠加在环境中，这些草图代表了[缺失之物／曾经存在之物／未来可能之物]。\n\n草图线条为黑色、干净、手绘风格，类似用铅笔或墨水绘制的[建筑／室内／修复／城市规划]概念草图。笔触富有表现力，略带不完美与有机感——而非僵硬或机械。所绘元素占据前景与中景，比预期更靠近人物。部分草图线条微妙地与人物轮廓及真实表面重叠，使想象与现实视觉融合。这些草图自然地悬浮于场景之中，与环境无缝结合，传达出[愿景／修复／转变／潜力]正在成形的理念。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "在空旷衰败的空间中，一位沉思者身旁浮现出手绘草图，勾勒出未来的可能，现实与构想悄然交融。",
+    "tags": [
+      "concept-art",
+      "realistic",
+      "architecture"
+    ],
+    "coverImage": "/images/2025-12-21/2002826415939682600_0.jpg",
+    "model": "gpt-4o",
+    "ratio": "75:56",
+    "likes": 456,
+    "width": 2400,
+    "height": 1792,
+    "type": "",
+    "create_time": 1766346002000,
+    "update_time": 1766541374377,
+    "status": 1
+  },
+  {
+    "id": "1991730551531925500",
+    "slug": "prompt-1991730551531925500",
+    "title": "蓝调时刻的光圈之美",
+    "source": {
+      "name": "吕立青_JimmyLv (闭关ing) 2𐃏25",
+      "url": "https://x.com/Jimmy_JingLv/status/1991730551531925570?s=20"
+    },
+    "images": [
+      "/images/2025-11-21/1991730551531925500_0.jpg"
+    ],
+    "prompts": [
+      "佳能相机，85mm 定头，生成 1.8F、2.8F、10F、 14F 光圈逐渐变化的效果，温柔大美女作为模特，背景是黄昏之后的城市蓝调时刻"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "温柔美女在城市蓝调时刻，随光圈变化展现不同景深魅力。",
+    "tags": [
+      "portrait",
+      "cinematic",
+      "photography"
+    ],
+    "coverImage": "/images/2025-11-21/1991730551531925500_0.jpg",
+    "model": "gpt-4o",
+    "ratio": "11:6",
+    "likes": 433,
+    "width": 2816,
+    "height": 1536,
+    "type": "",
+    "create_time": 1763700542000,
+    "update_time": 1766543872110,
+    "status": 1
+  },
+  {
+    "id": "2001181398774726700",
+    "slug": "prompt-2001181398774726700",
+    "title": "解剖爆炸图",
+    "source": {
+      "name": "stiva",
+      "url": "https://x.com/s_tiva/status/2001181398774726784"
+    },
+    "images": [
+      "/images/2025-12-17/2001181398774726700_0.jpg",
+      "/images/2025-12-17/2001181398774726700_1.jpg",
+      "/images/2025-12-17/2001181398774726700_2.jpg"
+    ],
+    "prompts": [
+      "Exploded anatomic view\n\n{\n  \"variables\": {\n    \"ORGANISM_NAME\": \"<<>>\"\n  },\n  \"promptDetails\": {\n    \"description\": \"Ultra-detailed anatomical exploded view (exploded-view) and layered biological infographic of {ORGANISM_NAME}, presented as an educational, clinical-clear scientific visual.\n\nSpecies-accuracy rule (mandatory): Automatically infer the correct anatomy for {ORGANISM_NAME}. If it is a vertebrate, show an internal skeleton (skull, spine, ribs, limb bones as applicable). If it is an invertebrate, show the appropriate exoskeleton/segments and primary support structures. Automatically choose the correct respiratory organs for {ORGANISM_NAME} (lungs, gills, tracheal system, etc.). Depict the reproductive system in a measured, educational manner (no explicit nudity).\n\nCamera and composition:\n- 3/4 front isometric angle, scientific product/anatomy render perspective.\n- Main body centered; outer body partially transparent and opened.\n- Anatomical layers and major systems are separated and floating around the main body in a clean, symmetric, hierarchical exploded layout.\n- Even spacing between layers; no clutter.\n- Callout leader lines never cross; labels stay inside the frame and remain highly legible.\n\nLayers and systems (outer to inner, species-appropriate):\n1) Outer surface: skin or exoskeleton/outer tissue.\n2) Support system: skeleton or exoskeleton/segments.\n3) Muscular system: major muscle groups and tendon attachments.\n4) Circulatory system: heart and major vessels (avoid messy capillary over-detail).\n5) Respiratory system: species-appropriate organs.\n6) Digestive system: stomach/gizzard (if applicable), intestines, liver and associated organs.\n7) Nervous system: brain or ganglia structures, primary nerve pathways.\n8) Reproductive system: species-appropriate core structures.\n9) Signature anatomy: highlight {ORGANISM_NAME}-specific distinctive structures (wings, fins, tail, horns, pouches, antennae, etc.) as separate emphasized layers.\n\nLabeling (mandatory):\n- Thin white leader lines + numbered labels.\n- Typeface: minimalist sans-serif, high legibility.\n- Label format: \"## Part Name (System)\". Example: \"03 Sternum (Skeletal)\".\n- Use 12–24 labels total; no duplicate numbers.\n\nVisual style and quality:\n- Photorealistic 3D medical/anatomy render + textbook infographic aesthetic.\n- Clinical clarity, high contrast, razor-sharp detail, 8K.\n- Clean composition, strong negative space management, educational focus.\n\nLighting and background:\n- Soft, even studio lighting; controlled reflections.\n- Background: seamless smooth dark gray or dark navy scientific studio backdrop.\",\n    \"styleTags\": [\n      \"Anatomical Exploded View\",\n      \"Medical/Biological Infographic\",\n      \"Layered Anatomy\",\n      \"Photorealistic 3D Anatomy Render\",\n      \"Educational Scientific Style\",\n      \"Minimalist Labels\",\n      \"Dark Studio Background\",\n      \"Clinical clarity\",\n      \"Exploded view hierarchy\"\n    ]\n  },\n  \"negativePrompt\": \"blood, gore, horror, surgery scene, open wounds, excessive graphic content, real-person portrait, human-identity face, celebrity likeness, messy exploded layout, unnecessary extra organs/limbs, incorrect anatomy, blurry labels, unreadable text, crossed/overlapping leader lines, cartoon style, low-poly, watermark, logo, broken perspective, excessive noise, heavy motion blur\",\n  \"generationTips\": {\n    \"aspectRatio\": \"2:3\",\n    \"detailLevel\": \"ultra\",\n    \"stylization\": \"low-medium\",\n    \"camera\": {\n      \"angle\": \"3/4 front isometric\",\n      \"lens\": \"scientific product/anatomy render perspective\"\n    },\n    \"lighting\": \"soft, even, medical-illustration clarity\",\n    \"background\": \"seamless smooth dark gray or dark navy\",\n    \"compositionLocks\": [\n      \"no crossing leader lines\",\n      \"labels legible and inside frame\",\n      \"even spacing and clear hierarchy between layers\"\n    ]\n  }\n}",
+      "解剖爆炸视图  \n\n{\n  \"variables\": {\n    \"ORGANISM_NAME\": \"<<>>\"\n  },\n  \"promptDetails\": {\n    \"description\": \"超精细的{ORGANISM_NAME}解剖爆炸视图（exploded-view）与分层生物信息图，呈现为具有教育意义、临床清晰度的科学视觉图像。\n\n物种准确性规则（强制）：自动推断{ORGANism_NAME}的正确解剖结构。若为脊椎动物，需展示内骨骼（头骨、脊柱、肋骨、四肢骨骼等适用部分）；若为无脊椎动物，则展示相应的外骨骼/体节及主要支撑结构。自动选择适用于{ORGANISM_NAME}的呼吸器官（肺、鳃、气管系统等）。以适度、教育性的方式描绘生殖系统（不得出现露骨内容）。\n\n相机与构图：\n- 3/4正面等距视角，采用科学产品/解剖渲染透视。\n- 主体居中；外部身体部分透明并打开。\n- 解剖层次与主要系统以干净、对称、层级分明的爆炸布局环绕主体悬浮。\n- 各层间距均匀，无杂乱。\n- 引线绝不交叉；标签位于画面内且高度清晰可读。\n\n层次与系统（由外至内，依物种适配）：\n1) 外表层：皮肤或外骨骼/外组织。\n2) 支撑系统：骨骼或外骨骼/体节。\n3) 肌肉系统：主要肌群及肌腱附着点。\n4) 循环系统：心脏与主要血管（避免毛细血管过度细节）。\n5) 呼吸系统：符合物种特征的器官。\n6) 消化系统：胃/砂囊（如适用）、肠道、肝脏及相关器官。\n7) 神经系统：脑或神经节结构、主要神经通路。\n8) 生殖系统：符合物种特征的核心结构。\n9) 特征解剖结构：将{ORGANISM_NAME}特有的显著结构（翅膀、鳍、尾、角、育儿袋、触角等）作为独立强调层突出展示。\n\n标注（强制）：\n- 细白色引线 + 编号标签。\n- 字体：极简无衬线体，高可读性。\n- 标签格式：“## 部位名称（系统）”。例如：“03 胸骨（骨骼系统）”。\n- 总计使用12–24个标签；编号不可重复。\n\n视觉风格与质量：\n- 逼真3D医学/解剖渲染 + 教科书式信息图美学。\n- 临床清晰度、高对比度、锐利细节、8K分辨率。\n- 构图简洁，负空间管理得当，聚焦教育目的。\n\n灯光与背景：\n- 柔和均匀的影棚灯光；反光受控。\n- 背景：无缝平滑深灰色或深海军蓝科学影棚背景。\",\n    \"styleTags\": [\n      \"解剖爆炸视图\",\n      \"医学/生物信息图\",\n      \"分层解剖\",\n      \"逼真3D解剖渲染\",\n      \"教育性科学风格\",\n      \"极简标签\",\n      \"深色影棚背景\",\n      \"临床清晰度\",\n      \"爆炸视图层级结构\"\n    ]\n  },\n  \"negativePrompt\": \"血液、血腥、恐怖、手术场景、开放性伤口、过度图形内容、真人肖像、人类面部身份、名人相貌、混乱的爆炸布局、多余器官/肢体、解剖错误、模糊标签、文字不可读、引线交叉/重叠、卡通风格、低多边形、水印、logo、透视错误、过度噪点、严重动态模糊\",\n  \"generationTips\": {\n    \"aspectRatio\": \"2:3\",\n    \"detailLevel\": \"超精细\",\n    \"stylization\": \"低至中等\",\n    \"camera\": {\n      \"angle\": \"3/4正面等距\",\n      \"lens\": \"科学产品/解剖渲染视角\"\n    },\n    \"lighting\": \"柔和均匀，医学插画级清晰度\",\n    \"background\": \"无缝平滑深灰色或深海军蓝\",\n    \"compositionLocks\": [\n      \"引线不得交叉\",\n      \"标签清晰可读且位于画面内\",\n      \"各层间距均匀、层级清晰\"\n    ]\n  }\n}"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "超精细3D解剖爆炸视图，展示纳米香蕉的分层生物结构，兼具科学性与视觉清晰度。",
+    "tags": [
+      "anatomy",
+      "3d",
+      "scientific-illustration"
+    ],
+    "coverImage": "/images/2025-12-17/2001181398774726700_0.jpg",
+    "model": "gpt-4o",
+    "ratio": "2:3",
+    "likes": 1221,
+    "width": 1024,
+    "height": 1536,
+    "type": "",
+    "create_time": 1765953800000,
+    "update_time": 1766543891089,
+    "status": 1
+  },
+  {
+    "id": "2000924143768994000",
+    "slug": "prompt-2000924143768994000",
+    "title": "节日微缩精品店",
+    "source": {
+      "name": "Berryxia.AI",
+      "url": "https://x.com/berryxia/status/2000924143768994060"
+    },
+    "images": [
+      "/images/2025-12-16/2000924143768994000_0.jpg",
+      "/images/2025-12-16/2000924143768994000_1.jpg"
+    ],
+    "prompts": [
+      "一个透明亚克力展示盒内的微缩场景,呈现[品牌名称]精品店面。店面采用[品牌主色调]外立面[节日装饰],顶部有\"[品牌LOGO]\"的大型标识,[编号]金色数字装饰。\n\n店内温暖金色照明,玻璃橱窗和玻璃门,橱窗内展示微缩[品牌核心产品1、产品2、产品3][节日特别版产品]。\n\n店门前[随机位置:站立/坐在长椅上/蹲着/靠墙倚着]一个可爱的Q版卡通人物,大头身比例,闪亮的kawaii动漫大眼睛,[随机动作][节日特定动作]。\n\n人物穿着[随机服饰组合][节日装扮元素],搭配[随机下装],戴着[随机配饰0-2个][节日配饰]。手持[随机道具1-2个][节日道具]。\n\n[随机宠物0-1个][节日宠物装扮]。\n角色具有kawaii动漫美学风格,[随机表情]的表情,[随机发型][节日发饰],体现[品牌调性]。\n\n场景置于[随机木材]质底座上,配有刻有\"No.[编号] [品牌名]\"的黄铜铭牌。\n[随机装饰元素2-4个][节日装饰元素2-4个]。柔和环境光营造温暖反射效果,飘浮着[随机氛围元素][节日氛围元素]。\n\n3D渲染风格,高度精细的微缩场景,产品摄影级光效,浅景深,暖色调主导,所有元素配色和谐统一(以[品牌主色调]为基础,融合[节日配色方案]),[品牌氛围][节日氛围]。 "
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "透明亚克力盒内，Q版角色与节日装饰共筑品牌梦幻橱窗，暖光映照精致细节。",
+    "tags": [
+      "3d",
+      "cute",
+      "festive"
+    ],
+    "coverImage": "/images/2025-12-16/2000924143768994000_0.jpg",
+    "model": "gpt-4o",
+    "ratio": "671:450",
+    "likes": 118,
+    "width": 1342,
+    "height": 900,
+    "type": "",
+    "create_time": 1765892465000,
+    "update_time": 1766543904828,
+    "status": 1
+  },
+  {
+    "id": "1998024889530216700",
+    "slug": "prompt-1998024889530216700",
+    "title": "手写批注涂鸦风吐槽图",
+    "source": {
+      "name": "歸藏(guizang.ai)",
+      "url": "https://x.com/op7418/status/1998024889530216629?s=20"
+    },
+    "images": [
+      "/images/2025-12-08/1998024889530216700_0.jpg"
+    ],
+    "prompts": [
+      "生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，检索这个账户内容，涂鸦的内容主要为吐槽他，还可以加点小剪贴画"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "一张打印图片被红墨水手写中文疯狂批注、涂鸦和小剪贴画覆盖，充满个性与戏谑感。",
+    "tags": [
+      "hand-drawn",
+      "humorous",
+      "illustration"
+    ],
+    "coverImage": "/images/2025-12-08/1998024889530216700_0.jpg",
+    "model": "gpt-4o",
+    "ratio": "22:21",
+    "likes": 692,
+    "width": 2112,
+    "height": 2016,
+    "type": "",
+    "create_time": 1765201229000,
+    "update_time": 1766565223743,
+    "status": 1
+  },
+  {
+    "id": "2005272524872187960",
+    "slug": "prompt-2005272524872187960",
+    "title": "手拿红苹果的摄影棚肖像写真",
+    "source": {
+      "name": "ViralOps",
+      "url": "https://x.com/ViralOps_/status/2005272524872187960"
+    },
+    "images": [
+      "/images/2025-12-28/2005272524872187960_0.jpg"
+    ],
+    "prompts": [
+      "i bet they cant create this level of ai model with nb pro\n\nhere is how you can create the variations of it;\n\ncopy this prompt, paste it into chatgpt and ask it make changes to the JSON prompt according to your needs,\n\nonce you get your updated prompt, copy it and generate the image, \n\nonce the image is generated, ask the image model (like NB pro) to make her holding any product you want\n\nand thats it, \n\ni've generated this image in 4K using google labs with nb pro.\n\nPrompt (just copy/paste);\n\n{\n  \"meta\": {\n    \"image_quality\": \"High\",\n    \"image_type\": \"Photo\",\n    \"resolution_estimation\": \"Approx. 1000 x 1500 pixels\"\n  },\n  \"global_context\": {\n    \"scene_description\": \"A high-key, minimalist studio portrait of a young woman with East Asian features. She is posing with two bright red apples held against her left cheek. The aesthetic is clean and focused on skincare/beauty, characterized by soft lighting and a stark white background.\",\n    \"time_of_day\": \"N/A (Controlled studio environment)\",\n    \"weather_atmosphere\": \"Serene/Pristine\",\n    \"lighting\": {\n      \"source\": \"Artificial (Studio lamps)\",\n      \"direction\": \"Frontal/Side (Butterfly or Loop lighting variation)\",\n      \"quality\": \"Soft/Diffused\",\n      \"color_temp\": \"Neutral\"\n    }\n  },\n  \"color_palette\": {\n    \"dominant_hex_estimates\": [\n      \"#FFFFFF\",\n      \"#F8D5C8\",\n      \"#BA161D\",\n      \"#211B18\",\n      \"#E9838B\"\n    ],\n    \"accent_colors\": [\n      \"Vibrant Red\",\n      \"Pink Blush\",\n      \"Gold\"\n    ],\n    \"contrast_level\": \"High (Subject vs Background)\"\n  },\n  \"composition\": {\n    \"camera_angle\": \"Eye-level\",\n    \"framing\": \"Close-up / Portrait\",\n    \"depth_of_field\": \"Shallow (focus strictly on facial features and foreground hand/apples)\",\n    \"focal_point\": \"The subject's eyes and the apples\"\n  },\n  \"objects\": [\n    {\n      \"id\": \"obj_001\",\n      \"label\": \"Young Woman\",\n      \"category\": \"Person\",\n      \"location\": \"Center/Foreground\",\n      \"prominence\": \"Primary\",\n      \"visual_attributes\": {\n        \"color\": \"Fair skin with heavy pink/coral blush\",\n        \"texture\": \"Smooth, dewy skin\",\n        \"material\": \"Skin/Hair\",\n        \"state\": \"Posed\",\n        \"dimensions_relative\": \"Occupies 80% of vertical frame\"\n      },\n      \"micro_details\": [\n        \"Dark hair styled in a high bun\",\n        \"Subtle flyaway hairs visible at the top of the bun\",\n        \"Defined individual eyelashes on upper and lower lids\",\n        \"Glossy, pink-tinted lips with visible vertical lip lines\",\n        \"Heavy circular blush application on cheekbones\",\n        \"Dark brown irises looking toward the right of the frame\"\n      ],\n      \"pose_or_orientation\": \"Facing forward, head slightly tilted, eyes looking right\",\n      \"text_content\": \"null\"\n    },\n    {\n      \"id\": \"obj_002\",\n      \"label\": \"Top Apple\",\n      \"category\": \"Fruit\",\n      \"location\": \"Right-Center\",\n      \"prominence\": \"Foreground\",\n      \"visual_attributes\": {\n        \"color\": \"Deep red with yellow lenticels (speckles)\",\n        \"texture\": \"Smooth/Glossy\",\n        \"material\": \"Organic\",\n        \"state\": \"Fresh\",\n        \"dimensions_relative\": \"Medium\"\n      },\n      \"micro_details\": [\n        \"Diffuse white highlight from studio light on the top-right curve\",\n        \"Small yellow speckles distributed across the skin\",\n        \"Direct contact with the subject's cheek\"\n      ],\n      \"pose_or_orientation\": \"Held vertically against cheek\",\n      \"text_content\": \"null\"\n    },\n    {\n      \"id\": \"obj_003\",\n      \"label\": \"Bottom Apple\",\n      \"category\": \"Fruit\",\n      \"location\": \"Bottom-Right\",\n      \"prominence\": \"Foreground\",\n      \"visual_attributes\": {\n        \"color\": \"Deep red\",\n        \"texture\": \"Smooth\",\n        \"material\": \"Organic\",\n        \"state\": \"Fresh\",\n        \"dimensions_relative\": \"Medium\"\n      },\n      \"micro_details\": [\n        \"Being supported by the subject's palm and fingers\",\n        \"Slight shadow cast between the two apples\"\n      ],\n      \"pose_or_orientation\": \"Stacked below the first apple\",\n      \"text_content\": \"null\"\n    },\n    {\n      \"id\": \"obj_004\",\n      \"label\": \"Right Hand\",\n      \"category\": \"Body Part\",\n      \"location\": \"Bottom-Right\",\n      \"prominence\": \"Foreground\",\n      \"visual_attributes\": {\n        \"color\": \"Fair skin\",\n        \"texture\": \"Smooth\",\n        \"material\": \"Skin\",\n        \"state\": \"Active\",\n        \"dimensions_relative\": \"Medium\"\n      },\n      \"micro_details\": [\n        \"Natural fingernails with no polish\",\n        \"Thin gold ring on the pinky finger\",\n        \"Soft shadows in the palm area\"\n      ],\n      \"pose_or_orientation\": \"Cupping the bottom apple\",\n      \"text_content\": \"null\"\n    },\n    {\n      \"id\": \"obj_005\",\n      \"label\": \"Left Hand\",\n      \"category\": \"Body Part\",\n      \"location\": \"Bottom-Left\",\n      \"prominence\": \"Foreground\",\n      \"visual_attributes\": {\n        \"color\": \"Fair skin\",\n        \"texture\": \"Smooth\",\n        \"material\": \"Skin\",\n        \"state\": \"Active\",\n        \"dimensions_relative\": \"Medium\"\n      },\n      \"micro_details\": [\n        \"Index finger resting on the lower lip\",\n        \"Thin gold ring on the index finger\",\n        \"Fingernails are clean and natural\"\n      ],\n      \"pose_or_orientation\": \"Finger-to-lip gesture\",\n      \"text_content\": \"null\"\n    },\n    {\n      \"id\": \"obj_006\",\n      \"label\": \"Clothing Straps\",\n      \"category\": \"Apparel\",\n      \"location\": \"Bottom Left and Right\",\n      \"prominence\": \"Foreground\",\n      \"visual_attributes\": {\n        \"color\": \"Vibrant Red\",\n        \"texture\": \"Ribbed/Fabric\",\n        \"material\": \"Textile\",\n        \"state\": \"New\",\n        \"dimensions_relative\": \"Small\"\n      },\n      \"micro_details\": [\n        \"Thin 'spaghetti' style straps\",\n        \"Visible stitching or ribbing texture on the fabric\"\n      ],\n      \"pose_or_orientation\": \"Resting on shoulders\",\n      \"text_content\": \"null\"\n    }\n  ],\n  \"text_ocr\": {\n    \"present\": false,\n    \"content\": []\n  },\n  \"semantic_relationships\": [\n    \"Subject is holding two apples with her right hand\",\n    \"Top apple is in direct contact with subject's cheek\",\n    \"Left index finger is making contact with the subject's lower lip\",\n    \"Subject is looking away from the camera toward the right\",\n    \"The red apples color-coordinate with the subject's clothing straps and blush\"\n  ]\n}",
+      "{\n  \"meta\": {\n    \"image_quality\": \"高\",\n    \"image_type\": \"照片\",\n    \"resolution_estimation\": \"约 1000 x 1500 像素\"\n  },\n  \"global_context\": {\n    \"scene_description\": \"在简约的高调摄影棚肖像中，一位具有东亚特征的年轻女性正用左手将两个鲜红的苹果贴在她的左脸颊上。美学风格干净，注重护肤/美容，特点为柔和的光线和纯白背景。\",\n    \"time_of_day\": \"不适用（受控摄影棚环境）\",\n    \"weather_atmosphere\": \"宁静/纯净\",\n    \"lighting\": {\n      \"source\": \"人工（摄影棚灯）\",\n      \"direction\": \"正面/侧面（蝴蝶光或环形光的一种变化）\",\n      \"quality\": \"柔和/散射\",\n      \"color_temp\": \"中性\"\n    }\n  },\n  \"color_palette\": {\n    \"dominant_hex_estimates\": [\n      \"#FFFFFF\",\n      \"#F8D5C8\",\n      \"#BA161D\",\n      \"#211B18\",\n      \"#E9838B\"\n    ],\n    \"accent_colors\": [\n      \"鲜艳的红色\",\n      \"粉色腮红\",\n      \"金色\"\n    ],\n    \"contrast_level\": \"高（主体与背景对比明显）\"\n  },\n  \"composition\": {\n    \"camera_angle\": \"平视\",\n    \"framing\": \"特写/肖像\",\n    \"depth_of_field\": \"浅景深（焦点严格集中在面部特征和前景的手/苹果上）\",\n    \"focal_point\": \"主体的眼睛和苹果\"\n  },\n  \"objects\": [\n    {\n      \"id\": \"obj_001\",\n      \"label\": \"年轻女性\",\n      \"category\": \"人物\",\n      \"location\": \"中心/前景\",\n      \"prominence\": \"主要\",\n      \"visual_attributes\": {\n        \"color\": \"肤色白皙，带有浓重的粉红色/珊瑚色腮红\",\n        \"texture\": \"光滑、有光泽的皮肤\",\n        \"material\": \"皮肤/头发\",\n        \"state\": \"摆姿势\",\n        \"dimensions_relative\": \"占据垂直画面的80%\"\n      },\n      \"micro_details\": [\n        \"黑色头发在高位发髻中造型\",\n        \"顶部发髻处可见细小的毛糙发丝\",\n        \"上下眼睑定义明显的睫毛\",\n        \"带有光泽、略带粉色的嘴唇，可见垂直唇纹\",\n        \"腮红在颧骨上大量圆形涂抹\",\n        \"深棕色虹膜朝向画面右侧\"\n      ],\n      \"pose_or_orientation\": \"正面朝前，头部微微倾斜，眼睛看向右侧\",\n      \"text_content\": \"无\"\n    },\n    {\n      \"id\": \"obj_002\",\n      \"label\": \"顶部苹果\",\n      \"category\": \"水果\",\n      \"location\": \"右-中央\",\n      \"prominence\": \"前景\",\n      \"visual_attributes\": {\n        \"color\": \"深红色，带有黄色斑点\",\n        \"texture\": \"光滑/有光泽\",\n        \"material\": \"有机物\",\n        \"state\": \"新鲜\",\n        \"dimensions_relative\": \"中等大小\"\n      },\n      \"micro_details\": [\n        \"从摄影棚灯光在右上角曲线处产生漫反射白色亮点\",\n        \"散布在表皮上的小黄斑点\",\n        \"直接接触主体的脸颊\"\n      ],\n      \"pose_or_orientation\": \"垂直持握贴近脸颊\",\n      \"text_content\": \"无\"\n    },\n    {\n      \"id\": \"obj_003\",\n      \"label\": \"底部苹果\",\n      \"category\": \"水果\",\n      \"location\": \"右下\",\n      \"prominence\": \"前景\",\n      \"visual_attributes\": {\n        \"color\": \"深红色\",\n        \"texture\": \"光滑\",\n        \"material\": \"有机物\",\n        \"state\": \"新鲜\",\n        \"dimensions_relative\": \"中等大小\"\n      },\n      \"micro_details\": [\n        \"被主体的手掌和手指支撑\",\n        \"两个苹果之间投射出轻微阴影\"\n      ],\n      \"pose_or_orientation\": \"堆叠在第一个苹果下方\",\n      \"text_content\": \"无\"\n    },\n    {\n      \"id\": \"obj_004\",\n      \"label\": \"右手\",\n      \"category\": \"身体部位\",\n      \"location\": \"右下\",\n      \"prominence\": \"前景\",\n      \"visual_attributes\": {\n        \"color\": \"肤色白皙\",\n        \"texture\": \"光滑\",\n        \"material\": \"皮肤\",\n        \"state\": \"活动状态\",\n        \"dimensions_relative\": \"中等大小\"\n      },\n      \"micro_details\": [\n        \"自然指甲未涂漆\",\n        \"小指戴有细金戒指\",\n        \"手掌区域有柔和阴影\"\n      ],\n      \"pose_or_orientation\": \"托住底部苹果\",\n      \"text_content\": \"无\"\n    },\n    {\n      \"id\": \"obj_005\",\n      \"label\": \"左手\",\n      \"category\": \"身体部位\",\n      \"location\": \"左下\",\n      \"prominence\": \"前景\",\n      \"visual_attributes\": {\n        \"color\": \"肤色白皙\",\n        \"texture\": \"光滑\",\n        \"material\": \"皮肤\",\n        \"state\": \"活动状态\",\n        \"dimensions_relative\": \"中等大小\"\n      },\n      \"micro_details\": [\n        \"食指轻放在下唇上\",\n        \"食指戴有细金戒指\",\n        \"指甲干净自然\"\n      ],\n      \"pose_or_orientation\": \"手指触碰嘴唇的动作\",\n      \"text_content\": \"无\"\n    },\n    {\n      \"id\": \"obj_006\",\n      \"label\": \"衣服肩带\",\n      \"category\": \"服装\",\n      \"location\": \"左下及右下\",\n      \"prominence\": \"前景\",\n      \"visual_attributes\": {\n        \"color\": \"鲜艳的红色\",\n        \"texture\": \"条纹/织物\",\n        \"material\": \"纺织品\",\n        \"state\": \"全新\",\n        \"dimensions_relative\": \"较小\"\n      },\n      \"micro_details\": [\n        \"细肩带款式\",\n        \"织物上有可见缝线或条纹纹理\"\n      ],\n      \"pose_or_orientation\": \"休息在肩膀上\",\n      \"text_content\": \"无\"\n    }\n  ],\n  \"text_ocr\": {\n    \"present\": false,\n    \"content\": []\n  },\n  \"semantic_relationships\": [\n    \"主体用右手拿着两个苹果\",\n    \"顶部苹果直接接触主体的脸颊\",\n    \"左食指接触主体的下唇\",\n    \"主体视线偏离镜头，朝向右侧\",\n    \"红色苹果的颜色与主体的衣服肩带和腮红相配\"\n  ]\n}"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "这是一张高清晰度的摄影棚肖像，展现了一位年轻东亚女性手持两个鲜红苹果贴在脸颊旁的情景。背景纯白，光线柔和，突出了她细腻的皮肤和苹果的光泽。",
+    "tags": [
+      "portrait",
+      "high-detail",
+      "minimalist"
+    ],
+    "coverImage": "/images/2025-12-28/2005272524872187960_0.jpg",
+    "model": "gpt-4o",
+    "ratio": "",
+    "likes": 1,
+    "width": "",
+    "height": "",
+    "page_type": "native",
+    "status": 1,
+    "create_time": "2025-12-28T13:40:00.000Z",
+    "update_time": "2025-12-28T14:06:50.076Z"
+  },
+  {
+    "id": "2005291718263099431",
+    "slug": "prompt-2005291718263099431",
+    "title": "环城公路记者巴里·韦斯",
+    "source": {
+      "name": "HellfishOx",
+      "url": "https://x.com/hellfishox/status/2005291718263099431"
+    },
+    "images": [
+      "/images/2025-12-28/2005291718263099431_0.jpg"
+    ],
+    "prompts": [
+      "I want a beltway reporter that covers bari Weiss like Josina Anderson “covers” shadeur sanders. \n\nChatGPT -",
+      "我想要一个像乔西娜·安德森“报道”沙德乌尔·桑德斯那样报道巴里·韦斯的环城公路记者。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "一位风格酷似乔西娜·安德森的记者，正在报道巴里·韦斯在环城公路上的动态，充满都市节奏与新闻张力。",
+    "tags": [
+      "portrait",
+      "urban",
+      "cinematic"
+    ],
+    "coverImage": "/images/2025-12-28/2005291718263099431_0.jpg",
+    "model": "gpt-4o",
+    "ratio": "",
+    "likes": null,
+    "width": "",
+    "height": "",
+    "page_type": "native",
+    "status": 1,
+    "create_time": "2025-12-28T14:14:15.000Z",
+    "update_time": "2025-12-28T14:14:39.773Z"
+  },
+  {
+    "id": "2004371587412427000",
+    "slug": "prompt-2004371587412427000",
+    "title": "门后凝视：新黑色肖像",
+    "source": {
+      "name": "Aijaz",
+      "url": "https://x.com/iamsofiaijaz/status/2004371587412426916"
+    },
+    "images": [
+      "/images/2025-12-26/2004371587412427000_0.jpg"
+    ],
+    "prompts": [
+      "and she distanced herself despite being in love\nShe is me\n\n1. Open chatgpt\n2. Use image for reference\n3. Prompt👇\n\nCreate a hyper-realistic portrait of the women from the reference photo. A 16K, Cinematic, neo-noir close-up framed through a dark circular door, a short Platinum Blond-haired women in red jacket, dark oval shades, looking directly at camera through a circular frame while her hand with beautiful rings is reaching for the dice. Several mint-green dice scattered on a dark, wet surface in the foreground. Dramatic low-key lighting.",
+      "创作一幅基于参考照片的女性超写实肖像。16K分辨率，电影感，新黑色风格特写，画面通过一扇黑暗的圆形门框构图。一位短发铂金色头发的女性身穿红色夹克，戴着深色椭圆形墨镜，透过圆形门框直视镜头，她戴着精美戒指的手正伸向骰子。前景是黑暗潮湿的表面上散落着几颗薄荷绿色的骰子。采用戏剧性的低调布光。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "一位铂金短发女性透过黑暗圆形门框直视镜头，红夹克与墨镜营造神秘氛围，手伸向薄荷绿骰子，戏剧性低调布光强化电影感。",
+    "tags": [
+      "portrait",
+      "cinematic",
+      "noir"
+    ],
+    "coverImage": "/images/2025-12-26/2004371587412427000_0.jpg",
+    "model": "gpt-4o",
+    "ratio": "2:3",
+    "likes": 112,
+    "width": 1024,
+    "height": 1536,
+    "type": "",
+    "create_time": 1766714400000,
+    "update_time": 1766755075765,
+    "status": 1
   }
 ]

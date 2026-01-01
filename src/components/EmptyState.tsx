@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react';
-import { Heart, Tag, Sparkles, Search } from 'lucide-react';
+import { Heart, RefreshCw, Search } from 'lucide-react';
 import { Language, translations } from '../translations';
 
 interface EmptyStateProps {
@@ -8,7 +8,8 @@ interface EmptyStateProps {
     onClearFilters: () => void;
     allTags: string[];
     onSelectTag: (tag: string) => void;
-    onRandomExplore: () => void;
+    onSwitchModel: (category: string | null) => void;
+    selectedModelCategory: string | null;
     lang: Language;
 }
 
@@ -18,7 +19,8 @@ const EmptyState: React.FC<EmptyStateProps> = ({
     onClearFilters,
     allTags,
     onSelectTag,
-    onRandomExplore,
+    onSwitchModel,
+    selectedModelCategory,
     lang
 }) => {
     const t = translations[lang];
@@ -40,6 +42,12 @@ const EmptyState: React.FC<EmptyStateProps> = ({
             </h3>
 
             <p className="text-slate-500 dark:text-slate-400 text-sm max-w-xs mx-auto mb-8 leading-relaxed">
+                {selectedModelCategory && (
+                    <span className="inline-flex items-center gap-1.5 px-3 py-1 bg-gradient-to-r from-indigo-500/10 to-purple-500/10 dark:from-indigo-500/20 dark:to-purple-500/20 text-indigo-600 dark:text-indigo-400 font-medium rounded-full mb-3">
+                        {selectedModelCategory}
+                    </span>
+                )}
+                <br />
                 {showLikedOnly
                     ? t.noResultsDescLiked
                     : selectedTags.length > 0
@@ -59,10 +67,10 @@ const EmptyState: React.FC<EmptyStateProps> = ({
                             {t.clearFilters}
                         </button>
                         <button
-                            onClick={onRandomExplore}
+                            onClick={() => onSwitchModel(null)}
                             className="px-6 py-2.5 bg-primary text-white text-sm font-medium rounded-full hover:bg-primary/90 transition-all shadow-md shadow-primary/20 flex items-center justify-center gap-2"
                         >
-                            <Sparkles size={16} />
+                            <RefreshCw size={16} />
                             {t.randomExplore}
                         </button>
                     </div>

@@ -78,7 +78,7 @@ const PromptCard: React.FC<PromptCardProps> = ({ item, onClick, isLiked, onToggl
           {item.tags.slice(0, 3).map((tag, idx) => (
             <span
               key={idx}
-              className="inline-block px-1.5 py-0.5 bg-gray-100 dark:bg-slate-800 text-gray-500 dark:text-slate-400 text-[10px] rounded-md truncate max-w-[80px]"
+              className="inline-block px-2 py-0.5 bg-indigo-50 dark:bg-indigo-900/20 text-indigo-600 dark:text-indigo-300 text-[10px] font-medium rounded-full truncate max-w-[80px]"
             >
               #{tag}
             </span>

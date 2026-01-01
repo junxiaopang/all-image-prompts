@@ -25,11 +25,14 @@
       "portrait"
     ],
     "coverImage": "images/327.jpeg",
-    "model": "",
+    "model": "grok-2-image",
     "ratio": "832:1248",
     "likes": "",
     "width": 832,
-    "height": 1248
+    "height": 1248,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
   },
   {
     "id": 487,
@@ -53,10 +56,86 @@
       "interior"
     ],
     "coverImage": "images/49.jpeg",
-    "model": "",
+    "model": "grok-2-image",
     "ratio": "1024:1024",
     "likes": "",
     "width": 1024,
-    "height": 1024
+    "height": 1024,
+    "type": "image",
+    "create_time": 0,
+    "update_time": 0
+  },
+  {
+    "id": "2002773947658760200",
+    "slug": "prompt-2002773947658760200",
+    "title": "机械裂颜",
+    "source": {
+      "name": "G. Kim",
+      "url": "https://x.com/artisin_ai/status/2002773947658760312"
+    },
+    "images": [
+      "https://video.twimg.com/amplify_video/2002773895556771840/vid/avc1/642x856/9xlwIO7NxU-XVLtz.mp4"
+    ],
+    "prompts": [
+      "Get inside of Grok Imagine! You only need a simple prompt. \n\nPrompt: “The skin of her face opens up revealing the complex mechanics beneath”",
+      "进入 Grok Imagine！你只需要一个简单的提示词。\n\n提示：“她脸上的皮肤裂开，露出底下复杂的机械结构”"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "女子面容崩裂，露出精密齿轮与线路交织的机械内构，冰冷科技与血肉交融。",
+    "tags": [
+      "sci-fi",
+      "mechanical",
+      "concept-art"
+    ],
+    "coverImage": "/images/2025-12-21/2002773947658760200_cover.jpg",
+    "model": "grok-2-image",
+    "ratio": "3:4",
+    "likes": 70,
+    "width": 960,
+    "height": 1280,
+    "type": "",
+    "create_time": 1766333493000,
+    "update_time": 1766543610359,
+    "status": 1
+  },
+  {
+    "id": "2004747766657155300",
+    "slug": "prompt-2004747766657155300",
+    "title": "钢铁教父：法医级写实肖像",
+    "source": {
+      "name": "Anandh KS",
+      "url": "https://x.com/anandh_ks_/status/2004747766657155276"
+    },
+    "images": [
+      "/images/2025-12-27/2004747766657155300_0.jpg",
+      "/images/2025-12-27/2004747766657155300_1.jpg",
+      "/images/2025-12-27/2004747766657155300_2.jpg",
+      "/images/2025-12-27/2004747766657155300_3.jpg"
+    ],
+    "prompts": [
+      "ABSOLUTE FACE LOCK (NON-NEGOTIABLE)\n\nFACE LOCK – PHOTOGRAPHIC IDENTITY PRESERVATION\n\nUse the uploaded reference image as the ONLY and EXACT facial source. The generated subject must be the same individual, with 100% facial identity accuracy.\n\n❌ Do NOT beautify, stylize, enhance, idealize, age, de-age, or reinterpret the face ❌ No changes to facial proportions, bone structure, symmetry, skin texture, beard shape, hairline, or gaze ❌ No AI smoothing, no face morphing, no correction of asymmetry\n\n✔ Preserve with forensic photographic fidelity:\n\nExact bone structure & face shape\n\nNatural skin tone, pores, micro-texture, imperfections\n\nIdentical hairline, density, volume, and hairstyle\n\nExact eye shape, spacing, eyelids, and gaze\n\nIdentical beard shape, density, edges, and texture\n\nNeutral, intense expression only (no added emotion)\n\nTreat the face as a locked photographic identity, as if captured in the same second.\n\n🎥 VISUAL STYLE & COMPOSITION\n\nUltra-cinematic, high-contrast perfectly symmetrical wide shot, captured on a 35mm anamorphic lens. Set inside a vast abandoned steel mill, converted into a brutalist command center. Cold, desaturated God-rays cut through shattered skylights, revealing volumetric dust. Cracked concrete floor stained with oil, rust, and age.\n\n🪑 THE SUBJECT\n\nCentered in frame sits a mafia kingpin, face matching the uploaded reference with absolute fidelity. Seated on a makeshift throne built from weathered industrial crates, draped in distressed dark leather. Posture conveys silent authority and controlled menace — legs crossed, one arm resting casually.\n\n🧥 ATTIRE — UTILITARIAN LUXURY\n\nHeavy raw-denim jacket with visible triple stitching\n\nThick wool flannel shirt\n\nQuilted canvas vest\n\nRugged oil-tanned leather boots\n\nAll fabrics realistic, worn, tactile, and grounded.\n\n🦁 THE GUARD\n\nAt his feet lies a full-grown male lion, crouched protectively. Unsheathed claws dig into crumbling concrete. Dense mane contrasts sharply with the cold, rusted industrial setting.\n\n🎞️ CINEMATOGRAPHY & REALISM\n\nUltra-cinematic chiaroscuro lighting — deep shadows, strong contrast. Extreme 8K hyper-realism:\n\nOxidized I-beams with visible rust\n\nFlaking paint on corrugated steel walls\n\nConcrete dust, fabric fibers, leather grain\n\nPore-level facial realism (no smoothing)\n\nMood: intimidating, powerful, cinematic.\n\n🚫 NEGATIVE PROMPT (STRICT)\n\nblur, soft focus, low detail, low resolution, CGI, 3D render, cartoon, anime, illustration, painterly style, smooth skin, beauty filter, altered face, different person, face morphing, symmetry correction, de-aging, over-stylized lighting, exaggerated emotion, extra limbs, bad anatomy, watermark, text, logo",
+      "绝对面部锁定（不可协商）\n\n面部锁定——摄影级身份保留\n\n仅且必须使用上传的参考图像作为面部的唯一精确来源。生成的人物必须是同一人，面部身份准确率100%。\n\n❌ 禁止美化、风格化、增强、理想化、增龄、减龄或重新诠释面部  \n❌ 禁止更改面部比例、骨骼结构、对称性、皮肤纹理、胡须形状、发际线或眼神  \n❌ 禁止AI平滑、面部变形、不对称修正\n\n✔ 以法医级摄影保真度保留：\n\n完全一致的骨骼结构与脸型  \n自然肤色、毛孔、微纹理及瑕疵  \n完全相同的发际线、密度、体积与发型  \n完全一致的眼型、间距、眼睑与凝视方向  \n完全相同的胡须形状、密度、边缘与质感  \n仅限中性而强烈的表情（不得添加情绪）  \n\n将面部视为锁定的摄影身份，如同在同一秒内拍摄。\n\n🎥 视觉风格与构图\n\n超电影感、高对比度、完美对称的广角镜头，使用35mm变形镜头拍摄。场景设定于一座废弃的巨大钢铁厂，已被改造成粗野主义指挥中心。冰冷、去饱和的上帝之光穿过破碎的天窗，照亮空间中的体积尘埃。开裂的混凝土地面沾满油渍、锈迹与岁月痕迹。\n\n🪑 主体人物\n\n画面中央端坐一位黑帮教父，面部与上传参考图完全一致。他坐在由风化工业板条箱临时搭建的王座上，身披磨损的深色皮革。姿态传达出沉默的权威与克制的威胁——双腿交叠，单臂随意搭放。\n\n🧥 服装——实用主义奢华\n\n厚重原色牛仔夹克，可见三重缝线  \n厚实羊毛法兰绒衬衫  \n绗缝帆布背心  \n粗犷油鞣皮革靴  \n\n所有面料真实、磨损、触感强烈、扎根现实。\n\n🦁 守卫\n\n其脚边卧着一头成年雄狮，呈保护性蹲伏姿态。利爪伸出，深深嵌入碎裂的混凝土。浓密鬃毛与冰冷锈蚀的工业环境形成鲜明对比。\n\n🎞️ 摄影与写实风格\n\n超电影感明暗对照光影——深邃阴影，强烈对比。极致8K超写实细节：\n\n可见锈迹的氧化工字钢  \n波纹钢板墙上的剥落油漆  \n混凝土粉尘、织物纤维、皮革纹路  \n毛孔级面部写实（无任何平滑）\n\n氛围：威严、强势、电影感十足。\n\n🚫 负面提示（严格禁止）\n\n模糊、柔焦、低细节、低分辨率、CGI、3D渲染、卡通、动漫、插画、绘画风格、光滑皮肤、美颜滤镜、面部改动、不同人物、面部变形、对称修正、减龄、过度风格化灯光、夸张表情、多余肢体、解剖错误、水印、文字、标志"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "在废弃钢铁厂的粗野主义王座上，一位黑帮教父与雄狮共处，面部以法医级精度还原，氛围威严冷峻。",
+    "tags": [
+      "cinematic",
+      "realistic",
+      "portrait"
+    ],
+    "coverImage": "/images/2025-12-27/2004747766657155300_0.jpg",
+    "model": "grok-2-image",
+    "ratio": "3:2",
+    "likes": 373,
+    "width": 1536,
+    "height": 1024,
+    "type": "",
+    "create_time": 1766804088000,
+    "update_time": 1766925585062,
+    "status": 1
   }
 ]

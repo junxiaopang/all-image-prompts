@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "2005398855852982500",
+    "slug": "prompt-2005398855852982500",
+    "title": "Prompt Studio: Color Block Product Photography, with FLUX.2 in @AdobeFirefly",
+    "source": {
+      "name": "Alexandra Aisling",
+      "url": "https://x.com/AllaAisling/status/2005398855852982441"
+    },
+    "images": [
+      "/images/2025-12-28/2005398855852982500_0.jpg",
+      "/images/2025-12-28/2005398855852982500_1.jpg",
+      "/images/2025-12-28/2005398855852982500_2.jpg",
+      "/images/2025-12-28/2005398855852982500_3.jpg"
+    ],
+    "prompts": [
+      "Yellow rain boots placed within bold color-blocked environment, violet and mustard complementary scheme, hard edges between color zones, graphic design influence, pop art aesthetic, flat lighting, editorial product photography, striking simplicity.",
+      "Mint green retro radio placed within bold color-blocked environment, coral and seafoam complementary scheme, hard edges between color zones, graphic design influence, pop art aesthetic, flat lighting, editorial product photography, striking simplicity.",
+      "Bright pink blender placed within bold color-blocked environment, bubblegum pink and electric lime contrasting scheme, hard edges between color zones, graphic design influence, pop art aesthetic, flat lighting, editorial product photography, striking simplicity.",
+      "White wireless earbuds case placed within bold color-blocked environment, electric blue and tangerine orange complementary scheme, hard edges between color zones, graphic design influence, pop art aesthetic, flat lighting, editorial product photography, striking simplicity."
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "",
+    "tags": [],
+    "coverImage": "/images/2025-12-28/2005398855852982500_0.jpg",
+    "model": "flux-2",
+    "ratio": "45:34",
+    "likes": 130,
+    "width": 1440,
+    "height": 1088,
+    "type": "",
+    "create_time": 1766959320000,
+    "update_time": 1767023973699,
+    "status": 1
+  }
+]

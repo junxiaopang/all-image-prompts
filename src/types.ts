@@ -19,6 +19,9 @@ export interface PromptItem {
   likes?: number;
   ratio?: string;
   model?: string;
+  modelId?: string;
+  create_time?: number;
+  update_time?: number;
   // authorAvatar removed
 }
 

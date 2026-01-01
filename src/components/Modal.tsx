@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import { X, Copy, Heart, Tag, Sparkles, AlertCircle, ExternalLink, ChevronLeft, ChevronRight, Wand2 } from 'lucide-react';
+import { X, Copy, Heart, Tag, Sparkles, AlertCircle, ExternalLink, ChevronLeft, ChevronRight, Wand2, Image as ImageIcon, FileText } from 'lucide-react';
 import { PromptItem } from '../types';
 import { Language, translations } from '../translations';
 import { useToast } from './Toast';
@@ -24,12 +24,14 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
 
   const [activeTab, setActiveTab] = useState<number | 'optimized'>(getDefaultTab());
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
+  const [mobileTab, setMobileTab] = useState<'preview' | 'detail'>('detail');
 
   // Reset state when item changes
   useEffect(() => {
     setOptimizedText(null);
     setActiveTab(getDefaultTab()); // 使用动态默认标签
     setCurrentImageIndex(0);
+    setMobileTab('detail');
   }, [item]);
 
   if (!item) return null;
@@ -86,13 +88,45 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
         {/* Close Button Mobile */}
         <button
           onClick={onClose}
-          className="absolute top-4 right-4 z-10 p-2 bg-black/50 text-white rounded-full lg:hidden backdrop-blur-md"
+          className="absolute top-4 right-4 z-10 p-2 bg-black/50 text-white rounded-full lg:hidden backdrop-blur-md hidden"
         >
           <X size={20} />
         </button>
 
+        {/* Mobile Tabs Navigation */}
+        <div className="flex lg:hidden w-full border-b border-gray-100 dark:border-dark-border bg-white dark:bg-dark-card">
+          <button
+            onClick={() => setMobileTab('preview')}
+            className={`flex-1 py-3 flex items-center justify-center gap-2 text-sm font-medium transition-colors relative ${
+              mobileTab === 'preview' 
+                ? 'text-primary' 
+                : 'text-gray-500 dark:text-slate-400 hover:text-gray-900 dark:hover:text-slate-200'
+            }`}
+          >
+            <ImageIcon size={16} />
+            <span>{t.preview}</span>
+            {mobileTab === 'preview' && (
+              <div className="absolute bottom-0 left-0 w-full h-0.5 bg-primary" />
+            )}
+          </button>
+          <button
+            onClick={() => setMobileTab('detail')}
+            className={`flex-1 py-3 flex items-center justify-center gap-2 text-sm font-medium transition-colors relative ${
+              mobileTab === 'detail' 
+                ? 'text-primary' 
+                : 'text-gray-500 dark:text-slate-400 hover:text-gray-900 dark:hover:text-slate-200'
+            }`}
+          >
+            <FileText size={16} />
+            <span>{t.promptInfo}</span>
+            {mobileTab === 'detail' && (
+              <div className="absolute bottom-0 left-0 w-full h-0.5 bg-primary" />
+            )}
+          </button>
+        </div>
+
         {/* Left: Image Area */}
-        <div className="w-full lg:w-3/5 bg-gray-100 dark:bg-black/40 flex items-center justify-center bg-checkered p-2 sm:p-4 lg:p-0 overflow-hidden relative group select-none">
+        <div className={`w-full lg:w-3/5 bg-gray-100 dark:bg-black/40 flex items-center justify-center bg-checkered p-2 sm:p-4 lg:p-0 overflow-hidden relative group select-none lg:flex ${mobileTab === 'preview' ? 'flex flex-1' : 'hidden'}`}>
           <img
             src={displayImages[currentImageIndex]}
             alt={`${item.title} - view ${currentImageIndex + 1}`}
@@ -136,7 +170,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
         </div>
 
         {/* Right: Details Area */}
-        <div className="w-full lg:w-2/5 flex flex-col bg-white dark:bg-dark-card border-t lg:border-l border-gray-100 dark:border-dark-border h-full">
+        <div className={`w-full lg:w-2/5 flex flex-col bg-white dark:bg-dark-card border-t lg:border-l border-gray-100 dark:border-dark-border h-full lg:flex ${mobileTab === 'detail' ? 'flex flex-1 overflow-hidden' : 'hidden'}`}>
           {/* Header */}
           <div className="p-4 sm:p-6 border-b border-gray-100 dark:border-dark-border flex items-start justify-between">
             <div>
@@ -158,7 +192,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
             {/* Close Button Desktop */}
             <button
               onClick={onClose}
-              className="p-2 hover:bg-gray-100 dark:hover:bg-slate-800 rounded-full text-gray-500 dark:text-slate-400 transition-colors hidden lg:block"
+              className="p-2 hover:bg-gray-100 dark:hover:bg-slate-800 rounded-full text-gray-500 dark:text-slate-400 transition-colors"
             >
               <X size={24} />
             </button>
@@ -208,7 +242,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
               </div>
 
               <div className="relative group/prompt">
-                <div className="bg-gray-50 dark:bg-slate-900/50 rounded-lg sm:rounded-xl p-3 sm:p-4 border border-gray-200 dark:border-dark-border text-gray-700 dark:text-slate-300 text-xs sm:text-sm leading-relaxed h-[150px] sm:h-[180px] overflow-y-auto">
+                <div className="bg-gray-50 dark:bg-slate-900/50 rounded-lg sm:rounded-xl p-3 sm:p-4 border border-gray-200 dark:border-dark-border text-gray-700 dark:text-slate-300 text-xs sm:text-sm leading-relaxed h-[150px] sm:h-[180px] overflow-y-auto whitespace-pre-wrap">
                   {getCurrentText()}
                 </div>
                 <button
@@ -237,7 +271,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
               <h3 className="text-xs sm:text-sm font-bold text-gray-400 dark:text-slate-500 uppercase tracking-wider mb-2 sm:mb-3">{t.tagsLabel}</h3>
               <div className="flex flex-wrap gap-1.5 sm:gap-2">
                 {item.tags.map(tag => (
-                  <span key={tag} className="inline-flex items-center gap-1 px-2 sm:px-3 py-0.5 sm:py-1 bg-gray-100 dark:bg-slate-800 text-gray-600 dark:text-slate-400 rounded-full text-xs font-medium hover:bg-gray-200 dark:hover:bg-slate-700 cursor-pointer transition-colors">
+                  <span key={tag} className="inline-flex items-center gap-1 px-2 sm:px-3 py-0.5 sm:py-1 bg-indigo-50 dark:bg-indigo-900/20 text-indigo-600 dark:text-indigo-300 rounded-full text-xs font-medium hover:bg-indigo-100 dark:hover:bg-indigo-900/40 border border-indigo-100 dark:border-indigo-800/20 cursor-pointer transition-colors">
                     <Tag size={10} className="sm:w-3 sm:h-3" />
                     {tag}
                   </span>
@@ -250,6 +284,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
           <div className="p-3 sm:p-4 border-t border-gray-100 dark:border-dark-border bg-gray-50 dark:bg-slate-900/50">
             <div className="flex justify-center items-center text-xs text-gray-400 dark:text-slate-600">
                © Image by {item.source.name}
+               {/* {item.id} */}
             </div>
           </div>
         </div>

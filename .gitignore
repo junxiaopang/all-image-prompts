@@ -16,7 +16,7 @@ dist
 dist-ssr
 coverage
 scripts
-
+public
 # System Files
 .DS_Store
 Thumbs.db

@@ -37,8 +37,8 @@ const TagsFilter: React.FC<TagsFilterProps> = ({
                 <button
                     onClick={onClearTags}
                     className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${selectedTags.length === 0
-                        ? 'bg-primary dark:bg-slate-200 text-white dark:text-slate-900 border-primary dark:border-slate-200 shadow-md'
-                        : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700'
+                        ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white border-transparent shadow-md shadow-indigo-500/20'
+                        : 'bg-white dark:bg-slate-800/80 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-indigo-300 dark:hover:border-indigo-500/50 hover:text-indigo-600 dark:hover:text-indigo-400 hover:shadow-sm'
                         }`}
                 >
                     {t.tagAll}
@@ -51,8 +51,8 @@ const TagsFilter: React.FC<TagsFilterProps> = ({
                             key={tag}
                             onClick={() => onToggleTag(tag)}
                             className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center gap-1 ${isSelected
-                                ? 'bg-primary text-white border-primary shadow-md'
-                                : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-700 hover:border-primary/30 dark:hover:border-primary/50 hover:text-primary dark:hover:text-primary'
+                                ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white border-transparent shadow-lg shadow-indigo-500/30'
+                                : 'bg-white dark:bg-slate-800/80 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-indigo-300 dark:hover:border-indigo-500/50 hover:text-indigo-600 dark:hover:text-indigo-400 hover:shadow-sm'
                                 }`}
                         >
                             {tag}

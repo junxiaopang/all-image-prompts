@@ -4,22 +4,13 @@ import { PromptItem } from './types';
 // 动态加载数据文件
 const loadPromptData = async () => {
   try {
-    console.log('开始加载各个数据文件...');
     const [seedreamData, midjourneyData, gptData, grokData, geminiData] = await Promise.all([
-      import('./data/seedream.json').then(m => { console.log('seedream.json loaded:', m.default?.length || 0); return m.default || m; }),
-      import('./data/midjourney.json').then(m => { console.log('midjourney.json loaded:', m.default?.length || 0); return m.default || m; }),
-      import('./data/chatgpt.json').then(m => { console.log('chatgpt.json loaded:', m.default?.length || 0); return m.default || m; }),
-      import('./data/grok.json').then(m => { console.log('grok.json loaded:', m.default?.length || 0); return m.default || m; }),
-      import('./data/gemini.json').then(m => { console.log('gemini.json loaded:', m.default?.length || 0); return m.default || m; }),
+      import('./data/seedream.json').then(m => { return m.default || m; }),
+      import('./data/midjourney.json').then(m => { return m.default || m; }),
+      import('./data/chatgpt.json').then(m => { return m.default || m; }),
+      import('./data/grok.json').then(m => { return m.default || m; }),
+      import('./data/gemini.json').then(m => { return m.default || m; }),
     ]);
-
-    console.log('各个文件数据长度:', {
-      seedream: seedreamData?.length || 0,
-      midjourney: midjourneyData?.length || 0,
-      gpt: gptData?.length || 0,
-      grok: grokData?.length || 0,
-      gemini: geminiData?.length || 0
-    });
 
     // 合并所有数据
     const allData = [
@@ -30,10 +21,9 @@ const loadPromptData = async () => {
       ...(Array.isArray(geminiData) ? geminiData : [])
     ];
 
-    console.log('合并后的总数据条数:', allData.length);
     return { list: allData };
   } catch (error) {
-    console.error('加载数据文件失败:', error);
+    // console.error('加载数据文件失败:', error);
     return { list: [] };
   }
 };
@@ -44,14 +34,16 @@ const getRandomLikes = () => Math.floor(Math.random() * 2000) + 100;
 // 模型和名称映射
 export const MODEL_MAP = {
   'midjourney-v6': 'Midjourney v6',
+  'midjourney-v7': 'Midjourney v7',
   'dall-e-2': 'DALL-E 2',
   'dall-e-3': 'DALL-E 3',
-  'gpt-image-1': 'GPT-4o',
+  'gpt-image-1': 'gpt-image-1',
   'gpt-4o': 'GPT-4o',
   'gpt-5': 'GPT-5',
   'gemini-3-pro-image-preview': 'NanoBanana Pro',
   'gemini-2.5-flash-image': 'NanoBanana 2.5 Flash',
   'grok-2-image': 'Grok-2',
+  'grok': 'Grok',
   'high_aes_general_v40': 'Seedream4.0',
   'high_aes_general_v20_L:general_v2.0_L': 'Seedream2.0',
   'high_aes_general_v21_L:general_v2.1_L': 'Seedream2.1',
@@ -69,7 +61,7 @@ export const MODEL_CATEGORIES = {
     'high_aes_general_v30l:general_v3.0_18b',
     'high_aes_general_v30l_art_fangzhou:general_v3.0_18b'
   ],
-  'Midjourney': ['midjourney-v6'],
+  'Midjourney': ['midjourney-v5','midjourney-v6','midjourney-v7'],
   'GPT': ['dall-e-2', 'dall-e-3','gpt-image-1','gpt-4o','gpt-5'],
   'Grok': ['grok-2-image']
 };
@@ -102,12 +94,15 @@ export const getPromptList = async (): Promise<PromptItem[]> => {
   source: item.source || { name: 'Unknown', url: '#' },
   likes: item.likes || getRandomLikes(),
   ratio: item.ratio || "",
+  modelId: item.model,
   model: MODEL_MAP[item.model] || MODEL_MAP['grok'],
   // Ensure coverImage and images fields exist to prevent blank screen
   coverImage: item.coverImage || getPlaceholderImage(item.id || index + 1),
   images: item.images || [getPlaceholderImage(item.id || index + 1)],
     // Ensure tags exist as an array
-    tags: item.tags || []
+    tags: item.tags || [],
+    create_time: item.create_time || 0,
+    update_time: item.update_time || 0,
   }));
 };
 

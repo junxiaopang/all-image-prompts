@@ -6,83 +6,110 @@ export interface Category {
     id: string;
     label: { zh: string; en: string };
     tags: string[];
+    logic?: 'AND' | 'OR'; // 默认是 OR
+    includeLabelInSearch?: boolean; // 默认是 false (true means label is part of search keywords)
 }
 
 export const CATEGORIES: Category[] = [
     {
         id: 'emoji',
         label: { zh: '表情包', en: 'Emoji' },
-        tags: ['表情包', 'emoji', 'sticker', 'Q版', 'chibi']
+        tags: ['emoji', 'sticker', 'chibi'],
+        logic: 'OR',
+        includeLabelInSearch: true
     },
     {
-        id: 'photo',
-        label: { zh: '写真摄影', en: 'Photography' },
-        tags: ['写真', 'photo', 'realistic', 'photography']
-    },
-    {
-        id: 'style',
-        label: { zh: '风格转换', en: 'Style Transfer' },
-        tags: [ "anime","cartoon","chinese-style","oil-painting","watercolor", 'art-style']
-    },
-    {
-        id: 'avatar',
-        label: { zh: '头像生成', en: 'Avatar' },
-        tags: ['头像', 'portrait', 'avatar', 'headshot']
+        id: 'portrait',
+        label: { zh: '写真', en: 'Portrait' },
+        tags: ['portrait','photo','photography'],
+        logic: 'OR',
+        includeLabelInSearch: true
     },
     {
         id: 'comic',
-        label: { zh: '多格漫画', en: 'Comic' },
-        tags: ['漫画', '多格', '分镜',  "comic", "graphic-novel", "line-art","hand-drawn", 'manga']
+        label: { zh: '漫画', en: 'Comic' },
+        tags: ["comic"],
+        logic: 'AND',
+        includeLabelInSearch: false
     },
     {
         id: 'ecommerce',
         label: { zh: '电商营销', en: 'E-commerce' },
-        tags: ['电商', 'e-commerce', 'product', 'advertisement','product','flat-design','节日', 'festival', 'christmas', 'new-year','poster',"festival","festive"]
+        tags: ['e-commerce', 'product', 'advertisement','product','flat-design','节日', 'festival', 'christmas', 'new-year','poster',"festival","festive"],
+        logic: 'OR',
+        includeLabelInSearch: false
+    },
+    {
+        id: 'cover',
+        label: { zh: '封面', en: 'Cover' },
+        tags: ["cover"],
+        logic: 'AND',
+        includeLabelInSearch: true
+    },
+    {
+        id: 'avatar',
+        label: { zh: '头像', en: 'Avatar' },
+        tags: ["avatar"],
+        logic: 'AND',
+        includeLabelInSearch: false
+    },
+    {
+        id: 'style',
+        label: { zh: '风格转换', en: 'Style Transfer' },
+        tags: [ "anime","cartoon","chinese-style","oil-painting","watercolor", 'art-style'],
+        logic: 'OR',
+        includeLabelInSearch: false
     },
     {
         id: 'product',
         label: { zh: '文创周边', en: 'Product' },
-        tags: ['文创', '产品', 'product', 'design', 'mockup', '3d-model', 'blind-box', '3D', 'figure', 'blind-box',  "clay","miniature","sculpture","toy","craftsmanship"]
+        tags: ['product', 'design', 'mockup', '3d-model', 'blind-box', '3D', 'figure', 'blind-box',  "clay","miniature","sculpture","toy","craftsmanship"],
+        logic: 'OR',
+        includeLabelInSearch: false
     },
     {
         id: 'illustration',
-        label: { zh: '风格插画', en: 'Illustration' },
-        tags: ['插画', 'illustration', 'art', 'graphic-novel', 'line-art', 'hand-drawn', 'cartoon']
+        label: { zh: '插画', en: 'Illustration' },
+        tags: ['illustration', 'art', 'graphic-novel', 'line-art', 'hand-drawn', 'cartoon','children_book'],
+        logic: 'OR',
+        includeLabelInSearch: true
     },
     {
         id: 'architecture',
         label: { zh: '建筑及室内设计', en: 'Architecture and Interior Design' },
-        tags: ['建筑', 'architecture', 'interior-design','modern', 'classical', 'minimalist']
+        tags: ['architecture', 'interior-design','modern', 'classical', 'minimalist'],
+        logic: 'OR',
+        includeLabelInSearch: false
     },
     {
         id: 'traditional-chinese',
-        label: { zh: '国风创作', en: 'Traditional Chinese Art' },
-        tags: ['国风', '中式', 'chinese-style', 'ink', 'calligraphy', 'traditional']
+        label: { zh: '中国风', en: 'Chinese Art' },
+        tags: ['chinese-style', 'calligraphy', 'traditional'],
+        includeLabelInSearch: false
     },
     {
         id: 'gaming-asset',
         label: { zh: '游戏素材', en: 'Gaming Asset' },
-        tags: ['游戏', 'gaming', 'concept-art','cg','prop','pixel','game']
+        tags: ['gaming', 'cg','prop','game'],
+        includeLabelInSearch: false
     },
     {
         id: 'ui-ux-design',
         label: { zh: 'UI/UX设计', en: 'UI/UX Design' },
-        tags: ['UI', 'UX', 'ui', 'flat-design', 'grid', 'typography', 'graphic-novel']
+        tags: ['UI', 'UX', 'ui', 'flat-design', 'grid', 'typography', 'graphic-novel'],
+        includeLabelInSearch: false
     },
     {
         id: 'food-photo',
         label: { zh: '美食摄影', en: 'Food Photography' },
-        tags: ['美食', 'food', 'photography', 'macro-photography', 'colorful', 'high-quality']
-    },
-    {
-        id: 'children-illustration',
-        label: { zh: '儿童插画', en: 'Children Illustration' },
-        tags: ['儿童', 'children', 'children_book', 'childlike', 'cute', 'cartoon', 'watercolor', 'hand-drawn']
+        tags: ['food', 'photography', 'macro-photography', 'colorful', 'high-quality'],
+        includeLabelInSearch: false
     },
     {
         id: 'cinematic-shot',
         label: { zh: '电影感镜头', en: 'Cinematic Shot' },
-        tags: ['电影感', 'cinematic', 'film', 'movie', 'dramatic', 'landscape', 'night']
+        tags: ['cinematic', 'film', 'movie', 'dramatic', 'landscape', 'night'],
+        includeLabelInSearch: false
     }
 ];
 
@@ -115,8 +142,8 @@ const CategoryFilter: React.FC<CategoryFilterProps> = ({
             <button
                 onClick={() => onSelectCategory(null)}
                 className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${selectedCategory === null
-                    ? 'bg-primary dark:bg-slate-200 text-white dark:text-slate-900 border-primary dark:border-slate-200 shadow-md'
-                    : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700'
+                    ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white border-transparent shadow-md shadow-indigo-500/20'
+                    : 'bg-white dark:bg-slate-800/80 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-indigo-300 dark:hover:border-indigo-500/50 hover:text-indigo-600 dark:hover:text-indigo-400 hover:shadow-sm'
                     }`}
             >
                 {lang === 'zh' ? '全部' : 'All'}
@@ -127,8 +154,8 @@ const CategoryFilter: React.FC<CategoryFilterProps> = ({
                         key={category.id}
                         onClick={() => onSelectCategory(selectedCategory === category.id ? null : category)}
                         className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center gap-1 whitespace-nowrap ${selectedCategory === category.id
-                            ? 'bg-primary text-white border-primary shadow-md'
-                            : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-primary/30 dark:hover:border-primary/50 hover:text-primary dark:hover:text-primary'
+                            ? 'bg-gradient-to-r from-indigo-500 to-purple-500 text-white border-transparent shadow-lg shadow-indigo-500/30'
+                            : 'bg-white dark:bg-slate-800/80 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-indigo-300 dark:hover:border-indigo-500/50 hover:text-indigo-600 dark:hover:text-indigo-400 hover:shadow-sm'
                             }`}
                     >
                         {category.label[lang]}
