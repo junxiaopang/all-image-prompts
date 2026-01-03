@@ -1,6 +1,6 @@
 [
   {
-    "id": 236,
+    "id": "236",
     "slug": "prompt-327",
     "title": "美女电影感肖像画",
     "source": {
@@ -35,7 +35,7 @@
     "update_time": 0
   },
   {
-    "id": 487,
+    "id": "487",
     "slug": "prompt-49",
     "title": "超现实海洋图案",
     "source": {
@@ -137,5 +137,76 @@
     "create_time": 1766804088000,
     "update_time": 1766925585062,
     "status": 1
+  },
+  {
+    "id": "2004706544340844722",
+    "slug": "prompt-2004706544340844722",
+    "title": "冬日黄昏：静谧夜晚的优雅",
+    "source": {
+      "name": "𝑺𝒐𝒏𝒖 𝑺𝒊𝒏𝒈𝒉",
+      "url": "https://x.com/sonucnc2/status/2004706544340844722"
+    },
+    "images": [
+      "/images/2025-12-27/2004706544340844722_0.jpg",
+      "/images/2025-12-27/2004706544340844722_1.jpg"
+    ],
+    "prompts": [
+      "A calm winter morning, softened by golden light.\nQuiet streets, warm layers, and a peaceful start to the day.\n\nGrok Ai   vs  Gemini \nPrompt \n{\n  \"image_prompt\": {\n    \"title\": \"Winter Dusk – Quiet Evening Elegance\",\n    \"layout\": {\n      \"type\": \"2x2 Grid\",\n      \"consistency\": \"Single model, serene lifestyle editorial, muted winter tones\"\n    },\n    \"subject_global\": {\n      \"demographics\": \"Young woman, timeless and graceful presence\",\n      \"hair\": \"Straight or softly waved hair, partially covered with scarf\",\n      \"makeup\": \"Soft matte skin, neutral blush, nude lips, subtle eye definition\",\n      \"expression_base\": \"Calm warmth, introspective mood\",\n      \"wardrobe\": {\n        \"outerwear\": \"Camel brown or muted olive long winter coat\",\n        \"inner_layer\": \"High-neck knit sweater in cream or mocha tones\",\n        \"accessories\": [\n          \"Wool scarf wrapped snugly\",\n          \"Leather boots\",\n          \"Minimal gold earrings\"\n        ]\n      }\n    },\n    \"environment_global\": {\n      \"location\": \"Quiet winter street near cafés or old city architecture\",\n      \"elements\": [\n        \"Soft street lights\",\n        \"Light snowflakes or cold evening air\"\n      ],\n      \"lighting\": \"Blue-hour light mixed with warm ambient lamps\"\n    },\n    \"frames\": [\n      {\n        \"position\": \"Top Left\",\n        \"theme\": \"EVENING STILLNESS\",\n        \"composition\": {\n          \"shot_size\": \"Medium close-up\",\n          \"angle\": \"Eye level\",\n          \"depth\": \"Soft blurred lights behind\"\n        },\n        \"action\": {\n          \"pose\": \"Hands wrapped around a warm cup, eyes lowered\"\n        },\n        \"emotion\": \"Quiet comfort\",\n        \"atmosphere\": \"Cold evening calm\"\n      },\n      {\n        \"position\": \"Top Right\",\n        \"theme\": \"WINTER DETAILS\",\n        \"composition\": {\n          \"shot_size\": \"Close-up\",\n          \"angle\": \"45-degree side\"\n        },\n        \"action\": {\n          \"pose\": \"Adjusting coat buttons or scarf\"\n        },\n        \"emotion\": \"Soft elegance\",\n        \"focus\": \"Fabric texture and warm light on hands\"\n      },\n      {\n        \"position\": \"Bottom Left\",\n        \"theme\": \"SLOW WALK HOME\",\n        \"composition\": {\n          \"shot_size\": \"Medium shot\",\n          \"angle\": \"Rear three-quarter view\"\n        },\n        \"action\": {\n          \"pose\": \"Walking slowly under street lights\"\n        },\n        \"emotion\": \"Peaceful solitude\",\n        \"background_specifics\": \"Empty road, glowing lamps, winter haze\"\n      },\n      {\n        \"position\": \"Bottom Right\",\n        \"theme\": \"QUIET GLOW\",\n        \"composition\": {\n          \"shot_size\": \"Tight medium close-up\",\n          \"angle\": \"Straight-on\"\n        },\n        \"action\": {\n          \"pose\": \"Soft smile, relaxed shoulders\"\n        },\n        \"emotion\": \"Warm, composed\",\n        \"details\": \"Natural skin, gentle rim light from street lamp\"\n      }\n    ],\n    \"technical_specs\": {\n      \"camera\": {\n        \"lens\": \"50 mm\",\n        \"aperture\": \"f/1.8\",\n        \"depth_of_field\": \"Creamy bokeh, cinematic separation\"\n      },\n      \"textures\": {\n        \"coat\": \"Wool blend texture\",\n        \"skin\": \"Natural evening realism\",\n        \"air\": \"Cool tones with warm highlights\"\n      },\n      \"style_modifiers\": [\n        \"Calm winter lifestyle\",\n        \"Cinematic minimal fashion\",\n        \"Aesthetic social-media editorial\"\n      ],\n      \"color_grading\": \"Cool blues, warm ambers, soft browns, balanced contrast\"\n    }\n  }\n}",
+      "冬日黄昏——静谧夜晚的优雅  \n整体布局：2x2 网格，使用单一模型，呈现宁静的生活方式杂志风格，色调为柔和的冬季低饱和色系  \n\n主体人物：  \n- 年轻女性，气质永恒而优雅  \n- 直发或微卷发型，部分被围巾遮盖  \n- 妆容：柔雾肌感、自然腮红、裸色唇妆、眼妆细腻低调  \n- 表情基调：平静温暖，略带沉思  \n- 服装：  \n  - 外套：驼棕色或哑光橄榄绿长款冬大衣  \n  - 内搭：米白或摩卡色高领针织衫  \n  - 配饰：羊毛围巾紧密围裹、皮质靴子、极简金色耳钉  \n\n环境设定：  \n- 地点：安静的冬日街道，邻近咖啡馆或老城建筑  \n- 元素：柔和街灯、轻盈雪花或寒冷夜气  \n- 光线：蓝调时刻光线与温暖环境灯光交融  \n\n四帧构图：  \n\n左上：  \n- 主题：夜晚的静谧  \n- 构图：中近景，平视角度，背景灯光柔焦虚化  \n- 动作：双手捧着热饮，目光低垂  \n- 情绪：安静的舒适感  \n- 氛围：寒夜中的宁静  \n\n右上：  \n- 主题：冬日细节  \n- 构图：特写，45度侧角  \n- 动作：整理大衣纽扣或围巾  \n- 情绪：柔和的优雅  \n- 焦点：织物纹理与手部暖光  \n\n左下：  \n- 主题：缓步归家  \n- 构图：中景，后方三分之二视角  \n- 动作：在街灯下缓缓行走  \n- 情绪：平和的独处  \n- 背景细节：空旷道路、发光路灯、冬日薄雾  \n\n右下：  \n- 主题：静谧微光  \n- 构图：紧凑中近景，正面直视  \n- 动作：淡淡微笑，肩膀放松  \n- 情绪：温暖而沉稳  \n- 细节：自然肤质，街灯勾勒出柔和轮廓光  \n\n技术参数：  \n- 镜头：50mm，光圈 f/1.8，奶油般柔焦背景，电影级层次分离  \n- 材质表现：羊毛混纺大衣质感、自然夜晚肌肤效果、冷调氛围中带有暖色高光  \n- 风格修饰：宁静冬日生活方式、电影感极简时尚、美学社交媒体专题风格  \n- 色彩调性：冷蓝、暖琥珀、柔和棕褐，对比均衡"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "展现年轻女性在冬夜街道上的优雅与宁静。通过捧热饮、整围巾、缓步行走和微笑四个场景，捕捉寒夜中的温暖瞬间。",
+    "tags": [
+      "cinematic",
+      "portrait",
+      "night"
+    ],
+    "coverImage": "/images/2025-12-27/2004706544340844722_0.jpg",
+    "model": "grok",
+    "ratio": "",
+    "likes": 255,
+    "width": "",
+    "height": "",
+    "page_type": "native",
+    "status": 1,
+    "create_time": "2025-12-27T00:11:00.000Z",
+    "update_time": "2025-12-30T13:07:54.459Z"
+  },
+  {
+    "id": "2005838176729063677",
+    "slug": "prompt-2005838176729063677",
+    "title": "阳光公园中的年轻女子",
+    "source": {
+      "name": "yusra.",
+      "url": "https://x.com/chatgptpaglu/status/2005838176729063677"
+    },
+    "images": [
+      "/images/2025-12-30/2005838176729063677_0.jpg"
+    ],
+    "prompts": [
+      "Grok AI\nPrompt:\n{\n  \"image_description\": \"A medium shot of a young woman with long, dark espresso-colored hair and soft curtain bangs posing outdoors in a sun-drenched park.\",\n  \"subject_details\": {\n    \"features\": \"Youthful face, porcelain skin with a soft blush, dark eyes, and warm reddish-pink lipstick.\",\n    \"hair\": \"Long, flowing dark brown hair with natural volume and wispy bangs framing the face.\",\n    \"pose\": \"Looking off-camera with a slight, natural smile, one hand gently touching her hair.\"\n  },\n  \"attire_and_accessories\": {\n    \"clothing\": \"A light sky-blue halter neck top paired with low-rise light-wash denim jeans.\",\n    \"jewelry\": \"Layered necklaces including a thin pearl choker, a gold chain with a Hamsa pendant, and a colorful beaded strand; gold bangles on the wrists and a delicate gold belly chain.\"\n  },\n  \"environment\": {\n    \"setting\": \"A paved walkway in a lush park with tall green trees and dappled sunlight filtering through the leaves.\",\n    \"lighting\": \"Bright, natural golden hour sunlight creating soft shadows and highlights on the subject's hair and skin.\",\n    \"atmosphere\": \"Serene, aesthetic, and summery.\"\n  },\n  \"technical_specs\": {\n    \"camera\": \"High-resolution photography, 35mm lens, f/2.8 aperture for slight background blur.\",\n    \"style\": \"Lifestyle photography, cinematic lighting, vibrant colors.\"\n  }\n}",
+      "中景拍摄一位年轻女子，她有着长长的深咖啡色头发和柔和的窗帘式刘海，在阳光明媚的公园户外摆姿势。\n\n特征：年轻的面孔，瓷白的皮肤带有柔和的红晕，深色的眼睛，以及暖红色的唇膏。\n发型：长而飘逸的深棕色头发，自然蓬松，轻盈的刘海修饰着脸庞。\n姿势：目光偏离镜头，带着轻微自然的微笑，一只手轻轻触摸着她的头发。\n\n穿着与配饰：穿着浅天蓝色的吊带背心搭配低腰浅色水洗牛仔裤。佩戴多层次项链，包括一条细珍珠项圈、一条带有法蒂玛之手吊坠的金链和一条彩色珠子串成的项链；手腕上戴着金手镯，腰部系有精致的金色肚链。\n\n环境：位于一个郁郁葱葱的公园内的铺砌小道上，周围有高大的绿树，斑驳的阳光透过树叶洒下。\n光线：明亮的自然黄金时段阳光，在主题的头发和皮肤上创造出柔和的阴影和亮点。\n氛围：宁静、美观且充满夏日气息。\n\n技术规格：高分辨率摄影，使用35毫米镜头，f/2.8光圈以产生轻微的背景模糊。风格：生活方式摄影，电影照明，鲜艳的色彩。"
+    ],
+    "examples": [],
+    "notes": [],
+    "originFile": "",
+    "description": "在郁郁葱葱的公园中，一位有着长深棕色头发和瓷白皮肤的年轻女子站在铺砌的小道上，穿着浅蓝色吊带背心与浅色牛仔裤，佩戴着多层次项链和金饰。她轻柔地微笑，手指触碰发丝，享受着夏日的宁静与美好。",
+    "tags": [
+      "portrait",
+      "fashion",
+      "cinematic"
+    ],
+    "coverImage": "/images/2025-12-30/2005838176729063677_0.jpg",
+    "model": "grok-2-image",
+    "ratio": "",
+    "likes": 152,
+    "width": "",
+    "height": "",
+    "page_type": "native",
+    "status": 1,
+    "create_time": "2025-12-30T03:07:42.000Z",
+    "update_time": "2025-12-30T13:08:15.279Z"
   }
 ]
