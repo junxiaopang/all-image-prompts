@@ -96,7 +96,7 @@ const App: React.FC = () => {
 
   // Update document title based on language
   useEffect(() => {
-    document.title = lang === 'zh' ? '绘图词-即梦4.0 Seedream4.0,nanobanana, gpt4o, chatgpt 提示词案例' : 'Draw Prompts - AI Art Gallery - Seedream4.0,nanobanana, gpt4o, chatgpt prompts';
+    document.title = lang === 'zh' ? '绘图词提供nanobanana,gpt4o,chatgpt,grok,flux,dalle3,即梦Seedream提示词案例' : 'Draw Prompts - AI Art Gallery - Seedream4.0,nanobanana, gpt4o, chatgpt prompts';
   }, [lang]);
 
   // 加载数据

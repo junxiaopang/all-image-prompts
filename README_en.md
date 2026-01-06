@@ -8,6 +8,16 @@ This is a modern AI image prompt showcase and management platform built with **R
 
 🚀 **Live Demo**: [https://prompts.kkkm.cn](https://prompts.kkkm.cn)
 
+## 一键部署
+
+1. **Fork 本项目**：点击右上角的 Fork 按钮，将本项目复制到你的 GitHub 仓库。
+
+### Vercel 部署
+
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/junxiaopang/all-image-prompts" target="_blank" rel="noopener noreferrer">
+  <img src="https://vercel.com/button" alt="Deploy with Vercel" />
+</a>
+
 ## ✨ Core Features
 
 - **🤖 Multi-Model Support**: Comprehensive support and categorized display for various models including Midjourney, DALL-E, GPT-4o, Flux, Grok, Gemini, Seedream, etc.
@@ -52,7 +62,7 @@ Ensure your environment has the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/all-image-prompts.git
+git clone https://github.com/junxiaopang/all-image-prompts.git
 cd all-image-prompts
 
 # Install dependencies

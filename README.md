@@ -2,11 +2,33 @@
 
 简体中文 | [English](./README_en.md)
 
-这是一个基于 **React 19** + **Vite 6** 构建的现代化 AI 绘画提示词展示与管理平台。它汇集了来自 **Midjourney**、**DALL-E 3**、**Flux**、**Grok**、**Gemini** (NanoBanana) 以及 **Seedream** 等多个主流 AI 模型的优质提示词（Prompts），旨在为创作者提供灵感与参考。
+这是一个基于 **React 19** + **Vite 6** 构建的现代化 AI 绘画提示词展示与管理平台。它汇集了来自**Gemini** (NanoBanana) 、**Midjourney**、**DALL-E 3**、**Flux**、**Grok**以及 **Seedream** 等多个主流 AI 模型的优质提示词（Prompts），旨在为创作者提供灵感与参考。
+
+![](public/static/screenshot.png)
 
 🎉 **查看文档**: [提示词目录汇总](public/prompts/prompts.md)
 
 🚀 **在线预览**: [https://prompts.kkkm.cn](https://prompts.kkkm.cn)
+
+## 一键部署
+
+1. **Fork 本项目**：点击右上角的 Fork 按钮，将本项目复制到你的 GitHub 仓库。
+
+### Vercel 部署
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3a%2f%2fgithub.com%2fjunxiaopang%2fall-image-prompts)
+
+### 腾讯云 EdgeOne 部署
+
+> EdgeOne 中国版，需要有备案域名
+
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?repository-url=https%3a%2f%2fgithub.com%2fjunxiaopang%2fall-image-prompts)
+
+> EdgeOne 国际版，选：全球(不包含中国大陆版)
+
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https%3a%2f%2fgithub.com%2fjunxiaopang%2fall-image-prompts)
+
+###
 
 ## 🆕 获取最新提示词
 
@@ -16,7 +38,7 @@
 
 ## ✨ 核心特性
 
-- **🤖 多模型支持**：完整支持并分类展示 Midjourney, DALL-E, GPT-4o, Flux, Grok, Gemini, Seedream 等多种模型的提示词。
+- **🤖 多模型支持**：完整支持并分类展示 Midjourney, DALL-E, GPT-4o, Flux, Grok, Gemini(Nano Bananan), Seedream 等多种模型的提示词。
 - **⚡ 高性能体验**：
   - 采用 **Vite** 极速构建。
   - 图片与数据按需加载 (Lazy Loading)，流畅浏览大量内容。
@@ -58,7 +80,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/all-image-prompts.git
+git clone https://github.com/junxiaopang/all-image-prompts.git
 cd all-image-prompts
 
 # 安装依赖

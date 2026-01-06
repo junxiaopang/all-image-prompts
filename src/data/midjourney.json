@@ -2445,7 +2445,7 @@
     "description": "",
     "tags": [],
     "coverImage": "/images/2026-01-01/2006779626270666917_0.jpg",
-    "model": "",
+    "model": "midjourney-v7",
     "ratio": "",
     "likes": 179,
     "width": "",
@@ -2527,5 +2527,230 @@
     "create_time": 1767337213000,
     "update_time": 1767428149980,
     "status": 1
+  },
+  {
+    "coverImage": "/images/2026-01-03/2007344971079463200_0.jpg",
+    "create_time": 1767423310000,
+    "description": "在这张高端商业产品摄影风格的图片中，一个超写实的能量饮料罐被放置在风暴海洋中的一块巨大黑色岩石岛上，背景中的闪电和暗调电影感云层增加了戏剧性，强烈的轮廓光和罐体底部周围的水花飞溅突出了细节。",
+    "examples": [],
+    "height": 1440,
+    "id": "2007344971079463200",
+    "images": [
+      "/images/2026-01-03/2007344971079463200_0.jpg",
+      "/images/2026-01-03/2007344971079463200_1.jpg",
+      "/images/2026-01-03/2007344971079463200_2.jpg",
+      "/images/2026-01-03/2007344971079463200_3.jpg"
+    ],
+    "likes": 167,
+    "model": "midjourney-v6",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Hyper-realistic energy drink can positioned on a massive black rock island in a stormy ocean, lightning striking behind, dark cinematic clouds, dramatic rim lighting, water splashes around the base, high-end commercial product photography, ultra-detailed, 8K, no people --ar 4:5 --v 6",
+      "超写实的能量饮料罐放置在风暴海洋中一块巨大的黑色岩石岛上，背景有闪电划破天空，暗调电影感云层，强烈的轮廓光，罐体底部周围水花飞溅，高端商业产品摄影风格，细节极致，8K画质，画面中无人物 --ar 4:5 --v 6"
+    ],
+    "ratio": "9:16",
+    "slug": "prompt-2007344971079463200",
+    "source": {
+      "name": "Sharon Riley",
+      "url": "https://x.com/Just_sharon7/status/2007344971079463088"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "product",
+      "realistic"
+    ],
+    "title": "超写实能量饮料罐在黑色岩石岛",
+    "type": "",
+    "update_time": 1767618595866,
+    "width": 810
+  },
+  {
+    "coverImage": "/images/2026-01-05/2008008497473147136_0.jpg",
+    "create_time": "2026-01-05T02:51:47.000Z",
+    "description": "",
+    "id": "2008008497473147136",
+    "images": [
+      "/images/2026-01-05/2008008497473147136_0.jpg"
+    ],
+    "likes": 48,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Apple vision Pro掌控你真正的AR世界\n\n{\n  \"prompt\": \"Highly detailed photorealistic screenshot of Apple Vision Pro visionOS 26 operating interface from user's first-person immersive view, spatial computing home screen with multiple floating translucent glass-like 3D windows and volumetric app icons arranged in a customizable curved grid around the user, semi-transparent frosted blur material with subtle depth parallax and soft natural light reflections blending seamlessly with real-world passthrough surroundings, high-resolution micro-OLED display quality with ultra-sharp details, vibrant clean Apple minimalist UI design with rounded corners and volumetric glow, eye-tracking selection with subtle white glow highlight on hovered app icon (e.g., Photos app icon hovered), visible hand gesture pointers in lower field of view ready for pinch/tap/drag interactions, Digital Crown subtly visible on the right side for immersion control, open floating windows showing active apps: one large Safari browser window with tabs and webpage content, one Photos app window displaying spatial photos with depth, one Music app window with album artwork, one Messages window with conversation bubbles, one Notes window open, one Apple TV+ window playing immersive video preview, one Image Playground app window open showing text prompt input field at bottom with generated spatial images floating above in styles like Animation/Sketch/Illustration, one Mindfulness app window with breathing guide, subtle volumetric shadows and light bounce from virtual elements onto real environment, photorealistic rendering with cinematic soft ambient lighting, no distortion or artifacts, aspect ratio 2:1 wide immersive format\",\n  \"negative_prompt\": \"blurry, low resolution, distorted text or UI elements, cartoonish, illustration style, flat 2D look, no depth or parallax, harsh shadows, overexposed, underexposed, watermark, logo overlay, people visible wearing headset, external device view, crowded cluttered screen, deformed windows or icons, missing hand pointers, no glow on hovered icons, explicit text prompts in Image Playground, vulgar content\",\n  \"parameters\": {\n    \"style\": \"Photorealistic visionOS 26 interface screenshot from inside the headset, Apple Human Interface Guidelines compliant, futuristic spatial UI with multiple open apps including Image Playground\",\n    \"recommended_tool\": \"Midjourney, Stable Diffusion XL, Flux or advanced photoreal models\",\n    \"aspect_ratio\": \"2:1 or 16:9 for wide spatial feel\",\n    \"additional_tips\": \"Use weights like (floating translucent windows:1.4), (volumetric app icons:1.3), (Image Playground open with generated images:1.2), (soft natural passthrough lighting:1.1); vary open apps for diversity, include Apple Intelligence features like Image Playground prominently\"\n  }\n}"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "PlayForge AI",
+      "url": "https://x.com/94vanAI/status/2008008497473147136"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "Apple vision Pro掌控你真正的AR世界",
+    "update_time": "2026-01-06T13:03:04.132Z"
+  },
+  {
+    "coverImage": "/images/2026-01-05/2008103993957048665_0.jpg",
+    "create_time": "2026-01-05T09:11:15.000Z",
+    "description": "",
+    "id": "2008103993957048665",
+    "images": [
+      "/images/2026-01-05/2008103993957048665_0.jpg"
+    ],
+    "likes": 112,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Highly detailed photorealistic screenshot of Apple Vision Pro visionOS 26 operating interface from user's first-person immersive view, spatial computing home screen, CENTER FOCUS: TWO LARGE 3D VOLUMETRIC HOLOGRAPHIC KING OF FIGHTERS CHARACTERS in INTENSE COMBAT ACTION, Kyo Kusanagi throwing fiery crimson flames punch toward Iori Yagami blocking with purple energy, explosive impact moment with MASSIVE FIRE EFFECTS orange red flames bursting, PURPLE LIGHTNING dark energy, bright yellow white IMPACT SPARK EXPLOSION between them, energy shockwaves radiating, dramatic motion blur showing speed, life-sized 3D fighters jumping OUT OF SCREEN with strong depth, naked-eye 3D stereoscopic effect protruding forward, volumetric flames casting dynamic colored lighting onto windows, LEFT SIDE windows: Safari browser window with multiple tabs and news content on upper left, Photos app window showing mountain landscape on middle left, Music app window with Beyoncé Renaissance album artwork on lower left, RIGHT SIDE windows: Messages window with blue chat bubbles on upper right, Notes window with checklist on middle right, Image Playground window showing generated images in Animation/Sketch/Illustration styles with prompt field on lower right, ADDITIONAL windows: Apple TV+ preview window, Mindfulness app with glowing breathing orb, small floating windows balanced on both sides, UPPER AREA: curved grid of volumetric glowing app icons (App Store, Settings, Files, Keynote, Messages icons) arranged symmetrically, LOWER AREA: another row of app icons (App Store, Settings, Photos, Keynote, Music icons) centered below, semi-transparent KOF game UI with health bars and COUNTER text behind 3D fighters, hand gesture pointers visible at bottom corners, semi-transparent frosted glass material on all windows, 3D fire effects and fighters casting volumetric shadows and colored reflections on surrounding windows symmetrically, strong spatial depth with balanced composition, ultra-sharp micro-OLED display, vibrant Apple minimalist UI, dramatic cinematic lighting with fire glow illuminating entire scene symmetrically, wide immersive 21:9 format, photorealistic spatial computing with LEFT and RIGHT sides equally populated with app windows",
+      "高细节逼真的Apple Vision Pro visionOS 26操作系统用户第一人称沉浸视图截图，空间计算主屏幕，中心焦点：两个大型3D立体全息《拳皇》角色正在进行激烈的战斗动作，草薙京向八神庵投掷火焰红的拳头，八神庵用紫色能量阻挡，爆炸性冲击瞬间产生大量火红色火焰爆发，紫色闪电暗能量，两者之间明亮的黄白色冲击火花爆炸，能量震波辐射，动态模糊展示速度，真人大小的3D战士跳出屏幕带来强烈的深度感，裸眼3D立体效果向前突出，体积火焰在窗户上投射出动态彩色光线，左侧窗口：Safari浏览器窗口带有多个标签和新闻内容位于左上方，照片应用程序窗口显示山景位于左中间，音乐应用窗口展示碧昂丝《文艺复兴》专辑封面位于左下方，右侧窗口：信息窗口带蓝色聊天气泡位于右上方，备忘录窗口带有检查列表位于右中间，图像游乐场窗口展示生成的动画/素描/插图风格图片以及提示字段位于右下方，其他窗口：Apple TV+预览窗口，正念应用程序带有发光呼吸球，小浮动窗口平衡分布在两侧，顶部区域：弯曲排列的发光应用程序图标网格（App Store、设置、文件、Keynote、信息图标）对称排列，底部区域：另一排应用程序图标（App Store、设置、照片、Keynote、音乐图标）居中位于下方，《拳皇》游戏半透明UI带有生命条和计数器文字置于3D战士背后，可见手指示针位于底角，所有窗口采用半透明磨砂玻璃材质，3D火焰效果和战士们投射出体积阴影和彩色反射在周围窗户上对称分布，强烈的纵深感与平衡构图，超清晰微OLED显示屏，充满活力的苹果极简UI，戏剧性的电影照明效果以火光照亮整个场景对称分布，宽广沉浸式21:9格式，真实感的空间计算，左右两侧均匀分布有应用程序窗口。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "huangserva",
+      "url": "https://x.com/servasyy_ai/status/2008103993957048665"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "ar 世界",
+    "update_time": "2026-01-06T13:02:44.181Z"
+  },
+  {
+    "coverImage": "/images/2026-01-04/2007863361359290400_0.jpg",
+    "create_time": "Sun Jan 04 17:15:04 +0000 2026",
+    "description": "在这幅图像中，一只智慧的老猫头鹰栖息于充满神秘光球的森林空地中，这些柔和发光的光球代表着神话生物的迷人存在。采用午夜蓝和紫水晶色调，营造出一种奇妙与魔法的感觉。",
+    "examples": [],
+    "height": 896,
+    "id": "2007863361359290400",
+    "images": [
+      "/images/2026-01-04/2007863361359290400_0.jpg",
+      "/images/2026-01-04/2007863361359290400_1.jpg",
+      "/images/2026-01-04/2007863361359290400_2.jpg",
+      "/images/2026-01-04/2007863361359290400_3.jpg"
+    ],
+    "likes": 160,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A Fairy Bokeh Woodland Glade featuring a white stag, with soft, glowing light orbs representing the enchanting presence of mythical creatures. Employ a color scheme of emerald green and gold to evoke a sense of wonder and magic --ar 3:2 --v 7.0",
+      "A Fairy Bokeh Woodland Glade featuring a wise old owl, with soft, glowing light orbs representing the enchanting presence of mythical creatures. Employ a color scheme of midnight blue and amethyst to evoke a sense of wonder and magic --ar 3:2 --v 7.0",
+      "A Fairy Bokeh Woodland Glade featuring a fairy queen, with soft, glowing light orbs representing the enchanting presence of mythical creatures. Employ a color scheme of mint green and rose gold to evoke a sense of wonder and magic --ar 3:2 --v 7.0",
+      "A Fairy Bokeh Woodland Glade featuring a mischievous gnome, with soft, glowing light orbs representing the enchanting presence of mythical creatures. Employ a color scheme of deep violet and lime green to evoke a sense of wonder and magic --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2007863361359290400",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2007863361359290482"
+    },
+    "tags": [
+      "fantasy",
+      "animal",
+      "night"
+    ],
+    "title": "智慧老猫头鹰在魔法森林空地",
+    "type": "",
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-04/2007893560280899800_0.jpg",
+    "create_time": "Sun Jan 04 19:15:04 +0000 2026",
+    "description": "画面展现了一位手持拐杖的优雅绅士，置身于华丽的假面舞会之中。周围环绕着精致的面具、闪烁的吊灯以及奢华的帷幔，着重于深邃的蓝宝石色调与低调的铅灰亮点交织，营造出一种古雅电影的光辉。",
+    "examples": [],
+    "height": 896,
+    "id": "2007893560280899800",
+    "images": [
+      "/images/2026-01-04/2007893560280899800_0.jpg",
+      "/images/2026-01-04/2007893560280899800_1.jpg",
+      "/images/2026-01-04/2007893560280899800_2.jpg",
+      "/images/2026-01-04/2007893560280899800_3.jpg"
+    ],
+    "likes": 165,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A Vintage Masquerade Soiree rendering of a Victorian lady in lace, surrounded by ornate masks, shimmering chandeliers, and lavish draperies. Focus on rich emerald tones balanced with muted ivory highlights. Incorporate pronounced film grain, faint dust flickers, and light leaks to impart an opulent, old-film glamour --ar 3:2 --v 7.0",
+      "A Vintage Masquerade Soiree rendering of a dapper gentleman with a cane, surrounded by ornate masks, shimmering chandeliers, and lavish draperies. Focus on rich sapphire tones balanced with muted pewter highlights. Incorporate pronounced film grain, faint dust flickers, and light leaks to impart an opulent, old-film glamour --ar 3:2 --v 7.0",
+      "A Vintage Masquerade Soiree rendering of a mysterious violinist, surrounded by ornate masks, shimmering chandeliers, and lavish draperies. Focus on rich emerald green tones balanced with muted gold highlights. Incorporate pronounced film grain, faint dust flickers, and light leaks to impart an opulent, old-film glamour --ar 3:2 --v 7.0",
+      "A Vintage Masquerade Soiree rendering of a masked noblewoman, surrounded by ornate masks, shimmering chandeliers, and lavish draperies. Focus on rich crimson tones balanced with muted ivory highlights. Incorporate pronounced film grain, faint dust flickers, and light leaks to impart an opulent, old-film glamour --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2007893560280899800",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2007893560280899941"
+    },
+    "tags": [
+      "cinematic",
+      "vintage",
+      "portrait"
+    ],
+    "title": "复古舞会中的优雅绅士",
+    "type": "",
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-05/2008131658852241700_0.jpg",
+    "create_time": "Mon Jan 05 11:01:11 +0000 2026",
+    "description": "一个由毛毡手工制作的年轻女孩形象，手中握着气球，置于粉彩公园和多云天空的微缩模型中。场景展现了如童话般的温馨魅力，仿佛是一部完全由毛毡和线制成的触感定格动画中的静止画面。",
+    "examples": [],
+    "height": 640,
+    "id": "2008131658852241700",
+    "images": [
+      "/images/2026-01-05/2008131658852241700_0.jpg",
+      "/images/2026-01-05/2008131658852241700_1.jpg",
+      "/images/2026-01-05/2008131658852241700_2.jpg",
+      "/images/2026-01-05/2008131658852241700_3.jpg"
+    ],
+    "likes": 455,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A felted wool figure of a pirate with a tiny sword, handcrafted with soft fibers, uneven stitching, and visible textures. Set within a miniature diorama of a wavy blue felt sea and a stitched ship, the scene radiates cozy, storybook charm like a still from a tactile, stop-motion fairytale made entirely of felt and thread. --ar 3:2 --v 7",
+      "A felted wool figure of a young girl holding a balloon, handcrafted with soft fibers, uneven stitching, and visible textures. Set within a miniature diorama of a pastel-colored park and cloudy sky backdrop, the scene radiates cozy, storybook charm like a still from a tactile, stop-motion fairytale made entirely of felt and thread. --ar 3:2 --v 7",
+      "A felted wool figure of a cat curled in a teacup, handcrafted with soft fibers, uneven stitching, and visible textures. Set within a miniature diorama of a cozy felt kitchen and patchwork tablecloth, the scene radiates cozy, storybook charm like a still from a tactile, stop-motion fairytale made entirely of felt and thread. --ar 3:2 --v 7",
+      "A felted wool figure of an explorer with a tiny map, handcrafted with soft fibers, uneven stitching, and visible textures. Set within a miniature diorama of mountains made from layered felt and stitched trees, the scene radiates cozy, storybook charm like a still from a tactile, stop-motion fairytale made entirely of felt and thread. --ar 3:2 --v 7"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2008131658852241700",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2008131658852241768"
+    },
+    "tags": [
+      "felt",
+      "miniature",
+      "childlike"
+    ],
+    "title": "毛毡少女与气球",
+    "type": "",
+    "width": 960
+  },
+  {
+    "coverImage": "/images/2025-12-15/2000381429734379910_0.jpg",
+    "create_time": "2025-12-15T01:44:32.000Z",
+    "description": "请注意，由于技术限制或理解差异，上述指令可能需要根据实际使用的AI工具进行调整以达到最佳效果。此外，确保在生成图像之前检查所有的质量清单项，以保证最终作品符合预期。",
+    "id": "2000381429734379910",
+    "images": [
+      "/images/2025-12-15/2000381429734379910_0.jpg",
+      "/images/2025-12-15/2000381429734379910_1.jpg",
+      "/images/2025-12-15/2000381429734379910_2.jpg"
+    ],
+    "likes": 524,
+    "model": "midjourney-v6",
+    "prompts": [
+      "Create a 2:3 portrait fashion poster featuring THE SAME WOMAN in THE SAME OUTFIT shown in 9 different magazine editorial styles with 3D pop-out effect:\n\nCHARACTER CONSISTENCY (CRITICAL - HIGHEST PRIORITY):\n\nTHE SAME female fashion model appears in ALL 9 positions:\n\n- Same face, same facial features, same skin tone, same body type\n\n- Cold-beauty aesthetic: sharp jawline, high cheekbones, aloof minimalist expression\n\n- Early-20s Chinese/Korean fashion model with editorial face\n\n- Her identity NEVER changes across all 9 appearances\n\nOUTFIT CONSISTENCY (NEW RULE):\n\nTHE SAME OUTFIT in all 9 positions:\n\n- Oversized black cashmere V-neck sweater (slightly loose fit)\n\n- High-waisted wide-leg pure white tailored trousers\n\n- Black leather loafers with subtle gold horsebit detail\n\n- Neat low bun with slightly messy front strands\n\n- Small gold hoop earrings, thin gold chain necklace\n\nSAME CLOTHING - only photography style, pose, and angle vary\n\nBACKGROUND LAYER (Z=0) - 3×3 Grid with 8 Visible Magazine Styles:\n\nGrid Structure & Occlusion:\n\n- Standard 3×3 layout = 9 magazine editorial shots\n\n- **8 visible cells** (center cell [2,2] COMPLETELY OCCLUDED by 3D figure)\n\n- Cells separated by DISTINCT THICK WHITE LINES (3-4px) for clear separation\n\n[1,1] Vogue Editorial Style:\n\n- Same woman, same outfit\n\n- Pose: Standing tall, hand in pocket, direct powerful gaze\n\n- Style: High contrast lighting, dramatic shadows, sophisticated\n\n- Sharp focus, clear face\n\n[1,2] Harper's Bazaar Style:\n\n- Same woman, same outfit\n\n- Pose: Side profile, looking over shoulder\n\n- Style: Soft glamour lighting, elegant mood\n\n- Sharp focus, clear face\n\n[1,3] Elle Street Style:\n\n- Same woman, same outfit\n\n- Pose: Walking motion, casual confident stride\n\n- Style: Natural daylight, urban chic aesthetic\n\n- Sharp focus, clear face\n\n[2,1] i-D Magazine Style:\n\n- Same woman, same outfit\n\n- Pose: Sitting on minimal cube, legs crossed\n\n- Style: Bold graphic composition, colorful backdrop\n\n- Sharp focus, clear face\n\n[2,3] Dazed & Confused Style:\n\n- Same woman, same outfit\n\n- Pose: Dynamic movement, fabric flowing\n\n- Style: Experimental angles, artistic editorial\n\n- Sharp focus, clear face\n\n[3,1] Marie Claire Corporate Chic:\n\n- Same woman, same outfit\n\n- Pose: Power stance, arms crossed professionally\n\n- Style: Clean corporate aesthetic, neutral tones\n\n- Sharp focus, clear face\n\n[3,2] GQ Minimalist Style:\n\n- Same woman, same outfit\n\n- Pose: Leaning against wall, relaxed elegance\n\n- Style: Architectural composition, clean lines\n\n- Sharp focus, clear face\n\n[3,3] W Magazine Avant-Garde:\n\n- Same woman, same outfit\n\n- Pose: Artistic pose, hand gestures expressive\n\n- Style: Bold contrast, fashion-forward editorial\n\n- Sharp focus, clear face\n\nCRITICAL TECHNICAL SPECS FOR BACKGROUND GRID:\n\n- Deep depth of field (f/16) - ALL faces sharp and clear\n\n- NO bokeh, NO blur, NO out-of-focus areas\n\n- Even bright studio lighting across all cells\n\n- High resolution faces in every cell\n\n- Thick white grid lines clearly visible between cells\n\n- Background color: Bright minimalist concrete/white studio\n\nFOREGROUND LAYER (Z=5-10cm forward) - Hyper-Realistic 3D Pop-out:\n\nTHE SAME WOMAN, SAME OUTFIT (Look 5 - Most Dramatic):\n\n- Massive hyper-realistic full-body shot dominating the center\n\n- Positioned at EXACT CENTER, completely occluding center cell [2,2]\n\n- **Head touches very top edge of canvas**\n\n- **Shoes touch very bottom edge of canvas**\n\n- Occupies MAXIMUM vertical space for strong 3D illusion\n\nPose:\n\n- Dynamic walking forward motion\n\n- Confident stride, mid-step\n\n- Hand on hip or naturally swinging\n\n- Direct gaze at camera, commanding presence\n\n- Full body visible from head to toe\n\nTechnical Execution:\n\n- Figure extends 5-10cm forward from background plane\n\n- Hyper-realistic detail (skin texture, fabric weave visible)\n\n- +20% saturation compared to background for \"pop forward\" effect\n\n- Slightly sharper focus than background (but background still sharp)\n\nOCCLUSION MECHANICS (9格 - 1格遮挡 = 8格可见):\n\nComplete Occlusion:\n\n- Figure's body COMPLETELY covers center cell [2,2] (100% invisible)\n\n- Center magazine shot is fully hidden behind 3D figure\n\nPartial Occlusion (Natural Edge Overlap):\n\n- Top [1,2]: Hair/head overlaps 10-15% into Harper's Bazaar shot\n\n- Left [2,1]: Left arm/sleeve overlaps 15-20% into i-D shot\n\n- Right [2,3]: Right arm overlaps 15-20% into Dazed shot\n\n- Bottom [3,2]: Legs/feet overlap 10-15% into GQ shot\n\n- Overlaps break the white grid boundaries naturally\n\nEdge Treatment:\n\n- Soft organic transitions, NO hard cutout edges\n\n- Figure appears to physically exist in front of the grid\n\n- Like a 3D cardboard cutout standing in front of a poster\n\nDEPTH EFFECTS:\n\nShadows:\n\n- Drop shadow from 3D figure onto grid background\n\n* Blur: 12px\n\n* Color: rgba(0,0,0,0.25) (slightly darker for stronger effect)\n\n* Offset: X=6px, Y=10px\n\n- Contact shadow where figure \"stands\" on background\n\n* Blur: 8px\n\n* Color: rgba(0,0,0,0.35)\n\n* Creates grounding effect\n\nLighting:\n\n- Background grid: Even bright studio lighting (no dramatic shadows)\n\n- Foreground figure:\n\n* Key light upper left 45°\n\n* Subtle rim light on edges for separation\n\n* Slightly more dramatic lighting than background\n\n- Consistent lighting direction across all elements\n\nSeparation Techniques:\n\n- Slight brightness difference (foreground +10% brighter)\n\n- Slight saturation boost (foreground +20% more saturated)\n\n- Subtle sharpening halo around figure edges\n\n- Clear Z-axis spatial hierarchy\n\nCONSISTENCY RULES (ABSOLUTE PRIORITY):\n\nSame Woman Verification:\n\n- Same face in all 9 positions\n\n- Same facial structure, eyes, nose, lips, jawline\n\n- Same cold-beauty editorial expression\n\n- Same hair styling (low bun, messy strands)\n\n- Same age, same ethnicity, same beauty\n\nSame Outfit Verification:\n\n- Same black sweater in all 9 shots\n\n- Same white trousers in all 9 shots\n\n- Same accessories (earrings, necklace, loafers)\n\n- Only photography style and pose differ\n\nWhat Changes:\n\n- ✅ Magazine editorial style (lighting, mood, composition)\n\n- ✅ Pose and body angle\n\n- ✅ Camera angle and framing\n\n- ✅ Photographic treatment\n\nWhat NEVER Changes:\n\n- ❌ The woman's face or identity\n\n- ❌ The outfit or clothing items\n\n- ❌ The accessories\n\n- ❌ The overall styling concept\n\nTECHNICAL SPECIFICATIONS:\n\nImage Composition:\n\n- Aspect ratio: 2:3 portrait (or 9:16 vertical)\n\n- Resolution: 2000×3000 pixels (or higher)\n\n- Color mode: RGB, sRGB color space\n\n- Quality: Professional editorial fashion photography\n\nCamera & Focus:\n\n- **Deep depth of field (f/16 or higher)**\n\n- **NO selective focus, NO bokeh, NO blur**\n\n- **ALL faces in background grid MUST be sharp and clear**\n\n- Foreground figure slightly sharper for hierarchy\n\n- Both layers fully illuminated and visible\n\nEnvironment:\n\n- Bright minimalist indoor studio\n\n- Concrete walls or pure white background\n\n- Optional: Minimal green plants for visual interest\n\n- Clean, uncluttered aesthetic\n\n- Quiet luxury mood\n\nLayout:\n\n- Background: Clear 3×3 grid with THICK WHITE LINES visible\n\n- Foreground: Massive full-body figure breaking grid boundaries\n\n- Surreal creative collage composition\n\n- Graphic and editorial feel\n\nFORBIDDEN ELEMENTS (严格禁止):\n\nCharacter & Outfit:\n\n- ❌ Different women in different cells\n\n- ❌ Different outfits or clothing changes\n\n- ❌ Changing facial features or styling\n\n- ❌ Multiple models instead of one person\n\nTechnical:\n\n- ❌ Blurred background or bokeh effect\n\n- ❌ Out of focus faces in grid\n\n- ❌ Shallow depth of field\n\n- ❌ Missing or unclear grid lines\n\n- ❌ Dark shadows obscuring faces\n\n- ❌ Low resolution or pixelation\n\n- ❌ Deformed limbs or merging bodies\n\n- ❌ Messy composition\n\nStructure:\n\n- ❌ 4×4 or other grid sizes (must be 3×3)\n\n- ❌ All 9 cells visible (center must be occluded)\n\n- ❌ Flat composition (must have clear 3D depth)\n\n- ❌ Hard cutout edges on foreground figure\n\nQUALITY CHECKLIST:\n\nBefore Generation:\n\n- [ ] Same woman's face in all 9 positions?\n\n- [ ] Same outfit in all 9 positions?\n\n- [ ] Each cell shows different magazine editorial style?\n\n- [ ] Center cell [2,2] completely hidden?\n\n- [ ] 8 visible background cells clearly defined?\n\n- [ ] Thick white grid lines visible?\n\n- [ ] ALL background faces sharp and clear (no blur)?\n\n- [ ] Foreground figure full-body, head-to-toe?\n\n- [ ] Figure extends maximum vertical space?\n\n- [ ] Clear 3D pop-out effect?\n\n- [ ] Natural edge overlaps into adjacent cells?\n\n- [ ] Shadows present for depth?\n\n- [ ] Deep depth of field maintained?\n\nMIDJOURNEY/AI COMMAND FORMAT:\n\n/imagine prompt: A surreal 3x3 fashion grid collage with THICK WHITE LINES separating cells. Background shows THE SAME Chinese fashion model in THE SAME black oversized sweater and white wide-leg trousers in 8 different magazine editorial styles (Vogue, Harper's Bazaar, Elle, i-D, Dazed, Marie Claire, GQ, W Magazine) - various poses but identical outfit. CENTER CELL HIDDEN. OVERLAID by a massive hyper-realistic full-body 3D cut-out of the SAME MODEL in SAME OUTFIT walking forward, head touching top edge, feet touching bottom edge. ALL faces sharp and in focus, deep depth of field f/16, no blur anywhere, bright studio lighting, clear white grid lines, strong 3D pop-out effect, editorial photography, same woman same clothes 9 times, 8k resolution --ar 2:3 --v 6.1 --stylize 300 --quality 2\n\nMATHEMATICAL LOGIC:\n\nSame woman × Same outfit × 9 different magazine editorial styles arranged in 3×3 grid. Center style completely occluded by 3D foreground version = 8 visible background editorial styles + 1 foreground 3D editorial = 9 total appearances of ONE PERSON in ONE OUTFIT with NINE photographic interpretations.",
+      "在一个超现实的3x3时尚网格拼贴中，每个单元格由粗白线分隔。背景展示了同一位中国时装模特穿着相同的黑色超大毛衣和白色阔腿裤，在8种不同的杂志编辑风格（如Vogue、Harper's Bazaar、Elle、i-D、Dazed、Marie Claire、GQ、W Magazine）中的表现——虽然姿态各异但服装一致。中心单元被隐藏。叠加的是同一个模特同样装束的巨大的超现实全身3D剪影，头部触及画布顶部边缘，脚部触及底部边缘。所有面部清晰且聚焦，深景深f/16，无任何模糊区域，明亮的工作室照明，清晰的白色网格线，强烈的3D突出效果，编辑摄影风格，同一女性同一服装出现9次，8K分辨率。--ar 2:3 --v 6.1 --stylize 300 --quality 2"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "huangserva",
+      "url": "https://x.com/servasyy_ai/status/2000381429734379910"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "9宫格+裸感3D的玩法",
+    "update_time": "2026-01-06T12:36:19.865Z"
   }
 ]
