@@ -2752,5 +2752,81 @@
     "tags": [],
     "title": "9宫格+裸感3D的玩法",
     "update_time": "2026-01-06T12:36:19.865Z"
+  },
+  {
+    "coverImage": "/images/2026-01-05/2008225751238132200_0.jpg",
+    "create_time": "Mon Jan 05 17:15:04 +0000 2026",
+    "description": "在这幅图中，一座被冰晶和雪花装饰的城堡展现出了冬日的魔力。蓝宝石色与薄荷绿色的冷色调共同营造出一种超凡脱俗的美景。",
+    "examples": [],
+    "height": 896,
+    "id": "2008225751238132200",
+    "images": [
+      "/images/2026-01-05/2008225751238132200_0.jpg",
+      "/images/2026-01-05/2008225751238132200_1.jpg",
+      "/images/2026-01-05/2008225751238132200_2.jpg",
+      "/images/2026-01-05/2008225751238132200_3.jpg"
+    ],
+    "likes": 161,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A towering ancient pine tree depicted in a Frosted Crystal Fantasy, where delicate ice crystals and sparkling snowflakes create a magical atmosphere. Utilize cool shades of misty cyan and snow-white to emphasize the ethereal beauty of the winter scene --ar 3:2 --v 7.0",
+      "An enchanted castle depicted in a Frosted Crystal Fantasy, where delicate ice crystals and sparkling snowflakes create a magical atmosphere. Utilize cool shades of sapphire and mint green to emphasize the ethereal beauty of the winter scene --ar 3:2 --v 7.0",
+      "A majestic white stag depicted in a Frosted Crystal Fantasy, where delicate ice crystals and sparkling snowflakes create a magical atmosphere. Utilize cool shades of icy blue and silver to emphasize the ethereal beauty of the winter scene --ar 3:2 --v 7.0",
+      "An enchanted white wolf depicted in a Frosted Crystal Fantasy, where delicate ice crystals and sparkling snowflakes create a magical atmosphere. Utilize cool shades of icy blue and silver to emphasize the ethereal beauty of the winter scene --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2008225751238132200",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2008225751238132144"
+    },
+    "tags": [
+      "fantasy",
+      "winter",
+      "castle"
+    ],
+    "title": "冬日魔法城堡",
+    "type": "",
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-05/2008255952701555000_0.jpg",
+    "create_time": "Mon Jan 05 19:15:05 +0000 2026",
+    "description": "这幅插图以柔和的象牙白和淡蓝绿色调捕捉了一对天鹅在睡莲间滑行的宁静场景，展现了动植物之间细腻的互动，营造出一种平和与平衡的感觉。",
+    "examples": [],
+    "height": 896,
+    "id": "2008255952701555000",
+    "images": [
+      "/images/2026-01-05/2008255952701555000_0.jpg",
+      "/images/2026-01-05/2008255952701555000_1.jpg",
+      "/images/2026-01-05/2008255952701555000_2.jpg",
+      "/images/2026-01-05/2008255952701555000_3.jpg"
+    ],
+    "likes": 165,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A Botanical Watercolor Harmony illustration of a red fox nestled among wild poppies, capturing the delicate interplay of flora and fauna. Emphasize a serene, natural setting with gentle sage green and blush pink hues, evoking a sense of tranquility and balance --ar 3:2 --v 7.0",
+      "A Botanical Watercolor Harmony illustration of a pair of swans gliding through water lilies, capturing the delicate interplay of flora and fauna. Emphasize a serene, natural setting with gentle ivory white and pastel teal hues, evoking a sense of tranquility and balance --ar 3:2 --v 7.0",
+      "A Botanical Watercolor Harmony illustration of a hedgehog among autumn leaves, capturing the delicate interplay of flora and fauna. Emphasize a serene, natural setting with gentle burnt orange and dusty rose hues, evoking a sense of tranquility and balance --ar 3:2 --v 7.0",
+      "A Botanical Watercolor Harmony illustration of a wise barn owl at dusk, capturing the delicate interplay of flora and fauna. Emphasize a serene, natural setting with gentle dusky-violet and moonlit-silver hues, evoking a sense of tranquility and balance --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2008255952701555000",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2008255952701555068"
+    },
+    "tags": [
+      "watercolor",
+      "nature",
+      "illustration"
+    ],
+    "title": "天鹅与睡莲的水彩和谐",
+    "type": "",
+    "width": 1344
   }
 ]

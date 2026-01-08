@@ -174,7 +174,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
           {/* Header */}
           <div className="p-4 sm:p-6 border-b border-gray-100 dark:border-dark-border flex items-start justify-between">
             <div>
-              <h2 className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-white line-clamp-2">{item.title}</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-white line-clamp-2" id="prompt-modal-title">{item.title}</h2>
               <div className="flex items-center gap-3 mt-1 sm:mt-2">
                 <div>
                   <a
@@ -242,7 +242,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
               </div>
 
               <div className="relative group/prompt">
-                <div className="bg-gray-50 dark:bg-slate-900/50 rounded-lg sm:rounded-xl p-3 sm:p-4 border border-gray-200 dark:border-dark-border text-gray-700 dark:text-slate-300 text-xs sm:text-sm leading-relaxed h-[150px] sm:h-[180px] overflow-y-auto whitespace-pre-wrap">
+                <div id="prompt-modal-content" className="bg-gray-50 dark:bg-slate-900/50 rounded-lg sm:rounded-xl p-3 sm:p-4 border border-gray-200 dark:border-dark-border text-gray-700 dark:text-slate-300 text-xs sm:text-sm leading-relaxed h-[150px] sm:h-[180px] overflow-y-auto whitespace-pre-wrap">
                   {getCurrentText()}
                 </div>
                 <button
