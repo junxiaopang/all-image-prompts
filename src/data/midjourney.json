@@ -2828,5 +2828,85 @@
     "title": "天鹅与睡莲的水彩和谐",
     "type": "",
     "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-06/2008588138193518600_0.jpg",
+    "create_time": 1767719704000,
+    "description": "这幅图像以Pop Art风格展现了电吉他的魅力，采用了鲜明的橙色、黑色和蓝绿色作为主色调。大胆的轮廓与基本色彩的应用，加上标志性的符号，构成了动感十足且引人注目的画面。",
+    "examples": [],
+    "height": 896,
+    "id": "2008588138193518600",
+    "images": [
+      "/images/2026-01-06/2008588138193518600_0.jpg",
+      "/images/2026-01-06/2008588138193518600_1.jpg",
+      "/images/2026-01-06/2008588138193518600_2.jpg",
+      "/images/2026-01-06/2008588138193518600_3.jpg"
+    ],
+    "likes": 149,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Classic sports car in the vibrant style of Pop Art, with bold outlines, primary colors, and iconic symbols. Use a limited palette of turquoise, magenta, and white to create a dynamic and eye-catching composition --ar 3:2 --v 7.0",
+      "Electric guitar in the vibrant style of Pop Art, with bold outlines, primary colors, and iconic symbols. Use a limited palette of orange, black, and teal to create a dynamic and eye-catching composition --ar 3:2 --v 7.0",
+      "Cupcake with cherry on top in the vibrant style of Pop Art, with bold outlines, primary colors, and iconic symbols. Use a limited palette of pink, blue, and yellow to create a dynamic and eye-catching composition --ar 3:2 --v 7.0",
+      "Cool cat wearing sunglasses in the vibrant style of Pop Art, with bold outlines, primary colors, and iconic symbols. Use a limited palette of hot pink, teal, and bright yellow to create a dynamic and eye-catching composition --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2008588138193518600",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2008588138193518630"
+    },
+    "status": 1,
+    "tags": [
+      "pop-art",
+      "guitar",
+      "colorful"
+    ],
+    "title": "Pop Art风格电吉他",
+    "type": "",
+    "update_time": 1767877613755,
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-06/2008618360435613700_0.jpg",
+    "create_time": 1767726910000,
+    "description": "在这幅图像中，一只智慧的大象被描绘于一个梦幻般的星空中，发光的边缘勾勒出天体和其他如梦似幻的元素，营造出一种超现实且奇幻的氛围。",
+    "examples": [],
+    "height": 896,
+    "id": "2008618360435613700",
+    "images": [
+      "/images/2026-01-06/2008618360435613700_0.jpg",
+      "/images/2026-01-06/2008618360435613700_1.jpg",
+      "/images/2026-01-06/2008618360435613700_2.jpg",
+      "/images/2026-01-06/2008618360435613700_3.jpg"
+    ],
+    "likes": 92,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A mythical dragon rendered in a Celestial Dreamscape, where glowing edges outline the celestial bodies and dreamlike elements. Focus on emerald green and deep violet to create a surreal and fantastical atmosphere --ar 3:2 --v 7.0",
+      "A wise elephant rendered in a Celestial Dreamscape, where glowing edges outline the celestial bodies and dreamlike elements. Focus on charcoal grey and luminous yellow to create a surreal and fantastical atmosphere --ar 3:2 --v 7.0",
+      "A floating castle rendered in a Celestial Dreamscape, where glowing edges outline the celestial bodies and dreamlike elements. Focus on lavender and silver to create a surreal and fantastical atmosphere --ar 3:2 --v 7.0",
+      "A majestic owl rendered in a Celestial Dreamscape, where glowing edges outline the celestial bodies and dreamlike elements. Focus on indigo and gold to create a surreal and fantastical atmosphere --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2008618360435613700",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2008618360435613728"
+    },
+    "status": 1,
+    "tags": [
+      "animal",
+      "fantasy",
+      "charcoal-grey"
+    ],
+    "title": "智慧大象在梦幻星空中的轮廓",
+    "type": "",
+    "update_time": 1767877613755,
+    "width": 1344
   }
 ]
