@@ -18,6 +18,7 @@ import MobileNav from './components/MobileNav';
 
 import CategoryFilter, { Category, CATEGORIES } from './components/CategoryFilter';
 import DateFilter, { DateFilterType, DateRange } from './components/DateFilter';
+import MasonryGrid from './components/MasonryGrid';
 
 type SortOption = 'latest' | 'title' | 'likes' | 'source';
 
@@ -53,7 +54,7 @@ const App: React.FC = () => {
     // 如果记录是 ALL，则是 null
     return saved === 'ALL' ? null : saved;
   });
-  
+
   // Persist selection changes
   useEffect(() => {
     localStorage.setItem('pv_category', selectedCategory || 'ALL');
@@ -105,14 +106,14 @@ const App: React.FC = () => {
       try {
         setIsLoading(true);
         const data = await getPromptList();
-        
+
         // 验证数据格式
         if (!Array.isArray(data)) {
           console.error('数据格式错误: 期望数组，实际得到', typeof data);
           setPromptList([]);
           return;
         }
-        
+
         // 验证数据项格式
         const validData = data.filter((item, index) => {
           if (!item || typeof item !== 'object') {
@@ -129,7 +130,7 @@ const App: React.FC = () => {
           }
           return true;
         });
-        
+
         setPromptList(validData);
       } catch (error) {
         console.error('加载数据失败:', error);
@@ -204,15 +205,15 @@ const App: React.FC = () => {
   // Extract unique models from all prompts
   const allModels = useMemo(() => {
     const categoryMap = new Map<string, Set<string>>(); // 用于按分类组织模型
-    
+
     promptList.forEach(item => {
       if (item.model || item.modelId) {
         // 优先使用 modelId，否则尝试从 MODEL_MAP 反查
         const modelId = item.modelId || Object.keys(MODEL_MAP).find(id => MODEL_MAP[id] === item.model) || item.model;
-        
+
         // 获取模型的分类
         const category = getModelCategory(modelId);
-        
+
         // 如果该分类已经存在，将模型ID添加到分类中
         if (!categoryMap.has(category)) {
           categoryMap.set(category, new Set());
@@ -220,27 +221,27 @@ const App: React.FC = () => {
         categoryMap.get(category)!.add(modelId);
       }
     });
-    
+
     // 创建嵌套的模型结构
-    const result: Array<{id: string, name: string, children?: Array<{id: string, name: string}>}> = [];
-    
+    const result: Array<{ id: string, name: string, children?: Array<{ id: string, name: string }> }> = [];
+
     // 按分类排序
     const sortedCategories = Array.from(categoryMap.keys()).sort();
     sortedCategories.forEach(category => {
       const modelIds = Array.from(categoryMap.get(category)!);
-      
+
       const children = modelIds.map(modelId => ({
         id: modelId,
         name: MODEL_MAP[modelId] || modelId
       })).sort((a, b) => a.name.localeCompare(b.name));
-      
+
       result.push({
         id: category,
         name: category,
         children: children
       });
     });
-    
+
     return result;
   }, [promptList]);
 
@@ -274,7 +275,7 @@ const App: React.FC = () => {
       if (term) {
         // 标题匹配（用于与分类标签组合时的 AND 条件）
         matchesTitleSearch = item.title.toLowerCase().includes(term);
-        
+
         // 全内容匹配（标题、标签、来源、提示词、模型）
         matchesFullSearch =
           matchesTitleSearch ||
@@ -289,18 +290,18 @@ const App: React.FC = () => {
       let matchesCategoryTags = false;
       if (selectedCategoryInfo) {
         const { logic = 'OR' } = selectedCategoryInfo;
-        
+
         // 将 item 的标签全部转为小写用于比较
         const itemTagsLower = item.tags.map(t => t.toLowerCase());
-        
+
         if (logic === 'AND') {
           // AND: Item must contain ALL tags defined in the category (case-insensitive)
-          matchesCategoryTags = selectedCategoryInfo.tags.every(tag => 
+          matchesCategoryTags = selectedCategoryInfo.tags.every(tag =>
             itemTagsLower.includes(tag.toLowerCase())
           );
         } else {
           // OR: Item must contain AT LEAST ONE of the tags (case-insensitive)
-          matchesCategoryTags = selectedCategoryInfo.tags.some(tag => 
+          matchesCategoryTags = selectedCategoryInfo.tags.some(tag =>
             itemTagsLower.includes(tag.toLowerCase())
           );
         }
@@ -317,7 +318,7 @@ const App: React.FC = () => {
       // 4. 最终搜索匹配逻辑
       // 规则：(标签1 OR 标签2 OR ...) AND 标题搜索
       let finalSearchMatch = true;
-      
+
       if (hasCategory) {
         // 有分类选择
         if (!matchesCategoryTags) {
@@ -344,19 +345,19 @@ const App: React.FC = () => {
       let matchesTags = true;
       if (selectedTags.length > 0) {
         // 获取分类默认的标签（如果有分类的话）
-        const categoryDefaultTags = selectedCategoryInfo 
-          ? selectedCategoryInfo.tags.map(t => t.toLowerCase()) 
+        const categoryDefaultTags = selectedCategoryInfo
+          ? selectedCategoryInfo.tags.map(t => t.toLowerCase())
           : [];
-        
+
         // 过滤出用户手动添加的标签（不在分类默认标签中的）
         const manuallySelectedTags = selectedTags.filter(
           tag => !categoryDefaultTags.includes(tag.toLowerCase())
         );
-        
+
         // 如果有手动选择的额外标签，需要额外匹配
         if (manuallySelectedTags.length > 0) {
           const itemTagsLower = item.tags.map(t => t.toLowerCase());
-          matchesTags = manuallySelectedTags.some(selected => 
+          matchesTags = manuallySelectedTags.some(selected =>
             itemTagsLower.includes(selected.toLowerCase())
           );
         }
@@ -381,7 +382,7 @@ const App: React.FC = () => {
         const itemModelId = item.modelId || Object.keys(MODEL_MAP).find(id => MODEL_MAP[id] === item.model);
         matchesModel = itemModelId ? categoryModelIds.includes(itemModelId) : false;
       }
-      
+
       // 4. Date Filter
       let matchesDate = true;
       if (selectedDateFilter !== 'all') {
@@ -409,9 +410,9 @@ const App: React.FC = () => {
               break;
           }
         } else {
-             // If item has no time data, filter it out if a date filter is active
-             // OR keep it if we want to be lenient. Let's filter it out strictly for now as per "filter".
-             matchesDate = false; 
+          // If item has no time data, filter it out if a date filter is active
+          // OR keep it if we want to be lenient. Let's filter it out strictly for now as per "filter".
+          matchesDate = false;
         }
       }
 
@@ -429,10 +430,26 @@ const App: React.FC = () => {
           return a.source.name.localeCompare(b.source.name);
         case 'latest':
         default:
-          // Newer items first (higher update_time, then higher ID)
-          const timeDiff = (b.update_time || 0) - (a.update_time || 0);
+          // Newer items first: prioritize create_time, fallback to update_time, then by ID
+          // 时间可能是数字时间戳或 ISO 字符串，需要统一处理
+          const parseTime = (t: any): number => {
+            if (!t) return 0;
+            if (typeof t === 'number') return t;
+            if (typeof t === 'string') return new Date(t).getTime() || 0;
+            return 0;
+          };
+          const aTime = parseTime(a.create_time) || parseTime(a.update_time);
+          const bTime = parseTime(b.create_time) || parseTime(b.update_time);
+          const timeDiff = bTime - aTime;
           if (timeDiff !== 0) return timeDiff;
-          return b.id - a.id;
+          // ID 可能是超大数字字符串，不能用 parseInt（会丢失精度）
+          // 使用字符串比较：先比长度（长度大的数字更大），长度相同再按字典序比较
+          const aId = String(a.id);
+          const bId = String(b.id);
+          if (aId.length !== bId.length) {
+            return bId.length - aId.length; // 更长的数字排在前面（更大）
+          }
+          return bId.localeCompare(aId); // 长度相同时，字典序更大的排在前面
       }
     });
 
@@ -530,7 +547,7 @@ const App: React.FC = () => {
       // Handle search term population
       // Default to true if undefined (matching previous behavior where label is used)
       // But now we explicitly put it in the search box as requested
-      const shouldIncludeLabel = category.includeLabelInSearch !== false; 
+      const shouldIncludeLabel = category.includeLabelInSearch !== false;
       if (shouldIncludeLabel) {
         setSearchTerm(category.label[lang]);
       } else {
@@ -551,14 +568,14 @@ const App: React.FC = () => {
   // 首次加载时确保显示所有数据
   useEffect(() => {
     // 只在数据加载完成后且所有筛选条件为空时执行一次
-    if (promptList.length > 0 && 
-        !selectedCategory && 
-        selectedTags.length === 0 && 
-        !searchTerm && 
-        !selectedModel && 
-        !selectedModelCategory && 
-        !showLikedOnly) {
-      
+    if (promptList.length > 0 &&
+      !selectedCategory &&
+      selectedTags.length === 0 &&
+      !searchTerm &&
+      !selectedModel &&
+      !selectedModelCategory &&
+      !showLikedOnly) {
+
       // 确保显示所有数据
       setVisibleCount(Math.max(LOAD_MORE_STEP, filteredPrompts.length));
     }
@@ -588,7 +605,7 @@ const App: React.FC = () => {
       // If the modelId is itself a category key, use it. Otherwise find its category.
       const isCategory = Object.keys(MODEL_CATEGORIES).includes(modelId);
       const category = isCategory ? modelId : getModelCategory(modelId);
-      
+
       // Only update category if it's a known category, otherwise it might be a standalone model
       if (Object.keys(MODEL_CATEGORIES).includes(category)) {
         setSelectedModelCategory(category);
@@ -621,98 +638,97 @@ const App: React.FC = () => {
       />
 
       {/* Hero Section - Full Width */}
-      <Hero 
-        totalCount={promptList.length} 
-        searchTerm={searchTerm} 
-        setSearchTerm={setSearchTerm} 
-        lang={lang} 
+      <Hero
+        totalCount={promptList.length}
+        searchTerm={searchTerm}
+        setSearchTerm={setSearchTerm}
+        lang={lang}
       />
-        
+
       {/* Tools Section: Tabs + Filter */}
       <div className="sticky top-0 z-30 backdrop-blur-md transition-colors duration-300 bg-white/95 dark:bg-slate-900/95 border-b border-slate-100 dark:border-slate-800/50 shadow-sm mb-4">
         <div className="container mx-auto px-4 py-4 space-y-4">
-        {/* Top Row: Gallery Title & Tabs */}
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-          <div className="flex items-center gap-6">
-            <h2 className="text-xl font-bold flex items-center gap-2 text-slate-800 dark:text-slate-100">
-              <GalleryVerticalEnd size={24} className="text-indigo-500" />
-              {t.galleryTitle}
-            </h2>
+          {/* Top Row: Gallery Title & Tabs */}
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+            <div className="flex items-center gap-6">
+              <h2 className="text-xl font-bold flex items-center gap-2 text-slate-800 dark:text-slate-100">
+                <GalleryVerticalEnd size={24} className="text-indigo-500" />
+                {t.galleryTitle}
+              </h2>
 
-            <div className="flex items-center gap-3">
-              {/* Tabs: All vs Liked */}
-              <div className="flex bg-slate-200 dark:bg-slate-700 p-1 rounded-lg">
-                <button
-                  onClick={() => setShowLikedOnly(false)}
-                  className={`px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-all flex items-center gap-1.5 ${!showLikedOnly
-                    ? 'bg-white dark:bg-slate-600 text-primary dark:text-white shadow-sm'
-                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200'
-                    }`}
-                >
-                  <GalleryVerticalEnd size={14} className={!showLikedOnly ? "fill-current" : ""} />
-                  <span className="hidden sm:inline">{t.tabAll}</span>
-                </button>
-                <button
-                  onClick={() => setShowLikedOnly(true)}
-                  className={`px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-all flex items-center gap-1.5 ${showLikedOnly
-                    ? 'bg-white dark:bg-slate-600 text-pink-500 dark:text-pink-400 shadow-sm'
-                    : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200'
-                    }`}
-                >
-                  <Heart size={14} className={showLikedOnly ? "fill-current" : ""} />
-                  <span className="hidden sm:inline">{t.tabLiked}</span>
-                  {likedIds.length > 0 && <span className="ml-1 opacity-80">({likedIds.length})</span>}
-                </button>
-              </div>
+              <div className="flex items-center gap-3">
+                {/* Tabs: All vs Liked */}
+                <div className="flex bg-slate-200 dark:bg-slate-700 p-1 rounded-lg">
+                  <button
+                    onClick={() => setShowLikedOnly(false)}
+                    className={`px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-all flex items-center gap-1.5 ${!showLikedOnly
+                      ? 'bg-white dark:bg-slate-600 text-primary dark:text-white shadow-sm'
+                      : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200'
+                      }`}
+                  >
+                    <GalleryVerticalEnd size={14} className={!showLikedOnly ? "fill-current" : ""} />
+                    <span className="hidden sm:inline">{t.tabAll}</span>
+                  </button>
+                  <button
+                    onClick={() => setShowLikedOnly(true)}
+                    className={`px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-all flex items-center gap-1.5 ${showLikedOnly
+                      ? 'bg-white dark:bg-slate-600 text-pink-500 dark:text-pink-400 shadow-sm'
+                      : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200'
+                      }`}
+                  >
+                    <Heart size={14} className={showLikedOnly ? "fill-current" : ""} />
+                    <span className="hidden sm:inline">{t.tabLiked}</span>
+                    {likedIds.length > 0 && <span className="ml-1 opacity-80">({likedIds.length})</span>}
+                  </button>
+                </div>
 
-              {/* Desktop Model Selector */}
-              <div className="hidden md:block">
-                <ModelSelector
-                  models={availableModelsForSelector}
-                  selectedModel={selectedModel}
-                  onSelectModel={handleModelSelect}
-                  lang={lang}
-                />
-              </div>
-              {/* tags filter button - Desktop */}
-              <button
-                onClick={() => setIsTagsFilterVisible(!isTagsFilterVisible)}
-                className={`hidden md:flex items-center gap-2 px-3 py-1.5 bg-white dark:bg-slate-800/90 border rounded-lg text-sm font-medium shadow-sm transition-colors ${
-                  isTagsFilterVisible
+                {/* Desktop Model Selector */}
+                <div className="hidden md:block">
+                  <ModelSelector
+                    models={availableModelsForSelector}
+                    selectedModel={selectedModel}
+                    onSelectModel={handleModelSelect}
+                    lang={lang}
+                  />
+                </div>
+                {/* tags filter button - Desktop */}
+                <button
+                  onClick={() => setIsTagsFilterVisible(!isTagsFilterVisible)}
+                  className={`hidden md:flex items-center gap-2 px-3 py-1.5 bg-white dark:bg-slate-800/90 border rounded-lg text-sm font-medium shadow-sm transition-colors ${isTagsFilterVisible
                     ? 'border-indigo-500 text-indigo-600 dark:text-indigo-400 ring-1 ring-indigo-500/20'
                     : 'border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-indigo-300 dark:hover:border-indigo-500/50 hover:text-indigo-600 dark:hover:text-indigo-400'
-                }`}
-              >
-                <Tag size={16} />
-                {t.filter || '标签'}
-                {selectedTags.length > 0 && (
-                  <span className="bg-gradient-to-r from-indigo-500 to-purple-500 text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
-                    {selectedTags.length}
-                  </span>
-                )}
-              </button>
-              
-              {/* Date Filter - Desktop */}
-              <div className="hidden md:block">
-                <DateFilter 
-                  selectedFilter={selectedDateFilter}
-                  onSelectFilter={setSelectedDateFilter}
-                  dateRange={dateRange}
-                  onDateRangeChange={setDateRange}
-                  lang={lang}
-                />
+                    }`}
+                >
+                  <Tag size={16} />
+                  {t.filter || '标签'}
+                  {selectedTags.length > 0 && (
+                    <span className="bg-gradient-to-r from-indigo-500 to-purple-500 text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+                      {selectedTags.length}
+                    </span>
+                  )}
+                </button>
+
+                {/* Date Filter - Desktop */}
+                <div className="hidden md:block">
+                  <DateFilter
+                    selectedFilter={selectedDateFilter}
+                    onSelectFilter={setSelectedDateFilter}
+                    dateRange={dateRange}
+                    onDateRangeChange={setDateRange}
+                    lang={lang}
+                  />
+                </div>
+
+
               </div>
-
-
             </div>
-          </div>
 
-          <div className="flex items-center gap-3 self-end sm:self-auto">
-            {/* Mobile Filter Button - Removed in favor of Bottom Nav, but keeping as fallback or alternative if needed, or just hide it completely now? 
+            <div className="flex items-center gap-3 self-end sm:self-auto">
+              {/* Mobile Filter Button - Removed in favor of Bottom Nav, but keeping as fallback or alternative if needed, or just hide it completely now? 
                 The plan said "Mobile Bottom Bar will change the main interaction... original top Filter button might be removed". 
                 Let's hide it for now since we have the bottom bar. 
             */}
-            {/* 
+              {/* 
             <button
               onClick={() => setIsDrawerOpen(true)}
               className="md:hidden flex items-center gap-2 px-3 py-1.5 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg text-sm font-medium text-slate-600 dark:text-slate-300 shadow-sm"
@@ -726,76 +742,76 @@ const App: React.FC = () => {
               )}
             </button>
             */}
-            <div className="relative group">
-              <div className="absolute -inset-0.5 bg-gradient-to-r from-indigo-500/20 via-purple-500/20 to-pink-500/20 rounded-lg blur opacity-0 group-hover:opacity-100 group-focus-within:opacity-100 transition duration-300" />
-              <div className="relative">
-                <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 dark:text-slate-500 group-focus-within:text-indigo-500 transition-colors" size={16} />
-                <input
-                  type="text"
-                  placeholder={t.searchPlaceholder}
-                  className="w-32 sm:w-48 bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 focus:bg-white dark:focus:bg-slate-800 text-slate-800 dark:text-slate-100 rounded-lg py-1.5 pl-9 pr-3 outline-none focus:border-indigo-400/50 focus:ring-2 focus:ring-indigo-500/20 transition-all duration-300 placeholder-slate-400 dark:placeholder-slate-500 text-sm shadow-sm"
-                  value={searchTerm}
-                  onChange={(e) => setSearchTerm(e.target.value)}
-                />
+              <div className="relative group">
+                <div className="absolute -inset-0.5 bg-gradient-to-r from-indigo-500/20 via-purple-500/20 to-pink-500/20 rounded-lg blur opacity-0 group-hover:opacity-100 group-focus-within:opacity-100 transition duration-300" />
+                <div className="relative">
+                  <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 dark:text-slate-500 group-focus-within:text-indigo-500 transition-colors" size={16} />
+                  <input
+                    type="text"
+                    placeholder={t.searchPlaceholder}
+                    className="w-32 sm:w-48 bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 focus:bg-white dark:focus:bg-slate-800 text-slate-800 dark:text-slate-100 rounded-lg py-1.5 pl-9 pr-3 outline-none focus:border-indigo-400/50 focus:ring-2 focus:ring-indigo-500/20 transition-all duration-300 placeholder-slate-400 dark:placeholder-slate-500 text-sm shadow-sm"
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                  />
+                </div>
+              </div>
+              {/* Sort Dropdown */}
+              <div className="flex items-center gap-2">
+                <select
+                  value={sortBy}
+                  onChange={(e) => setSortBy(e.target.value as SortOption)}
+                  className="px-3 py-1.5 bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700 rounded-lg text-sm font-medium text-slate-600 dark:text-slate-300 shadow-sm hover:border-slate-300 dark:hover:border-slate-600 transition-colors focus:outline-none focus:ring-2 focus:ring-indigo-500/20 focus:border-indigo-400/50"
+                >
+                  <option value="latest">{t.sortLatest || 'Latest'}</option>
+                  <option value="title">{t.sortTitle || 'Title'}</option>
+                  <option value="likes">{t.sortLikes || 'Likes'}</option>
+                  <option value="source">{t.sortSource || 'Source'}</option>
+                </select>
+              </div>
+              <div className="text-xs text-slate-400 font-medium min-w-[5rem] text-right tabular-nums">
+                {t.resultsCount.replace('{count}', filteredPrompts.length.toString())}
               </div>
             </div>
-            {/* Sort Dropdown */}
-            <div className="flex items-center gap-2">
-              <select
-                value={sortBy}
-                onChange={(e) => setSortBy(e.target.value as SortOption)}
-                className="px-3 py-1.5 bg-white dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700 rounded-lg text-sm font-medium text-slate-600 dark:text-slate-300 shadow-sm hover:border-slate-300 dark:hover:border-slate-600 transition-colors focus:outline-none focus:ring-2 focus:ring-indigo-500/20 focus:border-indigo-400/50"
-              >
-                <option value="latest">{t.sortLatest || 'Latest'}</option>
-                <option value="title">{t.sortTitle || 'Title'}</option>
-                <option value="likes">{t.sortLikes || 'Likes'}</option>
-                <option value="source">{t.sortSource || 'Source'}</option>
-              </select>
-            </div>
-            <div className="text-xs text-slate-400 font-medium min-w-[5rem] text-right tabular-nums">
-              {t.resultsCount.replace('{count}', filteredPrompts.length.toString())}
-            </div>
           </div>
-        </div>
 
-        {/* Category Filter */}
-        <div className="md:hidden overflow-hidden">
-          {/* Mobile view handled by horizontal scroll in component */}
-          <CategoryFilter
-            selectedCategory={selectedCategory}
-            onSelectCategory={handleCategorySelect}
-            lang={lang}
-            isExpanded={isCategoriesExpanded}
-            onToggleExpand={() => setIsCategoriesExpanded(!isCategoriesExpanded)}
-          />
-        </div>
-        <div className="hidden md:block">
-          <CategoryFilter
-            selectedCategory={selectedCategory}
-            onSelectCategory={handleCategorySelect}
-            lang={lang}
-            isExpanded={isCategoriesExpanded}
-            onToggleExpand={() => setIsCategoriesExpanded(!isCategoriesExpanded)}
-          />
-        </div>
-
-        {/* Tags Filter Area - Desktop Only */}
-        {isTagsFilterVisible && (
-          <div className="hidden md:block">
-            <TagsFilter
-              allTags={allTags}
-              selectedTags={selectedTags}
-              onToggleTag={toggleTag}
-              onClearTags={() => setSelectedTags([])}
-              isExpanded={isTagsExpanded}
-              onToggleExpand={() => setIsTagsExpanded(!isTagsExpanded)}
+          {/* Category Filter */}
+          <div className="md:hidden overflow-hidden">
+            {/* Mobile view handled by horizontal scroll in component */}
+            <CategoryFilter
+              selectedCategory={selectedCategory}
+              onSelectCategory={handleCategorySelect}
               lang={lang}
+              isExpanded={isCategoriesExpanded}
+              onToggleExpand={() => setIsCategoriesExpanded(!isCategoriesExpanded)}
             />
           </div>
-        )}
+          <div className="hidden md:block">
+            <CategoryFilter
+              selectedCategory={selectedCategory}
+              onSelectCategory={handleCategorySelect}
+              lang={lang}
+              isExpanded={isCategoriesExpanded}
+              onToggleExpand={() => setIsCategoriesExpanded(!isCategoriesExpanded)}
+            />
+          </div>
+
+          {/* Tags Filter Area - Desktop Only */}
+          {isTagsFilterVisible && (
+            <div className="hidden md:block">
+              <TagsFilter
+                allTags={allTags}
+                selectedTags={selectedTags}
+                onToggleTag={toggleTag}
+                onClearTags={() => setSelectedTags([])}
+                isExpanded={isTagsExpanded}
+                onToggleExpand={() => setIsTagsExpanded(!isTagsExpanded)}
+                lang={lang}
+              />
+            </div>
+          )}
+        </div>
       </div>
-      </div>
-      
+
       {/* Main Content */}
       <main className="container mx-auto">
 
@@ -809,18 +825,18 @@ const App: React.FC = () => {
               ))}
             </div>
           ) : filteredPrompts.length > 0 ? (
-            <div className="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-4 space-y-4">
-              {displayedPrompts.map(item => (
+            <MasonryGrid
+              items={displayedPrompts}
+              renderItem={(item) => (
                 <PromptCard
-                  key={item.id}
                   item={item}
                   onClick={setSelectedItem}
                   isLiked={likedIds.includes(item.id)}
-                  onToggleLike={() => toggleLike(item.id)}
+                  onToggleLike={() => toggleLike(item.id as number)}
                   lang={lang}
                 />
-              ))}
-            </div>
+              )}
+            />
           ) : (
             <EmptyState
               showLikedOnly={showLikedOnly}
@@ -941,41 +957,37 @@ const App: React.FC = () => {
                   setSelectedDateFilter('all');
                   setDateRange({ startDate: null, endDate: null });
                 }}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${
-                  selectedDateFilter === 'all'
+                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${selectedDateFilter === 'all'
                   ? 'bg-primary text-white border-primary shadow-md'
                   : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700'
-                }`}
+                  }`}
               >
                 {t.dateAll}
               </button>
               <button
                 onClick={() => setSelectedDateFilter('today')}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${
-                  selectedDateFilter === 'today'
+                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${selectedDateFilter === 'today'
                   ? 'bg-primary text-white border-primary shadow-md'
                   : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700'
-                }`}
+                  }`}
               >
                 {t.dateToday}
               </button>
               <button
                 onClick={() => setSelectedDateFilter('week')}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${
-                  selectedDateFilter === 'week'
+                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${selectedDateFilter === 'week'
                   ? 'bg-primary text-white border-primary shadow-md'
                   : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700'
-                }`}
+                  }`}
               >
                 {t.dateWeek}
               </button>
               <button
                 onClick={() => setSelectedDateFilter('month')}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${
-                  selectedDateFilter === 'month'
+                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border h-8 flex items-center ${selectedDateFilter === 'month'
                   ? 'bg-primary text-white border-primary shadow-md'
                   : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-50 dark:hover:bg-slate-700'
-                }`}
+                  }`}
               >
                 {t.dateMonth}
               </button>

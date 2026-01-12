@@ -44,6 +44,8 @@ export const MODEL_MAP = {
   'gemini-2.5-flash-image': 'NanoBanana 2.5 Flash',
   'grok-2-image': 'Grok-2',
   'grok': 'Grok',
+  'high_aes_general_v40l': 'Seedream4.5',
+  'high_aes_general_v41': 'Seedream4.1',
   'high_aes_general_v40': 'Seedream4.0',
   'high_aes_general_v20_L:general_v2.0_L': 'Seedream2.0',
   'high_aes_general_v21_L:general_v2.1_L': 'Seedream2.1',
@@ -55,6 +57,8 @@ export const MODEL_MAP = {
 export const MODEL_CATEGORIES = {
   'NanoBanana': ['gemini-3-pro-image-preview', 'gemini-2.5-flash-image'],
   'Seedream': [
+    'high_aes_general_v40l',
+    'high_aes_general_v41',
     'high_aes_general_v40',
     'high_aes_general_v20_L:general_v2.0_L',
     'high_aes_general_v21_L:general_v2.1_L',

@@ -2019,8 +2019,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T18:49:02.000Z",
-    "update_time": "2025-12-27T12:15:23.252Z"
+    "create_time": 1766774942000,
+    "update_time": 1766837723252
   },
   {
     "id": "2004239480501231900",
@@ -2452,8 +2452,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2026-01-01T17:28:41.000Z",
-    "update_time": "2026-01-03T11:42:21.732Z"
+    "create_time": 1767288521000,
+    "update_time": 1767440541732
   },
   {
     "id": "2007023203571429702",
@@ -2485,8 +2485,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2026-01-02T09:34:49.000Z",
-    "update_time": "2026-01-03T10:57:39.894Z"
+    "create_time": 1767346489000,
+    "update_time": 1767437859894
   },
   {
     "id": "2006983853542396400",
@@ -2568,7 +2568,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008008497473147136_0.jpg",
-    "create_time": "2026-01-05T02:51:47.000Z",
+    "create_time": 1767581507000,
     "description": "",
     "id": "2008008497473147136",
     "images": [
@@ -2587,11 +2587,11 @@
     "status": 1,
     "tags": [],
     "title": "Apple vision Pro掌控你真正的AR世界",
-    "update_time": "2026-01-06T13:03:04.132Z"
+    "update_time": 1767704584132
   },
   {
     "coverImage": "/images/2026-01-05/2008103993957048665_0.jpg",
-    "create_time": "2026-01-05T09:11:15.000Z",
+    "create_time": 1767604275000,
     "description": "",
     "id": "2008103993957048665",
     "images": [
@@ -2611,11 +2611,11 @@
     "status": 1,
     "tags": [],
     "title": "ar 世界",
-    "update_time": "2026-01-06T13:02:44.181Z"
+    "update_time": 1767704564181
   },
   {
     "coverImage": "/images/2026-01-04/2007863361359290400_0.jpg",
-    "create_time": "Sun Jan 04 17:15:04 +0000 2026",
+    "create_time": 1767546904000,
     "description": "在这幅图像中，一只智慧的老猫头鹰栖息于充满神秘光球的森林空地中，这些柔和发光的光球代表着神话生物的迷人存在。采用午夜蓝和紫水晶色调，营造出一种奇妙与魔法的感觉。",
     "examples": [],
     "height": 896,
@@ -2653,7 +2653,7 @@
   },
   {
     "coverImage": "/images/2026-01-04/2007893560280899800_0.jpg",
-    "create_time": "Sun Jan 04 19:15:04 +0000 2026",
+    "create_time": 1767554104000,
     "description": "画面展现了一位手持拐杖的优雅绅士，置身于华丽的假面舞会之中。周围环绕着精致的面具、闪烁的吊灯以及奢华的帷幔，着重于深邃的蓝宝石色调与低调的铅灰亮点交织，营造出一种古雅电影的光辉。",
     "examples": [],
     "height": 896,
@@ -2691,7 +2691,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008131658852241700_0.jpg",
-    "create_time": "Mon Jan 05 11:01:11 +0000 2026",
+    "create_time": 1767610871000,
     "description": "一个由毛毡手工制作的年轻女孩形象，手中握着气球，置于粉彩公园和多云天空的微缩模型中。场景展现了如童话般的温馨魅力，仿佛是一部完全由毛毡和线制成的触感定格动画中的静止画面。",
     "examples": [],
     "height": 640,
@@ -2729,7 +2729,7 @@
   },
   {
     "coverImage": "/images/2025-12-15/2000381429734379910_0.jpg",
-    "create_time": "2025-12-15T01:44:32.000Z",
+    "create_time": 1765763072000,
     "description": "请注意，由于技术限制或理解差异，上述指令可能需要根据实际使用的AI工具进行调整以达到最佳效果。此外，确保在生成图像之前检查所有的质量清单项，以保证最终作品符合预期。",
     "id": "2000381429734379910",
     "images": [
@@ -2751,11 +2751,11 @@
     "status": 1,
     "tags": [],
     "title": "9宫格+裸感3D的玩法",
-    "update_time": "2026-01-06T12:36:19.865Z"
+    "update_time": 1767702979865
   },
   {
     "coverImage": "/images/2026-01-05/2008225751238132200_0.jpg",
-    "create_time": "Mon Jan 05 17:15:04 +0000 2026",
+    "create_time": 1767633304000,
     "description": "在这幅图中，一座被冰晶和雪花装饰的城堡展现出了冬日的魔力。蓝宝石色与薄荷绿色的冷色调共同营造出一种超凡脱俗的美景。",
     "examples": [],
     "height": 896,
@@ -2793,7 +2793,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008255952701555000_0.jpg",
-    "create_time": "Mon Jan 05 19:15:05 +0000 2026",
+    "create_time": 1767640505000,
     "description": "这幅插图以柔和的象牙白和淡蓝绿色调捕捉了一对天鹅在睡莲间滑行的宁静场景，展现了动植物之间细腻的互动，营造出一种平和与平衡的感觉。",
     "examples": [],
     "height": 896,
@@ -2907,6 +2907,46 @@
     "title": "智慧大象在梦幻星空中的轮廓",
     "type": "",
     "update_time": 1767877613755,
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-09/2009675315010809900_0.jpg",
+    "create_time": 1767978907000,
+    "description": "一位优雅艺伎以水彩泼溅与浮世绘结合风格呈现，采用象牙白与樱花粉的传统配色，线条鲜明，色彩平涂。",
+    "examples": [],
+    "height": 896,
+    "id": "2009675315010809900",
+    "images": [
+      "/images/2026-01-09/2009675315010809900_0.jpg",
+      "/images/2026-01-09/2009675315010809900_1.jpg",
+      "/images/2026-01-09/2009675315010809900_2.jpg",
+      "/images/2026-01-09/2009675315010809900_3.jpg"
+    ],
+    "likes": 191,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Cherry blossoms presented in the style of a Watercolor Splash Japanese Woodblock print, with bold outlines, flat colors, and a focus on natural beauty. Employ sakura pink and moss green in a traditional Japanese color scheme --ar 3:2 --v 7.0",
+      "Elegant Geisha presented in the style of a Watercolor Splash Japanese Woodblock print, with bold outlines, flat colors, and a focus on natural beauty. Employ Ivory White and Sakura Pink in a traditional Japanese color scheme --ar 3:2 --v 7.0",
+      "Snow-Covered Temple Roofs presented in the style of a Watercolor Splash Japanese Woodblock print, with bold outlines, flat colors, and a focus on natural beauty. Employ Yuki White and Asagi Blue in a traditional Japanese color scheme --ar 3:2 --v 7.0",
+      "Striking Samurai presented in the style of a Watercolor Splash Japanese Woodblock print, with bold outlines, flat colors, and a focus on natural beauty. Employ Crimson Red and Jet Black in a traditional Japanese color scheme --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2009675315010809900",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2009675315010809976"
+    },
+    "status": 1,
+    "tags": [
+      "japanese",
+      "watercolor",
+      "traditional"
+    ],
+    "title": "水彩风格日本浮世绘艺伎",
+    "type": "",
+    "update_time": 1768138335525,
     "width": 1344
   }
 ]

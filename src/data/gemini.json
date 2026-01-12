@@ -19772,8 +19772,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-11-23T05:32:05.000Z",
-    "update_time": "2025-12-28T14:27:32.360Z"
+    "create_time": 1763875925000,
+    "update_time": 1766932052360
   },
   {
     "id": "2001816797318910400",
@@ -19810,8 +19810,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-19T00:48:11.000Z",
-    "update_time": "2025-12-28T14:28:14.478Z"
+    "create_time": 1766105291000,
+    "update_time": 1766932094478
   },
   {
     "id": "1996852895829184963",
@@ -19844,8 +19844,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-05T08:03:24.000Z",
-    "update_time": "2025-12-28T14:28:51.065Z"
+    "create_time": 1764921804000,
+    "update_time": 1766932131065
   },
   {
     "id": "2004929995177951416",
@@ -19881,8 +19881,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-27T14:58:55.000Z",
-    "update_time": "2025-12-28T14:29:23.927Z"
+    "create_time": 1766847535000,
+    "update_time": 1766932163927
   },
   {
     "id": "2000112716728705065",
@@ -19916,8 +19916,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-14T07:55:29.000Z",
-    "update_time": "2025-12-28T14:29:46.245Z"
+    "create_time": 1765698929000,
+    "update_time": 1766932186245
   },
   {
     "id": "2002246674069286912",
@@ -19958,8 +19958,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-20T05:16:21.000Z",
-    "update_time": "2025-12-28T14:29:58.346Z"
+    "create_time": 1766207781000,
+    "update_time": 1766932198346
   },
   {
     "id": "2004528545033527385",
@@ -19996,8 +19996,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T12:23:42.000Z",
-    "update_time": "2025-12-28T14:30:13.230Z"
+    "create_time": 1766751822000,
+    "update_time": 1766932213230
   },
   {
     "id": "2004697850920501600",
@@ -20034,8 +20034,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T23:36:27.000Z",
-    "update_time": "2025-12-28T14:30:46.363Z"
+    "create_time": 1766792187000,
+    "update_time": 1766932246363
   },
   {
     "id": "2004477326076383674",
@@ -20072,8 +20072,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T09:00:10.000Z",
-    "update_time": "2025-12-28T14:30:59.864Z"
+    "create_time": 1766739610000,
+    "update_time": 1766932259864
   },
   {
     "id": "2004275556612034681",
@@ -20110,8 +20110,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-25T19:38:24.000Z",
-    "update_time": "2025-12-28T14:31:11.447Z"
+    "create_time": 1766691504000,
+    "update_time": 1766932271447
   },
   {
     "id": "2004163365942579563",
@@ -20148,8 +20148,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-25T12:12:36.000Z",
-    "update_time": "2025-12-28T14:31:19.062Z"
+    "create_time": 1766664756000,
+    "update_time": 1766932279062
   },
   {
     "id": "2004449586732323237",
@@ -20183,8 +20183,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T07:09:57.000Z",
-    "update_time": "2025-12-28T14:32:17.183Z"
+    "create_time": 1766732997000,
+    "update_time": 1766932337183
   },
   {
     "id": "2002983283429146835",
@@ -20218,8 +20218,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-22T06:03:23.000Z",
-    "update_time": "2025-12-28T14:33:22.200Z"
+    "create_time": 1766383403000,
+    "update_time": 1766932402200
   },
   {
     "id": "2005266319772684676",
@@ -20254,8 +20254,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T13:15:21.000Z",
-    "update_time": "2025-12-28T14:22:45.054Z"
+    "create_time": 1766927721000,
+    "update_time": 1766931765054
   },
   {
     "id": "2005271418326364615",
@@ -20289,8 +20289,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T13:35:36.000Z",
-    "update_time": "2025-12-28T14:23:26.756Z"
+    "create_time": 1766928936000,
+    "update_time": 1766931806756
   },
   {
     "id": "2005261107330699495",
@@ -20324,8 +20324,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T12:54:38.000Z",
-    "update_time": "2025-12-28T14:24:39.405Z"
+    "create_time": 1766926478000,
+    "update_time": 1766931879405
   },
   {
     "id": "2005252092127322118",
@@ -20360,8 +20360,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T12:18:49.000Z",
-    "update_time": "2025-12-28T14:25:41.979Z"
+    "create_time": 1766924329000,
+    "update_time": 1766931941979
   },
   {
     "id": "2005274843244077567",
@@ -20397,8 +20397,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T13:48:25.000Z",
-    "update_time": "2025-12-28T14:21:06.983Z"
+    "create_time": 1766929705000,
+    "update_time": 1766931666983
   },
   {
     "id": "2005276248789131773",
@@ -20432,8 +20432,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T13:54:48.000Z",
-    "update_time": "2025-12-28T14:17:54.262Z"
+    "create_time": 1766930088000,
+    "update_time": 1766931474262
   },
   {
     "id": "2005278334163587137",
@@ -20467,8 +20467,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T14:03:05.000Z",
-    "update_time": "2025-12-28T14:16:52.996Z"
+    "create_time": 1766930585000,
+    "update_time": 1766931412996
   },
   {
     "id": "2005276907604988275",
@@ -20504,8 +20504,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T13:56:52.000Z",
-    "update_time": "2025-12-28T14:17:09.545Z"
+    "create_time": 1766930212000,
+    "update_time": 1766931429545
   },
   {
     "id": "2005248303257309423",
@@ -20538,8 +20538,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T12:03:45.000Z",
-    "update_time": "2025-12-28T14:01:10.505Z"
+    "create_time": 1766923425000,
+    "update_time": 1766930470505
   },
   {
     "id": "2005190547133399118",
@@ -20573,8 +20573,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T08:14:15.000Z",
-    "update_time": "2025-12-28T14:02:23.349Z"
+    "create_time": 1766909655000,
+    "update_time": 1766930543349
   },
   {
     "id": "2005219164009668903",
@@ -20611,8 +20611,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T10:07:58.000Z",
-    "update_time": "2025-12-28T14:07:03.837Z"
+    "create_time": 1766916478000,
+    "update_time": 1766930823837
   },
   {
     "id": "2005252552762314954",
@@ -20649,8 +20649,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T12:20:39.000Z",
-    "update_time": "2025-12-28T14:08:17.978Z"
+    "create_time": 1766924439000,
+    "update_time": 1766930897978
   },
   {
     "id": "2005234288250527757",
@@ -20685,8 +20685,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T11:03:52.000Z",
-    "update_time": "2025-12-28T14:11:13.703Z"
+    "create_time": 1766919832000,
+    "update_time": 1766931073703
   },
   {
     "id": "2004462228490096652",
@@ -20720,8 +20720,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T08:00:11.000Z",
-    "update_time": "2025-12-27T12:25:04.065Z"
+    "create_time": 1766736011000,
+    "update_time": 1766838304065
   },
   {
     "id": "2004392418288783366",
@@ -20758,8 +20758,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T03:22:46.000Z",
-    "update_time": "2025-12-27T12:21:01.570Z"
+    "create_time": 1766719366000,
+    "update_time": 1766838061570
   },
   {
     "id": "2004447203645923535",
@@ -20796,8 +20796,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T07:00:28.000Z",
-    "update_time": "2025-12-27T12:16:58.703Z"
+    "create_time": 1766732428000,
+    "update_time": 1766837818703
   },
   {
     "id": "2004296341439262996",
@@ -20831,8 +20831,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-25T21:01:00.000Z",
-    "update_time": "2025-12-27T11:59:47.793Z"
+    "create_time": 1766696460000,
+    "update_time": 1766836787793
   },
   {
     "id": "2004364368155447500",
@@ -20868,8 +20868,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-26T01:31:19.000Z",
-    "update_time": "2025-12-26T13:41:45.456Z"
+    "create_time": 1766712679000,
+    "update_time": 1766756505456
   },
   {
     "id": "2004178587654779000",
@@ -22379,8 +22379,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-24T15:26:18.000Z",
-    "update_time": "2025-12-29T15:04:34.868Z"
+    "create_time": 1766589978000,
+    "update_time": 1767020674868
   },
   {
     "id": "2005311875278606800",
@@ -23077,8 +23077,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-21T23:23:46.000Z",
-    "update_time": "2025-12-28T14:29:03.360Z"
+    "create_time": 1766359426000,
+    "update_time": 1766932143360
   },
   {
     "id": "2002460264327979051",
@@ -23115,8 +23115,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-20T19:25:05.000Z",
-    "update_time": "2025-12-28T14:32:43.808Z"
+    "create_time": 1766258705000,
+    "update_time": 1766932363808
   },
   {
     "id": "2005071147537166600",
@@ -23178,8 +23178,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-30T12:32:20.000Z",
-    "update_time": "2025-12-31T13:44:16.080Z"
+    "create_time": 1767097940000,
+    "update_time": 1767188656080
   },
   {
     "id": "2006739034828316825",
@@ -23208,8 +23208,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2026-01-01T14:47:23.000Z",
-    "update_time": "2026-01-02T11:49:59.876Z"
+    "create_time": 1767278843000,
+    "update_time": 1767354599876
   },
   {
     "id": "2006948793586176375",
@@ -23244,8 +23244,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2026-01-01T06:57:11.000Z",
-    "update_time": "2026-01-02T11:39:48.393Z"
+    "create_time": 1767250631000,
+    "update_time": 1767353988393
   },
   {
     "id": "2005681873612165251",
@@ -23278,8 +23278,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-29T16:46:37.000Z",
-    "update_time": "2025-12-31T07:24:50.562Z"
+    "create_time": 1767026797000,
+    "update_time": 1767165890562
   },
   {
     "id": "2005984084141465609",
@@ -23314,8 +23314,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-30T12:47:29.000Z",
-    "update_time": "2025-12-31T07:21:08.672Z"
+    "create_time": 1767098849000,
+    "update_time": 1767165668672
   },
   {
     "id": "2005822648027091031",
@@ -23345,8 +23345,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-30T02:06:00.000Z",
-    "update_time": "2025-12-31T07:14:07.092Z"
+    "create_time": 1767060360000,
+    "update_time": 1767165247092
   },
   {
     "id": "2005999391367196797",
@@ -23378,8 +23378,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-30T13:48:19.000Z",
-    "update_time": "2025-12-31T05:11:13.937Z"
+    "create_time": 1767102499000,
+    "update_time": 1767157873937
   },
   {
     "id": "2005097871977447736",
@@ -23409,8 +23409,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T02:06:00.000Z",
-    "update_time": "2025-12-31T05:04:12.317Z"
+    "create_time": 1766887560000,
+    "update_time": 1767157452317
   },
   {
     "id": "2005286056850251802",
@@ -23442,8 +23442,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T14:33:47.000Z",
-    "update_time": "2025-12-31T05:04:35.821Z"
+    "create_time": 1766932427000,
+    "update_time": 1767157475821
   },
   {
     "id": "2005842541141451133",
@@ -23476,8 +23476,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-30T03:25:03.000Z",
-    "update_time": "2025-12-31T01:40:22.183Z"
+    "create_time": 1767065103000,
+    "update_time": 1767145222183
   },
   {
     "id": "2005629256781680913",
@@ -23507,8 +23507,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-29T13:17:32.000Z",
-    "update_time": "2025-12-30T14:21:42.184Z"
+    "create_time": 1767014252000,
+    "update_time": 1767104502184
   },
   {
     "id": "2003402163364782168",
@@ -23539,8 +23539,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-23T09:47:51.000Z",
-    "update_time": "2025-12-30T14:23:30.871Z"
+    "create_time": 1766483271000,
+    "update_time": 1767104610871
   },
   {
     "id": "2005947184290951450",
@@ -23574,8 +23574,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-30T10:20:52.000Z",
-    "update_time": "2025-12-30T13:24:58.984Z"
+    "create_time": 1767090052000,
+    "update_time": 1767101098984
   },
   {
     "id": "1998432458941858282",
@@ -23609,8 +23609,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-09T16:40:01.000Z",
-    "update_time": "2025-12-30T13:25:56.704Z"
+    "create_time": 1765298401000,
+    "update_time": 1767101156704
   },
   {
     "id": "2005487690838655382",
@@ -23644,8 +23644,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-29T03:55:00.000Z",
-    "update_time": "2025-12-30T13:07:39.109Z"
+    "create_time": 1766980500000,
+    "update_time": 1767100059109
   },
   {
     "id": "2002847525536219187",
@@ -23676,8 +23676,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-21T21:03:55.000Z",
-    "update_time": "2025-12-30T13:08:08.160Z"
+    "create_time": 1766351035000,
+    "update_time": 1767100088160
   },
   {
     "id": "2005530723847934103",
@@ -23711,8 +23711,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-29T06:46:00.000Z",
-    "update_time": "2025-12-30T13:08:25.876Z"
+    "create_time": 1766990760000,
+    "update_time": 1767100105876
   },
   {
     "id": "2005173589809537125",
@@ -23746,8 +23746,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-28T07:06:52.000Z",
-    "update_time": "2025-12-30T13:08:36.030Z"
+    "create_time": 1766905612000,
+    "update_time": 1767100116030
   },
   {
     "id": "2005487775597088895",
@@ -23779,8 +23779,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-29T03:55:20.000Z",
-    "update_time": "2025-12-30T13:10:08.178Z"
+    "create_time": 1766980520000,
+    "update_time": 1767100208178
   },
   {
     "id": "2005981275052728416",
@@ -23810,8 +23810,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-30T12:36:19.000Z",
-    "update_time": "2025-12-30T13:16:57.581Z"
+    "create_time": 1767098179000,
+    "update_time": 1767100617581
   },
   {
     "id": "2003768838111059997",
@@ -23841,8 +23841,8 @@
     "height": "",
     "page_type": "native",
     "status": 1,
-    "create_time": "2025-12-24T10:04:53.000Z",
-    "update_time": "2025-12-30T13:18:47.335Z"
+    "create_time": 1766570693000,
+    "update_time": 1767100727335
   },
   {
     "id": "2005698218043003100",
@@ -24111,8 +24111,8 @@
     "ratio": "",
     "likes": 494,
     "status": 1,
-    "create_time": "2026-01-03T13:02:40.000Z",
-    "update_time": "2026-01-05T13:35:32.207Z"
+    "create_time": 1767445360000,
+    "update_time": 1767620132207
   },
   {
     "id": "2007446691235148270",
@@ -24137,12 +24137,12 @@
     "ratio": "",
     "likes": 506,
     "status": 1,
-    "create_time": "2026-01-03T13:39:22.000Z",
-    "update_time": "2026-01-05T13:34:24.658Z"
+    "create_time": 1767447562000,
+    "update_time": 1767620064658
   },
   {
     "coverImage": "/images/2026-01-03/2007529647387353000_0.jpg",
-    "create_time": "Sat Jan 03 19:09:00 +0000 2026",
+    "create_time": 1767467340000,
     "description": "图像中心为一把超写实的大提琴，其琴颈化为墙上的技术绘图。背景采用达·芬奇风格的声波草图及泛黄纸张。前景中揉皱的节目单、小提琴松香和指挥棒增加了音乐氛围。温暖金色灯光照亮大提琴。",
     "examples": [],
     "height": 1024,
@@ -24175,7 +24175,7 @@
   },
   {
     "coverImage": "/images/2026-01-03/2007495673784979700_0.jpg",
-    "create_time": "Sat Jan 03 16:54:00 +0000 2026",
+    "create_time": 1767459240000,
     "description": "在这根悬于空中的雪茄断裂处，内藏着一个由烟叶精心构建的微缩烟草种植园，细节丰富，包括晾烟房、工人和庄园，呈现出材料的真实感与空间逻辑。",
     "examples": [],
     "height": 756,
@@ -24213,7 +24213,7 @@
   },
   {
     "coverImage": "/images/2026-01-04/2007661789023244500_0.jpg",
-    "create_time": "Sun Jan 04 03:54:05 +0000 2026",
+    "create_time": 1767498845000,
     "description": "此作品展现了一个被地质断层劈开的孤立物体，其内部结构如同博物馆剖面般清晰，展示了由同种材料构成的复杂而有序的建筑逻辑结构。强调超精细3D浮雕风格和真实材质感，色调统一源于物体材料本身。",
     "examples": [],
     "height": 1536,
@@ -24249,7 +24249,7 @@
   },
   {
     "coverImage": "/images/2026-01-03/2007497261492920800_0.jpg",
-    "create_time": "Sat Jan 03 17:00:19 +0000 2026",
+    "create_time": 1767459619000,
     "description": "这张超高端中性香水广告摄影展示了名为AUREN的奢侈香水。优雅的玻璃瓶身内盛有琥珀至浅木色香水液体，配以细腻木质元素和温暖影棚布光，营造出沉稳昂贵的氛围。",
     "examples": [],
     "height": 4096,
@@ -24284,7 +24284,7 @@
   },
   {
     "coverImage": "/images/2026-01-03/2007535691157143600_0.jpg",
-    "create_time": "Sat Jan 03 19:33:01 +0000 2026",
+    "create_time": 1767468781000,
     "description": "这是一幅采用极简风格的黑白扁平矢量肖像插画，通过粗细均匀的黑色轮廓线和策略性的黑色填充展现角色个性。背景为白色，构图干净、居中，具有高对比度。",
     "examples": [],
     "height": 1350,
@@ -24317,7 +24317,7 @@
   },
   {
     "coverImage": "/images/2026-01-04/2007722721967321000_0.jpg",
-    "create_time": "Sun Jan 04 07:56:13 +0000 2026",
+    "create_time": 1767513373000,
     "description": "在这张超写实风格的电影海报中，一名男子站在夜晚废弃的工业道路上，身旁是一辆正在漂移的改装日产GT-R Black Edition。海报通过细腻的光影处理和环境特效，如烟雾、火花及薄雾等元素，营造出紧张激烈的氛围。",
     "examples": [],
     "height": 1264,
@@ -24350,7 +24350,7 @@
   },
   {
     "coverImage": "/images/2026-01-04/2007616917327204600_0.jpg",
-    "create_time": "Sun Jan 04 00:55:47 +0000 2026",
+    "create_time": 1767488147000,
     "description": "新中式禅意品牌VI生成系统",
     "examples": [],
     "height": 1696,
@@ -24380,7 +24380,7 @@
   },
   {
     "coverImage": "/images/2026-01-03/2007544730167501000_0.jpg",
-    "create_time": "Sat Jan 03 20:08:56 +0000 2026",
+    "create_time": 1767470936000,
     "description": "在这幅广告中，一个代表品牌的主视觉元素以超现实主义风格呈现，背景采用大量留白，强调极简风格。画面左上角展示了品牌的官方标志，右下角配有两词标语，整体构图高保真且充满影棚灯光效果，8K画质清晰展现细节。",
     "examples": [],
     "height": 4096,
@@ -25124,7 +25124,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008135835351167484_0.jpg",
-    "create_time": "2026-01-05T11:17:47.000Z",
+    "create_time": 1767611867000,
     "description": "复古蒸汽波风格",
     "id": "2008135835351167484",
     "images": [
@@ -25144,11 +25144,11 @@
     "status": 1,
     "tags": [],
     "title": "复古蒸汽波风格",
-    "update_time": "2026-01-06T13:21:20.710Z"
+    "update_time": 1767705680710
   },
   {
     "coverImage": "/images/2026-01-05/2008273570175349157_0.jpg",
-    "create_time": "2026-01-05T20:25:05.000Z",
+    "create_time": 1767644705000,
     "description": "红色旗袍女神侧颜特写",
     "id": "2008273570175349157",
     "images": [
@@ -25170,11 +25170,11 @@
     "status": 1,
     "tags": [],
     "title": "红色旗袍女神侧颜特写",
-    "update_time": "2026-01-06T13:10:03.917Z"
+    "update_time": 1767705003917
   },
   {
     "coverImage": "/images/2026-01-06/2008523042629263562_0.jpg",
-    "create_time": "2026-01-06T12:56:24.000Z",
+    "create_time": 1767704184000,
     "description": "踏雪寻梅",
     "id": "2008523042629263562",
     "images": [
@@ -25193,11 +25193,11 @@
     "status": 1,
     "tags": [],
     "title": "踏雪寻梅",
-    "update_time": "2026-01-06T13:09:30.350Z"
+    "update_time": 1767704970350
   },
   {
     "coverImage": "/images/2026-01-06/2008328816825970731_0.jpg",
-    "create_time": "2026-01-06T00:04:37.000Z",
+    "create_time": 1767657877000,
     "description": "",
     "id": "2008328816825970731",
     "images": [
@@ -25219,11 +25219,11 @@
     "status": 1,
     "tags": [],
     "title": "拍立得女生",
-    "update_time": "2026-01-06T13:04:40.115Z"
+    "update_time": 1767704680115
   },
   {
     "coverImage": "/images/2026-01-04/2007831277269840400_0.jpg",
-    "create_time": "Sun Jan 04 15:07:34 +0000 2026",
+    "create_time": 1767539254000,
     "description": "食物特写镜头",
     "examples": [],
     "height": 2752,
@@ -25255,7 +25255,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008186029820559400_0.jpg",
-    "create_time": "Mon Jan 05 14:37:14 +0000 2026",
+    "create_time": 1767623834000,
     "description": "瞳色妝容（美瞳）",
     "examples": [],
     "height": 2752,
@@ -25283,7 +25283,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008098771381690600_0.jpg",
-    "create_time": "Mon Jan 05 08:50:30 +0000 2026",
+    "create_time": 1767603030000,
     "description": "在这张超高端香水广告中，一瓶设计精美的矩形香水瓶悬浮于空间中，散发着静谧权威感。瓶身由厚实水晶玻璃制成，配以香槟金盖，标签极简而清晰。围绕瓶身的艺术元素象征着花香调的不同维度，背景为高贵色调渐变，整个场景展示出自信与奢华。",
     "examples": [],
     "height": 3333,
@@ -25317,7 +25317,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008016478315192800_0.jpg",
-    "create_time": "Mon Jan 05 03:23:30 +0000 2026",
+    "create_time": 1767583410000,
     "description": "",
     "examples": [],
     "height": 768,
@@ -25349,7 +25349,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008008497473147100_0.jpg",
-    "create_time": "Mon Jan 05 02:51:47 +0000 2026",
+    "create_time": 1767581507000,
     "description": "",
     "examples": [],
     "height": 506,
@@ -25377,7 +25377,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008071853928226800_0.jpg",
-    "create_time": "Mon Jan 05 07:03:32 +0000 2026",
+    "create_time": 1767596612000,
     "description": "",
     "examples": [],
     "height": 2048,
@@ -25407,7 +25407,7 @@
   },
   {
     "coverImage": "/images/2026-01-04/2007881212132803000_0.jpg",
-    "create_time": "Sun Jan 04 18:26:00 +0000 2026",
+    "create_time": 1767551160000,
     "description": "这是一幅描绘牧羊人引导羊群穿越山谷的古老壁画，表面斑驳陆离，砖块裸露。使用了文艺复兴时期的色彩，如土绿、生褐，并以金箔点缀夕阳下的山丘。壁画部分修复，上方有博物馆照明。",
     "examples": [],
     "height": 904,
@@ -25445,7 +25445,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008017541340565500_0.jpg",
-    "create_time": "Mon Jan 05 03:27:43 +0000 2026",
+    "create_time": 1767583663000,
     "description": "在这个高度写实的画面中，微型建筑工人正在使用起重机和脚手架组装产品，周围飞溅着火花，仿佛在建造摩天大楼，趣味十足适合品牌宣传。",
     "examples": [],
     "height": 1536,
@@ -25481,7 +25481,7 @@
   },
   {
     "coverImage": "/images/2026-01-04/2007802711937270000_0.jpg",
-    "create_time": "Sun Jan 04 13:14:04 +0000 2026",
+    "create_time": 1767532444000,
     "description": "这张图像展示了极度逼真的东亚人自然唇部，涂抹了超薄的水润唇精华，呈现出柔软的粉色调，嘴唇上有细腻的绒毛和真实的皮肤纹理，在柔和的窗光下显得自然而生动。",
     "examples": [],
     "height": 2752,
@@ -25514,7 +25514,7 @@
   },
   {
     "coverImage": "/images/2026-01-04/2007835913842495500_0.jpg",
-    "create_time": "Sun Jan 04 15:26:00 +0000 2026",
+    "create_time": 1767540360000,
     "description": "这张遗产板分为三部分，左侧展示了阿道夫·萨克斯的原始专利、C.G.康的创新以及早期塞尔默的发展；中间以爆炸视图展现了Mark VI型号的所有组件和材料细节；右侧描绘了约翰·科尔特兰演奏时的情景，并通过波形覆盖展示声音的复杂性。",
     "examples": [],
     "height": 856,
@@ -25552,7 +25552,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008127774750548200_0.jpg",
-    "create_time": "Mon Jan 05 10:45:45 +0000 2026",
+    "create_time": 1767609945000,
     "description": "这幅作品捕捉了一道静置在浅色哑光表面上的食物向3D像素化形态转变的瞬间。一半保持原状，另一半则分解为大型漂浮立方体，每个都精细展示了食物的纹理和色彩。通过柔和的影棚灯光、微妙的动态模糊以及浅景深，营造出电影感十足的超写实特写。",
     "examples": [],
     "height": 1080,
@@ -25585,7 +25585,7 @@
   },
   {
     "coverImage": "/images/2026-01-06/2008425387999801451_0.jpg",
-    "create_time": "2026-01-06T06:28:21.000Z",
+    "create_time": 1767680901000,
     "description": "",
     "id": "2008425387999801451",
     "images": [
@@ -25605,11 +25605,11 @@
     "status": 1,
     "tags": [],
     "title": "小朋友学字",
-    "update_time": "2026-01-06T12:18:16.405Z"
+    "update_time": 1767701896405
   },
   {
     "coverImage": "/images/2026-01-06/2008351247565476336_0.jpg",
-    "create_time": "2026-01-06T01:33:45.000Z",
+    "create_time": 1767663225000,
     "description": "将历史事件转化为艺术。一键生成Apple设计风格的“历史上的今天”日历页面，极简美学与4K细节完美融合。",
     "id": "2008351247565476336",
     "images": [
@@ -25633,11 +25633,11 @@
     "status": 1,
     "tags": [],
     "title": "历史上的今天",
-    "update_time": "2026-01-06T12:23:41.890Z"
+    "update_time": 1767702221890
   },
   {
     "coverImage": "/images/2026-01-05/2008112011373068488_0.jpg",
-    "create_time": "2026-01-05T09:43:07.000Z",
+    "create_time": 1767606187000,
     "description": "这个表情很有意思，它不是五官动作的简单叠加，而是一种情绪语义。  最开始我用嘟嘴+皱眉+生气来描述，模型会往真生气/凶这个方向跑，但加上“对男朋友撒气、被拍烦了”的叙事，就把它拉回到“凶但可爱、带撒娇的对抗”这种feel，很微妙，希望对你有所启发。",
     "examples": [],
     "height": "",
@@ -25664,12 +25664,12 @@
     "status": 1,
     "tags": [],
     "title": "奶凶的女生",
-    "update_time": "2026-01-06T12:30:59.056Z",
+    "update_time": 1767702659056,
     "width": ""
   },
   {
     "coverImage": "/images/2026-01-06/2008421241091154115_0.jpg",
-    "create_time": "2026-01-06T06:11:53.000Z",
+    "create_time": 1767679913000,
     "description": "马年女生九宫格头像",
     "id": "2008421241091154115",
     "images": [
@@ -25688,11 +25688,11 @@
     "status": 1,
     "tags": [],
     "title": "马年女生九宫格头像",
-    "update_time": "2026-01-06T12:35:04.942Z"
+    "update_time": 1767702904942
   },
   {
-    "coverImage": "/images/2026-01-06/2008372844850557068_cover.jpg",
-    "create_time": "2026-01-06T02:59:34.000Z",
+    "coverImage": "/images/2026-01-06/2008372844850557068_0.jpg",
+    "create_time": 1767668374000,
     "description": "一周减脂食谱信息图",
     "id": "2008372844850557068",
     "images": [
@@ -25711,11 +25711,11 @@
     "status": 1,
     "tags": [],
     "title": "减脂食谱",
-    "update_time": "2026-01-06T12:35:21.308Z"
+    "update_time": 1767702921308
   },
   {
-    "coverImage": "/images/2026-01-06/2008421244518232072_cover.jpg",
-    "create_time": "2026-01-06T06:11:53.000Z",
+    "coverImage": "/images/2026-01-06/2008421244518232072_0.jpg",
+    "create_time": 1767679913000,
     "description": "马年九宫格男生头像",
     "id": "2008421244518232072",
     "images": [
@@ -25734,11 +25734,11 @@
     "status": 1,
     "tags": [],
     "title": "马年九宫格男生头像",
-    "update_time": "2026-01-06T12:35:53.227Z"
+    "update_time": 1767702953227
   },
   {
     "coverImage": "/images/2025-12-10/1998707022749917296_0.jpg",
-    "create_time": "2025-12-10T10:51:03.000Z",
+    "create_time": 1765363863000,
     "description": "城市打卡九宫格",
     "id": "1998707022749917296",
     "images": [
@@ -25757,11 +25757,11 @@
     "status": 1,
     "tags": [],
     "title": "城市打卡九宫格",
-    "update_time": "2026-01-06T12:38:12.343Z"
+    "update_time": 1767703092343
   },
   {
     "coverImage": "/images/2026-01-06/2008421247336763621_cover.jpg",
-    "create_time": "2026-01-06T06:11:53.000Z",
+    "create_time": 1767679913000,
     "description": "新年九宫格情侣头像",
     "id": "2008421247336763621",
     "images": [
@@ -25780,11 +25780,11 @@
     "status": 1,
     "tags": [],
     "title": "马年九宫格情侣头像",
-    "update_time": "2026-01-06T12:39:06.868Z"
+    "update_time": 1767703146868
   },
   {
     "coverImage": "/images/2026-01-07/2008758834547093893_0.jpg",
-    "create_time": "2026-01-07T04:33:21.000Z",
+    "create_time": 1767760401000,
     "description": " 清冷气质女生写真",
     "id": "2008758834547093893",
     "images": [
@@ -25803,11 +25803,11 @@
     "status": 1,
     "tags": [],
     "title": " 清冷气质女生写真",
-    "update_time": "2026-01-07T06:52:30.016Z"
+    "update_time": 1767768750016
   },
   {
     "coverImage": "/images/2026-01-06/2008345252185145445_0.jpg",
-    "create_time": "2026-01-06T01:09:56.000Z",
+    "create_time": 1767661796000,
     "description": "新中式水墨绘本",
     "id": "2008345252185145445",
     "images": [
@@ -25826,11 +25826,11 @@
     "status": 1,
     "tags": [],
     "title": "新中式水墨绘本",
-    "update_time": "2026-01-07T01:50:49.778Z"
+    "update_time": 1767750649778
   },
   {
     "coverImage": "/images/2026-01-06/2008522059631198233_0.jpg",
-    "create_time": "2026-01-06T12:52:30.000Z",
+    "create_time": 1767703950000,
     "description": "专业品牌视觉识别系统设计展示板，以杂志级排版呈现完整设计系统，布局干净现代",
     "id": "2008522059631198233",
     "images": [
@@ -25854,11 +25854,11 @@
     "status": 1,
     "tags": [],
     "title": "专业品牌视觉识别系统设计展示板",
-    "update_time": "2026-01-06T15:46:08.074Z"
+    "update_time": 1767714368074
   },
   {
     "coverImage": "/images/2026-01-06/2008508944923213879_0.jpg",
-    "create_time": "2026-01-06T12:00:23.000Z",
+    "create_time": 1767700823000,
     "description": "奶凶动物玩偶",
     "id": "2008508944923213879",
     "images": [
@@ -25880,11 +25880,11 @@
     "status": 1,
     "tags": [],
     "title": "奶凶动物玩偶",
-    "update_time": "2026-01-06T15:46:02.558Z"
+    "update_time": 1767714362558
   },
   {
     "coverImage": "/images/2026-01-05/2008268262623122000_0.jpg",
-    "create_time": "Mon Jan 05 20:04:00 +0000 2026",
+    "create_time": 1767643440000,
     "description": "在这幅图中，一副哑光白色的噪音消除耳机静静地躺在一层充满生机的鲜绿色苔藓上，仿佛置身于童话般的古老森林之中。柔和的自然侧光突显了耳罩上的露珠，闪烁着微光。",
     "examples": [],
     "height": 928,
@@ -25922,7 +25922,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008176822551216400_0.jpg",
-    "create_time": "Mon Jan 05 14:00:39 +0000 2026",
+    "create_time": 1767621639000,
     "description": "这款设计采用了粗体手写体风格，结合了1950至1970年代美国体育队徽和汽车贴纸的元素。字母粗重圆润、紧密连接，通过向上倾斜或弧形排列营造动感活力，并使用鲜明对比色填充与描边，形成强烈的3D凸出感。背景为纯净白色。",
     "examples": [],
     "height": 1350,
@@ -25955,7 +25955,7 @@
   },
   {
     "coverImage": "/images/2026-01-06/2008488331903139800_0.jpg",
-    "create_time": "Tue Jan 06 10:38:28 +0000 2026",
+    "create_time": 1767695908000,
     "description": "这个充满奇趣的微型世界以某地标为主题，全由手工捏制的五彩橡皮泥制成。明亮的色彩和清晰的手工质感展示了活泼童趣的风格。",
     "examples": [],
     "height": 1080,
@@ -25988,7 +25988,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008274042248458500_0.jpg",
-    "create_time": "Mon Jan 05 20:26:58 +0000 2026",
+    "create_time": 1767644818000,
     "description": "",
     "examples": [],
     "height": 1232,
@@ -26024,7 +26024,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008248159815037000_0.jpg",
-    "create_time": "Mon Jan 05 18:44:07 +0000 2026",
+    "create_time": 1767638647000,
     "description": "在这张电影级印刷广告中，真实的品牌标志与专属配色融合于高端材质之上，创意转折带来震撼视觉冲击，并配有三词强力口号。",
     "examples": [],
     "height": 4096,
@@ -26057,7 +26057,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008174532285350400_0.jpg",
-    "create_time": "Mon Jan 05 13:51:33 +0000 2026",
+    "create_time": 1767621093000,
     "description": "果树种植科普展板 | 3:4 竖版 | 博物馆级信息设计",
     "examples": [],
     "height": 2752,
@@ -26088,7 +26088,7 @@
   },
   {
     "coverImage": "/images/2026-01-06/2008431391235862800_0.jpg",
-    "create_time": "Tue Jan 06 06:52:13 +0000 2026",
+    "create_time": 1767682333000,
     "description": "",
     "examples": [],
     "height": 655,
@@ -26120,7 +26120,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008229403914900000_0.jpg",
-    "create_time": "Mon Jan 05 17:29:35 +0000 2026",
+    "create_time": 1767634175000,
     "description": "捕捉金属液体飞溅的瞬间，银色与金色液滴在零重力状态下凝固，强烈的侧光照明突显出液体张力和奢华动感，展现出杂志级美感。",
     "examples": [],
     "height": 768,
@@ -26156,7 +26156,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008209545412419800_0.jpg",
-    "create_time": "Mon Jan 05 16:10:41 +0000 2026",
+    "create_time": 1767629441000,
     "description": "这是一张以利昂内尔·梅西为特色的戏剧性风格化肖像，采用9:16的纵宽比。画面中的人物几乎呈现剪影效果，侧脸朝左，背景为深邃的电光蓝色。从头部和肩部爆发出强烈的黑色和蓝宝石色油漆飞溅，创造出强大的动态能量。",
     "examples": [],
     "height": 1168,
@@ -26190,7 +26190,7 @@
   },
   {
     "coverImage": "/images/2026-01-05/2008319307667645000_0.jpg",
-    "create_time": "Mon Jan 05 23:26:50 +0000 2026",
+    "create_time": 1767655610000,
     "description": "这张图像捕捉了一个中远景构图下的单帧电影剧照，利用Cooke S4 75mm定焦镜头与ARRI Alexa LF摄影机搭配复古Kowa变形镜头，展现了强烈的侧光和95%纯黑阴影密度。画面以浓郁深色调为主，强调低调高对比照明和钢蓝色基调，营造出一种烟雾弥漫、体积光穿透黑暗的氛围。",
     "examples": [],
     "height": 768,
@@ -26226,7 +26226,7 @@
   },
   {
     "coverImage": "/images/2026-01-06/2008434033701879800_0.jpg",
-    "create_time": "Tue Jan 06 07:02:43 +0000 2026",
+    "create_time": 1767682963000,
     "description": "",
     "examples": [],
     "height": 1376,
@@ -26256,7 +26256,7 @@
   },
   {
     "coverImage": "/images/2026-01-07/2008913659582681255_0.jpg",
-    "create_time": "2026-01-07T14:48:34.000Z",
+    "create_time": 1767797314000,
     "description": "空气感·清透治愈的女生",
     "id": "2008913659582681255",
     "images": [
@@ -26277,7 +26277,7 @@
     "status": 1,
     "tags": [],
     "title": "空气感·清透治愈的女生",
-    "update_time": "2026-01-08T11:12:28.309Z"
+    "update_time": 1767870748309
   },
   {
     "coverImage": "/images/2026-01-07/2008903682612760800_0.jpg",
@@ -27194,7 +27194,7 @@
   },
   {
     "coverImage": "/images/2026-01-08/2009101333287280742_0.jpg",
-    "create_time": "2026-01-08T03:14:19.000Z",
+    "create_time": 1767842059000,
     "description": "这是一张由9个部分组成的拼贴画，每个部分展示了一位男性在不同情境下的姿势。背景为蓝天白云，阳光强烈，人物穿着浅米色亨利衫和深蓝色牛仔裤，细节逼真到衣物纹理、皮肤质感以及发丝都清晰可见。",
     "id": "2009101333287280742",
     "images": [
@@ -27218,11 +27218,11 @@
       "fashion"
     ],
     "title": "九种动感男性姿势的超写实风格拼贴",
-    "update_time": "2026-01-10T11:31:07.488Z"
+    "update_time": 1768044667488
   },
   {
     "coverImage": "/images/2026-01-09/2009425516638687431_0.jpg",
-    "create_time": "2026-01-09T00:42:31.000Z",
+    "create_time": 1767919351000,
     "description": "女生九宫格自拍写真艺术照",
     "id": "2009425516638687431",
     "images": [
@@ -27242,11 +27242,11 @@
     "status": 1,
     "tags": [],
     "title": "九宫格动感女生姿势的超写实风格",
-    "update_time": "2026-01-10T11:31:02.602Z"
+    "update_time": 1768044662602
   },
   {
     "coverImage": "/images/2026-01-09/2009479700238963114_0.jpg",
-    "create_time": "2026-01-09T04:17:49.000Z",
+    "create_time": 1767932269000,
     "description": "将文章信息可视化",
     "id": "2009479700238963114",
     "images": [
@@ -27265,11 +27265,11 @@
     "status": 1,
     "tags": [],
     "title": "文章信息图",
-    "update_time": "2026-01-10T11:30:22.969Z"
+    "update_time": 1768044622969
   },
   {
     "coverImage": "/images/2026-01-09/2009689562600394964_0.jpg",
-    "create_time": "2026-01-09T18:11:44.000Z",
+    "create_time": 1767982304000,
     "description": "",
     "id": "2009689562600394964",
     "images": [
@@ -27289,7 +27289,7 @@
     "status": 1,
     "tags": [],
     "title": "电影级镜头",
-    "update_time": "2026-01-10T11:29:51.868Z"
+    "update_time": 1768044591868
   },
   {
     "coverImage": "/images/2026-01-08/2009308365877596400_0.jpg",
@@ -27612,5 +27612,684 @@
     "type": "",
     "update_time": 1768044296752,
     "width": 1080
+  },
+  {
+    "coverImage": "/images/2026-01-10/2010083845761314964_0.jpg",
+    "create_time": 1768076309000,
+    "description": "亚裔少女在白色闺房中以九种姿势拍摄的高对比硬光人像，搭配迪斯科球、亮片与复古电话，呈现Z世代派对美学。",
+    "id": "2010083845761314964",
+    "images": [
+      "/images/2026-01-10/2010083845761314964_0.jpg"
+    ],
+    "likes": 144,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "\"3x3 Photo Collage / 9-Panel Grid.\",\n      \"layout\": \"Nine vertical portrait images arranged in a square grid.\",\n      \"consistency\": \"Same subject, same outfit, and same lighting across all 9 panels.\"\n    },\n    \"aesthetic_style\": {\n      \"theme\": \"Gen Z Home Party / 'Maiden Pavilion' Photoshoot.\",\n      \"lighting_technique\": \"Direct On-Camera Flash (Hard Light).\",\n      \"visuals\": \"High contrast, sharp shadows, chaotic fun, vibrant colors against a white background.\"\n    },\n    \"subject_details\": {\n      \"appearance\": \"Young Asian woman, fair skin, long dark wavy hair with volume.\",\n      \"outfit\": \"White floral camisole top, blue denim shorts.\",\n      \"makeup\": \"Heavy pink blush (Igari style), red lips, glitter on cheeks.\"\n    },\n    \"environment_and_props\": {\n      \"background\": \"White wall with taped photos, white bed sheets.\",\n      \"decor\": \"Silver disco balls (various sizes), colorful metallic confetti scattered everywhere, brown teddy bear, pink retro corded phone.\"\n    },\n    \"panel_pose_breakdown\": {\n      \"1_top_left\": \"Lying on stomach (prone), resting chin on crossed arms, looking at camera. Confetti in hair.\",\n      \"2_top_center\": \"Top-down view lying on back, winking one eye, making a peace sign near face. Hair fanned out.\",\n      \"3_top_right\": \"Sitting sideways, knees bent, laughing candidly while throwing a handful of confetti in the air.\",\n      \"4_middle_left\": \"Leaning upper body over a large silver disco ball, looking intensely at the camera.\",\n      \"5_middle_center\": \"Close-up portrait. Hands touching cheeks in a 'surprised' or 'shy' gesture. Confetti stuck to cheeks.\",\n      \"6_middle_right\": \"Lying on back amongst the disco balls, one arm reaching up towards the ceiling/camera.\",\n      \"7_bottom_left\": \"Upside-down perspective (head at bottom of frame), playful expression, hair cascading down.\",\n      \"8_bottom_center\": \"Sitting cross-legged (Lotus position), hugging the brown teddy bear tight, pouting slightly.\",\n      \"9_bottom_right\": \"Sitting up, holding the pink retro telephone receiver to ear, looking sideways as if listening to gossip.\"\n    },\n    \"camera_technical_values\": {\n      \"focal_length\": \"35mm (Versatile environmental portrait lens).\",\n      \"aperture\": \"f/5.6 (Ensures subject and props are in focus).\",\n      \"shutter_speed\": \"1/200s (Flash sync to freeze confetti motion).\",\n      \"iso\": \"ISO 200.\",\n      \"lighting\": \"Hard flash creates a distinct drop shadow behind the subject on the white wall and specular highlights on the disco balls.\"\n    }\n  },\n  \"midjourney_string\": \"3x3 photo grid collage of a cute Asian girl at a home party, wearing white floral top and",
+      "3x3照片拼贴/九宫格布局，九张竖版人像整齐排列成方形网格。所有画面保持同一人物、同一服装和相同光线。\n\n美学风格：Z世代家庭派对 / “少女闺房”主题拍摄；采用机顶直闪（硬光）照明；高对比度、锐利阴影、充满混乱趣味，在白色背景上呈现鲜艳色彩。\n\n人物细节：年轻亚裔女性，肤色白皙，黑色长卷发蓬松有体积感；身穿白色碎花吊带背心与蓝色牛仔短裤；妆容为Igari风格重粉红腮红、红唇，脸颊点缀亮片。\n\n环境与道具：白色墙面贴满照片，铺着白色床单；装饰包括不同尺寸的银色迪斯科球、四处散落的彩色金属亮片、一只棕色泰迪熊和一部粉色复古有线电话。\n\n各格姿势分解：\n1（左上）：俯卧，下巴枕在交叠的手臂上望向镜头，头发中夹杂亮片；\n2（中上）：俯拍仰躺视角，单眼眨眼，手比和平手势靠近脸部，头发呈放射状散开；\n3（右上）：侧坐，屈膝，自然大笑同时将一把亮片抛向空中；\n4（左中）：上半身前倾搭在大型银色迪斯科球上，目光专注凝视镜头；\n5（正中）：特写人像，双手轻触脸颊作“惊讶”或“害羞”状，脸颊粘有亮片；\n6（右中）：仰卧于多个迪斯科球之间，单臂向上伸向天花板或镜头；\n7（左下）：倒置视角（头部位于画面底部），表情俏皮，秀发垂落；\n8（中下）：盘腿坐姿（莲花坐），紧紧抱住棕色泰迪熊，微微嘟嘴；\n9（右下）：坐姿，手持粉色复古电话听筒贴耳，侧目似在偷听八卦。\n\n相机技术参数：35mm焦距（适合环境人像的通用镜头），光圈f/5.6（确保人物与道具均清晰），快门速度1/200秒（配合闪光灯凝固亮片动态），ISO 200；硬光闪光在白墙上形成明显投影，并在迪斯科球表面产生镜面高光。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Iqra Saifi",
+      "url": "https://x.com/IqraSaifiii/status/2010083845761314964"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "grid",
+      "fashion"
+    ],
+    "title": "九宫格少女派对人像拼贴",
+    "update_time": 1768139969240
+  },
+  {
+    "coverImage": "/images/2026-01-11/2010151910175605156_0.jpg",
+    "create_time": 1768092536000,
+    "description": "",
+    "id": "2010151910175605156",
+    "images": [
+      "/images/2026-01-11/2010151910175605156_0.jpg",
+      "/images/2026-01-11/2010151910175605156_1.jpg",
+      "/images/2026-01-11/2010151910175605156_2.jpg",
+      "/images/2026-01-11/2010151910175605156_3.jpg"
+    ],
+    "likes": 88,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "一、主体（Subject）\n•主体名称：荔枝\n•状态描述：成熟 / 新鲜 / 高品质状态\n•表现形式：单一主体，无其他干扰元素\n\n二、构图（Composition）\n•镜头类型：特写镜头（Close-up）\n•构图方式：主体居中，占画面 80%–90%\n•画面比例：竖版\n•画质要求：超高清 4K，细节清晰，无模糊\n\n三、外部结构表现（Exterior）\n•下半部分结构完整保留\n•表面质感：真实、自然、细节丰富\n•材质表现：清晰可见的纹理、结构变化、真实光影\n\n四、内部结构表现（Interior）\n•上半部分自然剖开\n•内部状态：饱满、紧实、排列有序\n•质感描述：晶莹、通透、具有明显汁水感\n•视觉比喻（可选）：如宝石般光泽，但不夸张、不变形\n\n五、文字信息（Typography）\n•主标题文字：沐阳荔枝\n•字体风格：仿篆书 / 复古复刻风\n•字体特征：笔画稳重，边缘略带毛糙质感\n•工艺模拟：传统印刷 / 雕刻质感\n•副标题文字：不想吞，就吐出来\n•排版规则：居中排布，不遮挡主体，层级清晰\n\n六、背景（Background）\n•背景颜色：【浅色系单色背景】\n•背景材质：轻微纹理 / 纸感肌理\n•干净度要求：无杂物、无场景元素\n•色彩关系：与主体色调协调，用于强化主体饱满度与质感\n\n七、色彩与光影（Color & Lighting）\n•主色调：以主体自然色为主\n•光线类型：柔和自然光，商业摄影布光\n•阴影控制：轻微阴影，增强立体感，不压暗主体\n\n八、整体风格与限制（Style & Constraints）\n•风格关键词：写实、高级、商业摄影风\n•输出稳定性：无夸张形变、无艺术化扭曲\n•禁止内容：多主体、复杂背景、卡通风格、过度特效\n•适用场景：电商主图、品牌KV、包装视觉、宣传海报"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "沐阳",
+      "url": "https://x.com/yyyole/status/2010151910175605156"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "高品质水果特写",
+    "update_time": 1768139603025
+  },
+  {
+    "coverImage": "/images/2026-01-10/2010087114546000382_0.jpg",
+    "create_time": 1768077088000,
+    "description": "",
+    "id": "2010087114546000382",
+    "images": [
+      "/images/2026-01-10/2010087114546000382_0.jpg",
+      "/images/2026-01-10/2010087114546000382_1.jpg",
+      "/images/2026-01-10/2010087114546000382_2.jpg",
+      "/images/2026-01-10/2010087114546000382_3.jpg"
+    ],
+    "likes": 29,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "把「僵尸」从黄符恐怖片里拎出来，做成高定人像。\n\n冷白瓷釉肤质带青冷反射，朱砂微唇，清醒空灵的眼神；清官服结构×改良汉服层叠，高级压纹暗金纹样。\n暗压氛围里开全色谱虹彩雾幕与棱镜光，极彩但干净。\n\n两套通用提示词：图1-2一套，图3-4一套。提示词都放在各图 ALT。",
+      "9:16 竖幅高完成度动漫人物画像，以【主体】为主角的僵尸娘，突出“僵尸的美”而非恐怖：冷白瓷感肌肤带微微青冷反射，表情克制高贵、眼神清醒而空灵，唇色微朱砂，指尖修长，手势是高级棚拍模特的优雅姿势但带一点“被封印的僵直感”（手腕角度略硬、指节线条清晰）。\n服装为清代官服结构 × 改良汉服融合：保留立领/对襟/盘扣与补子轮廓（补子图案抽象成纹章花纹），内层为交领叠穿与宽袖，外加轻薄披帛与飘带；整体剪裁更精致高定，材质层次分明（哑光缎、暗纹织锦、少量漆皮边），纹样以回纹、云气纹、莲瓣纹做成细腻暗金压纹。符箓不要额头正中同构图，改为袖口封签、耳坠细符或腰间封印绶带，只表现符纸形态与朱砂印痕（不可读咒文）。\n画面必须使用各种色彩且高级有序：采用“全色谱分区配色 + 棱镜光”——背景是细腻的虹彩渐变雾幕（红→橙→黄→绿→青→蓝→紫完整过渡），但保持柔和、无杂乱纹理；人物主色偏冷白与深靛作为中性锚点，让多彩只出现在光与点缀上：在发丝高光、饰品金属、织锦暗纹与漂浮尘粒里出现宝石色折射（青金石蓝、孔雀绿、紫晶、朱砂红、琥珀橙、柠檬黄），每一种颜色都“可辨识”且边界干净，绝不混成脏灰。\n高级构图：胸像到半身的三分之二侧向人像，人物位于画面左侧三分线，右侧留白约 40% 给虹彩雾与“尸气薄纱”流动；视线与面部处在黄金区域，背景简洁，所有细节密度集中在脸、领口与手势，越往外越稀疏以保持高级呼吸感。\n光影为摄影棚级“多色胶片灯”但统一：主光暖琥珀从侧前方塑形，辅光青绿提亮暗部层次，背后轮廓光用洋红/紫做细薄描边，顶部一丝冷蓝高光让轮廓更贵气；空气里有轻微体积雾与虹彩散射、细小金粉与微尘点闪，边缘轻微胶片 halation 与细颗粒。整体质感：极彩、通透、奢侈、干净。",
+      "9:16 竖幅高完成度动漫人物画像，以【空条徐伦】为主角的僵尸娘，突出“僵尸的美”而非恐怖：冷白瓷感肌肤带微微青冷反射，表情克制高贵、眼神清醒而空灵，唇色微朱砂，指尖修长，手势是高级棚拍模特的优雅姿势但带一点“被封印的僵直感”（手腕角度略硬、指节线条清晰）。\n服装为清代官服结构 × 改良汉服融合：保留立领/对襟/盘扣与补子轮廓（补子图案抽象成纹章花纹），内层为交领叠穿与宽袖，外加轻薄披帛与飘带；整体剪裁更精致高定，材质层次分明（哑光缎、暗纹织锦、少量漆皮边），纹样以回纹、云气纹、莲瓣纹做成细腻暗金压纹。符箓不要额头正中同构图，改为袖口封签、耳坠细符或腰间封印绶带，只表现符纸形态与朱砂印痕（不可读咒文）。\n画面必须使用各种色彩且高级有序：采用“全色谱分区配色 + 棱镜光”——背景是细腻的虹彩渐变雾幕（红→橙→黄→绿→青→蓝→紫完整过渡），但保持柔和、无杂乱纹理；人物主色偏冷白与深靛作为中性锚点，让多彩只出现在光与点缀上：在发丝高光、饰品金属、织锦暗纹与漂浮尘粒里出现宝石色折射（青金石蓝、孔雀绿、紫晶、朱砂红、琥珀橙、柠檬黄），每一种颜色都“可辨识”且边界干净，绝不混成脏灰。\n高级构图：胸像到半身的三分之二侧向人像，人物位于画面左侧三分线，右侧留白约 40% 给虹彩雾与“尸气薄纱”流动；视线与面部处在黄金区域，背景简洁，所有细节密度集中在脸、领口与手势，越往外越稀疏以保持高级呼吸感。\n光影为摄影棚级“多色胶片灯”但统一：主光暖琥珀从侧前方塑形，辅光青绿提亮暗部层次，背后轮廓光用洋红/紫做细薄描边，顶部一丝冷蓝高光让轮廓更贵气；空气里有轻微体积雾与虹彩散射、细小金粉与微尘点闪，边缘轻微胶片 halation 与细颗粒。整体质感：极彩、通透、奢侈、干净。",
+      "【主体】大师级人像，9:16 竖版。\n以「{主题}」为唯一主体，主体必须清晰可辨识为「{主题}」，整体为“僵尸娘（中式僵尸女孩）审美”，但呈现高级时装定制（高定 couture）气质。\n\n【氛围与情绪（固定）】表情邪气、挑逗、摄人心魄；苍白唇色带一丝讥讽微笑（低饱和朱红）。眼睛半眯，锐利清澈，散发危险智慧感；仿佛在享受束缚她的咒法。\n\n【皮肤与姿态（固定）】肤质冷白瓷釉，非人般无瑕；阴影处隐约淡青血管。单手托于下巴下方，呈僵尸式僵硬几何姿态（手腕90度折弯），但手指修长优雅；指甲亮面黑漆。\n\n【服装（固定）】改良清代官服结构 + 汉服层叠穿法。深靛蓝与炭灰面料，暗纹云纹。不使用俗气黄色纸符；改为抽象“封印条”丝带，从耳饰与袖口垂落，带朱砂红艺术笔触。\n\n【光照与氛围（固定：暗压 + 彩虹奢华）】整体暗调压抑氛围，用来衬托棱镜式体积光。聚束光打在头发与肩部，形成彩虹光晕与色散/色差（chromatic aberration / dispersion）。空气尘埃粒子呈霓虹光谱发光（红到紫）。背景为深邃大气阴影，确保彩虹光“奢华而不杂乱”。\n\n【技术规格（固定）】2.5D 动漫插画，线稿干净锐利，Octane 渲染，光线追踪，丁达尔效应，超精细材质纹理。\n\n主题为空条徐伦"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "VoxCat",
+      "url": "https://x.com/VoxcatAI/status/2010087114546000382"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "高定「僵尸」",
+    "update_time": 1768139522026
+  },
+  {
+    "coverImage": "/images/2026-01-11/2010314981636755616_0.jpg",
+    "create_time": 1768131416000,
+    "description": "",
+    "id": "2010314981636755616",
+    "images": [
+      "/images/2026-01-11/2010314981636755616_0.jpg",
+      "/images/2026-01-11/2010314981636755616_1.jpg",
+      "/images/2026-01-11/2010314981636755616_2.jpg",
+      "/images/2026-01-11/2010314981636755616_3.jpg"
+    ],
+    "likes": 22,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "尝试了一种新风格：工笔线描 + 现代矢量平涂。\n\n保留了 55% 的大面积留白，追求那种“端丽雅正”的明代气质。重点在于去掉厚涂和光影的油腻感，用极克制的两段明度阴影表现体积。\n效果意外清透！\n\n提示词（记得替换底部【人物】和【动物】）\n\n3:4 竖幅构图。画面上方保留约 55% 大面积留白；主体为【人物】的半身肖像，置于画面下方偏中，肩线端正、姿态含蓄，微侧身回眸。保持【人物】的原角色特征不变（脸型、发型结构、刘海形状、五官比例与气质不改），仅更换为本提示词指定的新技法与服饰设定。\n\n服饰设定：明制立领短袄与对襟褙子，衣缘细窄滚边；下装仅露出素雅马面裙上段。发式设定：在不改变【人物】原发型结构与长度的前提下做明代气质整理，簪钗简净，少量鎏金点到为止。\n\n新技法描绘：五官与衣纹以工笔级细线勾勒，线条清而有轻重变化；肤色与衣褶以工笔“薄染叠染”塑形，但整体画面采用现代矢量的分区平涂与极克制两段明度阴影；边缘干净锐利、无噪点、无厚涂。\n\n点景：仅一枝花鸟从画面右上斜向伸入留白。疏梅枝干以枯笔线感呈现，淡粉梅花数朵；梅梢停一只【动物】，姿态安静精致。花鸟细节同样工笔线描，但色面矢量化、清爽克制。\n\n背景为温润的绢本/熟宣轻纹理，留白处带淡淡灰青空气感。整体气质端丽、雅正、清澈、克制。\n\n避免：水墨大面积晕染、摄影景深虚化、3D 渲染高光、粗黑漫画线、霓虹高饱和、复杂国潮纹样堆满、夸张装饰抢主体。\n输出：高清细节，线条干净，留白比例严格遵守。\n\n人物为【】，动物为【】",
+      "3:4 竖幅构图。画面上方保留约 55% 大面积留白；主体为【人物】的半身肖像，置于画面下方偏中，肩线端正、姿态含蓄，微侧身回眸。保持【人物】的原角色特征不变（脸型、发型结构、刘海形状、五官比例与气质不改），仅更换为本提示词指定的新技法与服饰设定。\n\n服饰设定：明制立领短袄与对襟褙子，衣缘细窄滚边；下装仅露出素雅马面裙上段。发式设定：在不改变【人物】原发型结构与长度的前提下做明代气质整理，簪钗简净，少量鎏金点到为止。\n\n新技法描绘：五官与衣纹以工笔级细线勾勒，线条清而有轻重变化；肤色与衣褶以工笔“薄染叠染”塑形，但整体画面采用现代矢量的分区平涂与极克制两段明度阴影；边缘干净锐利、无噪点、无厚涂。\n\n点景：仅一枝花鸟从画面右上斜向伸入留白。疏梅枝干以枯笔线感呈现，淡粉梅花数朵；梅梢停一只【动物】，姿态安静精致。花鸟细节同样工笔线描，但色面矢量化、清爽克制。\n\n背景为温润的绢本/熟宣轻纹理，留白处带淡淡灰青空气感。整体气质端丽、雅正、清澈、克制。\n\n避免：水墨大面积晕染、摄影景深虚化、3D 渲染高光、粗黑漫画线、霓虹高饱和、复杂国潮纹样堆满、夸张装饰抢主体。\n输出：高清细节，线条干净，留白比例严格遵守。\n\n人物为【】，动物为【】"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "VoxCat",
+      "url": "https://x.com/VoxcatAI/status/2010314981636755616"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "工笔线描 + 现代矢量平涂",
+    "update_time": 1768138908650
+  },
+  {
+    "coverImage": "/images/2026-01-09/2009717451710509600_0.jpg",
+    "create_time": 1767988953000,
+    "description": "这组时尚贴纸套装包含了吉祥物、核心产品及品牌相关符号，采用单线矢量画法，线条粗细一致，呈现出现代且潮流的感觉。每个元素都被赋予了奶油色填充和深色轮廓，外围有厚重的模切边框，背景为深色调，整体布局采用knolling方式。",
+    "examples": [],
+    "height": 1350,
+    "id": "2009717451710509600",
+    "images": [
+      "/images/2026-01-09/2009717451710509600_0.jpg"
+    ],
+    "likes": 1122,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "[BRAND NAME]. Act as a vector illustrator designing a trendy, high-end \"Sticker Sheet\" set.\nTHE TASK:\nDeconstruct the brand identity of [BRAND NAME] into a playful, cohesive set of approximately 8-10 unique sticker designs arranged on a single sheet.\nContent Generation: Do not just make logos. Autonomously invent a mix of:\nMascots/Characters: Stylized busts of people wearing brand-relevant accessories or expressing emotions.\nKey Products: Iconic items associated with the brand.\nSymbols/Objects: Abstract shapes or tools relevant to the brand's lifestyle.\n\nVISUAL STYLE (MONOLINE VECTOR):\nThe art style must strictly match \"Modern Trendy Line Art.\"\nLine Work: Use a THICK, UNIFORM line weight (monoline) for all internal details. The lines should be smooth, rounded, and confident.\nColoring: The stickers must be filled with Solid Off-White or Cream, utilizing the line color for details. NO gradients, NO shading, NO 3D effects. Flat 2D vector look.\nThe \"Sticker\" Effect: Every element must have a thick, distinct White (or Cream) Die-Cut Border surrounding it, separating it from the background.\nCOLOR PALETTE (HIGH CONTRAST):\nBackground: A solid, deep, saturated color to create maximum contrast.\nStickers: High-brightness Cream or White fill with Dark (Black or Dark Brown) outlines.\nCOMPOSITION:\nThe stickers are scattered naturally across the sheet (knolling layout) with even spacing. No overlapping.",
+      "[品牌名称]。作为矢量插画师，设计一套时尚高端的“贴纸套装”。\n\n任务：  \n将[品牌名称]的品牌形象解构为一组约8至10个独特、风格统一且富有趣味性的贴纸设计，并排布在一张贴纸页上。\n\n内容创作要求：不要仅绘制品牌标志。需自主创作以下混合元素：  \n- 吉祥物/角色：佩戴与品牌相关配饰或展现特定情绪的风格化人物半身像；  \n- 核心产品：品牌标志性物品；  \n- 符号/物件：与品牌生活方式相关的抽象图形或工具。\n\n视觉风格（单线矢量）：  \n必须严格采用“现代潮流线稿”风格。  \n- 线条：所有内部细节均使用粗细一致的厚重单线（monoline），线条需流畅、圆润且自信；  \n- 上色：贴纸填充纯米白或奶油色，细节通过线条颜色表现。禁止使用渐变、阴影或3D效果，保持扁平2D矢量外观；  \n- “贴纸”效果：每个元素外围必须有明显厚重的白色（或奶油色）模切边框，使其与背景清晰分离。\n\n配色方案（高对比度）：  \n- 背景：使用深色、高饱和的纯色，以实现最大对比；  \n- 贴纸：高亮度的奶油色或白色填充，搭配深色（黑色或深棕色）轮廓线。\n\n构图布局：  \n贴纸自然散落排布于页面（采用knolling布局），间距均匀，不得重叠。"
+    ],
+    "ratio": "4:5",
+    "slug": "prompt-2009717451710509600",
+    "source": {
+      "name": "AmirMušić",
+      "url": "https://x.com/AmirMushich/status/2009717451710509473"
+    },
+    "status": 1,
+    "tags": [
+      "branding",
+      "modern",
+      "flat-design"
+    ],
+    "title": "现代潮流线稿风格的高端贴纸套装",
+    "type": "",
+    "update_time": 1768138335525,
+    "width": 1080
+  },
+  {
+    "coverImage": "/images/2026-01-10/2009898474440142800_0.jpg",
+    "create_time": 1768032113000,
+    "description": "",
+    "examples": [],
+    "height": 2752,
+    "id": "2009898474440142800",
+    "images": [
+      "/images/2026-01-10/2009898474440142800_0.jpg"
+    ],
+    "likes": 434,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A vertical, portrait-oriented, photorealistic close-up photograph of an expansive, incredibly detailed physical miniature geography and city model of [Insert City Name], filling the entire frame.\n\nThe landscape is a sprawling 3D topographic map, rich with organic textures: rugged mountain ranges with diverse elevations, deep gorges, and winding scale-model rivers that reflect the light. The surface shows realistic details of earth, rock, rich foliage, and water, resembling a masterfully crafted museum diorama.\n\nNested organically within this terrain is a highly detailed miniature metropolis. Thousands of tiny, intricate buildings, roads, bridges, and urban infrastructure are integrated into the landscape. The city's most recognizable iconic landmarks rise significantly above the surrounding architecture, serving as the focal point.\n\nStrong, natural sunlight from the side casts long, realistic shadows from the mountains and skyscrapers across the textured landscape, creating depth and drama. The depth of field is shallow (tilt-shift style), keeping the central city and its immediate surroundings in sharp focus while gently blurring the distant edges of the sprawling terrain. The entire model appears to be a tangible, physical object bathed in real light. --ar 9:16",
+      "一幅竖向、人像构图、逼真风格的特写照片，展现一个极其精细的实体微缩地理与城市模型（[插入城市名称]），填满整个画面。\n\n地貌是一幅延展的三维地形图，充满有机质感：崎岖多样的山脉、深邃的峡谷，以及蜿蜒流淌的微缩河流在光照下泛起反光。地表呈现出真实细腻的泥土、岩石、茂密植被和水体细节，宛如一座精心制作的博物馆立体场景。\n\n在这片自然地貌中，有机融合着一座高度精细的微缩大都市。成千上万座小巧而复杂的建筑、道路、桥梁及城市基础设施与地形融为一体。城市最具辨识度的标志性建筑显著高于周边结构，成为视觉焦点。\n\n强烈的自然侧光投射出山脉与摩天大楼在地貌上拉长的真实阴影，营造出深度与戏剧感。景深较浅（移轴摄影风格），使城市中心及其周边清晰锐利，而远处延展的地貌则柔和虚化。整个模型仿佛是一件沐浴在真实光线中的实体物件。--ar 9:16"
+    ],
+    "ratio": "24:43",
+    "slug": "prompt-2009898474440142800",
+    "source": {
+      "name": "两斤",
+      "url": "https://x.com/0x00_Krypt/status/2009898474440142964"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "迷上了这种上帝视角",
+    "type": "",
+    "update_time": 1768138335524,
+    "width": 1536
+  },
+  {
+    "coverImage": "/images/2026-01-10/2009836414431883300_0.jpg",
+    "create_time": 1768017316000,
+    "description": "这张超写实风格的纪实生活摄影作品展现了一位女性在现代北欧浴室中对镜自拍的场景。她头戴灰米色毛巾，佩戴14K金圈耳环，身穿白色细肩带背心，左眼下贴着金色水凝胶眼膜。背景为工业灰色混凝土墙面，前景桌面放置有透明玻璃香薰扩香瓶和棕色玻璃罐蜡烛。",
+    "examples": [],
+    "height": 926,
+    "id": "2009836414431883300",
+    "images": [
+      "/images/2026-01-10/2009836414431883300_0.jpg",
+      "/images/2026-01-10/2009836414431883300_1.jpg"
+    ],
+    "likes": 109,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "{\n  \"system_instruction\": \"Generate a hyper-realistic image following the hierarchical structure below. Priority: subject identity consistency and material texture fidelity.\",\n  \"metadata\": {\n    \"version\": \"2.0\",\n    \"target_ratio\": \"3:4\",\n    \"aesthetic_framework\": \"Scandinavian Minimalist / Quiet Luxury\",\n    \"image_style\": \"Candid Lifestyle Photography\"\n  },\n  \"subject_layer\": {\n    \"identity\": {\n     \n      \"consistency_rules\": [\n        \"Preserve exact facial bone structure and eye shape\",\n        \"Maintain natural skin texture with visible pores and slight imperfections\",\n        \"Zero beauty-filter effect\"\n      ]\n    },\n    \"grooming_details\": {\n      \"hair\": {\n        \"style\": \"Towel Turban\",\n        \"material\": \"Soft grey-beige terry cloth\",\n        \"coverage\": \"100% hair coverage\"\n      },\n      \"skincare\": {\n        \"treatment\": \"Single gold hydrogel eye patch\",\n        \"placement\": \"Under left eye only\",\n        \"finish\": \"Semi-circular, reflective metallic sheen\"\n      },\n      \"makeup\": {\n        \"style\": \"Fresh, post-shower bare skin\",\n        \"details\": \"Natural hydration glow, slight under-eye shadows, natural lip gloss\"\n      }\n    },\n    \"wardrobe\": {\n      \"base_layer\": \"Thin white cotton spaghetti-strap tank top\",\n      \"accessories\": \"Small 14k gold hoop earrings\"\n    },\n    \"posture_and_mood\": {\n      \"pose\": \"Mirror selfie, right hand holding phone, slightly tilted head\",\n      \"expression\": \"Peaceful, calm, trace of morning fatigue\",\n      \"eye_contact\": \"Directed at phone screen reflection (downward gaze)\"\n    }\n  },\n  \"environment_layer\": {\n    \"primary_setting\": \"Modern Loft/Scandinavian Bathroom\",\n    \"background_elements\": {\n      \"wall_texture\": \"Industrial grey concrete with subtle grit\",\n      \"window_location\": \"Left frame, providing directional soft light\"\n    },\n    \"foreground_tabletop\": {\n      \"surface\": \"Neutral matte surface\",\n      \"mirror_object\": {\n        \"shape\": \"Perfectly round\",\n        \"frame\": \"Polished chrome metal\",\n        \"features\": \"Slim metal stand, realistic silvering reflection\"\n      },\n      \"decor_props\": [\n        {\n          \"id\": \"diffuser\",\n          \"label\": \"ASOMA\",\n          \"material\": \"Clear glass, wooden sticks\",\n          \"position\": \"Left foreground\"\n        },\n        {\n          \"id\": \"candle\",\n          \"material\": \"Amber/brown glass jar\",\n          \"state\": \"Partially burned, visible wax residue\",\n          \"position\": \"Right foreground\"\n        }\n      ]\n    }\n  },\n  \"lighting_and_optics\": {\n    \"lighting_profile\": {\n      \"source\": \"Natural diffused daylight\",\n      \"direction\": \"Side-lit from left\",\n      \"color_temperature\": \"5500K (Slightly cool morning light)\",\n      \"shadow_quality\": \"Soft, feathered edges\"\n    },\n    \"camera_simulation\": {\n      \"device\": \"iPhone 16 Pro Max (Silver/Gray)\",\n      \"lens_focal_length\": \"50mm (Natural human perspective)\",\n      \"aperture\": \"f/1.8 (Shallow depth of field)\",\n      \"focus_point\": \"Subject's reflection in the mirror\"\n    },\n    \"render_constraints\": {\n      \"texture_mapping\": [\n        \"Terry cloth fiber detail\",\n        \"Cold metal chrome reflections\",\n        \"Micro-pores and skin hydration\",\n        \"Glass transparency and refraction\"\n      ],\n      \"negative_constraints\": [\n        \"No airbrushing\",\n        \"No plastic skin\",\n        \"No high-contrast cinematic grading\",\n        \"No AI artifacts in reflections\"\n      ]\n    }\n  }\n}",
+      "生成一张超写实图像，遵循以下层级结构。优先确保主体身份一致性与材质纹理保真度。\n\n图像比例为3:4，美学风格为北欧极简/静奢风，图像类型为纪实生活摄影。\n\n主体为一位女性，需严格保持面部骨骼结构和眼型不变，保留自然肌肤质感，包括可见毛孔与轻微瑕疵，禁止使用美颜滤镜效果。\n\n发型为毛巾包头，使用柔软的灰米色毛圈布料，完全包裹所有头发。护肤细节包括仅在左眼下贴一片金色水凝胶眼膜，呈半圆形，具有反光金属光泽。妆容呈现刚洗完澡后的素净肌肤状态，带有自然水润光泽、轻微黑眼圈及天然唇彩。\n\n穿着基础款白色细肩带纯棉背心，配戴小巧的14K金圈耳环。\n\n姿势为对镜自拍，右手持手机，头部微微倾斜；表情平静安宁，略带晨间倦意；视线望向手机屏幕中的镜中倒影，呈略微下视状态。\n\n场景设定为现代阁楼风格的北欧浴室。背景墙面为带有细微颗粒感的工业灰色混凝土，左侧有窗户提供方向性柔光。\n\n前景桌面为中性哑光表面，放置一面完美圆形镜子，镜框为抛光铬金属材质，配有纤细金属支架，镜面反射真实清晰。\n\n桌面左侧摆放一个标有“ASOMA”字样的透明玻璃香薰扩香瓶，内插木质扩香棒；右侧放置一支琥珀/棕色玻璃罐蜡烛，已部分燃烧，可见蜡残留。\n\n照明采用5500K色温的自然漫射日光，从左侧侧向打光，营造柔和羽化边缘的阴影。\n\n模拟使用银色/灰色 iPhone 16 Pro Max 拍摄，镜头焦距50mm（接近人眼视角），光圈f/1.8（浅景深），焦点对准镜中人物倒影。\n\n渲染时需精细呈现毛圈布纤维细节、冷金属铬面反光、皮肤微孔与水润感、玻璃透明度与折射效果。禁止磨皮、塑料感肌肤、高对比电影色调，以及镜面反射中的AI伪影。"
+    ],
+    "ratio": "512:463",
+    "slug": "prompt-2009836414431883300",
+    "source": {
+      "name": "simeon-sanai",
+      "url": "https://x.com/Naiknelofar788/status/2009836414431883366"
+    },
+    "status": 1,
+    "tags": [
+      "realistic",
+      "portrait",
+      "interior"
+    ],
+    "title": "现代北欧浴室中的超写实女性自拍",
+    "type": "",
+    "update_time": 1768138335519,
+    "width": 1024
+  },
+  {
+    "coverImage": "/images/2026-01-09/2009656662127165400_0.jpg",
+    "create_time": 1767974460000,
+    "description": "一个3x3的图像网格，每格展示不同历史事件的AI重现画面，风格统一且细节丰富。",
+    "examples": [],
+    "height": 810,
+    "id": "2009656662127165400",
+    "images": [
+      "/images/2026-01-09/2009656662127165400_0.jpg",
+      "/images/2026-01-09/2009656662127165400_1.jpg",
+      "/images/2026-01-09/2009656662127165400_2.jpg",
+      "/images/2026-01-09/2009656662127165400_3.jpg"
+    ],
+    "likes": 247,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "This 3x3 grid prompt to recreate historical moments is absolutely insane.\n\nThat’s why it’s only available to my subscribers here on X! 😉",
+      "这个3x3网格提示词用于重现历史时刻，简直太疯狂了。  \n这就是为什么它只对我在X平台上的订阅者开放！😉"
+    ],
+    "ratio": "16:9",
+    "slug": "prompt-2009656662127165400",
+    "source": {
+      "name": "TechHalla",
+      "url": "https://x.com/techhalla/status/2009656662127165484"
+    },
+    "status": 1,
+    "tags": [
+      "grid",
+      "history",
+      "concept-art"
+    ],
+    "title": "3x3网格重现历史时刻",
+    "type": "",
+    "update_time": 1768138335510,
+    "width": 1440
+  },
+  {
+    "coverImage": "/images/2026-01-09/2009722852010852400_0.jpg",
+    "create_time": 1767990241000,
+    "description": "",
+    "examples": [],
+    "height": 1080,
+    "id": "2009722852010852400",
+    "images": [
+      "/images/2026-01-09/2009722852010852400_0.jpg"
+    ],
+    "likes": 178,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Create a soap foam sculpture in the exact shape of the uploaded logo, made entirely of white soap bubbles and foam with realistic bubble textures. Place it on wet bathroom tiles in the brand’s signature color (match the color from the uploaded logo). Top-down view, centered composition. The tiles should be glossy and wet with water droplets scattered across the surface. Add smaller foam bubbles and soap suds around the main logo shape. Grout lines visible between tiles. Additional small foam shapes in corners. Product photography style, clean and vibrant lighting. 1080x1080 pixels, square format.",
+      "创作一个与上传的标志完全同形的肥皂泡沫雕塑，完全由白色肥皂泡和泡沫构成，并呈现逼真的气泡纹理。将其放置在品牌标志性颜色的湿浴室瓷砖上（颜色需与上传标志一致）。采用俯视视角，居中构图。瓷砖表面应光滑湿润，散布着水珠。在主标志形状周围添加较小的泡沫气泡和皂液泡沫。瓷砖之间的填缝线清晰可见。角落处添加一些小型泡沫造型。采用产品摄影风格，光线干净明亮。图像尺寸为1080x1080像素，正方形格式。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2009722852010852400",
+    "source": {
+      "name": "TechieSA",
+      "url": "https://x.com/TechieBySA/status/2009722852010852444"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "肥皂泡沫雕塑logo",
+    "type": "",
+    "update_time": 1768138335510,
+    "width": 1080
+  },
+  {
+    "coverImage": "/images/2026-01-09/2009726118669234400_0.jpg",
+    "create_time": 1767991020000,
+    "description": "一架在漆黑深海中发出青色与电紫色光芒的大钢琴，琴键间有半透明膜，琴弦上升起如音符般的微粒，氛围静谧而奇异。",
+    "examples": [],
+    "height": 928,
+    "id": "2009726118669234400",
+    "images": [
+      "/images/2026-01-09/2009726118669234400_0.jpg",
+      "/images/2026-01-09/2009726118669234400_1.jpg",
+      "/images/2026-01-09/2009726118669234400_2.jpg",
+      "/images/2026-01-09/2009726118669234400_3.jpg"
+    ],
+    "likes": 160,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A bioluminescent deep-sea rendering of a motorcycle, glowing cyan and electric violet against pitch-black water, translucent membranes stretched over the frame like deep-sea fish skin, drifting particles trailing from exhaust pipes, nature documentary lighting with an alien stillness.",
+      "A bioluminescent deep-sea rendering of a grand piano, glowing cyan and electric violet against pitch-black water, translucent membranes stretched between keys, drifting particles rising from strings like silent music, nature documentary lighting with an alien stillness.",
+      "A bioluminescent deep-sea rendering of a typewriter, glowing cyan and electric violet against pitch-black water, translucent membranes connecting each key like webbed fingers, drifting particles emerging from the carriage like unwritten stories, nature documentary lighting with an alien stillness.",
+      "A bioluminescent deep-sea rendering of a vintage rotary telephone, glowing cyan and electric violet against pitch-black water, translucent membranes where the dial once was, drifting particles around the receiver like waiting words, nature documentary lighting with an alien stillness."
+    ],
+    "ratio": "77:58",
+    "slug": "prompt-2009726118669234400",
+    "source": {
+      "name": "Alexandra Aisling",
+      "url": "https://x.com/AllaAisling/status/2009726118669234487"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "sci-fi",
+      "render"
+    ],
+    "title": "发光深海中的大钢琴",
+    "type": "",
+    "update_time": 1768138335509,
+    "width": 1232
+  },
+  {
+    "coverImage": "/images/2026-01-10/2009946159532662800_0.jpg",
+    "create_time": 1768043482000,
+    "description": "这幅肖像画展现了一位充满活力的男性，他戴着超大橙红色全遮光眼镜仰望上方，眼神中透露出惊奇。面部采用动态黑色笔触描绘，置于有纹理的报纸背景之上，并以鲜明的蓝色和橙色颜料泼溅点缀。此作品巧妙融合写实与抽象表现主义，体现了纯真、希望与创造力。",
+    "examples": [],
+    "height": 1792,
+    "id": "2009946159532662800",
+    "images": [
+      "/images/2026-01-10/2009946159532662800_0.jpg",
+      "/images/2026-01-10/2009946159532662800_1.jpg"
+    ],
+    "likes": 641,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Vibrant expressive portrait of a man looking upwards with wonder, wearing oversized bright orange-red glasses (glass light colour full shade). The face is sketched in dynamic black strokes on a textured newspaper background, enriched with splashes of vivid blue and orange paint. The composition blends realism and abstract expressionism, evoking innocence, hope, and creativity. Take full face of the attached picture.",
+      "一幅充满活力且富有表现力的男性肖像，他仰望上方，眼神充满惊奇，佩戴着 oversized 的亮橙红色眼镜（镜片为全遮光浅色）。面部以动态的黑色笔触勾勒，背景为有纹理的报纸，并点缀着鲜明的蓝色与橙色颜料泼溅。构图融合了写实主义与抽象表现主义，传达出纯真、希望与创造力。取所附图片中的完整面部。"
+    ],
+    "ratio": "75:56",
+    "slug": "prompt-2009946159532662800",
+    "source": {
+      "name": "Duet | AI",
+      "url": "https://x.com/Sheldon056/status/2009946159532662792"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "creative",
+      "black-white"
+    ],
+    "title": "活力男性肖像，橙红眼镜，黑线勾勒，报纸背景",
+    "type": "",
+    "update_time": 1768138335509,
+    "width": 2400
+  },
+  {
+    "coverImage": "/images/2026-01-10/2009887009591227000_0.jpg",
+    "create_time": 1768029379000,
+    "description": "这组图像展示了三个不同的美食主题：一个细节丰富的单个硬壳玉米饼塔可，三串带有戏剧性效果的烤肉串，以及一组精致的悬浮寿司卷。每个主题都通过AI编辑展现出极致微观细节和独特的悬浮元素，配合专业的工作室照明，呈现出超现实主义风格。",
+    "examples": [],
+    "height": 1536,
+    "id": "2009887009591227000",
+    "images": [
+      "/images/2026-01-10/2009887009591227000_0.jpg",
+      "/images/2026-01-10/2009887009591227000_1.jpg",
+      "/images/2026-01-10/2009887009591227000_2.jpg",
+      "/images/2026-01-10/2009887009591227000_3.jpg"
+    ],
+    "likes": 431,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "{\n  \"global_settings\": {\n    \"resolution\": \"8K ultra high definition\",\n    \"aspect_ratio\": \"2:3 vertical\",\n    \"image_type\": \"AI-edited cinematic food photography\",\n    \"detail_level\": \"extreme micro-detail, sharp focus, clean edges\",\n    \"style_constraint\": \"enhanced realism, minimal alteration from original composition\"\n  },\n\n  \"module_1_image_1_style\": {\n    \"subject\": \"single hard-shell taco\",\n    \"composition\": {\n      \"orientation\": \"diagonal, floating in mid-air\",\n      \"foreground_focus\": \"taco shell and filling\",\n      \"motion\": \"ingredients suspended, sauce splash frozen mid-air\"\n    },\n    \"visible_elements\": {\n      \"shell\": \"golden yellow hard taco shell with crisp texture\",\n      \"filling\": [\n        \"shredded cooked meat with visible fibers\",\n        \"green sauce layered on top\",\n        \"small red diced pieces\",\n        \"white crumbled cheese\"\n      ],\n      \"floating_garnish\": [\n        \"avocado slices\",\n        \"purple onion rings\",\n        \"green herb leaves\",\n        \"small reddish-brown meat cubes\",\n        \"tiny white crumbs\"\n      ],\n      \"liquid\": \"orange-red sauce splash erupting upward behind taco\"\n    },\n    \"lighting\": {\n      \"type\": \"high-contrast studio lighting\",\n      \"highlights\": \"glossy reflections on sauce and meat\",\n      \"background_lights\": \"soft circular bokeh in warm and cool tones\"\n    },\n    \"background\": {\n      \"color\": \"dark with neon-like blurred lights\",\n      \"depth\": \"strong depth of field, background fully defocused\"\n    }\n  },\n\n  \"module_2_image_2_style\": {\n    \"subject\": \"three grilled meat skewers\",\n    \"composition\": {\n      \"orientation\": \"vertical skewers, slightly angled\",\n      \"foreground_focus\": \"center skewer\",\n      \"motion\": \"ingredients and sauce suspended\"\n    },\n    \"visible_elements\": {\n      \"skewers\": \"wooden sticks with pointed ends\",\n      \"meat\": \"chunked grilled meat with char marks and uneven texture\",\n      \"garnish\": \"small green herb leaves attached to meat\",\n      \"floating_items\": [\n        \"round cucumber slices\",\n        \"thin onion rings\"\n      ],\n      \"sauce\": {\n        \"container\": \"small white ramekin\",\n        \"action\": \"thick orange sauce splashing upward from bowl\"\n      },\n      \"particles\": \"tiny spice or crumb particles scattered in air\"\n    },\n    \"lighting\": {\n      \"type\": \"dramatic directional lighting\",\n      \"highlights\": \"strong sheen on meat surface\",\n      \"contrast\": \"deep shadows\"\n    },\n    \"background\": {\n      \"color\": \"solid deep red\",\n      \"texture\": \"soft grain with floating particles\"\n    }\n  },\n\n  \"module_3_image_3_style\": {\n    \"subject\": \"four sushi rolls\",\n    \"composition\": {\n      \"orientation\": \"floating cluster\",\n      \"spacing\": \"uneven depth, some closer, some blurred behind\",\n      \"motion\": \"sesame seeds and herbs suspended\"\n    },\n    \"visible_elements\": {\n      \"sushi_structure\": {\n        \"outer_layer\": \"white rice\",\n        \"inner_layer\": \"dark seaweed\",\n        \"fillings\": [\n          \"orange fish slice\",\n          \"green avocado\"\n        ]\n      },\n      \"toppings\": [\n        \"toasted sesame seeds\",\n        \"brown crunchy coating\",\n        \"finely chopped green herbs\"\n      ],\n      \"particles\": [\n        \"sesame seeds\",\n        \"small green herb pieces\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"soft but crisp studio lighting\",\n      \"focus\": \"front sushi pieces sharp, rear slightly blurred\"\n    },\n    \"background\": {\n      \"color\": \"dark blue-grey\",\n      \"depth\": \"clean bokeh-free backdrop with floating particles\"\n    }\n  },\n  \"post_processing\": {\n    \"clarity\": \"ultra-sharp\",\n    \"noise\": \"minimal\",\n    \"color_balance\": \"rich but natural\",\n    \"ai_signature\": \"clean AI-edited look without exaggeration\"\n  }\n}",
+      "全球设置：\n- 分辨率：8K超高清\n- 纵横比：2:3垂直\n- 图像类型：经过AI编辑的电影食物摄影\n- 细节层次：极致微观细节，清晰焦点，干净边缘\n- 风格限制：增强现实主义，与原始构图相比修改最小\n\n第一模块图像一风格：\n- 主题：单个硬壳玉米饼塔可\n- 构图：\n  - 方向：对角线，悬浮于空中\n  - 前景焦点：塔可壳和馅料\n  - 动作：配料悬浮，酱汁飞溅冻结在半空\n- 可见元素：\n  - 壳：金黄色硬玉米饼壳，脆皮质感\n  - 馅料：撕碎的熟肉带可见纤维，绿色酱覆盖顶部，小红色块状物，白色碎奶酪\n  - 悬浮装饰：牛油果片，紫色洋葱圈，绿色草本叶，小红棕色肉丁，微小白屑\n  - 液体：橙红色酱汁从塔可后面向上喷发\n- 照明：\n  - 类型：高对比度工作室照明\n  - 高光：酱料和肉上的光泽反射\n  - 背景灯光：暖色调和冷色调柔和圆形散景\n- 背景：\n  - 颜色：暗色配霓虹灯般的模糊光线\n  - 深度：强烈的景深效果，背景完全失焦\n\n第二模块图像二风格：\n- 主题：三串烤肉串\n- 构图：\n  - 方向：垂直肉串，稍微倾斜\n  - 前景焦点：中央肉串\n  - 动作：配料和酱料悬浮\n- 可见元素：\n  - 肉串：木签，尖端锋利\n  - 肉：带炭烧痕迹和不均匀纹理的大块烤肉\n  - 装饰：附着在肉上的小型绿色草本叶\n  - 悬浮物品：圆形黄瓜片，薄洋葱圈\n  - 酱料：\n    - 容器：小白色陶碟\n    - 动作：浓厚橙色酱料从碗中向上飞溅\n  - 颗粒：空气中散布的细小香料或面包屑颗粒\n- 照明：\n  - 类型：戏剧性的定向照明\n  - 高光：肉表面强烈光泽\n  - 对比：深阴影\n- 背景：\n  - 颜色：纯正深红色\n  - 质感：带有漂浮颗粒的柔软纹理\n\n第三模块图像三风格：\n- 主题：四个寿司卷\n- 构图：\n  - 方向：悬浮群集\n  - 间距：前后距离不等，有些更近，有些模糊地处于后方\n  - 动作：芝麻种子和草本植物悬浮\n- 可见元素：\n  - 寿司结构：\n    - 外层：白米饭\n    - 内层：深色海苔\n    - 馅料：橙色鱼片，绿色牛油果\n  - 配料：烤过的芝麻种子，棕色脆皮涂层，精细切碎的绿色草本植物\n  - 颗粒：芝麻种子，小绿草本碎片\n- 照明：\n  - 类型：柔和但清晰的工作室照明\n  - 焦点：前面的寿司卷锐利，后方略模糊\n- 背景：\n  - 颜色：深蓝灰色\n  - 深度：干净无散景的背景，带有漂浮颗粒\n\n后期处理：\n- 清晰度：超高清晰度\n- 噪点：最少\n- 色彩平衡：丰富而自然\n- AI签名：清洁的AI编辑外观，不过分夸张"
+    ],
+    "ratio": "2:3",
+    "slug": "prompt-2009887009591227000",
+    "source": {
+      "name": "ShaHid WaNii",
+      "url": "https://x.com/meng_dagg695/status/2009887009591226787"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "food",
+      "high-detail"
+    ],
+    "title": "悬浮美食：塔可、烤肉串与寿司的极致微观世界",
+    "type": "",
+    "update_time": 1768138335506,
+    "width": 1024
+  },
+  {
+    "coverImage": "/images/2026-01-09/2009664169331839500_0.jpg",
+    "create_time": 1767976250000,
+    "description": "在这个超写实的3D渲染图像中，单词被转化为美味糖果的形状，周围环绕着极简风格的糖果世界。采用高色温照明和电影级光线追踪技术，展现出柔和阴影与高光细节。",
+    "examples": [],
+    "height": 4096,
+    "id": "2009664169331839500",
+    "images": [
+      "/images/2026-01-09/2009664169331839500_0.jpg"
+    ],
+    "likes": 213,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A smooth, ultra-realistic 3D render of the word [YOUR WORD] shaped like a delicious candy — style adapts based on word — surrounded by a minimal candy world — high-Kelvin lighting — cinematic ray tracing — soft shadows — glossy details — hyper-real textures — square format",
+      "一个光滑、超写实的3D渲染图像，单词“[YOUR WORD]”被制作成美味糖果的形状——风格会根据单词内容自动调整——周围是一个极简风格的糖果世界——高色温照明——电影级光线追踪——柔和阴影——高光细节——超真实纹理——方形构图"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2009664169331839500",
+    "source": {
+      "name": "AZIZ | AI 🇸🇦",
+      "url": "https://x.com/aziz4ai/status/2009664169331839410"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "candy",
+      "realistic"
+    ],
+    "title": "超写实糖果单词",
+    "type": "",
+    "update_time": 1768138335499,
+    "width": 4096
+  },
+  {
+    "coverImage": "/images/2026-01-09/2009622735325200397_0.jpg",
+    "create_time": 1767966371000,
+    "description": "",
+    "id": "2009622735325200397",
+    "images": [
+      "/images/2026-01-09/2009622735325200397_0.jpg",
+      "/images/2026-01-09/2009622735325200397_1.jpg",
+      "/images/2026-01-09/2009622735325200397_2.jpg",
+      "/images/2026-01-09/2009622735325200397_3.jpg"
+    ],
+    "likes": 22,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "几何立体主义的秩序之美 | Geometric Cubist Vector\n\n尝试了一套新的 Prompt 逻辑：用“受限色盘”强行压制 AI 的色彩冲动，配合“多视角并置”的立体主义构图。\n\n摒弃光影渲染，只保留纯粹的几何切面。出来的效果像刀切一样干净，复古又现代。\n\n Prompt \n\n以【主题】为画面唯一主体，方形 1:1，主体占画面 70% 以上，采用多视角并置的方式将主体拆解为几何切面（平面、棱角、扇形、矩形），让正面、侧面与局部细节同时出现但仍可辨识为【主题】。空间必须扁平化，拒绝传统透视与真实光影，仅使用结构性明暗分区（色块区分面向）。色彩使用受限色盘：灰、赭、米白、暗绿，少量蓝作为冷点。边缘清晰，像拼贴或版画。禁止写实渐变、禁止柔焦摄影。输出高分辨率，几何边界干净利落。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "VoxCat",
+      "url": "https://x.com/VoxcatAI/status/2009622735325200397"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "几何立体主义构图",
+    "update_time": 1768065396310
+  },
+  {
+    "coverImage": "/images/2026-01-11/2010275488703381858_0.jpg",
+    "create_time": 1768122000000,
+    "description": "",
+    "id": "2010275488703381858",
+    "images": [
+      "/images/2026-01-11/2010275488703381858_0.jpg",
+      "/images/2026-01-11/2010275488703381858_1.jpg",
+      "/images/2026-01-11/2010275488703381858_2.jpg",
+      "/images/2026-01-11/2010275488703381858_3.jpg"
+    ],
+    "likes": 398,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A high-end editorial studio photograph of a handcrafted clay body balm container with a matte ceramic finish, a cork lid, and a hand-lettered kraft paper label. The product is placed on a warm terracotta tile slab, itself resting on a round mirror laid on a muted ochre-toned surface. Around the mirror and on the tile are scattered droplets of amber-colored nourishing oil with realistic reflections. A few sprigs of dried chamomile and wheat lie gently across the stone and mirror, connecting both surfaces naturally. Strong, warm sunlight filters from the top left, casting soft diagonal leaf shadows to simulate filtered daylight. The aesthetic is earthy, artisanal, and premium, with natural materials and textures enhanced by golden hour tones. Style: 3D realism, luxury product photography, shallow depth of field. Format: 1:1, ultra-detailed.\n",
+      "A high-end editorial studio photograph of a translucent turquoise gel moisturizer jar with a glossy acrylic body, a silver metallic lid, and a smooth aqua label with embossed lettering. The product is placed on a light marble slab with subtle blue veining, itself resting on a round mirror laid on a pale sand-colored surface. Around the mirror and on the marble are scattered droplets of cooling hydration gel with realistic reflections. A few petals of white peony and sprigs of fresh mint lie gently across the stone and mirror, connecting both surfaces naturally. Strong, warm sunlight filters from the top left, casting soft diagonal leaf shadows to simulate filtered daylight. The aesthetic is fresh, luxurious, and minimal, with realistic materials and soft natural textures highlighted by golden hour tones. Style: 3D realism, luxury product photography, shallow depth of field. Format: 1:1, ultra-detailed.\n",
+      "A high-end editorial studio photograph of a sleek, matte black face serum bottle with a bamboo dropper cap, subtle embossed logo, and a minimalist paper label. The product is placed on a raw slate stone slab, itself resting on a round mirror laid on a soft beige linen surface. Around the mirror and on the stone are scattered droplets of translucent green botanical serum with realistic reflections. A few sprigs of eucalyptus and fresh sage leaves lie gently across the stone and mirror, connecting both surfaces naturally. Strong, warm sunlight filters from the top left, casting soft diagonal leaf shadows to simulate filtered daylight. The aesthetic is minimalist, premium, and clean, with realistic materials and natural textures highlighted by golden hour tones. Style: 3D realism, luxury product photography, shallow depth of field. Format: 1:1, ultra-detailed.\n",
+      "A high-end editorial studio photograph of a round glass perfume bottle with a fine mist sprayer, made of frosted glass with a matte ivory cap, delicate engraved label, and a subtle textured surface. The product is placed on a natural, textured light oak wood slab, itself resting on a round mirror laid on a neutral-toned surface. Around the mirror and on the stone are scattered droplets of golden botanical serum with realistic reflections. A few sprigs of fresh lavender and flowering rosemary lie gently across the stone and mirror, connecting both surfaces naturally. Strong, warm sunlight filters from the top left, casting soft diagonal leaf shadows to simulate filtered daylight. The aesthetic is minimalist, premium, and clean, with realistic materials and natural textures highlighted by golden hour tones. Style: 3D realism, luxury product photography, shallow depth of field. Format: 1:1, ultra-detailed.\n"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Mo",
+      "url": "https://x.com/Kerroudjm/status/2010275488703381858"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "产品展示",
+    "update_time": 1768218779105
+  },
+  {
+    "coverImage": "/images/2026-01-11/2010331238083567964_0.jpg",
+    "create_time": 1768135291000,
+    "description": "",
+    "id": "2010331238083567964",
+    "images": [
+      "/images/2026-01-11/2010331238083567964_0.jpg",
+      "/images/2026-01-11/2010331238083567964_1.jpg"
+    ],
+    "likes": 307,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"visual_style_analysis\": {\n    \"summary\": \"韩系甜酷风(Sweet & Cool)时尚摄影，结合了柔和的背景与高对比度的服装，具有明显的K-pop偶像画报质感。\",\n    \"color_palette\": {\n      \"dominant_colors\": [\n        {\n          \"name\": \"Hot Pink / Magenta\",\n          \"hex_approx\": \"#D64C86\",\n          \"usage\": \"外套 (Coat)\",\n          \"feeling\": \"活力、时尚、强烈的视觉冲击\"\n        },\n        {\n          \"name\": \"Jet Black\",\n          \"hex_approx\": \"#0F0F0F\",\n          \"usage\": \"吊带裙、丝袜、头发 (Dress, Stockings, Hair)\",\n          \"feeling\": \"神秘、性感、沉稳\"\n        },\n        {\n          \"name\": \"Pale Rose / Misty Pink\",\n          \"hex_approx\": \"#EAD5D9\",\n          \"usage\": \"背景 (Background)\",\n          \"feeling\": \"柔和、梦幻、少女感\"\n        }\n      ],\n      \"skin_tone\": {\n        \"description\": \"冷白皮 (Porcelain/Fair)\",\n        \"finish\": \"哑光带微光 (Matte with subtle glow)\"\n      },\n      \"contrast_level\": \"High (高对比度 - 黑色与粉色的强烈反差)\"\n    },\n    \"lighting_and_atmosphere\": {\n      \"type\": \"Studio Lighting (影棚布光)\",\n      \"setup\": {\n        \"key_light\": \"柔光箱正面补光，面部光线平整均匀 (Softbox frontal fill)\",\n        \"background_light\": \"圆形聚光灯/光束效果 (Circular Spotlight/Vignette)\",\n        \"shadows\": \"柔和且受控，主要集中在人物下方和衣褶处\"\n      },\n      \"mood\": [\n        \"Chic (时髦)\",\n        \"Alluring (迷人)\",\n        \"Polished (精致)\"\n      ]\n    },\n    \"composition\": {\n      \"type\": \"Central Composition (中心构图)\",\n      \"geometry\": \"Triangular (三角形构图 - 蹲姿形成的稳固三角形状)\",\n      \"framing\": \"Full Body / Crouch (全身/蹲姿)\",\n      \"visual_weight\": \"底部视觉重心较重 (由于黑色丝袜和深色裙装)\"\n    },\n    \"subject_and_styling\": {\n      \"fashion_elements\": [\n        \"Oversized Coat (廓形大衣 - 披肩穿法)\",\n        \"Slip Dress (缎面吊带裙 - 睡衣风)\",\n        \"Lace Stockings (蕾丝长筒袜)\",\n        \"Stiletto Heels (细高跟鞋)\"\n      ],\n      \"textures\": [\n        \"Wool/Felt (外套的毛呢质感)\",\n        \"Satin (裙子的丝绸光泽)\",\n        \"Lace (丝袜的透视纹理)\",\n        \"Glossy (头发的光泽感)\"\n      ],\n      \"hair_and_makeup\": {\n        \"hair\": \"黑长直 + 空气刘海 (Long straight black hair with airy bangs)\",\n        \"makeup\": \"韩式妆容，强调腮红与唇色，清晰的眼线\"\n      }\n    },\n    \"post_processing_and_effects\": {\n      \"retouching\": \"Beauty Retouching (精修 - 皮肤磨皮，五官立体化)\",\n      \"sharpness\": \"High (高锐度，纹理清晰)\",\n      \"grain\": \"Low/None (数码洁净感)\",\n      \"vignette\": \"通过灯光营造的物理暗角效果，而非后期压暗\"\n    },\n    \"typography_and_graphics\": {\n      \"detected_text\": \"@XIAOAI\",\n      \"location\": \"Bottom Center (底部居中)\",\n      \"font_style\": \"Pixel Art / 8-bit (像素风格字体)\",\n      \"color\": \"White (白色)\"\n    }\n  }\n}\n#NanoBananaPro"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "行者AI视频",
+      "url": "https://x.com/joshesye/status/2010331238083567964"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "韩系甜酷风(Sweet & Cool)时尚摄影",
+    "update_time": 1768218779105
+  },
+  {
+    "coverImage": "/images/2026-01-10/2010116114668515600_0.jpg",
+    "create_time": 1768084002000,
+    "description": "",
+    "examples": [],
+    "height": 2400,
+    "id": "2010116114668515600",
+    "images": [
+      "/images/2026-01-10/2010116114668515600_0.jpg"
+    ],
+    "likes": 531,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "{\n  \"reference_priority\": {\n    \"character_face\": \"STRICT_REFER_TO_IMAGE\",\n    \"outfit_details\": \"EXACT_REPLICA_FROM_REFERENCE\",\n    \"consistency_weight\": \"High\"\n  },\n  \"subject\": {\n    \"type\": \"woman_identity_perfectly_matched_to_reference_image\",\n    \"framing\": \"close-up_high-angle_selfie_portrait_indoors\",\n    \"identity_lock\": \"maintaining_identical_facial_features_and_bone_structure_from_reference\",\n    \"features\": {\n      \"eyes\": \"sultry_half-lidded_bedroom_eyes_as_per_reference_with_intense_hazel-grey_contact_lenses\",\n      \"hair\": \"hair_style_and_color_exactly_matching_reference_image\",\n      \"expression\": \"alluring_and_seductive_expression_with_tongue_slightly_stuck_out_playfully_paired_with_a_heavy-lidded_come-hither_gaze\"\n    },\n    \"skin_texture\": {\n      \"description\": \"dewy_and_radiant_skin_with_a_prominent_vibrant_pink_blush_on_cheeks\",\n      \"details\": [\n        \"smooth_poreless_finish_with_a_moist_glow\",\n        \"intense_pinkish_blush_blended_across_cheeks_and_nose_bridge\",\n        \"soft_warm_skin_undertones_under_dim_lighting\"\n      ],\n      \"makeup\": \"glamorous_night-out_makeup_with_glossy_pink_lips_and_defined_sharp_winged_eyeliner\"\n    },\n    \"pose_structural_lock\": {\n      \"overall\": \"casual_selfie_pose_tilted_head_looking_directly_up_at_the_camera\",\n      \"arms\": \"right_arm_partially_visible_holding_the_camera_at_a_high_angle\",\n      \"hands\": \"left_hand_resting_near_the_neck_with_a_watch_visible_on_the_wrist\",\n      \"shoulders\": \"slightly_hunched_forward_creating_a_dynamic_and_intimate_perspective\"\n    }\n  },\n  \"apparel_specification\": {\n    \"outfit_main_piece\": {\n      \"description\": \"exact_clothing_replica_from_reference_image\",\n      \"material\": \"matching_material_and_texture_as_shown_in_reference\",\n      \"silhouette\": \"same_fit_and_design_as_reference_image\",\n      \"details\": \"replicate_all_stitching_and_cut-outs_from_reference\"\n    },\n    \"accessories\": {\n      \"necklace\": \"matching_necklace_from_reference\",\n      \"watch\": \"classic_wristwatch_with_a_slim_brown_leather_strap_and_rose_gold_round_dial\"\n    }\n  },\n  \"environment\": {\n    \"setting\": \"Atmospheric_Japanese_Izakaya_or_traditional_restaurant_at_night\",\n    \"lighting\": \"dim_moody_indoor_lighting_with_warm_amber_hues_and_cool_purple_lens_flare_on_the_face\",\n    \"background\": \"blurred_wooden_walls_adorned_with_traditional_Japanese_calligraphy_menu_plaques_and_distant_diners\",\n    \"atmosphere\": \"lively_intimate_nightlife_vibe_with_a_sense_of_casual_fun\"\n  },\n  \"realism_and_rendering\": {\n    \"style\": \"candid_social_media_snapshot_photography\",\n    \"camera\": \"High-end_smartphone_front_camera_with_slight_wide-angle_distortion_and_shallow_depth_of_field\",\n    \"image_quality\": \"hyper-realistic_skin_textures_natural_motion_blur_and_authentic_low-light_grain\",\n    \"aspect_ratio\": \"3:4\"\n  }\n}",
+      "人物脸部严格参照图片，服装细节要求完全复刻参考，一致性权重设为高。主体是一个与参考图像完美匹配身份的女性，构图采用室内高角度自拍特写肖像，保持与参考中相同的面部特征和骨骼结构。特征包括：眼睛是慵懒半闭的卧室眼神，并配以强烈的灰褐色隐形眼镜；发型和发色与参考图像完全一致；表情是带有轻微调皮地吐舌头的诱人和挑逗神情，搭配沉重的眼睑和引人注目的目光。皮肤质感表现为露水般光泽且双颊有鲜明的粉色腮红，具体细节有光滑无毛孔并带有湿润光泽、两颊和鼻梁上融合了强烈的粉红色腮红、在昏暗光线下呈现柔和温暖的肤色底调，并化有适合外出夜生活的华丽妆容，包括闪亮的粉色嘴唇和锐利的翼状眼线。姿势锁定为休闲自拍照姿势，头部倾斜直视摄像头，右臂部分可见举着相机于高处，左手指靠近颈部且腕表可见，肩膀略微前倾营造出动感和亲密视角。\n\n服装规格方面，主服饰需完全复制参考图像中的衣物，包括材质和纹理的匹配、相同的设计和剪裁以及所有缝线和切口的再现。配饰则需要匹配参考中的项链，并佩戴一款配有细棕色皮革表带和玫瑰金色圆形表盘的经典手表。\n\n环境设定在日本夜晚的居酒屋或传统餐厅内，照明采用昏黄暖色调和紫色镜头光晕交错的昏暗室内光线，背景则是模糊的装饰有传统日本书法菜单牌匾的木墙及远处用餐者的景象，营造出一种充满活力且私密的夜生活氛围，带有一丝随意的乐趣。\n\n现实主义和渲染风格要求呈现出社交软件上的自然抓拍摄影风格，使用高端智能手机前置摄像头拍摄，带有轻微广角畸变和浅景深效果，图像质量需达到超真实的皮肤纹理、自然的运动模糊以及真实低光颗粒感，画面比例设定为3:4。"
+    ],
+    "ratio": "56:75",
+    "slug": "prompt-2010116114668515600",
+    "source": {
+      "name": "BeautyVerse",
+      "url": "https://x.com/BeautyVerse_Lab/status/2010116114668515553"
+    },
+    "tags": [],
+    "title": "吐舌头的女孩",
+    "type": "",
+    "width": 1792
+  },
+  {
+    "coverImage": "/images/2026-01-10/2010070395974504400_0.jpg",
+    "create_time": 1768073102000,
+    "description": "一系列带有细腻纹理的彩色蜡封徽标，展现精致的手工质感与复古风格。",
+    "examples": [],
+    "height": 1350,
+    "id": "2010070395974504400",
+    "images": [
+      "/images/2026-01-10/2010070395974504400_0.jpg"
+    ],
+    "likes": 997,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "[BRAND NAME]. Act as a vector illustrator designing a trendy, high-end \"Sticker Sheet\" set.\nTHE TASK:\nDeconstruct the brand identity of [BRAND NAME] into a playful, cohesive set of approximately 8-10 unique sticker designs arranged on a single sheet.\nContent Generation: Do not just make logos. Autonomously invent a mix of:\nMascots/Characters: Stylized busts of people wearing brand-relevant accessories or expressing emotions.\nKey Products: Iconic items associated with the brand.\nSymbols/Objects: Abstract shapes or tools relevant to the brand's lifestyle.\n\nVISUAL STYLE (MONOLINE VECTOR):\nThe art style must strictly match \"Modern Trendy Line Art.\"\nLine Work: Use a THICK, UNIFORM line weight (monoline) for all internal details. The lines should be smooth, rounded, and confident.\nColoring: The stickers must be filled with Solid Off-White or Cream, utilizing the line color for details. NO gradients, NO shading, NO 3D effects. Flat 2D vector look.\nThe \"Sticker\" Effect: Every element must have a thick, distinct White (or Cream) Die-Cut Border surrounding it, separating it from the background.\nCOLOR PALETTE (HIGH CONTRAST):\nBackground: A solid, deep, saturated color to create maximum contrast.\nStickers: High-brightness Cream or White fill with Dark (Black or Dark Brown) outlines.\nCOMPOSITION:\nThe stickers are scattered naturally across the sheet (knolling layout) with even spacing. No overlapping.",
+      "[品牌名称]。作为矢量插画师，设计一套时尚高端的“贴纸套装”。\n\n任务：  \n将[品牌名称]的品牌形象解构为一组约8至10个独特、风格统一且富有趣味性的贴纸设计，并排布于一张贴纸单页上。\n\n内容创作要求：不要仅限于制作品牌Logo。需自主创作以下混合元素：  \n- 吉祥物/角色：佩戴与品牌相关配饰或展现特定情绪的风格化人物半身像；  \n- 核心产品：与品牌相关的标志性物品；  \n- 符号/物件：体现品牌生活方式的抽象图形或工具。\n\n视觉风格（单线矢量）：  \n艺术风格必须严格遵循“现代潮流线稿”风格。  \n- 线条：所有内部细节均使用粗细一致的厚实单线（monoline），线条需圆润、流畅、自信；  \n- 上色：贴纸填充纯米白或奶油色，仅依靠线条颜色表现细节。禁止使用渐变、阴影或3D效果，保持扁平2D矢量风格；  \n- “贴纸”效果：每个元素外围必须有明显厚重的白色（或奶油色）模切边框，使其与背景清晰分离。\n\n配色方案（高对比度）：  \n- 背景：使用深色、饱和度高的纯色，以形成最大对比；  \n- 贴纸：高亮度的奶油色或白色填充，搭配深色（黑色或深棕色）轮廓线。\n\n构图：  \n贴纸以自然散落的方式（knolling布局）均匀分布在页面上，间距均衡，不得重叠。"
+    ],
+    "ratio": "4:5",
+    "slug": "prompt-2010070395974504400",
+    "source": {
+      "name": "AmirMušić",
+      "url": "https://x.com/AmirMushich/status/2010070395974504565"
+    },
+    "status": 1,
+    "tags": [
+      "branding",
+      "hand-drawn",
+      "craftsmanship"
+    ],
+    "title": "触感蜡封徽标设计",
+    "type": "",
+    "update_time": 1768218779105,
+    "width": 1080
+  },
+  {
+    "coverImage": "/images/2026-01-10/2010077171524456700_0.jpg",
+    "create_time": 1768074717000,
+    "description": "一张巨大的建筑蓝图上，墨线升腾为真实施工结构，地基浇筑与顶层入住同时发生，工人与机械在不断生长的塔楼间穿梭，图纸与实体以不可能角度融合。",
+    "examples": [],
+    "height": 1024,
+    "id": "2010077171524456700",
+    "images": [
+      "/images/2026-01-10/2010077171524456700_0.jpg",
+      "/images/2026-01-10/2010077171524456700_1.jpg",
+      "/images/2026-01-10/2010077171524456700_2.jpg",
+      "/images/2026-01-10/2010077171524456700_3.jpg"
+    ],
+    "likes": 312,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Galata Kulesi\n\nEpic 3D scene: a massive architectural blueprint of [BUILDING/STRUCTURE] pinned to a drafting table, its ink lines rising off the paper into fully realized construction. Blue lines become steel beams mid-weld, floor plans inflate into furnished rooms, elevation drawings push outward into facades with working windows. Construction phases coexist simultaneously: foundation being poured in one corner while the penthouse is already inhabited in another. Tiny workers, cranes, and scaffolding swarm the rising structure. The flat drawing and the living building merge at impossible angles. Technical annotations float as dimensional signage. Architect's coffee cup sits at the edge, casting shadow across unbuilt sections. Extreme scale contrast, construction dust catching afternoon light, 8K, photorealistic.",
+      "史诗级3D场景：一张巨大的加拉塔塔建筑蓝图被钉在绘图桌上，墨线从纸面升起，化为真实建造中的结构。蓝色线条在焊接中途变为钢梁，平面图膨胀成带家具的房间，立面图向外延展为带有可运作窗户的外墙。各个施工阶段同时共存：一角正在浇筑地基，另一角顶层公寓却已有人居住。微小的工人、起重机和脚手架在不断升高的建筑上忙碌穿梭。平面图纸与实体建筑以不可能的角度融合在一起。技术标注如立体标识般漂浮空中。建筑师的咖啡杯置于桌沿，其阴影投射在尚未建成的部分上。极致的比例对比，午后阳光中飘浮的施工粉尘，8K画质，照片级写实。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2010077171524456700",
+    "source": {
+      "name": "Tugser Okur",
+      "url": "https://x.com/TugserOkur/status/2010077171524456594"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "architecture",
+      "realistic"
+    ],
+    "title": "加拉塔塔建造中的3D蓝图融合场景",
+    "type": "",
+    "update_time": 1768218779105,
+    "width": 1024
+  },
+  {
+    "coverImage": "/images/2026-01-11/2010290781819695400_0.jpg",
+    "create_time": 1768125646000,
+    "description": "画面展示了一罐'MANGO TANGO JUICE'的饮料从碧蓝海水中迸发而出，周围伴有金色芒果汁和水花飞溅，悬浮着新鲜芒果、芒果丁和冰块。前景装饰以热带花卉和绿叶，背景为阳光明媚的海滩。",
+    "examples": [],
+    "height": 2400,
+    "id": "2010290781819695400",
+    "images": [
+      "/images/2026-01-11/2010290781819695400_0.jpg"
+    ],
+    "likes": 212,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A hyper-realistic commercial product photography shot of a condensation-covered beverage can labeled \"MANGO TANGO JUICE\" bursting dynamically out of crystal clear turquoise ocean water. The can is surrounded by a splash of golden mango juice and water. Levitating around the can are fresh whole mangoes, diced mango cubes, and crystal clear ice cubes. The foreground includes vibrant tropical flowers and green palm leaves framing the shot. The background features a blurred sunny tropical beach with palm trees. Bright cinematic backlighting with a sun flare, sparkling water reflections, high contrast, 8k resolution, vibrant colors.",
+      "一张超写实的商业产品摄影画面：一罐标有“MANGO TANGO JUICE”的饮料罐从清澈碧蓝的海水中动态迸发而出，罐身布满冷凝水珠。罐子周围飞溅着金色芒果汁与水花，悬浮在空中的有新鲜完整芒果、切好的芒果丁和晶莹剔透的冰块。前景以鲜艳的热带花卉和绿色棕榈叶构图，背景为虚化的阳光明媚热带海滩与棕榈树。采用明亮的电影级背光、阳光耀斑、闪烁的水面反光、高对比度、8K分辨率以及鲜艳饱满的色彩。"
+    ],
+    "ratio": "56:75",
+    "slug": "prompt-2010290781819695400",
+    "source": {
+      "name": "𝐌",
+      "url": "https://x.com/Strength04_X/status/2010290781819695350"
+    },
+    "tags": [
+      "product",
+      "photography",
+      "cinematic"
+    ],
+    "title": "超写实芒果汁饮料罐从海中迸发",
+    "type": "",
+    "width": 1792
+  },
+  {
+    "coverImage": "/images/2026-01-11/2010164626311557000_0.jpg",
+    "create_time": 1768095568000,
+    "description": "这幅插图描绘了一个男人的侧面轮廓，他的脸部和上半身覆盖着神秘的手写文字与符号。深色夹克以粗糙笔触绘制，背景仿古羊皮纸色调增添历史感。整体风格强烈、充满情感。",
+    "examples": [],
+    "height": 1248,
+    "id": "2010164626311557000",
+    "images": [
+      "/images/2026-01-11/2010164626311557000_0.jpg"
+    ],
+    "likes": 366,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A dramatic, high-impact portrait rendered in an expressive ink sketch and mixed-media illustration style, using the uploaded image for exact facial likeness and proportions. The man is shown in side profile, his presence intense and chaotic. His face and upper body are layered with cryptic handwritten text, symbols, and abstract glyphs, partially wrapping around facial contours, suggesting inner turmoil and hidden meaning.\nHe wears a dark, abstract jacket, heavily textured with rough ink strokes, sharp angular linework, and vibrant ink splatters, creating a raw, rebellious visual energy. The illustration style is bold and experimental, blending fine pen detailing with aggressive brush marks, splashes, and controlled distortion.\nThe background is a pale, aged parchment tone, featuring subtle grain, faded paper texture, delicate linework, ink drips, and light stains—evoking an old manuscript or forgotten sketchbook.\nHigh contrast, expressive composition, artistic chaos balanced with precision, editorial art meets conceptual illustration, moody, intense, and emotionally charged.",
+      "一个戏剧性的、高冲击力的肖像，以表现主义的墨水素描和混合媒介插图风格渲染，使用上传的图像以确保面部相似性和比例。男人以侧面轮廓展示，他的存在感强烈且充满混沌。他的脸部和上半身覆盖着神秘的手写文字、符号和抽象的字形，部分环绕在面部轮廓上，暗示内心的动荡和隐藏的意义。\n他穿着一件深色的抽象夹克，用粗糙的墨水笔触、锐利的角度线条和鲜艳的墨点进行重度纹理处理，创造出原始而叛逆的视觉能量。插图风格大胆且具有实验性，融合了精细的钢笔细节与激进的刷痕、泼溅和受控的扭曲。\n背景是淡雅的古旧羊皮纸色调，带有微妙的颗粒感、褪色的纸张纹理、细腻的线条、墨水滴落痕迹和轻微的污渍——唤起一种古老的手稿或被遗忘的素描本的感觉。\n高对比度，富有表现力的构图，艺术的混乱与精确相平衡，编辑艺术与概念插图相结合，气氛阴郁、强烈且情感充沛。"
+    ],
+    "ratio": "2:3",
+    "slug": "prompt-2010164626311557000",
+    "source": {
+      "name": "𝓜𝓻.𝓙𝓪𝓻𝓿𝓸",
+      "url": "https://x.com/itis_Jarvo33/status/2010164626311557219"
+    },
+    "status": 1,
+    "tags": [
+      "dramatic",
+      "black-white",
+      "illustration"
+    ],
+    "title": "全纹身高冲击力的肖像",
+    "type": "",
+    "update_time": 1768218779105,
+    "width": 832
   }
 ]

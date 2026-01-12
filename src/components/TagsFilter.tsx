@@ -30,7 +30,7 @@ const TagsFilter: React.FC<TagsFilterProps> = ({
             {/* Scrollable/Wrap Container */}
             <div
                 className={`flex-1 flex gap-2 transition-all duration-300 ${isExpanded
-                    ? 'flex-wrap'
+                    ? 'flex-wrap max-h-32 overflow-y-auto'
                     : 'overflow-x-auto pb-1 [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]'
                     }`}
             >
