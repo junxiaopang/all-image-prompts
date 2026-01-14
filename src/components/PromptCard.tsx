@@ -62,7 +62,7 @@ const PromptCard: React.FC<PromptCardProps> = ({ item, onClick, isLiked, onToggl
       <div className="p-3">
         {/* Row 1: Title & Like Button */}
         <div className="flex items-start justify-between gap-2 mb-2">
-          <h3 className="font-semibold text-gray-800 dark:text-slate-100 text-sm leading-tight pt-0.5">{item.title}</h3>
+          <h3 className="font-semibold text-gray-800 dark:text-slate-100 text-sm leading-tight pt-0.5 break-words">{item.title}</h3>
 
           <div
             className={`flex items-center gap-1 cursor-pointer transition-colors flex-shrink-0 ${isLiked ? 'text-pink-500' : 'text-gray-400 dark:text-slate-500 hover:text-pink-500 dark:hover:text-pink-400'}`}

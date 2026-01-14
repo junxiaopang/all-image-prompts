@@ -819,7 +819,7 @@ const App: React.FC = () => {
         <div className="px-4 min-h-[50vh]">
 
           {isLoading ? (
-            <div className="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-4 space-y-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
               {[...Array(12)].map((_, i) => (
                 <PromptCardSkeleton key={i} />
               ))}
@@ -827,6 +827,21 @@ const App: React.FC = () => {
           ) : filteredPrompts.length > 0 ? (
             <MasonryGrid
               items={displayedPrompts}
+              getItemHeight={(item) => {
+                const pItem = item as PromptItem;
+                if (!pItem.ratio) {
+                   // Fallback: use ID to create some height variation (pseudo-random)
+                   // to prevent "all items same height" stacking issues if Round Robin fails
+                   return (Number(pItem.id) % 2 === 0) ? 1.5 : 1; 
+                }
+                const match = String(pItem.ratio).match(/(\d+)[:x/](\d+)/);
+                if (match) {
+                  const w = parseFloat(match[1]);
+                  const h = parseFloat(match[2]);
+                  if (w > 0) return h / w;
+                }
+                return 1;
+              }}
               renderItem={(item) => (
                 <PromptCard
                   item={item}
@@ -859,7 +874,7 @@ const App: React.FC = () => {
           {filteredPrompts.length > 0 && (
             <div id="scroll-sentinel" className="w-full">
               {visibleCount < filteredPrompts.length && (
-                <div className="columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-4 space-y-4 py-4">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 py-4">
                   {[...Array(4)].map((_, i) => (
                     <PromptCardSkeleton key={i} />
                   ))}
