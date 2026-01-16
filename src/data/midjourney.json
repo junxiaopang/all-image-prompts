@@ -2978,5 +2978,101 @@
     ],
     "title": "有笨拙感的色块涂鸦",
     "update_time": 1768309068304
+  },
+  {
+    "coverImage": "/images/2026-01-12/2010792659489579086_0.jpg",
+    "create_time": 1768245303000,
+    "description": "一张由数字噪点和压缩错误勾勒出的人脸剪影，以静电感的电蓝色与霓虹粉突出扭曲形态。",
+    "id": "2010792659489579086",
+    "images": [
+      "/images/2026-01-12/2010792659489579086_0.jpg",
+      "/images/2026-01-12/2010792659489579086_1.jpg",
+      "/images/2026-01-12/2010792659489579086_2.jpg",
+      "/images/2026-01-12/2010792659489579086_3.jpg"
+    ],
+    "likes": 151,
+    "model": "midjourney-v7",
+    "prompts": [
+      "CORRUPTED SIGNAL \n\nBase prompt :\n\nA Corrupted Signal Silhouette of [SUBJECT], with outlines defined by digital noise and compression errors. Employ static-infused [COLOR1] and [COLOR2] to accentuate the distorted form\n\nCheck ALTS",
+      "A Corrupted Signal Silhouette of a human face, with outlines defined by digital noise and compression errors. Employ static-infused electric blue and neon pink to accentuate the distorted form --ar 3:2 --v 7.0 ",
+      "A Corrupted Signal Silhouette of a lion, with outlines defined by digital noise and compression errors. Employ static-infused royal gold and midnight blue to accentuate the distorted form --ar 3:2 --v 7.0",
+      "A Corrupted Signal Silhouette of a sleek sports car, with outlines defined by digital noise and compression errors. Employ static-infused bright yellow and jet black to accentuate the distorted form --ar 3:2 --v 7.0 ",
+      "A Corrupted Signal Silhouette of a violinist, with outlines defined by digital noise and compression errors. Employ static-infused emerald green and burnt orange to accentuate the distorted form --ar 3:2 --v 7.0"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2010792659489579086"
+    },
+    "status": 1,
+    "tags": [
+      "glitch",
+      "digital-art",
+      "portrait"
+    ],
+    "title": "数字噪点构成的人脸轮廓",
+    "update_time": 1768479984005
+  },
+  {
+    "coverImage": "/images/2026-01-13/2011155052329660444_0.jpg",
+    "create_time": 1768331704000,
+    "description": "一名短跑运动员以碎裂的几何粒子形式在体育场中爆开，红白对比强烈的马赛克碎片展现极速与冲击力。",
+    "id": "2011155052329660444",
+    "images": [
+      "/images/2026-01-13/2011155052329660444_0.jpg",
+      "/images/2026-01-13/2011155052329660444_1.jpg",
+      "/images/2026-01-13/2011155052329660444_2.jpg",
+      "/images/2026-01-13/2011155052329660444_3.jpg"
+    ],
+    "likes": 357,
+    "model": "midjourney-v7",
+    "prompts": [
+      "A Fractured Geo-Particle Blast composition of a sprinter, presenting the athlete in fragmented shards that explode across the stadium. Employ mosaic-like shapes in contrasting crimson red and icy white to convey a sense of forceful collision and breakneck agility --ar 3:2 --v 7.0",
+      "A Fractured Geo-Particle Blast composition of a cyclist, presenting the athlete in fragmented shards that explode across the stadium. Employ mosaic-like shapes in contrasting charcoal gray and lime green to convey a sense of forceful collision and breakneck agility --ar 3:2 --v 7.0 ",
+      "A Fractured Geo-Particle Blast composition of a rugby player, presenting the athlete in fragmented shards that explode across the stadium. Employ mosaic-like shapes in contrasting forest green and burnt orange to convey a sense of forceful collision and breakneck agility --ar 3:2 --v 7.0",
+      "A Fractured Geo-Particle Blast composition of a swimmer, presenting the athlete in fragmented shards that explode across the stadium. Employ mosaic-like shapes in contrasting frost blue and rose pink to convey a sense of forceful collision and breakneck agility --ar 3:2 --v 7.0"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2011155052329660444"
+    },
+    "status": 1,
+    "tags": [
+      "concept-art",
+      "dynamic",
+      "high-detail"
+    ],
+    "title": "碎片化的晶体碎片展现运动员形象",
+    "update_time": 1768479984006
+  },
+  {
+    "coverImage": "/images/2026-01-15/2011910359473668276_0.jpg",
+    "create_time": 1768511783000,
+    "description": "画面以极简的水墨风格描绘了一个穿着飘逸黑袍的学者坐在悬崖边缘，凝视着月亮。深靛蓝色的山峰采用柔和的波动曲线勾勒，唯一的饱和色彩是那轮苍白发光的满月。稀疏的金色秋叶点缀在岩石斜坡上，远处淡淡的孤雁剪影与层层淡蓝灰色山脉逐渐隐入浩瀚的空白之中。",
+    "id": "2011910359473668276",
+    "images": [
+      "/images/2026-01-15/2011910359473668276_0.jpg",
+      "/images/2026-01-15/2011910359473668276_1.jpg",
+      "/images/2026-01-15/2011910359473668276_2.jpg"
+    ],
+    "likes": 58,
+    "model": "midjourney",
+    "prompts": [
+      "水墨留白风，告诉AI一句诗词就可以生成具有意境的画面\n\n提示词模板：\n\nMinimal Chinese ink wash painting, extreme simplicity,\n\none small [人物姿态，例如: figure standing resolute / farmer bent over / scholar sitting] on [位置，例如: mountain ridge / cliff edge / by window], [动作细节，例如: hand gripping rope / holding hoe / gazing at moon], [服饰，例如: in flowing dark robe / wearing straw hat / military coat billowing],\n\n[主体地形，例如: sharp angular peak / floating cliff / gentle hillside] in deep indigo-black ink wash, [笔触描述，例如: bold jagged strokes / soft undulating curves / minimal single stroke],\n\n[色彩点睛，例如: one vivid crimson banner streaming in wind / pale luminous full moon / warm amber sun circle], [点睛状态，例如: the only saturated color / soft glow bleeding into void / barely visible],\n\nscattered clusters of [点缀植被，例如: burnt orange wild grass / warm coral spring blossoms / golden autumn leaves] on [植被位置，例如: the rocky slope / beside pavilion / cliff edge], sparse and [植被状态，例如: windswept / delicate / fading],\n\n[远景意象，例如: faint dragon form coiling in distant clouds / lone wild goose silhouette / whisper-thin village rooftops], subtle gray wash barely visible,\n\nendless [远景地形，例如: mountain ranges / terraced fields / river mist] receding as pale blue-gray layers, each softer and lighter, dissolving into vast white void,\n\nmassive negative space dominating [留白比例，例如: 55% / 60% / 65%] of composition, pure ivory cream [留白区域，例如: sky and mist / emptiness / surrounding void],\n\nelements floating in void, edges bleeding into white background,\n\nno busy details, [排除元素，例如: no marching army / no complex textures / no crowded scenery],\n\nwatercolor bleeding technique with soft color diffusion,\n\ncolor palette: deep indigo-black [主体] with [强调色，例如: one striking vermillion red accent / warm amber highlights / soft coral touches], [点缀色，例如: burnt orange foliage / golden grain / pink petals], pale blue-gray distance fading to cream, all saturation reduced 30% [色彩例外，例如: except the red flag at full intensity / throughout / except moonlight glow],\n\nthree-layer depth: dark bold foreground, softer midground, ethereal dissolving background,\n\nSong Dynasty aesthetic meets [意境融合，例如: revolutionary heroism / agricultural toil / lunar solitude / triumphant ambition],\n\n[情绪收尾A，例如: the calm before conquest / poetic silence / the ache of homesickness], [情绪收尾B，例如: ambition in stillness / loneliness of labor / solitary figure above the world], elegant restraint\n\n--ar [比例，例如: 3:4 / 4:5 / 9:16] --s [风格化，例如: 750 / 800] --niji 6"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "神奇小喷菇AIGC",
+      "url": "https://x.com/xpg0970/status/2011910359473668276"
+    },
+    "status": 1,
+    "tags": [
+      "chinese-style",
+      "minimalist",
+      "ink"
+    ],
+    "title": "孤独学者静观月升",
+    "update_time": 1768569690191
   }
 ]

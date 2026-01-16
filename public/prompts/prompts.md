@@ -6,12 +6,12 @@
 
 - **flux** (共 1 条): [第1页](./flux/1.md)
 
-- **gemini** (共 835 条): [第1页](./gemini/1.md) | [第2页](./gemini/2.md) | [第3页](./gemini/3.md) | [第4页](./gemini/4.md) | [第5页](./gemini/5.md) | [第6页](./gemini/6.md) | [第7页](./gemini/7.md) | [第8页](./gemini/8.md) | [第9页](./gemini/9.md)
+- **gemini** (共 852 条): [第1页](./gemini/1.md) | [第2页](./gemini/2.md) | [第3页](./gemini/3.md) | [第4页](./gemini/4.md) | [第5页](./gemini/5.md) | [第6页](./gemini/6.md) | [第7页](./gemini/7.md) | [第8页](./gemini/8.md) | [第9页](./gemini/9.md)
 
 - **grok** (共 6 条): [第1页](./grok/1.md)
 
 - ideogram (暂无内容)
 
-- **midjourney** (共 83 条): [第1页](./midjourney/1.md)
+- **midjourney** (共 86 条): [第1页](./midjourney/1.md)
 
 - **seedream** (共 368 条): [第1页](./seedream/1.md) | [第2页](./seedream/2.md) | [第3页](./seedream/3.md) | [第4页](./seedream/4.md)
