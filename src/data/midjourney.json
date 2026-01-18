@@ -3074,5 +3074,125 @@
     ],
     "title": "孤独学者静观月升",
     "update_time": 1768569690191
+  },
+  {
+    "coverImage": "/images/2026-01-16/2012213484973429000_0.jpg",
+    "create_time": 1768584054000,
+    "description": "一名义体改造的街头赛车手穿梭在琥珀与靛蓝霓虹交织的巨型城市暗巷中，周围是非法市场与隐秘交易。",
+    "examples": [],
+    "height": 896,
+    "id": "2012213484973429000",
+    "images": [
+      "/images/2026-01-16/2012213484973429000_0.jpg",
+      "/images/2026-01-16/2012213484973429000_1.jpg",
+      "/images/2026-01-16/2012213484973429000_2.jpg",
+      "/images/2026-01-16/2012213484973429000_3.jpg"
+    ],
+    "likes": 207,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A glimpse into the Neon Cyberpunk Underworld, where a seductive geisha navigates the seedy underbelly of a megacity dominated by fuchsia and chartreuse neon-lit clubs, back-alley markets, and shady dealings --ar 3:2 --v 7.0",
+      "A glimpse into the Neon Cyberpunk Underworld, where a cybernetically enhanced street racer navigates the seedy underbelly of a megacity dominated by amber and indigo neon-lit clubs, back-alley markets, and shady dealings --ar 3:2 --v 7.0",
+      "A glimpse into the Neon Cyberpunk Underworld, where a street samurai with glowing katana navigates the seedy underbelly of a megacity dominated by electric blue and hot pink neon-lit clubs, back-alley markets, and shady dealings. --ar 3:2 --v 7.0",
+      "A glimpse into the Neon Cyberpunk Underworld, where a rogue cop navigates the seedy underbelly of a megacity dominated by scarlet and silver neon-lit clubs, back-alley markets, and shady dealings --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2012213484973429000",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/i/status/2012213484973428927"
+    },
+    "status": 1,
+    "tags": [
+      "cyberpunk",
+      "neon",
+      "sci-fi"
+    ],
+    "title": "霓虹赛博朋克街 racer",
+    "type": "",
+    "update_time": 1768735003318,
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-16/2012057346243969300_0.jpg",
+    "create_time": 1768546828000,
+    "description": "一只蝠鲼游弋在发出自然荧光的珊瑚礁中，成群的鱼儿在薰衣草色与金黄色珊瑚间穿梭。",
+    "examples": [],
+    "height": 896,
+    "id": "2012057346243969300",
+    "images": [
+      "/images/2026-01-16/2012057346243969300_0.jpg",
+      "/images/2026-01-16/2012057346243969300_1.jpg",
+      "/images/2026-01-16/2012057346243969300_2.jpg",
+      "/images/2026-01-16/2012057346243969300_3.jpg"
+    ],
+    "likes": 215,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A lionfish immersed in a Coral Bloom Radiance, surrounded by underwater reefs pulsating with natural fluorescence. Feature drifting schools of fish silhouetted against indigo and coral orange coral hues --ar 3:2 --v 7.0",
+      "A manta ray immersed in a Coral Bloom Radiance, surrounded by underwater reefs pulsating with natural fluorescence. Feature drifting schools of fish silhouetted against lavender and golden yellow coral hues --ar 3:2 --v 7.0",
+      "A sea turtle immersed in a Coral Bloom Radiance, surrounded by underwater reefs pulsating with natural fluorescence. Feature drifting schools of fish silhouetted against sapphire blue and sunset orange coral hues --ar 3:2 --v 7.0",
+      "A sunken statue immersed in a Coral Bloom Radiance, surrounded by underwater reefs pulsating with natural fluorescence. Feature drifting schools of fish silhouetted against crimson red and teal coral hues --ar 3:2 --v 7.0 - Image #3 @Ludovic\nImage"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2012057346243969300",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/i/status/2012057346243969265"
+    },
+    "status": 1,
+    "tags": [
+      "nature",
+      "underwater",
+      "colorful"
+    ],
+    "title": "荧光珊瑚中的蝠鲼",
+    "type": "",
+    "update_time": 1768735003320,
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-15/2011879823375757800_0.jpg",
+    "create_time": 1768504503000,
+    "description": "一位女巫从泛着蓝光的霓虹蒸汽中缓缓浮现，雾气缭绕间夹杂着红宝石般的光点，形成幽灵般的立体轮廓。",
+    "examples": [],
+    "height": 896,
+    "id": "2011879823375757800",
+    "images": [
+      "/images/2026-01-15/2011879823375757800_0.jpg",
+      "/images/2026-01-15/2011879823375757800_1.jpg",
+      "/images/2026-01-15/2011879823375757800_2.jpg",
+      "/images/2026-01-15/2011879823375757800_3.jpg"
+    ],
+    "likes": 205,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Ghostly Samurai emerging from a Neon Vapor Apparition, where luminous mist forms ethereal shapes. Glowing Crimson Red vapor trails swirl with Silver light particles, creating ghostly dimensional forms --ar 3:2 --v 7.0",
+      "Witch emerging from a Neon Vapor Apparition, where luminous mist forms ethereal shapes. Glowing blue vapor trails swirl with ruby light particles, creating ghostly dimensional forms --ar 3:2 --v 7.0",
+      "Lion emerging from a Neon Vapor Apparition, where luminous mist forms ethereal shapes. Glowing Teal vapor trails swirl with Copper light particles, creating ghostly dimensional forms --ar 3:2 --v 7.0",
+      "A cybernetic angel emerging from a Neon Vapor Apparition, where luminous mist forms ethereal shapes. Glowing teal vapor trails swirl with gold light particles, creating ghostly dimensional forms --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2011879823375757800",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/i/status/2011879823375757792"
+    },
+    "status": 1,
+    "tags": [
+      "neon",
+      "fantasy",
+      "cinematic"
+    ],
+    "title": "霓虹蒸汽中的身影",
+    "type": "",
+    "update_time": 1768735003320,
+    "width": 1344
   }
 ]

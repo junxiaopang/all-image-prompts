@@ -208,5 +208,174 @@
     "status": 1,
     "create_time": 1767064062000,
     "update_time": 1767100095279
+  },
+  {
+    "coverImage": "/images/2026-01-17/2012329997714010260_cover.jpg",
+    "create_time": 1768611829000,
+    "description": "在这张超写实的黑白影棚人像中，光头男子身穿深色长袖衬衫，特写构图突出了他的面部和上半身。左腕佩戴编织皮革手链，而右半脸及右手被狮子面部细节所覆盖，毛发逼真，形成了人与兽的视觉融合。",
+    "id": "2012329997714010260",
+    "images": [
+      "/images/2026-01-17/2012329997714010260_0.jpg"
+    ],
+    "likes": 273,
+    "model": "grok-2",
+    "prompts": [
+      "A hyper-realistic, 8k black and white studio portrait shot at eye-level with a 50mm lens, featuring a person with a shaved head, wearing a dark long-sleeved shirt. The composition is a close-up, centered on the subject's head and upper torso against a pure white, seamless background, illuminated by soft, high-key cinematic lighting that emphasizes highly detailed textures and creates minimal shadows. The subject's left hand gently cups the left side of their face, while their right hand covers the right side. On the left wrist, multiple braided leather bracelets are visible, one with a small circular charm. The image incorporates a surreal, digitally composited effect: the entire right half of the subject's face, from the bridge of the nose outwards, and their right hand, are seamlessly overlaid with the highly detailed features of a lion's face, including realistic fur, prominent whiskers, and a visible lion's eye peering through the fingers of the right hand. The lion's fur texture extends down the subject's right arm, creating a striking visual fusion between human and animal. uploaded face as reference.",
+      "一张超写实、8K黑白影棚人像，使用50mm镜头在眼部高度拍摄。人物光头，身穿深色长袖衬衫，构图为特写，主体头部与上半身居中，背景为纯白无缝背景。采用柔和的高调电影灯光照明，强调极度细腻的纹理，阴影极淡。人物左手轻托左脸颊，右手覆盖右脸颊；左腕佩戴多条编织皮革手链，其中一条带有小巧的圆形吊坠。画面包含一种超现实的数字合成效果：从鼻梁向右的整个右半张脸及右手，无缝叠加了狮子面部的精细细节，包括逼真的毛发、突出的胡须，以及一只狮子的眼睛透过右手手指凝视前方。狮子的毛发纹理沿人物右臂向下延伸，形成人与兽之间强烈的视觉融合。上传人脸作为参考。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Mr. Tariq",
+      "url": "https://x.com/AiWithTariq/status/2012329997714010260"
+    },
+    "status": 1,
+    "tags": [
+      "black-white",
+      "portrait",
+      "cinematic"
+    ],
+    "title": "光与影的交错：人像中的狮面",
+    "update_time": 1768736650827
+  },
+  {
+    "coverImage": "/images/2026-01-15/2011840235731370200_0.jpg",
+    "create_time": 1768495065000,
+    "description": "这幅作品以温馨秋冬季为背景，展现了多位风格化年轻女孩的3D形象。她们穿着色彩缤纷的冬季服装，夸张的大眼睛和柔和的面部特征增强了角色的可爱感。电影级柔光效果与细腻的皮肤渲染突显了高写实风格，背景采用暖棕色，整体氛围愉悦而俏皮。",
+    "examples": [],
+    "height": 1308,
+    "id": "2011840235731370200",
+    "images": [
+      "/images/2026-01-15/2011840235731370200_0.jpg"
+    ],
+    "likes": 70,
+    "model": "grok-2",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A cozy, whimsical 3D animated character collage featuring multiple stylized young girls with oversized expressive eyes and soft rounded facial features, inspired by modern Pixar–Disney aesthetics. Each character wears warm, oversized knit sweaters, fluffy jackets, hoodies, and colorful winter outfits with detailed fabric textures. Soft pastel and earthy tones, rainbow knits, freckles, rosy cheeks, playful hairstyles, headphones, glasses, and cute accessories. Cozy autumn–winter vibe, wholesome and joyful expressions, cinematic soft lighting, shallow depth of field, ultra-detailed fur and fabric, smooth skin shading, high realism stylized 3D render, warm brown background, aesthetic Instagram mood, 4K quality.",
+      "一个温馨而充满奇趣的3D动画角色拼贴画，描绘多位风格化的年轻女孩，拥有夸张的表现力十足的大眼睛和柔和圆润的面部特征，灵感源自现代皮克斯–迪士尼美学。每位角色都穿着温暖宽松的针织毛衣、蓬松夹克、连帽衫以及色彩缤纷的冬季服装，布料纹理细节丰富。整体采用柔和的粉彩色与大地色系，包括彩虹条纹针织、雀斑、红润脸颊、俏皮发型，以及耳机、眼镜和可爱配饰。氛围呈现秋冬季的温馨感，表情纯真愉悦，采用电影级柔光、浅景深效果，毛发与织物细节极为精致，皮肤渲染光滑细腻，为高写实风格的3D渲染作品，背景为暖棕色，具有Instagram美学氛围，4K画质。"
+    ],
+    "ratio": "184:327",
+    "slug": "prompt-2011840235731370200",
+    "source": {
+      "name": "Noor 🌸",
+      "url": "https://x.com/i/status/2011840235731370162"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "animation",
+      "fashion"
+    ],
+    "title": "3D动画角色拼贴画",
+    "type": "",
+    "update_time": 1768735003318,
+    "width": 736
+  },
+  {
+    "coverImage": "/images/2026-01-17/2012329979577532700_0.jpg",
+    "create_time": 1768611829000,
+    "description": "在纯白背景中，一张巨大写实的男性侧脸仰头张嘴，一只巨手捏着微小人形倒悬其上，形成怪诞的吞噬画面。",
+    "examples": [],
+    "height": 1248,
+    "id": "2012329979577532700",
+    "images": [
+      "/images/2026-01-17/2012329979577532700_0.jpg"
+    ],
+    "likes": 272,
+    "model": "grok-2",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A striking, surrealist black-and-white conceptual photograph featuring a dramatic play on scale and forced perspective against a stark, infinite pure white background. In the lower quadrant, a massive, hyper-realistic profile of a man—using the uploaded face as reference—is tilted back with eyes closed and mouth gaping wide open in an expression of anticipation, showcasing high-fidelity skin textures, individual beard hairs, and detailed pores. Descending from the top right corner, an enormous, disembodied hand, rendered with intense dermatological detail and wearing braided wristbands, pinches the ankles of a miniature human figure between the thumb and forefinger. This tiny, helpless figure, dressed in dark casual clothing, dangles upside down in freefall, arms outstretched downwards, perfectly aligned to be dropped directly into the giant open mouth below. The image utilizes high-contrast monochrome grading, sharp focus, and seamless compositing to create a bizarre, dreamlike self-consumption narrative, rendered in 8k resolution with the clarity of a high-end studio portrait.",
+      "一幅引人注目的超现实主义黑白概念摄影作品，以强烈的尺度对比和强制透视手法呈现于一片纯净无垠的纯白背景之上。画面下方四分之一处，一个巨大、高度写实的男性侧面肖像（参考上传的人脸）仰头后倾，双眼紧闭，嘴巴大张，流露出期待的表情，皮肤纹理、胡须根根分明，毛孔细节清晰可见。从右上角垂下一只巨大而无身体的手，皮肤细节极其逼真，手腕佩戴编织手环，拇指与食指捏住一名微小人形的脚踝。这个身穿深色休闲服装的微小人物无助地倒悬在空中，双臂向下伸展，正精准对准下方巨口，仿佛即将被投入其中。整幅图像采用高对比度黑白影调、锐利对焦与无缝合成技术，营造出一种怪诞而梦幻的自我吞噬叙事，以8K分辨率呈现，具有高端影棚人像般的极致清晰度。"
+    ],
+    "ratio": "53:78",
+    "slug": "prompt-2012329979577532700",
+    "source": {
+      "name": "Mr. Tariq",
+      "url": "https://x.com/i/status/2012329979577532686"
+    },
+    "status": 1,
+    "tags": [
+      "black-white",
+      "concept-art",
+      "photography"
+    ],
+    "title": "超现实主义黑白概念摄影作品",
+    "type": "",
+    "update_time": 1768735003319,
+    "width": 848
+  },
+  {
+    "coverImage": "/images/2026-01-17/2012350843656552700_0.jpg",
+    "create_time": 1768616803000,
+    "description": "这幅作品描绘了一位拥有夸张大眼睛和丰富发丝细节的年轻女孩，她穿着黄白配色的温馨服装，背景为纯净单色黄色，整个场景充满了欢快的情绪和电影级效果。",
+    "examples": [],
+    "height": 1288,
+    "id": "2012350843656552700",
+    "images": [
+      "/images/2026-01-17/2012350843656552700_0.jpg",
+      "/images/2026-01-17/2012350843656552700_1.jpg"
+    ],
+    "likes": 145,
+    "model": "grok-2",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A high-quality 3D cartoon-style character of a cheerful young girl with expressive oversized eyes and soft facial features, rendered in a Pixar/Disney-inspired aesthetic. She has long, wavy blonde hair with detailed strands, wearing round oversized glasses and a cozy yellow-and-white outfit. The character is dressed in a yellow hoodie layered with a textured jacket, white cargo pants, and chunky sneakers. Accessories include a beanie hat and playful glasses matching the warm color palette. The pose is energetic and expressive—either mid-jump with arms raised in excitement or standing confidently with crossed arms and a surprised, curious expression. Clean monochrome yellow background, soft studio lighting, smooth clay-like textures, ultra-detailed clothing fabric, vibrant colors, joyful mood, cinematic depth of field, 4K resolution, modern stylized 3D illustration.",
+      "一位开朗的年轻女孩的高质量3D卡通风格角色，具有夸张的大眼睛和柔和的面部特征，采用皮克斯/迪士尼风格美学。她拥有长长的波浪金发，发丝细节丰富，戴着圆形大眼镜，身穿温馨的黄白配色服装：黄色连帽衫外搭一件有质感的夹克，搭配白色工装裤和厚底运动鞋。配饰包括一顶针织帽和与整体暖色调相协调的趣味眼镜。姿势充满活力且富有表现力——或是在兴奋地跳跃、双臂高举，或是自信地站立、双臂交叉，脸上带着惊讶而好奇的表情。背景为纯净的单色黄色，采用柔光影棚照明，具有光滑的黏土质感、超精细的服装布料细节、鲜艳的色彩、欢快的情绪、电影级景深效果，4K分辨率，现代风格化3D插画。"
+    ],
+    "ratio": "4:7",
+    "slug": "prompt-2012350843656552700",
+    "source": {
+      "name": "Noor 🌸",
+      "url": "https://x.com/i/status/2012350843656552643"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cartoon",
+      "cinematic"
+    ],
+    "title": "开朗女孩的3D卡通形象",
+    "type": "",
+    "update_time": 1768735003319,
+    "width": 736
+  },
+  {
+    "coverImage": "/images/2026-01-17/2012433071652668000_0.jpg",
+    "create_time": 1768636408000,
+    "description": "一个3D风格化卡通角色站在橙色背景前，穿着蓬松彩虹条纹运动套装，表情宁静且自信。大白色耳机和透明圆框眼镜增加了角色的现代感，脚下是白色极简品牌标识厚底鞋。",
+    "examples": [],
+    "height": 1313,
+    "id": "2012433071652668000",
+    "images": [
+      "/images/2026-01-17/2012433071652668000_0.jpg"
+    ],
+    "likes": 135,
+    "model": "grok",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt ⤵️\nA stylized 3D cartoon character standing confidently against a solid orange background, wearing a fluffy rainbow-striped tracksuit with a zip-up jacket and matching pants. The texture is ultra-soft and furry, with vibrant pastel colors (pink, green, yellow, orange). The character has a cute, rounded face, closed eyes, and a calm expression. Hair is tied in a messy bun. Wearing oversized white headphones and large round transparent glasses. White chunky sneakers with minimal branding. Pixar-style proportions, soft lighting, smooth gradients, high detail, cinematic studio render, shallow depth of field, ultra-clean composition, modern aesthetic, 8K quality.",
+      "一个风格化的3D卡通角色自信地站在纯橙色背景前，身穿蓬松的彩虹条纹运动套装，包括拉链夹克和配套长裤。材质超柔软且毛茸茸，色彩为鲜艳的粉彩色调（粉色、绿色、黄色、橙色）。角色拥有可爱的圆润脸庞、闭着的眼睛和宁静的表情，头发扎成一个凌乱的发髻。佩戴超大白色耳机和大型透明圆框眼镜，脚穿白色厚底运动鞋，鞋面仅有极简品牌标识。角色采用皮克斯风格的比例，配以柔光照明、平滑渐变、高细节表现，呈现电影级工作室渲染效果，浅景深、构图极简干净，具有现代美学风格，8K画质。"
+    ],
+    "ratio": "736:1313",
+    "slug": "prompt-2012433071652668000",
+    "source": {
+      "name": "Noor 🌸",
+      "url": "https://x.com/i/status/2012433071652667872"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cartoon",
+      "cinematic"
+    ],
+    "title": "自信的彩虹运动者",
+    "type": "",
+    "update_time": 1768735003320,
+    "width": 736
   }
 ]

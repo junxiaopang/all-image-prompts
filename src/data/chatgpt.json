@@ -11335,5 +11335,43 @@
     "type": "",
     "update_time": 1768218779105,
     "width": 1024
+  },
+  {
+    "coverImage": "/images/2026-01-17/2012437899955097900_0.jpg",
+    "create_time": 1768637559000,
+    "description": "这是一系列高细节3D渲染图像，展现了三位不同装扮和表情的卡通女性。每个角色都有独特的服饰和背景颜色，从绿色调到红色调，再到温馨的红橙色调，体现了多样化的个性。",
+    "examples": [],
+    "height": 1536,
+    "id": "2012437899955097900",
+    "images": [
+      "/images/2026-01-17/2012437899955097900_0.jpg",
+      "/images/2026-01-17/2012437899955097900_1.jpg",
+      "/images/2026-01-17/2012437899955097900_2.jpg",
+      "/images/2026-01-17/2012437899955097900_3.jpg"
+    ],
+    "likes": 342,
+    "model": "gpt-5",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "New algo test. That’s it\n\nCreated by ChatGPT image 1.5 ✨\n\nPrompt :\n{\n  \"global_settings\": {\n    \"resolution\": \"8K\",\n    \"quality\": \"ultra-high definition\",\n    \"aspect_ratio\": \"2:3\",\n    \"render_style\": \"AI-edited, high-detail 3D render\",\n    \"lighting_quality\": \"soft studio lighting with realistic shadows\",\n    \"sharpness\": \"extreme clarity, crisp edges\",\n    \"noise\": \"none\",\n    \"compression\": \"none\"\n  },\n\n  \"Module_1_Image_1_Style\": {\n    \"subject\": {\n      \"character_type\": \"stylized 3D cartoon female\",\n      \"pose\": \"standing, body slightly angled, one hand raised with index finger touching lips\",\n      \"expression\": \"cheerful smile, wide eyes\",\n      \"hair\": {\n        \"color\": \"black\",\n        \"style\": \"two braided pigtails\",\n        \"accessories\": \"green cap\"\n      },\n      \"face\": {\n        \"eyes\": \"large, rounded, dark pupils\",\n        \"skin\": \"smooth, matte, stylized texture\"\n      }\n    },\n    \"clothing\": {\n      \"top\": \"sleeveless green crop top\",\n      \"bottom\": \"loose green jogger-style pants with drawstring\",\n      \"footwear\": \"white sneakers\"\n    },\n    \"accessories\": {\n      \"luggage\": \"green hard-shell suitcase with extended handle\"\n    },\n    \"color_palette\": [\n      \"multiple shades of green\",\n      \"white accents\"\n    ],\n    \"background\": {\n      \"color\": \"solid green\",\n      \"texture\": \"soft, slightly grainy studio backdrop\"\n    },\n    \"composition\": {\n      \"framing\": \"full body\",\n      \"camera_angle\": \"eye-level\",\n      \"depth\": \"subject sharply separated from background\"\n    }\n  },\n\n  \"Module_2_Image_2_Style\": {\n    \"subject\": {\n      \"character_type\": \"stylized 3D cartoon female\",\n      \"pose\": \"leaning slightly backward against background\",\n      \"expression\": \"playful, lips slightly pursed, eyes looking sideways\",\n      \"hair\": {\n        \"color\": \"brown\",\n        \"style\": \"short, tousled\",\n        \"accessories\": \"red sunglasses resting on head\"\n      }\n    },\n    \"clothing\": {\n      \"dress\": \"form-fitting blue ribbed dress with thin straps\",\n      \"footwear\": \"red high-heel sandals with bow detail\"\n    },\n    \"color_palette\": [\n      \"bold red\",\n      \"deep blue\"\n    ],\n    \"background\": {\n      \"color\": \"solid red\",\n      \"texture\": \"smooth matte surface\"\n    },\n    \"lighting\": {\n      \"direction\": \"soft directional light from one side\",\n      \"shadow\": \"defined shadow cast on red background\"\n    },\n    \"composition\": {\n      \"framing\": \"full body\",\n      \"pose_emphasis\": \"curved posture, crossed legs\"\n    }\n  },\n\n  \"Module_3_Image_3_Style\": {\n    \"subject\": {\n      \"characters\": [\n        {\n          \"type\": \"stylized 3D cartoon female\",\n          \"position\": \"left\",\n          \"wrapped_in\": \"red textured blanket\",\n          \"expression\": \"calm, slight smile, eyes looking upward\"\n        },\n        {\n          \"type\": \"stylized 3D cartoon male\",\n          \"position\": \"right\",\n          \"wrapped_in\": \"orange textured blanket\",\n          \"expression\": \"neutral, gentle gaze upward\"\n        }\n      ]\n    },\n    \"environment\": {\n      \"furniture\": \"red sofa\",\n      \"floor\": \"red surface\",\n      \"background\": {\n        \"color\": \"deep red\",\n        \"texture\": \"fabric-like horizontal texture\"\n      }\n    },\n    \"details\": {\n      \"feet\": \"female barefoot, male wearing socks\",\n      \"blanket_texture\": \"thick, knitted fabric\"\n    },\n    \"composition\": {\n      \"framing\": \"centered, medium-wide shot\",\n      \"symmetry\": \"balanced left and right composition\"\n    }\n  },",
+      "新算法测试。就是这样\n\n由ChatGPT图像1.5创建 ✨\n\n提示词：\n{\n  \"全局设置\": {\n    \"分辨率\": \"8K\",\n    \"质量\": \"超高清\",\n    \"纵横比\": \"2:3\",\n    \"渲染风格\": \"AI编辑的高细节3D渲染\",\n    \"照明质量\": \"柔和的工作室灯光与逼真的阴影\",\n    \"清晰度\": \"极致清晰，锐利边缘\",\n    \"噪点\": \"无\",\n    \"压缩\": \"无\"\n  },\n\n  \"模块_1_图像_1_风格\": {\n    \"主体\": {\n      \"角色类型\": \"风格化的3D卡通女性\",\n      \"姿势\": \"站立，身体稍微倾斜，一只手抬起用食指触碰嘴唇\",\n      \"表情\": \"欢快的笑容，大眼睛\",\n      \"头发\": {\n        \"颜色\": \"黑色\",\n        \"样式\": \"两条编成辫子的小尾巴\",\n        \"配饰\": \"绿色帽子\"\n      },\n      \"脸部\": {\n        \"眼睛\": \"大而圆，瞳孔较暗\",\n        \"皮肤\": \"光滑，哑光，风格化纹理\"\n      }\n    },\n    \"服装\": {\n      \"上衣\": \"无袖绿色紧身背心\",\n      \"下装\": \"宽松带抽绳的绿色运动裤\",\n      \"鞋子\": \"白色运动鞋\"\n    },\n    \"配件\": {\n      \"行李\": \"绿色硬壳手提箱，拉杆伸出\"\n    },\n    \"色彩搭配\": [\n      \"多种深浅不同的绿色\",\n      \"白色点缀\"\n    ],\n    \"背景\": {\n      \"颜色\": \"纯绿色\",\n      \"质感\": \"柔软，略带颗粒感的工作室背景布\"\n    },\n    \"构图\": {\n      \"取景\": \"全身\",\n      \"相机角度\": \"平视\",\n      \"景深\": \"主体与背景明显分离\"\n    }\n  },\n\n  \"模块_2_图像_2_风格\": {\n    \"主体\": {\n      \"角色类型\": \"风格化的3D卡通女性\",\n      \"姿势\": \"轻轻向后靠在背景上\",\n      \"表情\": \"俏皮，嘴唇微微噘起，眼神侧视\",\n      \"头发\": {\n        \"颜色\": \"棕色\",\n        \"样式\": \"短卷发\",\n        \"配饰\": \"红色太阳镜搁置在头上\"\n      }\n    },\n    \"服装\": {\n      \"连衣裙\": \"贴身蓝色肋纹连衣裙，细肩带\",\n      \"鞋子\": \"红色高跟凉鞋，有蝴蝶结装饰\"\n    },\n    \"色彩搭配\": [\n      \"大胆的红色\",\n      \"深邃的蓝色\"\n    ],\n    \"背景\": {\n      \"颜色\": \"纯红色\",\n      \"质感\": \"平滑哑光表面\"\n    },\n    \"照明\": {\n      \"方向\": \"从一侧来的柔和定向光\",\n      \"阴影\": \"在红色背景上的明确投影\"\n    },\n    \"构图\": {\n      \"取景\": \"全身\",\n      \"姿势强调\": \"弯曲的姿态，交叉双腿\"\n    }\n  },\n\n  \"模块_3_图像_3_风格\": {\n    \"主体\": {\n      \"角色\": [\n        {\n          \"类型\": \"风格化的3D卡通女性\",\n          \"位置\": \"左侧\",\n          \"包裹在\": \"红色纹理毛毯里\",\n          \"表情\": \"平静，轻微微笑，眼睛向上看\"\n        },\n        {\n          \"类型\": \"风格化的3D卡通男性\",\n          \"位置\": \"右侧\",\n          \"包裹在\": \"橙色纹理毛毯里\",\n          \"表情\": \"中性，温柔地向上注视\"\n        }\n      ]\n    },\n    \"环境\": {\n      \"家具\": \"红色沙发\",\n      \"地面\": \"红色表面\",\n      \"背景\": {\n        \"颜色\": \"深红色\",\n        \"质感\": \"类似织物的横向纹理\"\n      }\n    },\n    \"细节\": {\n      \"脚部\": \"女性赤脚，男性穿袜子\",\n      \"毛毯质感\": \"厚实针织面料\"\n    },\n    \"构图\": {\n      \"取景\": \"居中，中等广角拍摄\",\n      \"对称性\": \"左右平衡的构图\"\n    }\n  },\n}"
+    ],
+    "ratio": "2:3",
+    "slug": "prompt-2012437899955097900",
+    "source": {
+      "name": "ShaHid WaNii",
+      "url": "https://x.com/i/status/2012437899955097836"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cartoon",
+      "colorful"
+    ],
+    "title": "多彩风格的3D卡通女性",
+    "type": "",
+    "update_time": 1768735003319,
+    "width": 1024
   }
 ]
