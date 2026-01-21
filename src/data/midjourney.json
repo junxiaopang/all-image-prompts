@@ -3194,5 +3194,133 @@
     "type": "",
     "update_time": 1768735003320,
     "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-18/2012844208860848466_0.jpg",
+    "create_time": 1768734430000,
+    "description": "这张高度精细的3D浅浮雕风格海报，以纯白色单色黏土效果展现了[CITY_NAME]的标志性建筑与繁忙交通网络。顶部配以大型凸起英文地名，整体设计干净利落，充满商业气息。",
+    "id": "2012844208860848466",
+    "images": [
+      "/images/2026-01-18/2012844208860848466_0.jpg",
+      "/images/2026-01-18/2012844208860848466_1.jpg"
+    ],
+    "likes": 43,
+    "model": "midjourney",
+    "prompts": [
+      "​A highly detailed 3D bas-relief poster design representing [CITY_NAME]. A dense collage composition featuring the most iconic landmarks and skyline of [CITY_NAME]. Foreground filled with local transportation systems, busy highway networks with miniature cars, and native vegetation. At the top, features prominent, large, embossed English text in capital letters spelling out the name of the location. Pure white monochromatic clay render, embossed paper texture, soft studio lighting, high visual density, clean commercial illustration style. --ar 1:2",
+      "一幅高度精细的3D浅浮雕风格海报设计，展现[CITY_NAME]。构图密集，融合了[CITY_NAME]最具标志性的地标建筑与天际线。前景布满当地交通系统、繁忙的高速公路网（配有微型汽车）以及本土植被。顶部以醒目、大型、凸起的英文大写字母呈现地名。整体采用纯白色单色黏土渲染效果，带有浮雕纸张纹理，辅以柔和的影棚灯光，视觉密度高，风格为干净利落的商业插画。--ar 1:2"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "两斤",
+      "url": "https://x.com/0x00_Krypt/status/2012844208860848466"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "architecture",
+      "high-detail"
+    ],
+    "title": "白色浮雕风格的[CITY_NAME]城市天际线",
+    "update_time": 1768825564718
+  },
+  {
+    "coverImage": "/images/2026-01-18/2012892178251407514_0.jpg",
+    "create_time": 1768745867000,
+    "description": "稚拙涂鸦风的可爱怪物角色，充满童趣与现代故事书气息，适合儿童图书与周边。",
+    "id": "2012892178251407514",
+    "images": [
+      "/images/2026-01-18/2012892178251407514_0.jpg",
+      "/images/2026-01-18/2012892178251407514_1.jpg",
+      "/images/2026-01-18/2012892178251407514_2.jpg",
+      "/images/2026-01-18/2012892178251407514_3.jpg"
+    ],
+    "likes": 265,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Whenever I find a style reference for children’s book illustration, it makes my day:\n\n--sref 3145484278\n\nThis style could be described as naïve children’s illustration or doodle cartoon.\n\nIt has a strong modern storybook influence, widely used in kids’ books, stickers, and merchandising.\n\nWhat really stands out are those kawaii monster characters.\n\nHope you enjoy it!",
+      "每当我找到儿童绘本插画的风格参考，都会让我一整天心情愉悦：\n\n--sref 3145484278\n\n这种风格可被描述为稚拙风儿童插画或涂鸦卡通。\n\n它具有强烈的现代故事书风格，广泛用于儿童图书、贴纸和周边商品。\n\n最引人注目的是那些可爱风的怪物角色。\n\n希望你喜欢！"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "OscarAI",
+      "url": "https://x.com/Artedeingenio/status/2012892178251407514"
+    },
+    "status": 1,
+    "tags": [
+      "children_book",
+      "cute",
+      "cartoon"
+    ],
+    "title": "可爱怪物的儿童绘本插画",
+    "update_time": 1768906402666
+  },
+  {
+    "coverImage": "/images/2026-01-20/2013566446333530318_0.jpg",
+    "create_time": 1768906625000,
+    "description": "一位用黏土制作的超级英雄，以定格动画风格呈现，双拳高举，摆出英勇飞行的姿态，仿佛下一秒就要腾空而起。",
+    "id": "2013566446333530318",
+    "images": [
+      "/images/2026-01-20/2013566446333530318_0.jpg",
+      "/images/2026-01-20/2013566446333530318_1.jpg",
+      "/images/2026-01-20/2013566446333530318_2.jpg",
+      "/images/2026-01-20/2013566446333530318_3.jpg"
+    ],
+    "likes": 268,
+    "model": "midjourney-v7",
+    "prompts": [
+      "share: Clay style\n\nPrompt:\nA claymation-style [subject], sculpted with visible fingerprints and subtle handmade imperfections. The character is [action], with a joyful expression and soft stop-motion charm. No background or props focus on the character in motion.\n\nCheck ATLs for inspiration",
+      "A claymation-style superhero, modeled in a stop-motion-friendly build. The character is striking a proud flying pose, fists raised, ready to leap. --ar 3:2 --v 7",
+      "A claymation-style musician, crafted from clay in soft plum and rose tones. The character gently mimics playing an invisible violin with closed eyes and a dreamy smile. --ar 3:2 --v 7",
+      "A claymation-style dancer, handmade with pale coral and dusty pink clay. The character twirls on one foot, arms extended, a light-hearted expression on its face. --ar 3:2 --v 7",
+      "A claymation-style pirate, handmade with a slightly uneven texture. The character is pretending to look through a telescope, swaying side to side in play. --ar 3:2 --v 7"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2013566446333530318"
+    },
+    "status": 1,
+    "tags": [
+      "clay",
+      "animation",
+      "character"
+    ],
+    "title": "黏土动画风格的超级英雄",
+    "update_time": 1768996425400
+  },
+  {
+    "coverImage": "/images/2026-01-19/2013329382299885839_0.jpg",
+    "create_time": 1768850105000,
+    "description": "A bold, vibrant portrait of Superman in classic pop art style, featuring thick outlines, flat primary colors, and Ben-Day dot patterns.",
+    "id": "2013329382299885839",
+    "images": [
+      "/images/2026-01-19/2013329382299885839_0.jpg",
+      "/images/2026-01-19/2013329382299885839_1.jpg",
+      "/images/2026-01-19/2013329382299885839_2.jpg",
+      "/images/2026-01-19/2013329382299885839_3.jpg"
+    ],
+    "likes": 192,
+    "model": "midjourney-v7",
+    "prompts": [
+      "A Pop Art Punchline Power portrait of [SUPERHERO/SUPERVILLAIN], with bold outlines, flat colors, and Ben-Day dot patterns. Use a vibrant and eye-catching palette of [COLOR1], [COLOR2], and [COLOR3] to create a dynamic and iconic image.",
+      "A Pop Art Punchline Power portrait of Superman, with bold outlines, flat colors, and Ben-Day dot patterns. Use a vibrant and eye-catching palette of primary red, royal blue, and solar yellow to create a dynamic and iconic image --ar 3:2 --v 7.0",
+      "A Pop Art Punchline Power portrait of Harley Quinn, with bold outlines, flat colors, and Ben-Day dot patterns. Use a vibrant and eye-catching palette of pink, black, and white to create a dynamic and iconic image --ar 3:2 --v 7.0",
+      "A Pop Art Punchline Power portrait of Batman, with bold outlines, flat colors, and Ben-Day dot patterns. Use a vibrant and eye-catching palette of jet black, neon yellow, and electric blue to create a dynamic and iconic image --ar 3:2 --v 7.0",
+      "A Pop Art Punchline Power portrait of The Joker, with bold outlines, flat colors, and Ben-Day dot patterns. Use a vibrant and eye-catching palette of toxic green, royal purple, and blood red to create a dynamic and iconic image --ar 3:2 --v 7.0"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2013329382299885839"
+    },
+    "status": 1,
+    "tags": [
+      "pop-art",
+      "portrait",
+      "comic"
+    ],
+    "title": "波普风格超级英雄",
+    "update_time": 1768996425400
   }
 ]

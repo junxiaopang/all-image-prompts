@@ -377,5 +377,64 @@
     "type": "",
     "update_time": 1768735003320,
     "width": 736
+  },
+  {
+    "coverImage": "/images/2026-01-17/2012433071652667872_0.jpg",
+    "create_time": 1768636408000,
+    "description": "在这个画面中，一个可爱的3D卡通角色穿着蓬松的彩虹条纹运动套装站在橙色背景下，显得格外自信。角色配有超大白色耳机和透明圆形眼镜，脚穿白色厚底运动鞋。整个形象采用皮克斯风格的比例，柔和光线和平滑渐变使其看起来更加生动。",
+    "id": "2012433071652667872",
+    "images": [
+      "/images/2026-01-17/2012433071652667872_0.jpg"
+    ],
+    "likes": 158,
+    "model": "grok-2",
+    "prompts": [
+      "A stylized 3D cartoon character standing confidently against a solid orange background, wearing a fluffy rainbow-striped tracksuit with a zip-up jacket and matching pants. The texture is ultra-soft and furry, with vibrant pastel colors (pink, green, yellow, orange). The character has a cute, rounded face, closed eyes, and a calm expression. Hair is tied in a messy bun. Wearing oversized white headphones and large round transparent glasses. White chunky sneakers with minimal branding. Pixar-style proportions, soft lighting, smooth gradients, high detail, cinematic studio render, shallow depth of field, ultra-clean composition, modern aesthetic, 8K quality.",
+      "一个风格化的3D卡通角色自信地站在纯橙色背景前，身穿蓬松的彩虹条纹运动套装，包括拉链夹克和配套长裤。材质超柔软且毛茸茸，色彩为鲜艳的粉彩色调（粉色、绿色、黄色、橙色）。角色拥有可爱的圆润脸庞、闭着的眼睛和宁静的表情，头发扎成一个凌乱的发髻。佩戴超大白色耳机和大号透明圆形眼镜，脚穿白色厚底运动鞋，鞋面仅有极简品牌标识。角色采用皮克斯风格的比例，配以柔和光线、平滑渐变、高细节表现，呈现电影级工作室渲染效果，浅景深、构图极为干净，具有现代美学风格，8K画质。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2012433071652667872"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cartoon",
+      "cinematic"
+    ],
+    "title": "自信的彩虹运动装角色",
+    "update_time": 1768825564717
+  },
+  {
+    "coverImage": "/images/2026-01-19/2013100461835075724_0.jpg",
+    "create_time": 1768795526000,
+    "description": "这幅插画展示了四位风格各异的现代女孩，她们以不同的服装和情绪呈现。从时尚的浅粉色蓬松夹克到明亮黄色开衫，再到宽松红色连帽衫及短款夹克配裙子的造型，每个角色都拥有光滑塑料质感的皮肤、柔和圆润的面部轮廓以及大而富有表现力的眼睛。",
+    "id": "2013100461835075724",
+    "images": [
+      "/images/2026-01-19/2013100461835075724_0.jpg",
+      "/images/2026-01-19/2013100461835075724_1.jpg",
+      "/images/2026-01-19/2013100461835075724_2.jpg",
+      "/images/2026-01-19/2013100461835075724_3.jpg"
+    ],
+    "likes": 462,
+    "model": "grok-2",
+    "prompts": [
+      "Ultra-high-quality 3D stylized character illustration, Pixar-inspired but original, featuring a cute modern girl character series. Smooth plastic-like skin, soft rounded facial features, big expressive eyes, small nose, subtle blush, cozy aesthetic.\nThe character appears in multiple outfits and moods:\n– pastel pink fluffy jacket with joggers and sneakers, wearing round glasses and headphones, calm and stylish pose\n– bright yellow cardigan with playful polka-dot pants, joyful expression, arms raised, cheerful energy\n– cozy red oversized hoodie with bold typography, eyes closed, arms open, peaceful and happy vibe\n– soft fashion look with cropped jacket and skirt, elegant pose, oversized round glasses, dreamy expression\nHair styles include messy buns, soft updos, and stylized volume; fashion-forward streetwear mixed with cozy textures (knit fabric, fleece, wool).\nSolid vibrant backgrounds (pink, yellow, red, peach), studio lighting, soft shadows, global illumination, subsurface scattering.\nClean composition, full-body and medium shots, high detail textures, cinematic lighting, depth of field, ultra-smooth render, 8K resolution, Octane/Arnold render style, wholesome, cute, modern aesthetic.",
+      "超高质量3D风格化角色插画，受皮克斯启发但原创，呈现一系列可爱的现代女孩角色。皮肤如光滑塑料质感，面部轮廓柔和圆润，大而富有表现力的眼睛，小巧的鼻子，淡淡的红晕，整体氛围温馨舒适。  \n角色以多种服装和情绪呈现：  \n– 浅粉色蓬松夹克搭配慢跑裤与运动鞋，佩戴圆形眼镜和耳机，姿态平静且时尚；  \n– 明亮黄色开衫搭配俏皮波点裤，表情欢快，双臂高举，充满活力；  \n– 宽松红色连帽衫印有醒目文字，闭眼张开双臂，散发宁静愉悦的气息；  \n– 柔和时尚造型，短款夹克配裙子，姿态优雅，佩戴超大圆形眼镜，神情梦幻。  \n发型包括凌乱发髻、柔和盘发及富有造型感的蓬松发型；潮流街头服饰融合舒适材质（针织、抓绒、羊毛）。  \n纯色鲜明背景（粉红、明黄、正红、蜜桃色），影棚灯光，柔和阴影，全局光照，次表面散射。  \n构图简洁，包含全身与中景镜头，高细节纹理，电影级打光，景深效果，极致顺滑渲染，8K分辨率，Octane/Arnold渲染风格，整体风格温暖可爱、现代清新。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2013100461835075724"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "character",
+      "cute"
+    ],
+    "title": "温馨可爱的现代女孩角色",
+    "update_time": 1768906402666
   }
 ]
