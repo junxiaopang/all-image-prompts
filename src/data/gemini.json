@@ -31229,5 +31229,706 @@
     ],
     "title": "角色化为灰烬的粒子消散瞬间",
     "update_time": 1768996425401
+  },
+  {
+    "coverImage": "/images/2026-01-20/2013636266408227169_0.jpg",
+    "create_time": 1768923272000,
+    "description": "在这张创意合成图中，一个充满活力的角色躺在替换背景上，面带明亮微笑直视镜头，并用食指指向右上角的“关注”按钮，形成清晰视觉引导。",
+    "id": "2013636266408227169",
+    "images": [
+      "/images/2026-01-20/2013636266408227169_0.jpg",
+      "/images/2026-01-20/2013636266408227169_1.jpg"
+    ],
+    "likes": 128,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Effect tutorial & prompt share \nHave you not tried this super fun effect yet? Try it now.\n ————————  \n-Let your character do the promo for you-  \n\nEffect details: \n1. The character will closely follow your reference image \n2. The character will point at the Follow button on your profile page  \n\nHow to use: \n1. Upload a character image you want to apply this effect to  \n2. Take a screenshot of your profile page and upload it as the background image (a 3:4 crop works best)  \n3. Copy and paste this prompt  \n\nShare your work and connect with others. \nLet’s support each other and keep going.\n——————————    \n↓Prompt Here↓ \n\n {\n  \"edit_type\": \"creative_composite_layering\",\n\n  \"source\": {\n    \"_hint\": \"Base logic: Character (Ref 1) superimposed ON TOP OF the Background Image (Ref 2).\",\n    \"mode\": \"EDIT\",\n    \"reference_images\": {\n      \"first\": \"foreground_character_person\",\n      \"second\": \"background_scenery_or_pattern\"\n    },\n    \"preserve_from_first\": {\n      \"same_person_or_group\": true,\n      \"same_faces\": true,\n      \"same_hairstyles\": true,\n      \"same_outfits\": true\n    }\n  },\n\n  \"identity\": {\n    \"keep_identity_consistent\": true,\n    \"expression\": \"bright_engaging_smile_at_camera\"\n  },\n\n  \"camera_effect\": {\n    \"_hint\": \"High-angle selfie style, creating a sense of depth between the hand and face.\",\n    \"perspective\": \"high_angle_shot_looking_down\",\n    \"style\": \"social_media_call_to_action\",\n    \"depth_of_field\": \"focus_on_face_and_pointing_finger\",\n    \"framing\": \"character_centered_with_space_at_top_right\"\n  },\n\n  \"pose\": {\n    \"_hint\": \"Key action: Lying down but actively pointing to the 'Follow' button area (Top Right).\",\n    \"pose_style\": \"lying_down_or_reclining_on_back\",\n    \"face_direction\": \"looking_directly_up_into_lens\",\n    \"hand_gestures\": {\n      \"right_hand_action\": \"pointing_index_finger\",\n      \"target_direction\": \"upper_right_corner_45_degrees\",\n      \"purpose\": \"mimicking_pressing_subscribe_button\",\n      \"arm_position\": \"extended_towards_camera_top_right\"\n    },\n    \"body_language\": \"inviting_and_energetic\",\n    \"style_tags\": [\n      \"kpop_idol_fan_service\",\n      \"influencer_promo_style\",\n      \"dynamic_perspective\"\n    ]\n  },\n\n  \"background_integration\": {\n    \"_hint\": \"The second reference image is the background/floor.\",\n    \"method\": \"full_background_replacement\",\n    \"target_area\": \"entire_canvas_behind_character\",\n    \"content_source\": \"reference_image_second\",\n    \"perspective_match\": \"flat_lay_style\",\n    \"rules\": {\n      \"character_must_be_top_layer\": true,\n      \"leave_space_in_upper_right_for_ui\": true\n    }\n  },\n\n  \"composition\": {\n    \"_hint\": \"Ensure the pointing finger leads the viewer's eye to the top right corner.\",\n    \"visual_flow\": \"diagonal_line_from_face_to_top_right_corner\",\n    \"focal_points\": [\n      \"character_eyes\",\n      \"pointing_finger_tip\"\n    ],\n    \"negative_space\": \"clear_area_at_top_right_45_degrees\"\n  },\n\n  \"constraints\": {\n    \"no_holding_phone_device\": true,\n    \"finger_must_not_be_cropped_out\": true,\n    \"ensure_arm_is_natural_length\": true\n\"3:4\"\n  }\n}",
+      "效果教程与提示词分享  \n你还没尝试这个超有趣的效果吗？现在就试试吧！  \n————————  \n- 让你的角色为你做推广 -  \n\n效果说明：  \n1. 角色将紧密贴合你提供的参考图像  \n2. 角色会指向你个人主页上的“关注”按钮  \n\n使用方法：  \n1. 上传一张你想应用此效果的角色图片  \n2. 截取你的个人主页截图，并作为背景图上传（3:4 裁剪效果最佳）  \n3. 复制并粘贴以下提示词  \n\n分享你的作品，与他人互动。  \n让我们互相支持，继续前进！  \n——————————    \n↓提示词如下↓  \n\n创意合成分层效果：以高角度自拍风格呈现角色躺在背景上，并用食指指向画面右上角的“关注”按钮区域。角色需保持身份一致，面带明亮且富有感染力的微笑，直视镜头。姿势为仰卧或半躺，右手伸向画面右上方，食指明确指向右上角45度位置，模拟点击订阅按钮的动作。整体构图需形成从面部到右上角的对角线视觉引导，确保手指和眼睛为视觉焦点，并在右上角保留清晰负空间以便放置界面元素。背景完全替换为第二张参考图，采用平面俯拍风格，角色始终位于顶层。禁止手持手机设备，手指不可被裁切，手臂长度需自然真实。图像比例为3:4。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "BeautyVerse",
+      "url": "https://x.com/BeautyVerse_Lab/status/2013636266408227169"
+    },
+    "status": 1,
+    "tags": [
+      "character",
+      "creative",
+      "portrait"
+    ],
+    "title": "角色微笑指向关注按钮",
+    "update_time": 1769070867844
+  },
+  {
+    "coverImage": "/images/2026-01-20/2013686330279240138_0.jpg",
+    "create_time": 1768935208000,
+    "description": "真人本体+背后灵光虚像",
+    "id": "2013686330279240138",
+    "images": [
+      "/images/2026-01-20/2013686330279240138_0.jpg"
+    ],
+    "likes": 64,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "真人本体+背后灵光虚像\n\n全局风格与品质\n视觉风格： 顶级写实修仙画卷，超现实电影级商业大片，硬核东方玄幻美学。\n核心参数： 8K极高解析度，胶片质感，真实皮肤纹理（拒绝塑料感/二次元感）。\n物理规则： 真实光影模拟，强调角色在特定环境下的重力与物理反馈。\n构图策略： 超宽水平构图。十二位生肖化身处于同一片宏大的仙境时空中，从左至右错落排布，无视觉死角。\n统一世界观： 场景设定在统一的“鸿蒙仙境”之中。环境从左侧的混沌灵脉逐渐过渡到右侧的云海仙踪。所有角色共享同一套大气光影，严禁生肖动物本体出现。\n\n核心视觉特征\n• 角色形态： 所有人均为极高颜值的真人形态，保留人类五官与肤质。\n• 生肖体现： 通过角色的服饰剪裁、配色细节、随身法宝，以及角色背后由纯粹灵光构成的、宏大的“兽灵/武魂”虚像来体现生肖特征。\n• 兽灵表现： 兽灵呈半透明光态或虚影态，完全由流动的灵气与辉光交织而成，不具备实体质感，如神迹般笼罩在角色后上方，充满神性。\n\n摄影与光影\n• 设备： 佳能 EOS R5, 35mm 定焦镜头。\n• 光影设计： 统一受“仙境晨曦”照射，光线从画面一侧射入，形成丁达尔效应。\n• 环境光补： 角色背后的兽灵光影散发着柔和的本命灵光，与仙境中的云雾、剑气相互折射。\n\n角色分布与细节描述\n1. 子鼠（水）： 极右侧云海。真人形态为灵动少年，墨色劲装，背后悬浮着如光般通透的硕大子鼠虚像，眼神机警。\n2. 丑牛（土）： 沉稳壮汉，身披暗铜重甲。身后耸立着如山岳般的青牛光影虚像，展现力拔山河之势。\n3. 寅虎（木）： 霸气统帅，黑金虎纹长袍。背后是一尊光影流转、似要下山的猛虎灵光虚像。\n4. 卯兔（木）： 清冷仙子，月白流仙裙。身后伴有通体由白光凝聚、散发柔光的玉兔虚像，氛围空灵。\n5. 辰龙（金）： 位居高位，玄色龙鳞袍，尊贵非凡。背后盘绕着延绵百丈、威严神圣的巨龙灵光虚像。\n6. 巳蛇（火）： 魅惑秘术师，紫色蛇纹缎面袍。身后游走着细长深邃、由紫色流光构成的灵蛇虚像。\n7. 午马（火）： 飒爽剑修，朱红劲装。身后是四蹄踏火、正欲奔腾的烈马光影虚像。\n8. 未羊（土）： 温婉医修，米白棉麻仙裙。身后显现着神态祥和、如瑞云般朦胧的白羊光态虚像。\n9. 申猴（金）： 桀骜斗战真人，战损金甲。身后是手持神兵、傲视天地的灵猴光影虚像。\n10. 酉鸡（金）： 晨曦守望者，羽状剪裁战袍。身后双翼展开，现出流金溢彩、宛如虚像的锦凰光影。\n11. 戌狗（土）： 忠诚将领，皮革金属轻铠。背后是昂首挺立、充满守护感的灵犬光影虚像。\n12. 亥猪（水）： 极左侧灵泉旁。悠闲散仙，青色宽大袍服。身后萦绕着福泽深厚、由浑厚气韵构成的灵猪虚像。\n\n最终愿景\n这不再是孤立的个体，而是十二位生肖神祇在统一仙境中的史诗集结。通过“真人本体+背后灵光虚像”的视觉结构，完美平衡人的情感美感与生肖的神话底蕴，构建出极致的东方玄幻宇宙。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ttmouse - 豆爸",
+      "url": "https://x.com/ttmouse/status/2013686330279240138"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "鸿蒙仙域 12 生肖化身提示词  ",
+    "update_time": 1769070867843
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013947333642477761_0.jpg",
+    "create_time": 1768997436000,
+    "description": "短剧经典名场面——那种\"我不跟你一般见识\"的斜嘴冷笑",
+    "id": "2013947333642477761",
+    "images": [
+      "/images/2026-01-21/2013947333642477761_0.jpg",
+      "/images/2026-01-21/2013947333642477761_1.jpg",
+      "/images/2026-01-21/2013947333642477761_2.jpg",
+      "/images/2026-01-21/2013947333642477761_3.jpg"
+    ],
+    "likes": 10,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "【核心关键词】\nExpression: \n- asymmetrical raised eyebrow (right brow higher) \n- half-lidded eyes with direct gaze\n- a crooked smirk with the right mouth corner lifted\n- chin slightly pushed forward/up\n- confident and slightly contemptuous\n\n翻译成人话就是：\n 右眉挑起 + 眼睛半眯直视\n 右嘴角上扬的斜嘴笑\n 下巴微微上扬\n 自信中带着一丝不屑\n\n【歪嘴等级】\n\n 微歪：right mouth corner slightly lifted → 略显不屑\n 中歪：crooked smirk, one eyebrow raised → 标准龙王\n 暴歪：exaggerated asymmetrical sneer, chin up, looking down → 霸总附体\n\n搭配：\n- 西装革履 + 金表 = 霸道总裁\n- 龙袍玉冠 + 金殿 = 龙王本王\n- 居家服 + 扫把 = \"三年之期已到\"\n\n换角色名+加上这段描述，秒变龙王本王 "
+    ],
+    "ratio": "",
+    "source": {
+      "name": "VoxCat",
+      "url": "https://x.com/VoxcatAI/status/2013947333642477761"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "AI生图玩梗：生成「歪嘴龙王」",
+    "update_time": 1769070867843
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013954179220586992_0.jpg",
+    "create_time": 1768999068000,
+    "description": "一组电影感十足的肖像，侧脸神秘回望，正脸直视带微醺笑意，肌肤湿润、光影浓烈，背景朦胧如私密夜色。",
+    "id": "2013954179220586992",
+    "images": [
+      "/images/2026-01-21/2013954179220586992_0.jpg",
+      "/images/2026-01-21/2013954179220586992_1.jpg",
+      "/images/2026-01-21/2013954179220586992_2.jpg",
+      "/images/2026-01-21/2013954179220586992_3.jpg"
+    ],
+    "likes": 63,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"request_metadata\": {\n    \"version\": \"4.0-Allure-DualView\",\n    \"priority_focus\": \"Sultry expression, cinematic atmosphere, and organic skin textures\",\n    \"aspect_ratio\": \"3:4\"\n  },\n  \"output_specifications\": {\n    \"instructions\": \"Generate two highly atmospheric images in one batch with consistent 'Sultry & Charismatic' vibes.\",\n    \"batch_size\": 2,\n    \"views\": [\n      {\n        \"image_id\": \"A\",\n        \"angle\": \"Extreme profile view\",\n        \"expression\": \"Mysterious, chin slightly tilted down, looking back over the shoulder with a heavy-lidded gaze\"\n      },\n      {\n        \"image_id\": \"B\",\n        \"angle\": \"Front portrait view\",\n        \"expression\": \"Smoldering direct gaze, intense eye contact, a subtle half-smile (smirk) playing on the lips\"\n      }\n    ]\n  },\n  \"subject_configuration\": {\n    \"identity\": {\n      \"mode\": \"Reference-driven fidelity\",\n      \"source\": \"Uploaded Reference Image\",\n      \"instruction\": \"Preserve the unique facial charisma and structural essence of the reference subject\",\n      \"preservation_weight\": 0.95\n    },\n    \"sultry_attributes\": {\n      \"eyes\": {\n        \"state\": \"Bedroom eyes, heavy-lidded, slightly squinted for intensity\",\n        \"details\": \"Dilated pupils, moist limbal rings, intense 'come-hither' look\",\n        \"reflection\": \"Warm candlelight flickers in the irises\"\n      },\n      \"lips\": {\n        \"state\": \"Seductively parted, relaxed jaw\",\n        \"surface\": \"High-gloss sheen, glistening moisture, visible soft ridges\",\n        \"color\": \"Deep natural rose with a hint of bitten-lip flush\"\n      },\n      \"hair\": {\n        \"style\": \"Messy wet-look, damp strands clinging to the neck and collarbone\",\n        \"texture\": \"Saturated, shimmering under low light\"\n      }\n    }\n  },\n  \"environmental_rendering\": {\n    \"atmosphere\": {\n      \"vibe\": \"Moody, intimate, and clandestine\",\n      \"special_fx\": \"A thin veil of hazy mist or subtle smoke in the background\",\n      \"moisture\": \"Hyper-realistic glistening sweat on the décolletage and temples\"\n    },\n    \"lighting_and_color\": {\n      \"lighting_style\": \"Chiaroscuro (dramatic light and shadow), low-key cinematic lighting\",\n      \"key_light\": \"Warm amber rim light to define the silhouette\",\n      \"fill_light\": \"Deep midnight purple or moody indigo shadows\",\n      \"color_palette\": [\"Midnight Purple\", \"Amber Gold\", \"Deep Crimson Accents\", \"Warm Skin Tones\"],\n      \"background\": {\n        \"description\": \"Dark, out-of-focus lounge or velvet textures\",\n        \"depth_of_field\": \"Extremely shallow (f/1.4 aesthetic)\"\n      }\n    }\n  },\n  \"technical_execution\": {\n    \"rendering_engine\": \"High-fidelity path tracing\",\n    \"focal_length\": \"85mm prime lens\",\n    \"texture_detail\": \"Micro-expression lines, pore-level sweat adhesion, no digital smoothing\",\n    \"post_processing\": \"35mm film grain, rich contrast, vintage cinematic color grading\"\n  }\n}"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "MapleShaw",
+      "url": "https://x.com/msjiaozhu/status/2013954179220586992"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "moody"
+    ],
+    "title": "电影感十足的氛围肖像",
+    "update_time": 1769070867843
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013937178242367795_0.jpg",
+    "create_time": 1768995015000,
+    "description": "这组超高清美妆杂志风格拼贴画，以独特的对角线网格布局展示了模特的四种不同面部特写。每张照片都细致入微地捕捉了其瓷白玻璃肌、粉红玫瑰色腮红和大眼睛灰蓝色美瞳等特征，展现了极致的妆容细节和高端时尚感。",
+    "id": "2013937178242367795",
+    "images": [
+      "/images/2026-01-21/2013937178242367795_0.jpg",
+      "/images/2026-01-21/2013937178242367795_1.jpg"
+    ],
+    "likes": 381,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Sydney Sweeney and Ana de Armas\n\nNano Banana Pro\n\nPrompt:\n{\n  \"collage\": {\n    \"style\": {\n      \"type\": \"ultra high-quality hyper-realistic beauty editorial collage\",\n      \"layout\": \"4 photo panels arranged in a tilted diagonal grid layout\",\n      \"grid_details\": \"clean white borders separating each frame, forming a modern high-end beauty campaign collage. Each frame is slightly rotated at a different angle, creating a dynamic diagonal composition.\",\n      \"resolution\": \"8K UHD, hyper-realistic, beauty editorial photoshoot\",\n      \"consistency\": \"All panels clearly show the same woman, face identity consistent, original facial structure preserved, do not change the face.\"\n    },\n    \"subject\": {\n      \"hair\": \"Rambut coklat pendek di atas bahu (bob) sedikit messy, baby hair halus di dahi dan pelipis.\",\n      \"accessories\": \"Anting emas kecil dan kalung emas detail bunga lily.\",\n      \"specific_accessory\": \"Topi plaid cokelat vintage di salah satu frame.\"\n    },\n    \"makeup\": {\n      \"skin\": \"Kulit porcelain glass skin super glowing, dewy wet look, tekstur kulit nyata dan detail. Highlight basah kuat di tulang pipi, bawah mata, dan ujung hidung.\",\n      \"blush\": \"Blush pink rosy intens gaya igari blush, menyebar dari pipi ke bawah mata dan batang hidung.\",\n      \"eyes\": \"Mata besar doll-like, softlens abu-abu kebiruan sangat jelas dan tajam. Bulu mata panjang lentik ala Douyin, lower lashes tipis tapi nyata. Eyeshadow pink–peach dengan shimmer lembut, inner corner berkilau. Eyeliner cokelat tipis rapi.\",\n      \"lips\": \"Bibir pink glossy juicy, tampak lembap dan reflektif.\"\n    },\n    \"frames\": [\n      {\n        \"id\": 1,\n        \"shot_type\": \"extreme close-up pipi & mata\",\n        \"focus\": \"fokus glass skin dan blush\"\n      },\n      {\n        \"id\": 2,\n        \"shot_type\": \"full face beauty portrait\",\n        \"focus\": \"menghadap kamera\"\n      },\n      {\n        \"id\": 3,\n        \"shot_type\": \"half-face close-up\",\n        \"focus\": \"dengan topi plaid cokelat\"\n      },\n      {\n        \"id\": 4,\n        \"shot_type\": \"extreme close-up mata & hidung\",\n        \"focus\": \"highlight basah jelas\"\n      }\n    ],\n    \"lighting_and_mood\": {\n      \"lighting\": \"Soft studio lighting + beauty flash glow. High contrast glow tapi tetap natural. Ultra sharp focus, depth detail tinggi.\",\n      \"mood\": \"glossy • dreamy • doll-like • high-end • Korean beauty editorial\"\n    }\n  }\n}",
+      "悉尼·斯威尼与安娜·德·阿玛斯\n\nNano Banana Pro\n\n超高清超写实美妆杂志风格拼贴，四张照片以倾斜对角线网格布局排列，每帧之间有干净的白色边框分隔，构成现代高端美妆广告拼贴效果。每张照片均以不同角度轻微旋转，形成动态对角构图。8K超高清分辨率，超写实美妆杂志摄影风格。所有画面清晰展现同一女性，面部身份一致，原始面部结构保持不变，不得更改面容。\n\n发型：肩上长度的棕色短发（波波头），略显凌乱，前额与太阳穴处有细腻的碎发。  \n配饰：小巧的金色耳环与带有百合花细节的金色项链。其中一帧佩戴一顶复古棕色格纹帽子。\n\n妆容：  \n肌肤：瓷白玻璃肌，极度光泽水润，呈现湿漉漉的反光质感，皮肤纹理真实细腻。颧骨、眼下及鼻尖有强烈湿润高光。  \n腮红：浓烈粉红玫瑰色“igari风格”腮红，从脸颊晕染至眼下及鼻梁。  \n眼妆：大而娃娃般的眼睛，佩戴清晰锐利的灰蓝色美瞳；睫毛长而卷翘，具有抖音风格，下睫毛纤细但真实；眼影为粉桃色带柔光珠光，内眼角闪耀提亮；眼线为细致整洁的棕色。  \n唇妆：粉嫩水润亮泽唇，显得饱满多汁、高度反光。\n\n四帧内容分别为：  \n1. 极致特写——脸颊与眼睛，聚焦玻璃肌与腮红；  \n2. 全脸美妆肖像，正对镜头；  \n3. 半脸特写，佩戴复古棕色格纹帽子；  \n4. 极致特写——眼睛与鼻子，突出明显湿润高光。\n\n灯光与氛围：柔光影棚照明配合美妆闪光灯效果，高对比度光泽但仍自然。焦点极度锐利，景深细节丰富。整体氛围：亮泽感、梦幻感、娃娃感、高端感、韩式美妆杂志风格。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Melisa♡",
+      "url": "https://x.com/xmliisu/status/2013937178242367795"
+    },
+    "status": 1,
+    "tags": [
+      "makeup",
+      "portrait",
+      "fashion"
+    ],
+    "title": "超高清美妆拼贴：四视角展现精致妆容",
+    "update_time": 1769070867843
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013780277059805212_0.jpg",
+    "create_time": 1768957606000,
+    "description": "A young woman in sporty black loungewear sits casually on a piano, biting her finger with a sultry gaze, surrounded by vintage posters, an electric guitar, and cookie jars under harsh flash lighting.",
+    "id": "2013780277059805212",
+    "images": [
+      "/images/2026-01-21/2013780277059805212_0.jpg"
+    ],
+    "likes": 105,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"portrait_prompt\": {\n    \"subject\": \"Based on <User Portrait>, [a young woman with voluminous, messy, long hair, wearing a black sporty crop top with white trim and matching black shorts, white calf-high socks. She is sitting perched on a high dark wooden counter or piano top. Her pose is casual and edgy, leaning forward with one hand resting near her mouth, biting her finger slightly, gazing directly at the camera with a sultry, nonchalant expression. A silver bracelet on her wrist. Background includes a white wall with vintage posters taped up and brown wooden blinds. Foreground details include the neck of an electric guitar, a glass jar of cookies, and liquor bottles]\",\n    \"composition\": \"Full body shot, 35mm focal length, slightly low angle to emphasize leg length, sharp focus on subject with hard flash fall-off, messy but balanced framing\",\n    \"camera_angle\": \"Eye-level relative to the seated subject, slightly low angle from the floor, medium distance\",\n    \"lighting\": \"Direct on-camera flash photography, hard lighting creating a sharp drop shadow on the wall behind the subject, high contrast, reminiscent of 90s point-and-shoot aesthetics, no diffusion\",\n    \"color_palette\": \"Vintage film aesthetic, Kodak Gold 200 simulation, warm tones from wooden blinds and furniture contrasted with cool white flash light, deep blacks, slightly grainy texture, lo-fi indie vibe\",\n    \"mood\": \"Indie sleaze, candid, rebellious, cool girl aesthetic, raw and authentic, Y2K retro fashion editorial, snapshot style\",\n    \"negative_prompt\": \"soft lighting, studio lighting, bokeh, professional studio portrait, airbrushed skin, 3d render, cartoon, illustration, distorted hands, missing guitar strings, floating objects, anatomical errors, stiff pose, over-processed, HDR\"\n  }\n}"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Sidona",
+      "url": "https://x.com/sidona/status/2013780277059805212"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "y2k",
+      "cinematic"
+    ],
+    "title": "一个酷女孩",
+    "update_time": 1769070867843
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013905113321185465_0.jpg",
+    "create_time": 1768987370000,
+    "description": "一张融合3D地图、美食插画与旅行贴士的现代信息图，以高端杂志风格呈现国家概览。",
+    "id": "2013905113321185465",
+    "images": [
+      "/images/2026-01-21/2013905113321185465_0.jpg",
+      "/images/2026-01-21/2013905113321185465_1.jpg",
+      "/images/2026-01-21/2013905113321185465_2.jpg",
+      "/images/2026-01-21/2013905113321185465_3.jpg"
+    ],
+    "likes": 944,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "[COUNTRY] — ultra-clean infographic poster (editorial + lifestyle)\n\nGenerated by Google Nano Banana Pro on Gemini app  \n\nFull prompt \n\nUltra-clean modern country infographic poster (1080x1080), premium editorial layout meets lifestyle travel photography.\n\nShowcase [ENTER COUNTRY NAME] as the hero visual in the center: a slightly angled 3D map cutout / glossy paper-cut map silhouette with subtle shadow, with a small flag pin marker on the capital city. Add a soft natural studio lighting feel, gentle gradient + minimal texture background for an upscale magazine look.\n\nAround the hero map, arrange information like a recipe infographic—dynamic, floating panels and clusters, not restricted to top-down. Clear hierarchy: hero map > key stats badges > cities/provinces > culture/foods > tips.\n\nSECTION 1 — Quick Facts (clean glassmorphism badges near the hero):\n- Capital: [CAPITAL]\n- Population: [POPULATION]\n- Currency: [CURRENCY]\n- Language(s): [LANGUAGES]\n- Time zone: [TIMEZONE]\n- Best time to visit: [BEST SEASON]\nDisplay as modern rounded pills/bubbles with accent color highlights.\n\nSECTION 2 — Provinces/States/Regions (ingredients-style clusters):\nList [NUMBER] provinces/regions with mini icons/mini map segments or simple pictograms.\nExample: [PROVINCE 1], [PROVINCE 2], [PROVINCE 3]...\nEach item includes a small icon (mountains, river, desert, forest, coastline) and one short label (e.g., “coastal”, “historic”, “wine region”). Arrange in curved flows connected with thin lines to the map.\n\nSECTION 3 — Major Cities (connected pin points):\nShow 5–8 key cities with small pin markers on/near the map and clean labels:\n[City 1], [City 2], [City 3]...\nUse lines/arrows from labels to map pins, avoiding clutter.\n\nSECTION 4 — Signature Foods (recipe vibe):\nShow 4–6 famous foods of [COUNTRY] with small tasty mini illustrations or photo-style cutouts:\n[Food 1], [Food 2], [Food 3]...\nAdd short descriptors (spicy, street food, dessert, grilled). Keep vibrant natural food colors.\n\nSECTION 5 — Culture & Highlights (editorial callouts):\nInclude icons and 1-line notes for:\n- Famous festival: [FESTIVAL]\n- Traditional music/dance: [CULTURE]\n- Landmark(s): [LANDMARKS]\n- Nature highlight: [NATURE]\nUse clean vector icons and minimal text.\n\nSECTION 6 — Travel Tips (step-like numbered panels):\nShow 4–6 numbered “tips” panels arranged around the hero map with arrows showing flow:\n1) [Tip 1]\n2) [Tip 2]\n3) [Tip 3]\nAdd small icons (plane, train, hotel, safety, budget, camera, SIM card). Use glassmorphism panels with soft gradients and subtle drop shadows.\n\nTypography & Style:\nModern sans-serif typography, high readability, strong grid alignment, airy negative space, subtle shadows, crisp vector icons, accent color palette inspired by [COUNTRY] flag (tasteful, not overwhelming). Editorial, premium, ultra-clean, social-feed optimized.\n\nOutput requirements:\nUltra-crisp, no watermark, no logo, no extra text beyond the provided labels, balanced spacing, high contrast readability, 1080×1080.",
+      "[国家]——超简洁信息图海报（编辑风格 + 生活方式）\n\n由 Google Nano Banana Pro 在 Gemini 应用中生成\n\n完整提示词：\n\n超简洁现代国家信息图海报（1080x1080），高端编辑排版融合生活方式旅行摄影风格。\n\n中央突出展示[输入国家名称]作为主视觉：略微倾斜的3D地图剪影 / 光面纸艺地图轮廓，带有微妙阴影，首都位置标注一枚小巧国旗图钉。整体采用柔和自然的影棚灯光效果，背景为轻柔渐变与极简纹理，营造高端杂志质感。\n\n围绕主地图，以食谱信息图的方式动态布局浮动面板与信息簇，不拘泥于自上而下的传统结构。信息层级清晰：主地图 > 核心数据徽章 > 省份/城市 > 文化/美食 > 旅行贴士。\n\n第一部分——快速概览（主地图附近采用玻璃拟态风格徽章）：\n- 首都：[首都]\n- 人口：[人口]\n- 货币：[货币]\n- 语言：[语言]\n- 时区：[时区]\n- 最佳旅行季节：[最佳季节]  \n以现代圆角胶囊/气泡形式呈现，搭配强调色高亮。\n\n第二部分——省份/州/地区（食材式信息簇）：\n列出[数量]个省份/地区，每个配以微型图标/小地图片段或简易象形图。  \n例如：[省份1]、[省份2]、[省份3]……  \n每项包含一个小型图标（山脉、河流、沙漠、森林、海岸线）和一句简短标签（如“滨海”、“历史古城”、“葡萄酒产区”）。沿曲线流线排布，并以细线连接至主地图。\n\n第三部分——主要城市（带连接图钉）：\n在地图上/附近标注5–8座重点城市，使用小巧图钉标记并附清晰标签：  \n[城市1]、[城市2]、[城市3]……  \n标签通过线条/箭头指向地图图钉，避免杂乱。\n\n第四部分——代表性美食（食谱风格）：\n展示该国4–6种著名美食，配以精致迷你插画或照片风格剪影：  \n[美食1]、[美食2]、[美食3]……  \n添加简短描述词（如“辛辣”、“街头小吃”、“甜点”、“烧烤”），保留食物鲜活自然的色彩。\n\n第五部分——文化与亮点（编辑式注解）：\n包含图标及一行简注，涵盖以下内容：  \n- 著名节日：[节日]  \n- 传统音乐/舞蹈：[文化]  \n- 地标：[地标]  \n- 自然奇观：[自然]  \n使用简洁矢量图标与极简文字。\n\n第六部分——旅行贴士（阶梯式编号面板）：\n在主地图周围布置4–6个编号“贴士”面板，以箭头指示阅读顺序：  \n1) [贴士1]  \n2) [贴士2]  \n3) [贴士3]  \n配以小型图标（飞机、火车、酒店、安全、预算、相机、SIM卡）。面板采用玻璃拟态设计，搭配柔和渐变与细微投影。\n\n字体与风格：  \n现代无衬线字体，高可读性，强网格对齐，留白通透，阴影细腻，图标锐利清晰，强调色系灵感源自[国家]国旗（雅致而不喧宾夺主）。整体风格为编辑感、高端、超简洁，适配社交媒体展示。\n\n输出要求：  \n超高清画质，无水印、无Logo、无额外文字（仅限提供标签内容），间距均衡，高对比度确保可读性，尺寸1080×1080。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "𝐌",
+      "url": "https://x.com/Strength04_X/status/2013905113321185465"
+    },
+    "status": 1,
+    "tags": [
+      "infographic",
+      "modern",
+      "travel"
+    ],
+    "title": "超简洁国家信息图海报",
+    "update_time": 1769070867843
+  },
+  {
+    "coverImage": "/images/2026-01-20/2013677966283149542_0.jpg",
+    "create_time": 1768933214000,
+    "description": "请在评论中提供具体的 AI 绘图提示词，以便生成对应的图像介绍。",
+    "id": "2013677966283149542",
+    "images": [
+      "/images/2026-01-20/2013677966283149542_0.jpg",
+      "/images/2026-01-20/2013677966283149542_1.jpg"
+    ],
+    "likes": 783,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Create an infographic image of [BODY PART], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:\n•Key component labels\n•Internal cutaway or exploded-view outlines\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure)\n•Simple schematic or sectional diagrams where relevant\n\nPlace the title [BODY PART] inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations feel sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.\n\nColor palette:\nWhite background, black annotation lines and text only. No colors.\n\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.",
+      "创建一个关于[身体部位]的信息图图像，结合对象的真实照片或逼真的渲染与直接放置在顶部的技术注释覆盖层。\n\n使用纯白色工作室背景上的黑色墨水风格线条画和文字（技术笔/建筑草图外观），包括：\n- 关键组件标签\n- 内部剖视或爆炸视图轮廓\n- 尺寸、尺寸标注和比例标记\n- 材料标注和数量\n- 指示功能、力或流动方向（空气、声音、电力、压力）的箭头\n- 相关的简单示意图或截面图\n\n将标题[身体部位]置于一角的手绘技术注释框内。\n\n样式和布局规则：\n- 注释下真实物体保持清晰可见\n- 注释具有草图感、技术性和建筑性\n- 清晰的构图与平衡的负空间\n- 教育性的博物馆展览/工程手册氛围\n\n视觉风格：\n极简技术插图美学，现实主义图像上的黑色线条，精确但略带手绘感觉。\n\n色彩方案：\n白色背景，仅黑色注释线和文本。无颜色。\n\n输出规格：\n1080×1080，超高清，适合社交信息流，无水印。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "TechieSA",
+      "url": "https://x.com/TechieBySA/status/2013677966283149542"
+    },
+    "status": 1,
+    "tags": [
+      "illustration",
+      "creative",
+      "graphic-novel"
+    ],
+    "title": "等待评论中的提示词",
+    "update_time": 1769070867842
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013857997102162089_0.jpg",
+    "create_time": 1768976136000,
+    "description": "中心展示一瓶冰镇的雪碧，瓶身凝结的小水滴和霜花清晰可见。周围环绕成分图标与步骤卡片，底部附带饮品信息徽章，整体设计清爽高端。",
+    "id": "2013857997102162089",
+    "images": [
+      "/images/2026-01-21/2013857997102162089_0.jpg",
+      "/images/2026-01-21/2013857997102162089_1.jpg"
+    ],
+    "likes": 718,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A modern, clean product infographic featuring a chilled Sprite bottle at the center of the composition. The bottle stands upright on a minimal surface, covered with icy condensation droplets and light frost. The iconic green Sprite label is bright, fresh, and vibrant. Crisp lemon-lime tones dominate the scene. Background is soft light grey with subtle gradients and soft shadows, giving a refreshing, premium commercial look.\n\nSurrounding the central Sprite bottle are neatly arranged ingredient and element icons in a minimal flat-illustration style: carbonated water, lemon slice, lime slice, ice cubes, bubbles, and glass bottle icon. Thin curved arrows flow from each icon toward the bottle, creating a clean, balanced infographic layout.\n\n*On the right side, rounded white step cards with soft shadows display the process:\n\n1. Chill the Bottle\n\n2. Add Ice\n\n3. Pour Sprite\n\n4. Serve Refreshing*\n\nEach step includes small, simple illustrations (ice bucket, pouring soda, glass with ice and bubbles) and short clean text.\n\nAt the bottom corner, minimal infographic badges show: serve temperature, refresh level, carbonation level, calories per serving, and serving size.\n\nMinimal UI design, modern typography, balanced spacing, high-end beverage advertising style, photorealistic bottle texture, glossy highlights, ultra-high resolution, editorial soda infographic, Instagram-ready.\n\nAspect Ratio: 1:1\n\nImage Size: 1080 × 1080 pixels",
+      "现代、干净的产品信息图，中心展示一瓶冰镇的雪碧。瓶子直立放置在简约的表面上，瓶身布满冰冷凝结的小水滴和轻微的霜花。标志性的绿色雪碧标签鲜明、清新且充满活力。场景主要由清新的柠檬青柠色调主导。背景为柔和的浅灰色，带有微妙的渐变和柔和的阴影，呈现出清爽的高端商业外观。\n\n围绕中心的雪碧瓶，周围整齐排列着成分和元素图标，采用极简平面插画风格：碳酸水、柠檬片、莱姆片、冰块、气泡和玻璃瓶图标。从每个图标流出细长的曲线箭头指向瓶子，形成一个干净、平衡的信息图布局。\n\n*在右侧，圆角白色步骤卡片带有柔和阴影，展示了过程：\n\n1. 冰镇瓶子\n\n2. 加入冰块\n\n3. 倒入雪碧\n\n4. 享用清爽*\n\n每一步骤包含小而简单的插图（冰桶、倒苏打水、装有冰块和气泡的杯子）和简洁的文字说明。\n\n在底部角落，极简的信息图徽章显示：服务温度、清爽程度、碳酸化程度、每份热量及份量。\n\n极简UI设计、现代字体排版、均衡的空间分布、高端饮品广告风格、照片级真实的瓶子纹理、光泽亮点、超高分辨率、编辑用苏打信息图、适合Instagram发布。\n\n宽高比：1:1\n\n图像大小：1080 × 1080像素"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "𝐌",
+      "url": "https://x.com/Strength04_X/status/2013857997102162089"
+    },
+    "status": 1,
+    "tags": [
+      "infographic",
+      "modern",
+      "product"
+    ],
+    "title": "清爽冰镇雪碧，现代极简信息图",
+    "update_time": 1769070867842
+  },
+  {
+    "coverImage": "/images/2026-01-20/2013660094664446322_0.jpg",
+    "create_time": 1768928953000,
+    "description": "在这张超写实的商业摄影作品中，鲜橙切片从空中坠落，迎向飞溅而起的浓稠牛奶，形成美丽的弧线和皇冠状曲线。背景采用干净的蓝色影棚幕布，通过柔和的电影灯光增强效果，突出了细节。",
+    "id": "2013660094664446322",
+    "images": [
+      "/images/2026-01-20/2013660094664446322_0.jpg",
+      "/images/2026-01-20/2013660094664446322_1.jpg",
+      "/images/2026-01-20/2013660094664446322_2.jpg",
+      "/images/2026-01-20/2013660094664446322_3.jpg"
+    ],
+    "likes": 499,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "\"subject\": {\n    \"primary\": \"Vibrant orange slices\",\n    \"action\": \"Falling through the air toward rising milk\",\n    \"secondary\": \"Thick, glossy white milk splash forming arcs and crown-like curves\",\n    \"details\": \"Milk droplets frozen mid-air with creamy texture\"\n  },\n  \"environment\": {\n    \"background\": \"Clean blue studio backdrop\",\n    \"lighting\": \"Cinematic soft studio lighting with dramatic highlights and shadows\"\n  },\n  \"visual_style\": {\n    \"genre\": \"Ultra-realistic commercial splash photography\",\n    \"textures\": \"High-detail creamy milk and fresh citrus pulp\",\n    \"motion\": \"Frozen action, high-speed capture\",\n    \"depth_of_field\": \"Shallow depth of field\"\n  },\n  \"camera\": {\n    \"lens\": \"85mm macro\",\n    \"framing\": \"Wide composition\",\n    \"focus\": \"Sharp focus on splash and fruit\"\n  },\n  \"composition\": {\n    \"aspect_ratio\": \"3:4\",\n    \"color_palette\": [\"Vibrant Orange\", \"Pure White\", \"Clean Blue\"]\n  },\n  \"quality\": {\n    \"detail_level\": \"Ultra-high detail\",\n    \"rendering\": \"Photorealistic\"\n  },\n  \"profile\": \"9ewnbdc\"\n}",
+      "宽幅微距飞溅摄影：鲜艳的橙子切片从空中坠落，迎向向上飞溅的浓稠亮白牛奶；牛奶飞溅形成弧线与皇冠状曲线，奶滴在空中凝固，呈现柔滑质感。背景为干净的蓝色影棚幕布，采用电影感柔和影棚灯光，具有强烈的高光与阴影对比。整体风格为超写实商业飞溅摄影，强调高细节的柔滑牛奶与新鲜柑橘果肉纹理，动作瞬间被高速捕捉冻结，浅景深突出主体。使用85毫米微距镜头，宽幅构图，焦点清晰落在飞溅液体与水果上。画面比例3:4，配色以鲜艳橙、纯白与洁净蓝为主。画质为超高细节、照片级真实感。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Sharon Riley",
+      "url": "https://x.com/Just_sharon7/status/2013660094664446322"
+    },
+    "status": 1,
+    "tags": [
+      "macro-photography",
+      "food",
+      "cinematic"
+    ],
+    "title": "橙子与牛奶的瞬间飞溅",
+    "update_time": 1769070867842
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013803805725659192_0.jpg",
+    "create_time": 1768963216000,
+    "description": "这是一张超简洁的现代风格信息图，主视觉为一碗热气腾腾的罗宋汤，周围环绕着食材图标、烹饪步骤和热量信息。设计明亮、干净且高端。",
+    "id": "2013803805725659192",
+    "images": [
+      "/images/2026-01-21/2013803805725659192_0.jpg",
+      "/images/2026-01-21/2013803805725659192_1.jpg",
+      "/images/2026-01-21/2013803805725659192_2.jpg"
+    ],
+    "likes": 1082,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Ultra-clean modern recipe infographic. Feature Borscht (rich ruby-red borscht in a deep bowl, topped with sour cream and fresh herbs; clearly visible chunks of beetroot, cabbage, and meat; gentle steam rising; thick, hearty texture; looks hot and freshly cooked) as a finished dish, shown in a slight angled perspective as the main hero visual.\n\nArrange ingredients, cooking steps, and helpful tips around the dish in a dynamic magazine-style layout, not restricted to a strict top-down view.\n\nIngredients section\n\nUse icons or mini-illustrations for each ingredient with the exact quantity. Place them as groups, lists, or circular diagrams, visually connected to the main dish.\n\nSteps section\n\nShow the cooking process using numbered panels, arrows, or connecting lines that create a clear visual route around the bowl. Add small process icons (knife, pot, stove, timer) where appropriate.\n\nOptional additional info\n\nInclude total calories, prep time + cook time, and number of servings as clean, minimal badges/bubbles near the dish.\n\nVisual style\n\nA blend of magazine infographic design and lifestyle food photography. Use bright natural food colors, soft drop shadows, clean vector icons, modern typography, and soft gradients or glassmorphism panels for the step blocks. Accent colors may highlight key information such as calories or cooking time.\n\nComposition priorities\n\n1. Finished dish (main hero)\n\n2. Cooking steps\n\n3. Ingredients\n\n4. Additional info\n\nMaintain enough negative space so the design feels light, premium, clean, and highly readable.\n\nLighting & background\n\nSoft natural studio lighting. Minimal textured or gradient background to create a premium magazine look.\n\nOutput\n\n1080×1080, ultra-sharp, optimized for social media feed, no watermarks.",
+      "超简洁现代食谱信息图。主视觉为一道完成的罗宋汤（深碗中盛着浓郁宝石红色的罗宋汤，表面点缀酸奶油和新鲜香草；清晰可见甜菜根、卷心菜和肉块；微微升腾着热气；浓稠丰盛的质地；看起来热气腾腾、刚出锅），以略微倾斜的角度呈现，作为画面核心焦点。\n\n围绕主菜以动态杂志风格布局展示食材、烹饪步骤和实用小贴士，不局限于严格的俯视视角。\n\n食材部分  \n使用图标或微型插图表示每种食材，并标注确切用量。将它们以组合、列表或环形图形式排列，并在视觉上与主菜相连。\n\n步骤部分  \n通过编号面板、箭头或连接线展示烹饪流程，在碗周围形成清晰的视觉路径。适当加入小型过程图标（如刀、锅、炉灶、计时器）。\n\n可选附加信息  \n在主菜附近以简洁极简风格的徽章或气泡形式标明总热量、准备时间+烹饪时间以及份量数。\n\n视觉风格  \n融合杂志信息图设计与生活化美食摄影风格。采用明亮自然的食物色彩、柔和投影、干净的矢量图标、现代字体，以及柔和渐变或毛玻璃效果面板用于步骤区块。重点信息（如热量或烹饪时间）可用强调色突出。\n\n构图优先级  \n1. 成品主菜（核心焦点）  \n2. 烹饪步骤  \n3. 食材  \n4. 附加信息  \n\n保留充足留白，使整体设计显得轻盈、高端、干净且高度易读。\n\n灯光与背景  \n柔和自然的影棚灯光。背景采用极简纹理或渐变，营造高端杂志感。\n\n输出要求  \n1080×1080，超高清画质，专为社交媒体信息流优化，无水印。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Oogie",
+      "url": "https://x.com/oggii_0/status/2013803805725659192"
+    },
+    "status": 1,
+    "tags": [
+      "infographic",
+      "food",
+      "modern"
+    ],
+    "title": "现代罗宋汤食谱信息图",
+    "update_time": 1769070867842
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014256556792254944_0.jpg",
+    "create_time": 1769071160000,
+    "description": "把「银版照相的冷静质感」和「东方工笔线描」融合，再保留轻微金属反光与细密刻线—— 这就是我最近在用的融合风格：银版旧梦。",
+    "id": "2014256556792254944",
+    "images": [
+      "/images/2026-01-22/2014256556792254944_0.jpg",
+      "/images/2026-01-22/2014256556792254944_1.jpg",
+      "/images/2026-01-22/2014256556792254944_2.jpg",
+      "/images/2026-01-22/2014256556792254944_3.jpg",
+      "/images/2026-01-22/2014256556792254944_4.jpg",
+      "/images/2026-01-22/2014256556792254944_5.jpg",
+      "/images/2026-01-22/2014256556792254944_6.jpg",
+      "/images/2026-01-22/2014256556792254944_7.jpg"
+    ],
+    "likes": 21,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "AI绘画风格篇｜银版旧梦 (Silverplate Dream)\n\n把「银版照相的冷静质感」和「东方工笔线描」融合，再保留轻微金属反光与细密刻线—— 这就是我最近在用的融合风格：银版旧梦。\n\n核心气质：冷静、古典、精致、疏离等。\n\n 风格关键词\n银版质感：微金属感、轻反光、低对比\n工笔线描：细密线条、结构清晰\n单色微赭：黑白为主，淡淡棕褐\n\n 风格特调版（完整版｜干净无做旧）\nStyle: Daguerreotype silverplate photography + Chinese gongbi linework + subtle hand-rubbed print texture.\nMonochrome with faint sepia tint, subtle metallic sheen, fine hairline lines, delicate engraving-like details.\nClean paper surface, smooth tone, no vignette, no aging effects, no scratches, no stains, no borders or frames.\n\nNegative（建议固定加）\nno vignette, no frame, no border, no paper edge,\nno scratches, no stains, no aging effects,\nno neon, no glossy 3D, no modern digital look, no saturated colors, no anime lineart\n\n 快速使用方法（3步）\n\n先写：主体 + 场景 + 构图 + 光影\n再贴：风格特调版\n最后加：Negative 防跑偏\n\n 避坑提醒\n不要写 photorealistic / 3D / glossy\n不要强调复古老化（会触发暗角/边框）\n想更干净：加 \"flat light\"、\"even exposure\"、\"edge-to-edge clean\"\n\n#AIart #AI绘画 #风格研究",
+      "3:4 竖幅构图。画面上方保留约 55% 大面积留白；主体为【人物】的半身肖像，置于画面下方偏中，肩线端正、姿态含蓄，微侧身回眸。保持【人物】的原角色特征不变（脸型、发型结构、刘海形状、五官比例与气质不改），仅更换为本提示词指定的新技法与服饰设定。\n\n服饰设定：明制立领短袄与对襟褙子，衣缘细窄滚边；下装仅露出素雅马面裙上段。发式设定：在不改变【人物】原发型结构与长度的前提下做明代气质整理，簪钗简净，少量鎏金点到为止。\n\n新技法描绘：五官与衣纹以工笔级细线勾勒，线条清而有轻重变化；肤色与衣褶以工笔“薄染叠染”塑形，但整体画面采用现代矢量的分区平涂与极克制两段明度阴影；边缘干净锐利、无噪点、无厚涂。\n\n点景：仅一枝花鸟从画面右上斜向伸入留白。疏梅枝干以枯笔线感呈现，淡粉梅花数朵；梅梢停一只【动物】，姿态安静精致。花鸟细节同样工笔线描，但色面矢量化、清爽克制。\n\n背景为温润的绢本/熟宣轻纹理，留白处带淡淡灰青空气感。整体气质端丽、雅正、清澈、克制。\n\n避免：水墨大面积晕染、摄影景深虚化、3D 渲染高光、粗黑漫画线、霓虹高饱和、复杂国潮纹样堆满、夸张装饰抢主体。\n输出：高清细节，线条干净，留白比例严格遵守。\n\n人物为【】，动物为【】"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "VoxCat",
+      "url": "https://x.com/VoxcatAI/status/2014256556792254944"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "chinese-style",
+      "minimalist"
+    ],
+    "title": "东方工笔线描融合风格：银版旧梦",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014167646682648794_0.jpg",
+    "create_time": 1769049963000,
+    "description": "这是一组展示同一人不同发型的专业人像照片，包括长直发、高马尾等。每张照片都保持了相同的面部特征和表情，统一的中性服装与妆容，以及逼真的肤质和对称脸部设计，营造出超现实的一致性。",
+    "id": "2014167646682648794",
+    "images": [
+      "/images/2026-01-22/2014167646682648794_0.jpg"
+    ],
+    "likes": 52,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "一张高质量照片拼贴，同一个人具有相同的面部特征和表情，多个画框展示不同发型。每个面板展示独特发型如长直发、高马尾、蓬乱发髻、超短发、辫子皇冠、柔和波浪卷、齐肩短发、低发髻、侧编辫、蓬松卷。所有图像保持一致的中性服装和妆容，柔和棚拍灯光，温暖模糊背景，逼真肤质，对称脸部一致性，超细节，编辑美妆效果，4x3 网格布局，专业人像摄影"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "猫小姐学AI",
+      "url": "https://x.com/MissCat_AI/status/2014167646682648794"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "fashion",
+      "high-detail"
+    ],
+    "title": "多样发型的中性风格人像摄影",
+    "update_time": 1769171959593
+  },
+  {
+    "create_time": 1769014250000,
+    "description": "左侧是精细的解剖插图，中部为生态背景地图，右侧捕捉了雪豹在野外的真实瞬间。整体展示了雪豹的生活习性及其保护现状。",
+    "id": "2014017858607399325_split_1_1769173884524",
+    "images": [
+      "/images/2026-01-21/2014017858607399325_split_1_1769173884524_0.jpg"
+    ],
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A field researcher's documentation board for snow leopard — Panthera uncia / Central Asian high altitude mountains. Left section: scientific illustration showing anatomical details, life-cycle stages, or seasonal variation, with measurement scales and taxonomic classification. Center section: ecological context map showing range, habitat preferences, predator-prey relationships, and conservation status indicators. Right section: the subject in its natural habitat, captured in a decisive moment, behavior visible, environment authentic, the data made alive. Visual style transitions from specimen-drawer clinical through cartographic neutrals to National Geographic field photography. Title block reading \"SNOW LEOPARD — Panthera uncia, VULNERABLE, FIELD STUDY 2024\".",
+      "雪豹（Panthera uncia）野外研究人员的记录展板——中亚高海拔山区。左侧部分：科学插图，展示解剖细节、生命周期阶段或季节性变化，并附有比例尺和分类学信息。中间部分：生态背景地图，显示分布范围、栖息地偏好、捕食者-猎物关系及保护现状指标。右侧部分：雪豹在其自然栖息地中的决定性瞬间，行为清晰可见，环境真实可信，使数据鲜活起来。整体视觉风格从标本抽屉式的临床精确，过渡到地图般的中性色调，再转为《国家地理》风格的野外摄影。标题栏写着：“雪豹——Panthera uncia，易危物种，2024年野外研究”。",
+      "A field researcher's documentation board for [ANIMAL / PLANT / ORGANISM] — [SCIENTIFIC NAME / HABITAT]. Left section: scientific illustration showing anatomical details, life-cycle stages, or seasonal variation, with measurement scales and taxonomic classification. Center section: ecological context map showing range, habitat preferences, predator-prey relationships, and conservation status indicators. Right section: the subject in its natural habitat, captured in a decisive moment, behavior visible, environment authentic, the data made alive. Visual style transitions from specimen-drawer clinical through cartographic neutrals to National Geographic field photography. Title block reading \"[COMMON NAME] — [SCIENTIFIC NAME], [CONSERVATION STATUS], FIELD STUDY [YEAR]\". "
+    ],
+    "source": {
+      "name": "Alexandra Aisling",
+      "url": "https://x.com/AllaAisling/status/2014017858607399325"
+    },
+    "status": 1,
+    "tags": [
+      "animal",
+      "science",
+      "photography"
+    ],
+    "title": "雪豹野外研究档案板"
+  },
+  {
+    "coverImage": "/images/2026-01-21/2014041994192900143_0.jpg",
+    "create_time": 1769020005000,
+    "description": "浅陶瓷碗中盛满手工制作的土耳其饺子Mantı，配以蒜香酸奶和红辣椒黄油酱。围绕着食材、步骤和小贴士以动态杂志风格布局，矢量图标与微型插图呈现，色彩明亮自然。",
+    "id": "2014041994192900143",
+    "images": [
+      "/images/2026-01-21/2014041994192900143_0.jpg",
+      "/images/2026-01-21/2014041994192900143_1.jpg",
+      "/images/2026-01-21/2014041994192900143_2.jpg",
+      "/images/2026-01-21/2014041994192900143_3.jpg",
+      "/images/2026-01-21/2014041994192900143_4.jpg",
+      "/images/2026-01-21/2014041994192900143_5.jpg",
+      "/images/2026-01-21/2014041994192900143_6.jpg"
+    ],
+    "likes": 470,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Mantı prompt: Ultra-clean modern recipe infographic, Turkish Mantı as the hero dish.\nFinished dish: plump handmade mantı dumplings in a shallow ceramic bowl, generously topped with creamy garlic yogurt and sizzling butter infused with red pepper flakes; finely chopped parsley sprinkled on top; steam gently rising; dumplings glossy and soft, clearly defined folds; looks hot and freshly served.\nArrange ingredients, cooking steps, and helpful tips around the bowl in a dynamic magazine-style layout, not strictly top-down.\n\nIngredients section:\nUse minimal vector icons or mini-illustrations for each ingredient with exact quantities (flour, egg, minced beef, onion, garlic yogurt, butter, red pepper flakes). Ingredients grouped in circular or flowing clusters visually connected to the dish.\n\nSteps section:\nShow the process with numbered panels wrapping around the dish: dough kneading, filling, folding mantı, boiling, yogurt topping, butter sauce. Use small icons (rolling pin, knife, pot, stove).\nOptional info badges:\nPrep time, cook time, servings, total calories displayed as clean glassmorphism bubbles near the bowl.\n\nVisual style:\nMagazine-quality food photography mixed with modern infographic design. Bright natural food colors, soft drop shadows, clean vector icons, elegant modern typography, subtle gradients.\nSoft natural studio lighting, minimal textured or gradient background, premium editorial look.\n\n1080×1080, ultra-sharp, no watermark, optimized for social media feed.",
+      "超简洁现代食谱信息图，以土耳其饺子（Mantı）为主角。  \n成品展示：浅陶瓷碗中盛满饱满的手工Mantı饺子，淋上大量奶油蒜香酸奶和滋滋作响的红辣椒片黄油酱；顶部撒有切碎的新鲜欧芹；热气缓缓升腾；饺子表面光润柔软，褶皱清晰分明，看起来滚烫新鲜刚出锅。  \n\n围绕碗体以动态杂志风格布局排列食材、烹饪步骤与实用小贴士，不采用严格的自上而下结构。  \n\n**食材部分**：  \n使用极简矢量图标或微型插图呈现每种食材，并标注精确用量（面粉、鸡蛋、牛肉末、洋葱、蒜香酸奶、黄油、红辣椒片）。食材以圆形或流动式簇群分组，视觉上与主菜紧密关联。  \n\n**步骤部分**：  \n以环绕主碗的编号面板展示制作流程：揉面、调馅、包制Mantı、煮制、淋酸奶、制作黄油酱。配以小型图标（擀面杖、刀、锅、炉灶）。  \n\n**可选信息标签**：  \n准备时间、烹饪时间、份量、总热量以干净通透的毛玻璃效果气泡形式置于碗旁。  \n\n**视觉风格**：  \n融合杂志级美食摄影与现代信息图设计。色彩明亮自然，投影柔和，图标为简洁矢量风格，字体优雅现代，辅以微妙渐变。  \n采用柔和自然的影棚灯光，背景为极简纹理或渐变，整体呈现高端编辑感。  \n\n1080×1080分辨率，超高清，无水印，专为社交媒体信息流优化。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Melis",
+      "url": "https://x.com/miilesus/status/2014041994192900143"
+    },
+    "status": 1,
+    "tags": [
+      "infographic",
+      "food",
+      "modern"
+    ],
+    "title": "土耳其饺子Mantı的现代食谱信息图",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-21/2014069452275319128_0.jpg",
+    "create_time": 1769026551000,
+    "description": "人体照片或逼真渲染图像与直接叠加其上的技术注释",
+    "id": "2014069452275319128",
+    "images": [
+      "/images/2026-01-21/2014069452275319128_0.jpg",
+      "/images/2026-01-21/2014069452275319128_1.jpg",
+      "/images/2026-01-21/2014069452275319128_2.jpg",
+      "/images/2026-01-21/2014069452275319128_3.jpg"
+    ],
+    "likes": 671,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Create an infographic image of Human Body, combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:\n•Key component labels\n•Internal cutaway or exploded-view outlines\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure)\n•Simple schematic or sectional diagrams where relevant\nPlace the title Human Body inside a hand-drawn technical annotation box in one corner.\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations feel sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\nVisual style:\nMinimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.\nColor palette:\nWhite background, black annotation lines and text only. No colors.\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.",
+      "创作一张人体信息图，将真实的人体照片或逼真渲染图像与直接叠加其上的技术注释相结合。  \n使用黑色墨水风格的线条绘图和文字（技术绘图笔/建筑草图风格），置于纯白摄影棚背景上，包含以下元素：  \n• 关键部位标签  \n• 内部剖面或爆炸视图轮廓  \n• 尺寸、测量数据与比例标尺  \n• 材质标注及数量说明  \n• 指示功能、力或流动方向（如空气、声音、动力、压力）的箭头  \n• 在适当位置加入简化的示意图或剖面图  \n\n在画面一角的手绘技术注释框内放置标题“Human Body”（人体）。  \n\n风格与布局要求：  \n• 注释下方的真实人体图像清晰可见  \n• 注释呈现手绘感、技术感和建筑制图风格  \n• 构图简洁，留白均衡  \n• 整体传达教育性、博物馆展览或工程手册的氛围  \n\n视觉风格：  \n极简技术插画美学，黑色线稿叠加于写实图像之上，精准但略带手绘质感。  \n\n配色方案：  \n纯白背景，仅使用黑色注释线条与文字，无其他颜色。  \n\n输出规格：  \n1080×1080 像素，超高清，适配社交媒体展示，无水印。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Kaan",
+      "url": "https://x.com/kaanakz/status/2014069452275319128"
+    },
+    "status": 1,
+    "tags": [
+      "creative"
+    ],
+    "title": "人体照片的技术注释",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014262777947545621_0.jpg",
+    "create_time": 1769072644000,
+    "description": "白色涂漆的黏土小屋屋顶盛开着玫瑰，花盆点缀窗前，灰色石板小径环绕，俯瞰满目绿意的夏日山景。",
+    "id": "2014262777947545621",
+    "images": [
+      "/images/2026-01-22/2014262777947545621_0.jpg"
+    ],
+    "likes": 106,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "handmade white-painted clay house with roses on the roof, flower pots in front of the door and windows, a gray stone path around it, standing on top of a hill overlooking green trees, on a summer day, a realistic photo, high resolution.\n\nFeel free to join in :)\n\n#AIArtWork #AIArt #AIArtists #AIArtCommunity #PromptShare",
+      "手工制作的白色涂漆黏土房屋，屋顶上开满玫瑰，门前和窗前摆放着花盆，房屋周围有一条灰色石板小径，坐落在山顶，俯瞰着郁郁葱葱的绿树，夏日景象，逼真摄影风格，高分辨率。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Beanie Blossom",
+      "url": "https://x.com/BeanieBlossom/status/2014262777947545621"
+    },
+    "status": 1,
+    "tags": [
+      "clay",
+      "realistic",
+      "nature"
+    ],
+    "title": "山顶的手工黏土小屋",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014287568347734360_0.jpg",
+    "create_time": 1769078554000,
+    "description": "这幅插画通过简洁的形状和有限的色彩，微妙地改变了日常物品的比例与位置，创造出一种安静且引人深思的超现实场景。",
+    "id": "2014287568347734360",
+    "images": [
+      "/images/2026-01-22/2014287568347734360_0.jpg",
+      "/images/2026-01-22/2014287568347734360_1.jpg",
+      "/images/2026-01-22/2014287568347734360_2.jpg",
+      "/images/2026-01-22/2014287568347734360_3.jpg"
+    ],
+    "likes": 103,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Minimal Surreal Concept Illustrations\n\nGemini Nano Banana Pro Prompt:\n\nCreate a surreal yet minimal illustration of [SUBJECT], where scale, placement, or context is subtly altered to provoke thought. Use clean shapes, limited colors, and a quiet background. The surrealism should feel poetic, not chaotic.",
+      "极简超现实概念插画\n\n创作一幅超现实但极简的[主题]插画，通过微妙地改变比例、位置或情境来引发思考。使用简洁的形状、有限的色彩和安静的背景。超现实感应富有诗意，而非混乱。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2014287568347734360"
+    },
+    "status": 1,
+    "tags": [
+      "minimalist",
+      "concept-art",
+      "surreal"
+    ],
+    "title": "极简超现实之思",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014147532277055742_0.jpg",
+    "create_time": 1769045167000,
+    "description": "在这两幅图中，你将遇见同一位年轻亚洲女性。在机场的她，穿着灰色系冬装，专注手机的模样流露出现代都市人的生活气息；而在咖啡厅的她，则换上了洁白的蕾丝裙，脚踩银色高跟鞋，尽显优雅气质。",
+    "id": "2014147532277055742",
+    "images": [
+      "/images/2026-01-22/2014147532277055742_0.jpg",
+      "/images/2026-01-22/2014147532277055742_1.jpg",
+      "/images/2026-01-22/2014147532277055742_2.jpg",
+      "/images/2026-01-22/2014147532277055742_3.jpg"
+    ],
+    "likes": 449,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "使用参考图像中的同一张脸，不改变面部特征，\n\n一名留着黑色中短发和轻盈空气刘海的年轻亚洲女性，坐在现代机场候机室的灰色长椅上。她身穿一件厚实的灰色仿皮草外套，内搭灰色高领针织衫，下身穿着带有精致菱格纹理的灰色连裤袜，双腿交叠。她正低头专注地玩着手中的智能手机，身侧挎着一个黑色的绗缝皮质链条包。背景是宽敞明亮的航站楼，巨大的落地玻璃窗引入了清冷的自然光，远处可见其他乘客的身影，地面光洁且带有淡淡的倒影。整体画面呈现出一种高级灰的都市冷淡风调色，细节真实且富有生活气息。",
+      "使用参考图像中的同一张脸，不改变面部特征,\n\n一位气质出众的长发亚洲女性，穿着洁白的露肩蕾丝连衣裙，优雅地席地而坐在极简风格的咖啡厅吧台前。她的双腿修长并向前延伸，脚踩银色细带高跟鞋。背景是纯白色的木质板条墙和简洁的货架，陈列着整齐的白色器皿。在她面前的地板上，放着一盘色泽金黄的可颂面包。室内光线明亮且均匀，呈现出一种高级、纯净且通透的视觉风格，皮肤细腻有质感。\n"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "行者AI视频",
+      "url": "https://x.com/joshesye/status/2014147532277055742"
+    },
+    "status": 1,
+    "tags": [
+      "chinese-style",
+      "portrait",
+      "fashion"
+    ],
+    "title": "甜系女友",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014271293349327251_0.jpg",
+    "create_time": 1769074674000,
+    "description": "在这张合成图像中，角色以全身形式展现，盘腿坐于背景之上。角色的左右手分别指向账号名和‘Follow’按钮，确保互动元素突出。背景严格保留原始布局，仅按钮文字和接触阴影进行了修改。",
+    "id": "2014271293349327251",
+    "images": [
+      "/images/2026-01-22/2014271293349327251_0.jpg",
+      "/images/2026-01-22/2014271293349327251_1.jpg"
+    ],
+    "likes": 117,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Original effect, major update.\n\nPromo Effect v2.0\n\nBased on the images shared in the comments, I fixed a few issues and adjusted how the result is presented.\n\nv2.0:\n1.The character is now shown in full.\n2.When running the prompt, it checks whether your profile screenshot includes a Follow button. If it is missing, it will create one and ensure the button text says Follow.\n3.The pose is updated. One hand points at your account name, and the other points at Follow.\n\nHow to use:\n1.Choose a character image you want to apply the effect to.\n2.Upload a screenshot of your profile page.\n3.Copy and paste the prompt.\n\nNotes:\n1.Since the character is shown full body, if your reference image does not include feet, the system will generate them automatically. The result may not always look good, so a full body reference with feet is recommended.\n2.The best aspect ratio for the profile screenshot is 3:4.\n——\n/prompt/\n\n{\n  \"edit_type\": \"precise_composite_overlay_dual_interaction_english_ui\",\n\n  \"source\": {\n    \"_hint\": \"Base Logic: Character sitting on Background. Background is fixed EXCEPT for the specific text on the button.\",\n    \"mode\": \"IMAGE_COMPOSITION\",\n    \"reference_images\": {\n      \"foreground\": \"character_ref_image\",\n      \"background_canvas\": \"profile_page_screenshot\"\n    },\n    \"consistency\": {\n      \"character_fidelity\": \"high\",\n      \"background_structure\": \"rigid_layout_preservation\"\n    }\n  },\n\n  \"ui_text_enforcement\": {\n    \"_hint\": \"CRITICAL: Ensure the button text reads 'Follow' in English, regardless of the text in the original screenshot.\",\n    \"target_element\": \"action_button_top_right\",\n    \"mandatory_text\": \"Follow\",\n    \"language\": \"English\",\n    \"font_style\": \"sans_serif_bold_legible\",\n    \"correction_policy\": \"overwrite_original_text_if_not_follow\"\n  },\n\n  \"background_preservation\": {\n    \"_hint\": \"Background is a rigid floor. Only allow changes to shadows and the button text.\",\n    \"policy\": \"strict_pixel_retention_mostly\",\n    \"allowed_modifications\": [\n      \"realistic_contact_shadows_under_character\",\n      \"replacement_of_button_text_to_Follow\"\n    ]\n  },\n\n  \"camera_and_lighting\": {\n    \"_hint\": \"Character sitting ON the interface.\",\n    \"perspective\": \"high_angle_looking_down\",\n    \"grounding_effect\": {\n      \"technique\": \"contact_shadows_under_legs\",\n      \"placement\": \"on_background_surface\"\n    }\n  },\n\n  \"pose\": {\n    \"_hint\": \"Dual pointing: Left Hand -> Name, Right Hand -> 'Follow' Button.\",\n    \"pose_style\": \"sitting_cross_legged_or_kneeling\",\n    \"head_position\": \"tilted_back_looking_at_camera\",\n    \"hands_configuration\": {\n      \"style\": \"dual_index_finger_pointing\",\n      \"left_hand\": {\n        \"action\": \"pointing_at_account_name\",\n        \"target_location\": \"top_left_area\"\n      },\n      \"right_hand\": {\n        \"action\": \"pointing_at_follow_button\",\n        \"target_location\": \"top_right_area\",\n        \"specific_focus\": \"indicate_the_word_Follow\"\n      }\n    }\n  },\n\n  \"constraints\": {\n    \"text_must_spell_Follow_correctly\": true,\n    \"no_gibberish_text\": true,\n    \"no_chinese_characters_on_button\": true,\n    \"hands_must_not_block_the_word_Follow\": true\n  }\n}",
+      "原始效果，重大更新。\n\n宣传效果 v2.0\n\n根据评论区分享的图片，我修复了一些问题，并调整了结果的呈现方式。\n\nv2.0 更新内容：  \n1. 角色现在以全身形式展示。  \n2. 运行提示词时，会检测你的个人主页截图是否包含“Follow”按钮。如果缺失，将自动生成该按钮，并确保按钮文字为“Follow”。  \n3. 姿势已更新：一只手指向你的账号名称，另一只手指向“Follow”按钮。\n\n使用方法：  \n1. 选择一张你想要应用此效果的角色图像。  \n2. 上传一张你的个人主页截图。  \n3. 复制并粘贴本提示词。\n\n注意事项：  \n1. 由于角色将以全身形式呈现，如果你的参考图未包含脚部，系统将自动生成脚部。但生成效果可能不佳，因此建议使用包含完整脚部的全身参考图。  \n2. 个人主页截图的最佳宽高比为 3:4。\n\n——\n\n精确合成叠加双互动英文界面编辑类型：\n\n基础逻辑：角色坐在背景界面上。背景整体保持不变，仅允许修改按钮上的文字。  \n模式：图像合成  \n参考图像：前景为角色参考图，背景画布为个人主页截图  \n一致性要求：角色保真度高，背景结构严格保留原有布局  \n\n强制英文界面文本：  \n关键要求：无论原始截图中的按钮文字为何，必须确保按钮文字为英文“Follow”。  \n目标元素：右上角操作按钮  \n强制文字：“Follow”  \n语言：英文  \n字体样式：无衬线、粗体、清晰可读  \n修正策略：若原始文字非“Follow”，则覆盖为“Follow”  \n\n背景保留策略：  \n背景视为刚性平面，仅允许添加角色接触阴影和替换按钮文字。  \n保留策略：严格保留原始像素  \n允许的修改项：角色腿部下方的真实接触阴影、按钮文字替换为“Follow”  \n\n摄像与光照：  \n视角：高角度俯视  \n接地效果：在背景表面添加腿部下方的接触阴影  \n\n姿势设定：  \n姿势风格：盘腿坐或跪坐  \n头部姿态：略微后仰，直视镜头  \n双手配置：双食指指向动作  \n- 左手指向账号名称，目标区域为左上角  \n- 右手指向“Follow”按钮，目标区域为右上角，特别强调指向“Follow”文字  \n\n约束条件：  \n- 按钮文字必须正确拼写为“Follow”  \n- 不得出现乱码文字  \n- 按钮上不得出现中文字符  \n- 手部不得遮挡“Follow”文字"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "BeautyVerse",
+      "url": "https://x.com/BeautyVerse_Lab/status/2014271293349327251"
+    },
+    "status": 1,
+    "tags": [
+      "character",
+      "portrait",
+      "ui"
+    ],
+    "title": "角色全身展示，指向Follow按钮",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014263398952026489_0.jpg",
+    "create_time": 1769072792000,
+    "description": "在印尼泗水废弃火车场，一面布满剥落油漆与裂痕的混凝土墙上，巨幅街头壁画中的人物仿佛破壁而出，与站在锈迹铁轨前的真实青年形成戏剧性互动，热带阳光强化了粗粝质感与景深。",
+    "id": "2014263398952026489",
+    "images": [
+      "/images/2026-01-22/2014263398952026489_0.jpg"
+    ],
+    "likes": 309,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "hyper-realistic photo, 8k, low-angle wide lens, looking up at massive concrete graffiti wall, derelict train yard, urban Surabaya Indonesia, real location gritty Southeast Asian industrial zone, harsh direct tropical sunlight, strong shadows, ultra-detailed textures, peeling paint, cracked concrete, dust and rust\n\ngiant photorealistic street art mural covering entire wall, subject painted as mural using uploaded face reference, upper body and head breaking from 2D graffiti into 3D reality, seamless 2D-to-3D transition, rebellious smirk, intense eye contact, cinematic realism\n\npainted section wearing colorful spray-paint stained hoodie and cap, dripping paint, vibrant layered tags, bold Indonesian street art style, chaotic color splashes, detailed aerosol strokes\n\nyoung man using my identity, realistic 3D human, standing in front of the wall, facing viewer, confident stance, casual urban outfit, finger pointing toward exact mural location, interaction between real person and painted self, scale contrast emphasizing massive wall\n\nforeground rusted train tracks, discarded spray cans, concrete debris, weeds between rails, depth and perspective emphasis, sharp focus, high dynamic range, ultra high quality, cinematic composition, award-winning photography, zeiss optics, RAW photo look.",
+      "超写实照片，8K分辨率，低角度广角镜头，仰视一面巨大的混凝土涂鸦墙，位于印度尼西亚泗水一处废弃的火车场，真实地点——充满粗粝感的东南亚工业区，强烈的直射热带阳光，浓重阴影，极致细节纹理，剥落的油漆，开裂的混凝土，灰尘与锈迹。\n\n整面墙覆盖着巨幅逼真街头艺术壁画，壁画主体使用上传的人脸参考图像绘制，其上半身与头部从二维涂鸦中突破进入三维现实，实现无缝的2D到3D过渡，带着叛逆的微笑，目光锐利直视观者，呈现电影级写实效果。\n\n壁画部分身穿色彩鲜艳、沾满喷漆污渍的连帽衫和帽子，油漆滴落，层次丰富的鲜艳标签，鲜明的印尼街头艺术风格，混乱而生动的色彩泼溅，精细的喷雾笔触。\n\n一位使用我身份的年轻人，逼真的3D人物，站在墙前正对观众，姿态自信，穿着休闲都市服饰，手指指向壁画的确切位置，真实人物与壁画自我之间形成互动，通过比例对比突显墙体的巨大。\n\n前景为生锈的铁轨、丢弃的喷漆罐、混凝土碎块，铁轨间长出杂草，强调景深与透视感，画面锐利聚焦，高动态范围，超高画质，电影级构图，获奖级摄影水准，蔡司镜头拍摄，呈现RAW原片质感。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "simeon-sanai",
+      "url": "https://x.com/Naiknelofar788/status/2014263398952026489"
+    },
+    "status": 1,
+    "tags": [
+      "photography",
+      "urban",
+      "cinematic"
+    ],
+    "title": "巨大的混凝土涂鸦墙",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014152558890324048_0.jpg",
+    "create_time": 1769046365000,
+    "description": "探索一个由针毡羊毛构建的超现实电影景深世界，这里有坐着划船的毛毡娃娃和兔子伙伴，背对视角专注钓鱼的角色，以及在绵羊环绕中漫步于弯曲小路的场景。每个细节都充满了柔和色彩和细腻质感。",
+    "id": "2014152558890324048",
+    "images": [
+      "/images/2026-01-22/2014152558890324048_0.jpg",
+      "/images/2026-01-22/2014152558890324048_1.jpg",
+      "/images/2026-01-22/2014152558890324048_2.jpg",
+      "/images/2026-01-22/2014152558890324048_3.jpg"
+    ],
+    "likes": 301,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "/ ChatGPT \n\nPrompt :\n{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K\",\n      \"aspect_ratio\": \"2:3\",\n      \"render_style\": \"AI-edited, ultra-clean, soft cinematic depth\",\n      \"material_style\": \"needle-felted wool / soft fiber miniature\",\n      \"lighting\": \"soft diffuse lighting, no harsh shadows\",\n      \"focus\": \"shallow depth of field with smooth background blur\",\n      \"color_grading\": \"pastel, muted, calm tones\",\n      \"noise\": \"none\",\n      \"artifacts\": \"none\"\n    },\n\n    \"module_1\": {\n      \"identity\": \"Image 1 – Boat Scene (Front View)\",\n      \"subjects\": {\n        \"primary_character\": {\n          \"form\": \"human-like felt doll\",\n          \"head\": \"round, white wool texture, curly wool hair\",\n          \"face\": \"two small black dot eyes, simple curved smile, faint pink blush on cheeks\",\n          \"clothing\": \"light green knitted sweater\",\n          \"pose\": \"seated, holding a wooden oar with both hands\"\n        },\n        \"secondary_character\": {\n          \"species\": \"rabbit\",\n          \"material\": \"white felt wool\",\n          \"face\": \"small black dot eyes, minimal smile\",\n          \"pose\": \"sitting upright beside the main character\"\n        }\n      },\n      \"environment\": {\n        \"boat\": \"soft green felt boat with rounded edges\",\n        \"water\": \"calm water surface with subtle ripples\",\n        \"foreground\": \"blurred white flower petals partially visible\",\n        \"background\": {\n          \"sky\": \"teal-blue gradient\",\n          \"moon\": \"soft circular light shape, slightly blurred\",\n          \"vegetation\": \"rounded green felt bushes\"\n        }\n      },\n      \"camera\": {\n        \"angle\": \"eye-level\",\n        \"distance\": \"medium close-up\",\n        \"focus\": \"sharp on characters, blurred background\"\n      }\n    },\n\n    \"module_2\": {\n      \"identity\": \"Image 2 – Fishing by Lake (Rear View)\",\n      \"subjects\": {\n        \"primary_character\": {\n          \"form\": \"human-like felt doll\",\n          \"color\": \"soft blue wool texture\",\n          \"pose\": \"seated facing away from camera\",\n          \"action\": \"holding a thin fishing rod angled toward water\"\n        },\n        \"secondary_character\": {\n          \"species\": \"small lamb\",\n          \"material\": \"white felt wool\",\n          \"pose\": \"sitting beside the main character, facing the lake\"\n        }\n      },\n      \"environment\": {\n        \"ground\": \"rounded grassy felt hill\",\n        \"water\": \"still lake surface\",\n        \"background\": {\n          \"landscape\": \"soft blurred green hills\",\n          \"sky\": \"light blue with faint white clouds\"\n        }\n      },\n      \"camera\": {\n        \"angle\": \"rear perspective\",\n        \"distance\": \"medium-wide\",\n        \"focus\": \"subjects slightly sharper than background\"\n      }\n    },\n\n    \"module_3\": {\n      \"identity\": \"Image 3 – Path with Sheep\",\n      \"subjects\": {\n        \"primary_character\": {\n          \"form\": \"human-like felt doll\",\n          \"head\": \"round white wool head\",\n          \"clothing\": \"red felt sweater, green pants\",\n          \"pose\": \"standing with hands clasped behind back\",\n          \"orientation\": \"facing away from camera\"\n        },\n        \"animals\": [\n          {\n            \"species\": \"sheep\",\n            \"material\": \"white felt wool\",\n            \"quantity\": \"multiple\",\n            \"positions\": \"distributed on both sides of the path\"\n          }\n        ]\n      },\n      \"environment\": {\n        \"path\": \"curving white felt path\",\n        \"terrain\": \"rolling green felt hills\",\n        \"background\": {\n          \"trees\": \"conical dark green felt trees\",\n          \"sky\": \"light gray-white gradient\"\n        }\n      },\n      \"camera\": {\n        \"angle\": \"slightly elevated\",\n        \"distance\": \"medium shot\",\n        \"focus\": \"sharp subject, soft background blur\"\n      }\n    }",
+      "全局设置：\n分辨率：8K，\n纵横比：2:3，\n渲染风格：经过AI编辑的，超清晰，柔和的电影景深，\n材质风格：针毡羊毛/柔软纤维微缩模型，\n照明：柔和的漫射光，没有强烈的阴影，\n焦点：浅景深与平滑的背景模糊，\n色彩分级：粉彩、低饱和度、平静色调，\n噪点：无，\n伪影：无。\n\n模块1：\n身份：图像1 – 船只场景（正面视角），\n主要角色：\n形态：类似人类的毛毡娃娃，\n头部：圆形，白色羊毛质感，卷曲的羊毛头发，\n脸部：两个小黑点眼睛，简单的弯曲微笑，脸颊上有淡淡的粉色腮红，\n穿着：浅绿色针织毛衣，\n姿势：坐着，双手握着一个木桨。\n次要角色：\n种类：兔子，\n材料：白色毛毡羊毛，\n脸部：小黑点眼睛，最小化的微笑，\n姿势：坐在主要角色旁边，直立坐姿。\n\n环境：\n船只：边缘圆润的柔软绿色毛毡船，\n水面：有微妙波纹的平静水面，\n前景：部分可见的模糊白色花瓣，\n背景：\n天空：青蓝色渐变，\n月亮：形状柔和的圆形光，稍微模糊，\n植被：圆形绿色毛毡灌木丛。\n相机：\n角度：视线水平，\n距离：中等特写，\n焦点：人物锐利，背景模糊。\n\n模块2：\n身份：图像2 – 湖边钓鱼（背面视角），\n主要角色：\n形态：类似人类的毛毡娃娃，\n颜色：柔软的蓝色羊毛质感，\n姿势：背对相机坐着，\n动作：手持细长钓竿向水面倾斜。\n次要角色：\n种类：小羊羔，\n材料：白色毛毡羊毛，\n姿势：坐在主要角色旁边，面向湖泊。\n\n环境：\n地面：圆形的草色毛毡小山，\n水面：静止的湖面，\n背景：\n景观：柔和模糊的绿色小山，\n天空：浅蓝带有淡白色云朵。\n相机：\n角度：后方视角，\n距离：中远距离，\n焦点：主体比背景略为清晰。\n\n模块3：\n身份：图像3 – 羊群小径，\n主要角色：\n形态：类似人类的毛毡娃娃，\n头部：圆形白色羊毛头，\n穿着：红色毛毡毛衣，绿色裤子，\n姿势：双手交叠在背后站立，\n朝向：背对相机。\n动物：\n种类：绵羊，\n材料：白色毛毡羊毛，\n数量：多个，\n位置：分布在路径两侧。\n\n环境：\n路径：弯曲的白色毛毡小路，\n地形：起伏的绿色毛毡丘陵，\n背景：\n树木：锥形深绿色毛毡树，\n天空：浅灰色到白色的渐变。\n相机：\n角度：略微抬高，\n距离：中景，\n焦点：主体清晰，背景柔化。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ShaHid WaNii",
+      "url": "https://x.com/meng_dagg695/status/2014152558890324048"
+    },
+    "status": 1,
+    "tags": [
+      "chinese-style",
+      "miniature",
+      "soft-fiber"
+    ],
+    "title": "毛毡微缩世界：船行、垂钓与羊群小径",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-21/2014104469638701504_0.jpg",
+    "create_time": 1769034900000,
+    "description": "在这个3D微缩场景中，实验台被改造成一个高端的品鉴站，展示着切洛烤肉的所有食材与化学反应路径。每种食材置于独立的实验室玻璃器皿中，并通过细玻璃管连接，揭示了从原料到美食转变的秘密。",
+    "id": "2014104469638701504",
+    "images": [
+      "/images/2026-01-21/2014104469638701504_0.jpg",
+      "/images/2026-01-21/2014104469638701504_1.jpg",
+      "/images/2026-01-21/2014104469638701504_2.jpg"
+    ],
+    "likes": 187,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "<instruction> chelo kebab\n Input A: photo or dish name .\n\nInput A: Analyze the dish’s full ingredient list, key flavor compounds, and major chemical processes (Maillard, caramelization, emulsification, denaturation) involved in cooking it.\n\nOptional Input B: style reference (sterile pharmaceutical lab / Muji minimalism). If missing, choose “sleek modern chemistry lab meets high end coffee-table still life.”\n\nGoal: Create an isometric 3D diorama of a lab bench converted into a tasting station for the dish. Each ingredient is in its own piece of lab glassware, labeled with culinary + chemical information, connected by thin glass tubing showing reaction pathways.\n\nRules:\n\nNeutral background, matte light gray or off-white, very soft shadows.\n\nCentral elevated platform holds a perfect, plated version of the final dish on a white porcelain plate.\n\nAround it, arrange 10–16 pieces of glassware (Erlenmeyer flasks, beakers, petri dishes, volumetric flasks, test tubes in racks).\n\nEach glass item contains:\n\nRealistic ingredient specimen (raw or prepared)\n\nSmall label strip with:\n\nIngredient common name in bold\n\nScientific/Latin name in smaller text\n\nPrimary flavor molecule name + tiny skeletal formula icon\n\nFine glass tubing connects certain vessels, with small arrow icons and micro text like “Maillard,” “Emulsion,” “Hydrolysis” indicating key reactions.\n\nUse subtle color coding in the label stickers (no big boxes):\n\nUmami (deep red line)\n\nSweet (soft pink line)\n\nSour (pale yellow line)\n\nBitter (sage green line)\n\nFat (warm orange line)\n\nAromatic (lavender line)\n\nInclude one open lab notebook on the bench with a hand-drawn reaction scheme and cooking notes in fountain-pen ink.\n\nTypography: clean sans-serif like Helvetica Neue, thin weights, lots of white space on labels.\n\nGlassware is ultra-clear with realistic specular highlights, liquid menisci, and slight distortions.\n\nNo visible human figures, just gloved hands blurred in the deep background (optional).\n\nOutput: ONE image, 4:5 aspect ratio, high-end product / editorial photography style, isometric or ¾ angle, soft studio lighting, hyper realistic materials.\n</instruction>",
+      "<instruction> 切洛烤肉（Chelo Kebab）  \n输入 A：菜品照片或名称。\n\n输入 A：分析该菜肴的完整配料清单、关键风味化合物，以及烹饪过程中涉及的主要化学反应（美拉德反应、焦糖化、乳化、变性）。\n\n可选输入 B：风格参考（无菌制药实验室 / 无印良品极简主义）。若未提供，则采用“现代 sleek 化学实验室 × 高端咖啡桌静物”的混合风格。\n\n目标：创作一个等距视角的3D微缩场景，将实验台改造为该菜肴的品鉴站。每种食材分别置于独立的实验室玻璃器皿中，贴有包含烹饪与化学信息的标签，并通过细玻璃管连接，展示反应路径。\n\n规则：\n\n- 背景中性，哑光浅灰或米白色，阴影极柔和。\n- 中央高台上放置一道完美装盘的成品菜肴，置于白瓷盘中。\n- 周围布置10至16件玻璃器皿（锥形瓶、烧杯、培养皿、容量瓶、试管架上的试管等）。\n- 每件玻璃器皿内含：\n  - 真实的食材样本（生或已处理）\n  - 小标签条，包含：\n    - 食材通用名（加粗）\n    - 科学/拉丁学名（较小字号）\n    - 主要风味分子名称 + 微型结构式图标\n- 细玻璃管连接特定容器，附带小箭头图标和微型文字（如“美拉德”、“乳化”、“水解”），标明关键反应。\n- 标签贴纸采用微妙的色标（不使用大色块）：\n  - 鲜味（深红线）\n  - 甜味（柔粉色）\n  - 酸味（淡黄线）\n  - 苦味（鼠尾草绿线）\n  - 油脂（暖橙线）\n  - 芳香（薰衣草紫线）\n- 实验台上放置一本打开的实验笔记本，内有手绘反应图示和钢笔书写的烹饪笔记。\n- 字体：干净的无衬线体（如 Helvetica Neue），细字重，标签留白充足。\n- 玻璃器皿极度通透，呈现真实镜面高光、液体弯月面及轻微折射变形。\n- 不出现人物，仅可在深远背景中模糊呈现戴手套的手（可选）。\n\n输出：单张图像，4:5 纵横比，高端产品/杂志摄影风格，等距或3/4视角，柔光影棚照明，材质超写实。  \n</instruction>"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Gadgetify",
+      "url": "https://x.com/Gdgtify/status/2014104469638701504"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "food",
+      "sci-fi"
+    ],
+    "title": "切洛烤肉的科学烹饪站",
+    "update_time": 1769171959593
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013818059929301156_0.jpg",
+    "create_time": 1768966615000,
+    "description": "这幅肖像以细腻流动的线条与缝合针迹描绘了一位20岁出头的年轻男子，其锐利而自信的五官和街头风格服饰皆通过独特的线艺手法呈现。背景抽象干净，突出了主体。",
+    "id": "2013818059929301156",
+    "images": [
+      "/images/2026-01-21/2013818059929301156_0.jpg",
+      "/images/2026-01-21/2013818059929301156_1.jpg"
+    ],
+    "likes": 127,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A young stylish man in his early 20s created in a thread art illustration style. His portrait is formed entirely from fine, flowing threads and stitched lines, weaving together to shape his face and body. The threads vary in thickness and direction, creating depth, texture, and motion. His expression is calm and confident, with sharp facial features subtly defined through layered stitching rather than solid lines.\nHe wears a modern street style outfit suggested through patterns of thread: a relaxed jacket, simple t shirt, and tailored pants, all represented using interwoven lines. The color palette is minimal and elegant, using black, charcoal, beige, and muted earth tones. The background is clean and abstract, with loose thread patterns fading softly into the space, keeping focus on the figure.\nThe overall aesthetic is artistic, modern, and high fashion, blending embroidery inspired craftsmanship with a contemporary digital art look.",
+      "一位20岁出头的时尚年轻男子，以线艺插画风格呈现。他的肖像完全由细腻流动的线条与缝合针迹构成，交织出面部与身体轮廓。线条粗细与方向各异，营造出深度、质感与动感。他神情冷静自信，锐利的五官通过层层叠加的缝线而非实线巧妙勾勒。\n\n他身着现代街头风格服饰，以线迹图案暗示：宽松夹克、简约T恤与剪裁利落的长裤，皆由交错编织的线条表现。配色极简优雅，采用黑色、炭灰、米色及低饱和大地色调。背景干净抽象，松散的线迹图案柔和地融入空间，使焦点集中于人物本身。\n\n整体风格兼具艺术感、现代感与高级时装气质，将刺绣工艺灵感与当代数字艺术视觉巧妙融合。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Kadenn",
+      "url": "https://x.com/Calm_Kadenn/status/2013818059929301156"
+    },
+    "status": 1,
+    "tags": [
+      "line-art",
+      "portrait",
+      "fashion"
+    ],
+    "title": "线艺勾勒的时尚青年肖像",
+    "update_time": 1769171959592
   }
 ]

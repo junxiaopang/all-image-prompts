@@ -436,5 +436,33 @@
     ],
     "title": "温馨可爱的现代女孩角色",
     "update_time": 1768906402666
+  },
+  {
+    "coverImage": "/images/2026-01-21/2013878012694196652_0.jpg",
+    "create_time": 1768980908000,
+    "description": "这是一张基于参考图生成的超高质量3D角色插画，真实再现了脸型、眼睛、发型、服装等细节。背景是柔焦处理的X（Twitter）个人主页界面，主体与背景层次分明，突显出现代简约和高端写实的风格。",
+    "id": "2013878012694196652",
+    "images": [
+      "/images/2026-01-21/2013878012694196652_0.jpg"
+    ],
+    "likes": 114119,
+    "model": "grok-2",
+    "prompts": [
+      "Ultra-high-quality 3D stylized character illustration created from the uploaded reference image.\nCharacter must remain 100% identical to the reference: same face shape, eyes, glasses, hairstyle, skin tone, expression, outfit, jewelry, and pose (arms crossed).\nPixar-inspired but realistic and premium, not cartoonish or chibi.\nSmooth skin, soft blush, big expressive eyes, detailed eyelashes, clean textures, professional studio lighting.\nBackground: a slightly blurred X (Twitter) profile page UI, showing the same profile as in the reference image (name, username, bio, follower count, posts tab).\nThe background must look like a real X profile screenshot, softly blurred for depth, while the character remains sharp and in focus.\nMinimal, modern, influencer-style composition.\nUltra-sharp focus, cinematic depth of field, high-resolution, polished 3D render.\nNo changes to character or profile details.",
+      "超高质量3D风格化角色插画，基于上传的参考图像生成。  \n角色必须与参考图100%一致：包括脸型、眼睛、眼镜、发型、肤色、表情、服装、首饰和姿势（双臂交叉）。  \n风格受皮克斯启发，但需写实且高端，不可卡通化或Q版。  \n皮肤光滑，带有柔和腮红，大而富有表现力的眼睛，细致的睫毛，干净的纹理，专业影棚灯光。  \n背景为略微模糊的X（Twitter）个人主页界面，显示与参考图中相同的资料（姓名、用户名、简介、粉丝数、帖子标签）。  \n背景需呈现真实X主页截图效果，并柔焦以营造景深，角色则保持清晰锐利。  \n构图简约现代，具有网红风格。  \n超锐聚焦，电影级景深，高分辨率，精致的3D渲染效果。  \n不得对角色或个人资料细节做任何更改。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2013878012694196652"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cinematic",
+      "portrait"
+    ],
+    "title": "3D写实风格的社交媒体网红肖像",
+    "update_time": 1769070867844
   }
 ]
