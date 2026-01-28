@@ -544,5 +544,33 @@
     ],
     "title": "可爱3D卡通女孩多彩表情贴纸",
     "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-28/2016392330652336161_0.jpg",
+    "create_time": 1769580369000,
+    "description": "这是一组以皮克斯风格设计的可爱3D卡通女性头像，展现了9种不同的面部表情。角色有着长棕色头发和大眼睛，身穿红色夹克，背景为干净米色。每个表情都充满了情感，从闭眼大笑到挥手问好，细腻的黏土质感与柔和光线让这些表情更加生动。",
+    "id": "2016392330652336161",
+    "images": [
+      "/images/2026-01-28/2016392330652336161_0.jpg"
+    ],
+    "likes": 102,
+    "model": "grok-2",
+    "prompts": [
+      "A cute 3D cartoon female avatar emoji set, Pixar-style character design, soft clay-like texture, smooth lighting, warm pastel color palette. A young girl with long brown hair, fair skin, big expressive eyes, wearing a red jacket over a dark top. 9 different facial expressions arranged in a 3x3 grid: laughing with eyes closed, thinking with finger on chin, peaceful with eyes closed and hearts, angry expression, surprised with mouth open and light bulb idea, friendly neutral smile, crying with tears, shocked expression, waving hello. Clean beige background, soft shadows, high detail, consistent character design, emoji-style faces, studio lighting, ultra-high quality, 4k render.",
+      "一个可爱的3D卡通女性头像表情包，皮克斯风格角色设计，柔软的黏土质感，柔和的光线，温暖的粉彩色调。一位长棕色头发、肤色白皙、拥有大而富有表现力眼睛的年轻女孩，身穿红色夹克搭配深色上衣。包含9种不同面部表情，以3x3网格排列：闭眼大笑、手指托腮思考、闭眼带爱心的平静表情、生气表情、张嘴惊讶并头顶灯泡创意、友善的中性微笑、流泪哭泣、震惊表情、挥手打招呼。背景为干净的米色，带有柔和阴影，细节丰富，角色设计风格统一，表情采用emoji风格，使用影棚灯光，超高质量，4K渲染。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2016392330652336161"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cartoon",
+      "emoji"
+    ],
+    "title": "皮克斯风格的3D卡通女孩表情包",
+    "update_time": 1769606058723
   }
 ]

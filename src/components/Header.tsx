@@ -127,7 +127,7 @@ const Header: React.FC<HeaderProps> = ({ searchTerm, setSearchTerm, isDarkMode, 
 
           {/* GitHub Link */}
           <a
-            href="https://github.com/junxiaopang/image-prompts"
+            href="https://github.com/junxiaopang/all-image-prompts"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 text-gray-500 dark:text-slate-400 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-slate-800 rounded-full transition-colors hidden sm:flex items-center justify-center"
