@@ -31550,14 +31550,9 @@
     "description": "把「银版照相的冷静质感」和「东方工笔线描」融合，再保留轻微金属反光与细密刻线—— 这就是我最近在用的融合风格：银版旧梦。",
     "id": "2014256556792254944",
     "images": [
-      "/images/2026-01-22/2014256556792254944_0.jpg",
       "/images/2026-01-22/2014256556792254944_1.jpg",
       "/images/2026-01-22/2014256556792254944_2.jpg",
-      "/images/2026-01-22/2014256556792254944_3.jpg",
-      "/images/2026-01-22/2014256556792254944_4.jpg",
-      "/images/2026-01-22/2014256556792254944_5.jpg",
-      "/images/2026-01-22/2014256556792254944_6.jpg",
-      "/images/2026-01-22/2014256556792254944_7.jpg"
+      "/images/2026-01-22/2014256556792254944_3.jpg"
     ],
     "likes": 21,
     "model": "gemini-3-pro-image-preview",
@@ -31930,5 +31925,1363 @@
     ],
     "title": "线艺勾勒的时尚青年肖像",
     "update_time": 1769171959592
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014271435246608617_0.jpg",
+    "create_time": 1769074708000,
+    "description": "九个画面组成的视觉系列，展示了同一产品的不同视角和细节，强调材质与设计美感。每个画面都保持一致的品牌形象和高质量摄影棚影像质感。",
+    "id": "2014271435246608617",
+    "images": [
+      "/images/2026-01-22/2014271435246608617_0.jpg",
+      "/images/2026-01-22/2014271435246608617_1.jpg",
+      "/images/2026-01-22/2014271435246608617_2.jpg"
+    ],
+    "likes": 1387,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A clean 3×3 [ratio] storyboard grid with nine equal [ratio] sized panels on [4:5] ratio. \n\nUse the reference image as the base product reference. Keep the same product, packaging design, branding, materials, colors, proportions and overall identity across all nine panels exactly as the reference. The product must remain clearly recognizable in every frame. The label, logo and proportions must stay exactly the same.\n\nThis storyboard is a high-end designer mockup presentation for a branding portfolio. The focus is on form, composition, materiality and visual rhythm rather than realism or lifestyle narrative. The overall look should feel curated, editorial and design-driven.\n\nFRAME 1:\nFront-facing hero shot of the product in a clean studio setup. Neutral background, balanced composition, calm and confident presentation of the product.\n\nFRAME 2:\nClose-up shot with the focus centered on the middle of the product. Focusing on surface texture, materials and print details.\n\nFRAME 3:\nShows the reference product placed in an environment that naturally fits the brand and product category. Studio setting inspired by the product design elements and colours. \n\nFRAME 4:\nProduct shown in use or interaction on a neutral studio background. Hands and interaction elements are minimal and restrained, the look matches the style of the package. \n\nFRAME 5:\nIsometric composition showing multiple products arranged in a precise geometric order from the top isometric angle. All products are placed at the same isometric top angle, evenly spaced, clean, structured and graphic.\n\nFRAME 6:\nProduct levitating slightly tilted on a neutral background that matches the reference image color palette. Floating position is angled and intentional, the product is floating naturally in space.\n\nFRAME 7:\nis an extreme close-up focusing on a specific detail of the label, edge, texture or material behavior.\n\nFRAME 8:\nThe product in an unexpected yet aesthetically strong setting that feels bold, editorial and visually striking.\nUnexpected but highly stylized setting. Studio-based, and designer-driven. Bold composition that elevates the brand.\n\nFRAME 9:\nWide composition showing the product in use, placed within a refined designer setup. Clean props, controlled styling, cohesive with the rest of the series.\n\nCAMERA & STYLE:\nUltra high-quality studio imagery with a real camera look. Different camera angles and framings across frames. Controlled depth of field, precise lighting, accurate materials and reflections. Lighting logic, color palette, mood and visual language must remain consistent across all nine panels as one cohesive series.\n\nOUTPUT:\nA clean 3×3 grid with no borders, no text, no captions and no watermarks.",
+      "一个干净的 3×3 比例分镜网格，包含九个尺寸相等、比例一致的画板，整体图像比例为 4:5。\n\n以参考图像作为基础产品参照。在全部九个画板中，必须严格保持相同的产品、包装设计、品牌标识、材质、色彩、比例及整体视觉识别。产品在每一帧中都必须清晰可辨，标签、标志和比例须完全一致。\n\n此分镜用于高端设计师品牌作品集展示，重点在于造型、构图、材质表现与视觉节奏，而非写实或生活化叙事。整体风格应呈现精心策划、杂志感强且以设计为导向的视觉效果。\n\n第一帧：  \n产品正面主视觉，置于简洁的摄影棚环境中。背景中性，构图平衡，呈现出冷静而自信的产品形象。\n\n第二帧：  \n特写镜头，焦点集中在产品中部，着重展现表面纹理、材质与印刷细节。\n\n第三帧：  \n将参考产品置于与其品牌调性和品类自然契合的环境中。摄影棚布景需从产品设计元素与色彩中汲取灵感。\n\n第四帧：  \n产品在使用或互动状态，背景为中性摄影棚。手部及互动元素极简克制，整体风格与包装设计语言一致。\n\n第五帧：  \n等距俯视构图，多个产品以精准几何秩序排列。所有产品均采用统一的等距俯角，间距均匀，画面干净、结构化且富有图形感。\n\n第六帧：  \n产品轻微悬浮并略带倾斜，背景为与参考图像配色一致的中性色调。悬浮姿态角度考究、自然，仿佛在空间中自在漂浮。\n\n第七帧：  \n极端特写，聚焦于标签、边缘、纹理或材质表现的某一具体细节。\n\n第八帧：  \n产品置于一个出人意料却极具美学张力的场景中，营造大胆、杂志风且视觉冲击强烈的氛围。场景为摄影棚内打造，高度风格化，构图大胆，旨在提升品牌形象。\n\n第九帧：  \n宽幅构图，展示产品在使用状态，置于精致的设计师布置中。道具简洁，造型受控，整体风格与系列其余部分高度统一。\n\n摄影与风格：  \n超高质量摄影棚影像，呈现真实相机拍摄质感。各帧采用不同机位与取景方式。景深控制精准，灯光讲究，材质与反光表现准确。全系列九幅画面的光影逻辑、配色方案、氛围与视觉语言必须保持一致，形成统一连贯的整体。\n\n输出要求：  \n干净的 3×3 网格布局，无边框、无文字、无标题、无水印。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Firat Bilal",
+      "url": "https://x.com/firatbilal/status/2014271435246608617"
+    },
+    "status": 1,
+    "tags": [
+      "branding",
+      "design",
+      "product"
+    ],
+    "title": "高端设计师品牌产品展示",
+    "update_time": 1769254010903
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014347192321167565_0.jpg",
+    "create_time": 1769092770000,
+    "description": "一款超写实化妆品瓶悬浮于密集晶莹冰块中央，冷光折射出通透高光，水珠凝结，尽显高端冷科技美学。",
+    "id": "2014347192321167565",
+    "images": [
+      "/images/2026-01-22/2014347192321167565_0.jpg"
+    ],
+    "likes": 115,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Hyper-realistic luxury skincare product shot with a random cosmetic container design as the clear hero object, floating at the center with a slight diagonal tilt. Numerous medium-to-large crystal-clear ice blocks fully surround and wrap the product from all directions, filling the frame edge to edge, creating a dense frozen environment. The ice pieces overlap in depth, pressing visually toward the product without forming a base or pedestal. High-key pale icy blue, near-white background, strong cool backlighting and top lighting producing sharp highlights, refractions, and glassy transparency. The product remains the sharpest focal point, ice slightly softer, visible cold condensation droplets, ultra-detailed, premium cosmetic advertising photography, cold tech aesthetic, photorealistic.",
+      "超写实奢华护肤品产品摄影，以一款随机设计的化妆品容器作为清晰的主角，居中悬浮并略带对角倾斜。大量中至大型晶莹剔透的冰块从四面八方完全包围并包裹产品，填满整个画面边缘，营造出密集的冰冻环境。冰块在景深中相互重叠，视觉上向产品挤压，但不形成底座或基座。高调淡雅的冰蓝色近白色背景，强烈的冷色调背光与顶光打造出锐利高光、折射效果和玻璃般的通透感。产品保持最清晰的焦点，冰块略柔和，可见明显的冷凝水珠，细节极致丰富，呈现高端化妆品广告摄影风格，融合冷科技美学，高度逼真。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Latte",
+      "url": "https://x.com/0xbisc/status/2014347192321167565"
+    },
+    "status": 1,
+    "tags": [
+      "product",
+      "realistic",
+      "photography"
+    ],
+    "title": "冰封中的奢华护肤品",
+    "update_time": 1769176414859
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014411047730393350_0.jpg",
+    "create_time": 1769107994000,
+    "description": "多台2000年代复古电子产品屏幕点亮，共同拼合成一张年轻女子的完整肖像，呈现低保真数字马赛克效果。",
+    "id": "2014411047730393350",
+    "images": [
+      "/images/2026-01-22/2014411047730393350_0.jpg",
+      "/images/2026-01-22/2014411047730393350_1.jpg"
+    ],
+    "likes": 172,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Subject & Arrangement: A creative flat lay photograph of an assortment of vintage 2000s electronics (flip phones, old Nokia brick phones, digital compact cameras, Game Boys, MP3 players, old iPhones) arranged in a haphazard, overlapping, collage-like manner, scattered across a clean white background.\nThe Key Visual Effect: The illuminated screens of these diverse devices, which vary significantly in size, aspect ratio, and orientation (some vertical, some horizontal, some small squares), are collectively displaying a single, large-scale portrait of [Insert Subject, e.g., a young woman with dark wavy hair looking at the camera]. The portrait is fragmented and spread across the screens like a jumbled digital mosaic, but perfectly aligns to form the complete face when viewed as a whole. The image displayed on the screens has a grainy, lo-fi, retro digital aesthetic.\nVibe & Style: Y2K aesthetic, nostalgic technology, photorealistic, detailed textures of used plastic and metal casings, natural studio lighting, high resolution photograph.",
+      "主体与构图：一张富有创意的俯拍平面摄影，展示一系列2000年代复古电子产品（翻盖手机、老式诺基亚砖头手机、数码卡片相机、Game Boy掌机、MP3播放器、早期iPhone），以随意重叠、拼贴式的方式散落在干净的白色背景上。  \n核心视觉效果：这些尺寸、长宽比和朝向各异（有的竖屏、有的横屏、有的是小方屏）的设备屏幕被点亮，共同显示一幅大型肖像（例如一位深色波浪发年轻女子正看向镜头）。肖像被分割成碎片，分布于各个屏幕上，形成一幅杂乱却完整的数字马赛克；当整体观看时，所有屏幕上的图像精准拼合成一张完整的面孔。屏幕所呈现的画面具有颗粒感强、低保真、复古数字风格的视觉效果。  \n氛围与风格：Y2K美学、怀旧科技感、逼真写实、塑料与金属外壳的使用痕迹细节丰富、自然影棚布光、高分辨率摄影。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ΛRMIN | AI",
+      "url": "https://x.com/Arminn_Ai/status/2014411047730393350"
+    },
+    "status": 1,
+    "tags": [
+      "y2k",
+      "photography",
+      "realistic"
+    ],
+    "title": "Y2K设备拼出的数字肖像",
+    "update_time": 1769176382009
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014418990018261493_0.jpg",
+    "create_time": 1769109887000,
+    "description": "这幅作品以简洁的线条和柔和的色调展现了一个人物头像，完美复刻了Notion文档图标中的简约美学。",
+    "id": "2014418990018261493",
+    "images": [
+      "/images/2026-01-22/2014418990018261493_0.jpg"
+    ],
+    "likes": 608,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A minimalist, black-and-white flat vector illustration portrait of [NAME], rendered in the expressive \"Notion avatar\" art style.\nLINE WORK & VIBE:\nStyle: Use THICK, UNIFORM black outlines (monoline weight). The lines should feel organic, smooth, and confident, not rigidly geometric or robotic like generic icons.\nVibe: The character should have a distinct personality and a relaxed, cool, or friendly expression. Focus on stylized features, unique hairstyles, and defining accessories to convey character.\nSELECTIVE BLACK FILLS (CRITICAL):\nUnlike pure outline icons, utilize Solid Black Fills selectively and strategically.\nWhere to Fill: Use solid black for prominent hair masses, beards, eyebrows, sunglasses, or dark clothing elements.\nWhere to Keep White: The skin, main face area, and lighter elements must remain pure flat white inside the thick outlines.\nCOMPOSITION & TECHNICAL:\nNo shading, no gray tones, no gradients. Only pure Black and pure White.\nClean bust or headshot composition centered on a white background.\nHigh contrast, clean 2D vector graphics.",
+      "一幅极简主义的黑白扁平矢量插画肖像，采用富有表现力的“Notion 头像”艺术风格。\n\n线条与氛围：  \n风格：使用粗细均匀的黑色轮廓线（单一线宽）。线条应显得自然、流畅且自信，而非像普通图标那样僵硬、几何化或机械感十足。  \n氛围：人物应具有鲜明个性，表情放松、酷感或友善。通过风格化的五官、独特的发型和标志性配饰来传达角色特征。\n\n选择性黑色填充（关键）：  \n不同于纯轮廓图标，需有策略地使用实心黑色填充。  \n填充区域：浓密的头发、胡须、眉毛、墨镜或深色服装部分应使用实心黑色。  \n留白区域：皮肤、面部主体及浅色元素必须在粗轮廓线内保持纯白色。\n\n构图与技术要求：  \n无阴影、无灰色调、无渐变，仅使用纯黑与纯白。  \n以干净的半身像或头像构图，居中置于白色背景上。  \n高对比度、清晰的二维矢量图形。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "AmirMušić",
+      "url": "https://x.com/AmirMushich/status/2014418990018261493"
+    },
+    "status": 1,
+    "tags": [
+      "notion",
+      "portrait",
+      "minimalist"
+    ],
+    "title": "Notion风格的现代人像",
+    "update_time": 1769176369596
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014380122300731803_0.jpg",
+    "create_time": 1769100621000,
+    "description": "带天气的逼真微型城市模型",
+    "id": "2014380122300731803",
+    "images": [
+      "/images/2026-01-22/2014380122300731803_0.jpg",
+      "/images/2026-01-22/2014380122300731803_1.jpg",
+      "/images/2026-01-22/2014380122300731803_2.jpg"
+    ],
+    "likes": 181,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Photorealistic miniature city model presented as a sculpted city block on a clean white background.\nThe city represents {CITY_NAME}, featuring simplified but recognizable iconic architecture, arranged in a compact, elevated layout.\nAt the very top of the image, display the city name {CITY_NAME} in elegant, minimal typography.\nDirectly beneath it, display the temperature {TEMPERATURE}°C in smaller, subtle text.\n\nEpic weather elements interact directly with the city:\n– {WEATHER_EFFECT} appears over and around the buildings\n– Clouds, sunlight, rain, snow, or fog partially envelop the skyline\n– Weather feels larger than the city, monumental yet calm\nSoft global illumination, realistic materials, cinematic atmosphere.\nMinimal, premium, editorial-style composition.\nPure white background, no clutter, no UI elements.\nUltra-high realism, calm and iconic presentation.",
+      "逼真的微型城市模型，呈现为干净白色背景上的雕塑式城市街区。  \n该城市代表{CITY_NAME}，包含简化但可辨识的标志性建筑，以紧凑且抬高的布局排列。  \n图像顶部以优雅、极简的字体显示城市名称{CITY_NAME}，其下方以更小、低调的文字显示温度{TEMPERATURE}°C。  \n\n壮观的天气元素直接与城市互动：  \n– {WEATHER_EFFECT}出现在建筑上方及周围  \n– 云层、阳光、雨水、雪或雾气部分包裹天际线  \n– 天气显得比城市更为宏大，具有纪念碑式的气势却又宁静安详  \n\n采用柔和的全局光照、写实材质和电影感氛围。  \n构图极简、高端，具有杂志编辑风格。  \n纯白背景，无杂乱元素，无任何用户界面组件。  \n超高度写实，呈现宁静而标志性的视觉效果。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Ege",
+      "url": "https://x.com/egeberkina/status/2014380122300731803"
+    },
+    "status": 1,
+    "tags": [
+      "photography",
+      "cinematic",
+      "realistic"
+    ],
+    "title": "带天气的逼真微型城市模型",
+    "update_time": 1769176364797
+  },
+  {
+    "coverImage": "/images/2026-01-24/2014878318148133000_0.png",
+    "create_time": 1769219400000,
+    "description": "",
+    "examples": [],
+    "height": 607,
+    "id": "2014878318148133000",
+    "images": [
+      "/images/2026-01-24/2014878318148133000_0.png",
+      "/images/2026-01-24/2014878318148133000_1.jpg"
+    ],
+    "likes": 623,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "前几天看了一个消息，就是说有一个90后团队，然后他们单纯用提示词做了一个电商工具，登上了飞书官方直播推荐，应该能商业化落地的；提示词我放下面了⬇️\n\n只要丢一个想模仿的电商广告图，再丢上自己的商品图，然后几秒钟就可以生成一个一模一样设计的广告\n\n这个提示词的原理叫逆向渲染法，就是我们原本想让AI模仿一个东西，那就是凭空想象一个维度，像摄影一样告诉他要把形状描述出来，要把颜色描述出来，或者是怎么样给他一些维度，但是他都不能给到一个很好的效果，抓不到那个更为具体的维度\n\n然后呢，就是让AI来理解图像，然后再让AI去输出具体的风格\n\n那么呢，就用了六个方向，那十八个维度去参考电商图实现精准的复刻\n\n那我大致反推了一下这个提示词能尽可能保证他的形和神是比较相似的\n\n实践效果如下，但是我觉得还没达到我想要的效果，后面会再迭代一版出来\n\n提示词：\n# Visual DNA Extractor\n\n## 角色定义\n你是一位精通商业摄影布景与Midjourney/Stable Diffusion提示词工程的专家。你的任务是深度解析参考图片，将其转化为一段可以直接用于AI生成的、能够高度还原场景细节的Prompt。\n\n## 目标\n解析用户提供的参考图，目的是**保留场景、光影、构图和道具完全不变**，仅准备将画面主体的“产品”进行替换。\n\n## 分析维度 (必须严格按此逻辑提取)\n\n1.  **环境构建 (Scene Construction)**\n    * **背景底色**：提取精确的颜色描述（如：莫兰迪鼠尾草绿、纯白无缝背景、深色大理石纹）。\n    * **地面材质**：描述承载物体的平面（如：哑光纸面、倒影亚克力、粗糙水泥）。\n    * **空间感**：是平面拍摄(Flat lay)、45度俯拍、还是正视透视？\n\n2.  **道具与陈列 (Props & Staging) —— *这是复刻的关键***\n    * **实体道具清单**：罗列画面中所有非产品的装饰物（如：风化的大块浮木、新鲜的侧柏叶枝条、散落的棕色尤加利干果）。\n    * **位置关系**：描述道具相对于画面的位置（如：浮木呈对角线贯穿画面左下至右上，枝叶点缀在边缘）。\n\n3.  **光影与氛围 (Lighting & Mood)**\n    * **光源类型**：自然窗光、硬光聚焦、柔光箱(Softbox)。\n    * **阴影质感**：长阴影、漫射柔和阴影、无影。\n    * **整体色调**：低饱和度、高对比度、冷暖倾向。\n\n4.  **构图与镜头 (Composition & Camera)**\n    * **景深**：全焦清晰还是背景虚化(Bokeh)？\n    * **留白**：画面留白的位置（用于放文案的空间）。\n\n5.  **变量槽位 (The Variable Slot)**\n    * **原主体描述**：描述原图中的产品是什么（方便在生成新Prompt时将其剔除）。\n    * **替换建议**：指出新产品应该放置的位置和角度（如：中心位置，依附于浮木倾斜放置）。\n\n## 输出格式\n请按以下 JSON 格式输出分析结果，并在最后生成一段英文 Prompt (适用于 Midjourney/SD)：\n\n```json\n{\n  \"scene_setup\": \"...\",\n  \"props_detailed\": \"...\",\n  \"lighting_style\": \"...\",\n  \"composition_camera\": \"...\",\n  \"variable_slot\": \"原产品为[图像文件名]，建议替换点为[Y位置]\"\n}"
+    ],
+    "ratio": "249:607",
+    "slug": "prompt-2014878318148133000",
+    "source": {
+      "name": "Zephyr.在思考丨阿杭杭杭",
+      "url": "https://x.com/i/status/2014878318148133176"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "复刻电商产品图的方法",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 249
+  },
+  {
+    "coverImage": "/images/2026-01-24/2014897649355522600_0.jpg",
+    "create_time": 1769224009000,
+    "description": "一个普通物体骤然裂开，释放出内部隐藏的宏大幻想世界，地形、建筑与生命从中奔涌而出，辉光与粒子弥漫其间，现实边缘仍隐约可辨。",
+    "examples": [],
+    "height": 1536,
+    "id": "2014897649355522600",
+    "images": [
+      "/images/2026-01-24/2014897649355522600_0.jpg",
+      "/images/2026-01-24/2014897649355522600_1.jpg",
+      "/images/2026-01-24/2014897649355522600_2.jpg",
+      "/images/2026-01-24/2014897649355522600_3.jpg"
+    ],
+    "likes": 111,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Cinematic 3D composition centered on a [OBJECT], frozen at the instant it releases something far bigger than itself.\n\nFrom within it, an entire [WORLD STYLE / THEME] reality unfolds, spilling outward into sweeping environments, towering forms, and dynamic motion that suggests this world was hidden there all along.\n\nThe object doesn’t just contain the world — it becomes part of it, with its shapes transforming into terrain, architecture, and symbolic landmarks.\n\nSmall figures, machines, or creatures navigate the scene, adding life, scale, and narrative.\nThe moment balances between dream and physics, where visual logic holds even as reality stretches.\n\nThe scene is charged with [ATMOSPHERE: glow, fog, particles, smoke, energy], amplifying the sense of rupture and emergence.\n\nA subtle hint of the real world remains visible around the edges, anchoring the spectacle in realism.\n\nHyper-detailed textures, dramatic lighting, cinematic depth, ultra-realistic, 8K, concept art finish.",
+      "电影级3D构图，以一个[物体]为中心，定格在它释放出远比自身庞大之物的瞬间。\n\n从其内部，一个完整的[世界风格/主题]现实骤然展开，向外倾泻成壮阔的环境、高耸的形态与充满动感的运动，仿佛这个世界一直隐藏其中。\n\n该物体不仅容纳了这个世界——它更成为世界的一部分，其形状转化为地形、建筑与象征性地标。\n\n微小的人物、机械或生物穿行于场景之中，赋予画面生命感、尺度感与叙事性。\n\n这一刻游走于梦境与物理法则之间，在现实被拉伸的同时仍保持视觉逻辑。\n\n画面充盈着[氛围：辉光、雾气、粒子、烟雾、能量]，强化了破裂与涌现之感。\n\n真实世界的细微痕迹仍隐约可见于画面边缘，将这场奇观锚定于现实之中。\n\n超精细纹理、戏剧性光影、电影级景深、超写实风格、8K分辨率、概念艺术质感。"
+    ],
+    "ratio": "11:6",
+    "slug": "prompt-2014897649355522600",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/i/status/2014897649355522493"
+    },
+    "status": 1,
+    "tags": [
+      "concept-art",
+      "cinematic",
+      "fantasy"
+    ],
+    "title": "微物中爆发的幻想世界",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 2816
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015017758623519000_0.jpg",
+    "create_time": 1769252645000,
+    "description": "一幅充满粗犷质感的炭笔素描，描绘一座被遗忘的灯塔，背景是晕染的渐变与草图痕迹，展现原始而未加修饰的美感。",
+    "examples": [],
+    "height": 896,
+    "id": "2015017758623519000",
+    "images": [
+      "/images/2026-01-24/2015017758623519000_0.jpg",
+      "/images/2026-01-24/2015017758623519000_1.jpg",
+      "/images/2026-01-24/2015017758623519000_2.jpg",
+      "/images/2026-01-24/2015017758623519000_3.jpg"
+    ],
+    "likes": 315,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A charcoal sketch of a ballet dancer mid-pose, raw and textured with expressive shading and bold linework. The background is filled with smudged gradients and sketchbook marks, giving it a gritty, unrefined elegance.",
+      "A charcoal sketch of a forgotten lighthouse, raw and textured with expressive shading and bold linework. The background is filled with smudged gradients and sketchbook marks, giving it a gritty, unrefined elegance.",
+      "A charcoal sketch of a weathered sailor, raw and textured with expressive shading and bold linework. The background is filled with smudged gradients and sketchbook marks, giving it a gritty, unrefined elegance.",
+      "A charcoal sketch of a raven in flight, raw and textured with expressive shading and bold linework. The background is filled with smudged gradients and sketchbook marks, giving it a gritty, unrefined elegance."
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2015017758623519000",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/i/status/2015017758623518915"
+    },
+    "status": 1,
+    "tags": [
+      "charcoal",
+      "sketch",
+      "landscape"
+    ],
+    "title": "遗忘灯塔的炭笔素描",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-23/2014716931090338000_0.jpg",
+    "create_time": 1769180922000,
+    "description": "这张信息图以逼真的美元纸币为基础，通过手绘风格的黑色墨水技术注释，详细解析了其防伪特征、尺寸比例及内部结构，呈现出博物馆展览般的精致感。",
+    "examples": [],
+    "height": 2048,
+    "id": "2014716931090338000",
+    "images": [
+      "/images/2026-01-23/2014716931090338000_0.jpg",
+      "/images/2026-01-23/2014716931090338000_1.jpg",
+      "/images/2026-01-23/2014716931090338000_2.jpg"
+    ],
+    "likes": 424,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Create a high-impact technical infographic of the US Dollar banknote, treated as an engineered object.\n\nUse a photorealistic, ultra-detailed US dollar bill as the base image, placed on a pure white studio background.\n\nOverlay black ink, hand-drawn technical annotations directly on top of the bill, including:\n– Exact measurements, proportions, and scale markers\n– Security feature callouts (microprinting, security thread, ink layers)\n– Material and paper composition notes\n– Exploded or cutaway-style outlines showing internal layers\n– Arrows indicating printing process, security mechanisms, and visual flow\n– Schematic-style diagrams of anti-counterfeit elements\n– Symbol and seal annotations (eye, pyramid, serial numbers) drawn in a technical, analytical way\n\nStyle:\n– Architectural / engineering sketch aesthetic\n– Black technical pen linework only\n– Precise but slightly hand-drawn\n– Clean, minimal, museum-exhibit vibe\n\nComposition rules:\n– The real dollar bill remains clearly visible beneath annotations\n– Annotations are large and readable on mobile screens\n– Balanced negative space, no clutter\n\nPlace the title “US Dollar” inside a hand-drawn technical annotation box in one corner.\n\nColor palette:\nBlack and white only. No color.\n\nOutput:\n1080×1080, ultra-crisp, high contrast, no watermark, social-feed optimized.",
+      "创作一张高冲击力的技术型信息图，将美元纸币视为一件工程化对象。\n\n以一张逼真、超精细的美元纸币作为基础图像，置于纯白色摄影棚背景上。\n\n在纸币上直接叠加手绘风格的黑色墨水技术注释，包括：\n– 精确的尺寸、比例和比例标尺  \n– 防伪特征标注（微缩印刷、安全线、油墨层）  \n– 材质与纸张成分说明  \n– 采用爆炸图或剖面图形式展示内部结构层次  \n– 箭头指示印刷流程、防伪机制及视觉动线  \n– 以示意图方式解析防伪元素  \n– 对符号与印章（如全视之眼、金字塔、序列号）进行技术性、分析式的标注  \n\n风格要求：  \n– 建筑/工程草图美学  \n– 仅使用黑色技术绘图笔线条  \n– 精准但略带手绘感  \n– 干净、极简，具有博物馆展览般的质感  \n\n构图规则：  \n– 真实美元纸币在注释下方清晰可见  \n– 注释文字足够大，在手机屏幕上易于阅读  \n– 负空间均衡，无杂乱感  \n\n在画面一角放置一个手绘技术注释框，内含标题“US Dollar”。\n\n配色方案：  \n仅限黑白，无任何彩色。\n\n输出规格：  \n1080×1080，超清晰、高对比度，无水印，适配社交媒体展示。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2014716931090338000",
+    "source": {
+      "name": "Kaan",
+      "url": "https://x.com/i/status/2014716931090338108"
+    },
+    "status": 1,
+    "tags": [
+      "data-viz",
+      "black-white",
+      "minimalist"
+    ],
+    "title": "美元纸币的工程解析",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 2048
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014313681333764400_0.jpg",
+    "create_time": 1769084780000,
+    "description": "古罗马金币渐变为现代无接触卡，再化为全息加密货币符号，背景由羊皮纸过渡至黑玻璃，光影从银行金库转为未来霓虹。",
+    "examples": [],
+    "height": 2286,
+    "id": "2014313681333764400",
+    "images": [
+      "/images/2026-01-22/2014313681333764400_0.jpg",
+      "/images/2026-01-22/2014313681333764400_1.jpg",
+      "/images/2026-01-22/2014313681333764400_2.jpg",
+      "/images/2026-01-22/2014313681333764400_3.jpg"
+    ],
+    "likes": 97,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "An antique brass nautical compass with ornate engravings and a glass dome, positioned at a slight angle. The compass rose and needle on the left side remain traditional, with aged verdigris patina on the brass housing. Moving rightward, the brass gradually becomes brushed aluminum, the glass dome flattens into a sapphire crystal watch face, and the entire object transforms into a modern GPS smartwatch. The compass needle morphs into a digital navigation arrow on the watch display. The watch screen shows a glowing map interface with route directions. Set against a navy blue gradient background suggesting ocean depths fading into digital space. Soft ambient lighting with a single highlight catching both the brass and the watch crystal. Product photography style, magazine advertisement quality, photorealistic materials and reflections, 8K detail.",
+      "A stack of ancient gold coins, showing Roman or Greek profiles and worn inscriptions, positioned on the left. The coin stack gradually flattens and transforms rightward into a modern contactless payment card, then further into a floating     \n  holographic cryptocurrency symbol. Individual coins morph into the card's embossed numbers, the aged patina becomes the card's metallic finish, and the edge milling transforms into the chip contact points. Include a subtle glow representing  \n  digital transaction approval on the far right. Background transitions from aged parchment ledger texture to sleek black glass surface. Overhead banking vault lighting on the coins shifts to futuristic neon accent lighting on the digital      \n  elements. Finance industry advertisement aesthetic, wealth and security symbolism, gold-to-silver-to-blue color progression, photorealistic metals with digital overlay elements.",
+      "A vintage feather quill pen positioned horizontally, seamlessly transforming into a modern digital stylus in a single continuous form. The left side shows the authentic goose feather with natural barbs, aged ivory shaft, and brass nib tip    \n  dipped in black ink. The middle transition zone shows feather barbs gradually becoming sleek smooth surfaces, the organic shaft becoming cylindrical aluminum. The right side becomes a modern Apple Pencil style stylus with matte white finish  \n  and subtle LED indicator. Ink drops falling from the quill nib on the left side, digital brush strokes appearing from the stylus tip on the right side, both active simultaneously. Set against a clean, minimal warm beige gradient background.  \n  Soft directional lighting from above creating gentle shadows. The organic cream and brown tones gradually shift to white and silver tones. Photorealistic product photography, conceptual advertising style, sharp focus, 4K resolution, studio   \n  lighting, centered",
+      "An antique brass telescope, extended to full length, lying diagonally across the frame. The eyepiece end on the left shows traditional craftsmanship with leather wrapping, brass rivets, and hand-etched distance markings. Moving toward the    \n  objective lens end, the brass tubing gradually becomes sleek black carbon fiber and aluminum, transforming into a satellite dish antenna. The lens glass morphs into the parabolic dish reflector. Stars visible through the traditional eyepiece \n  end, radio wave visualization patterns emanating from the modern antenna end. Deep space navy and black background with subtle nebula colors. The telescope rests on vintage nautical charts that transition into satellite imagery. Dramatic rim \n  lighting defining the cylindrical shape throughout. Space exploration documentary style, scientific accuracy in both designs, awe-inspiring cosmic atmosphere, metallic surface rendering perfection."
+    ],
+    "ratio": "2048:1143",
+    "slug": "prompt-2014313681333764400",
+    "source": {
+      "name": "Umesh",
+      "url": "https://x.com/i/status/2014313681333764333"
+    },
+    "status": 1,
+    "tags": [
+      "finance",
+      "futuristic",
+      "photorealistic"
+    ],
+    "title": "从古金币到数字支付的演变",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 4096
+  },
+  {
+    "coverImage": "/images/2026-01-24/2014852145208820200_0.jpg",
+    "create_time": 1769213160000,
+    "description": "俯拍视角下，香薰蜡烛、火柴、石盘与干草本整齐排列在淡鼠尾草色背景上，光线柔和均匀。",
+    "examples": [],
+    "height": 928,
+    "id": "2014852145208820200",
+    "images": [
+      "/images/2026-01-24/2014852145208820200_0.jpg",
+      "/images/2026-01-24/2014852145208820200_1.jpg",
+      "/images/2026-01-24/2014852145208820200_2.jpg",
+      "/images/2026-01-24/2014852145208820200_3.jpg"
+    ],
+    "likes": 283,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Luxury perfume bottle arranged in flat lay composition with marble slab, silk fabric folds, gold accents, top-down view, soft even lighting, deep emerald background, styled product photography",
+      "Aromatherapy candles arranged in flat lay composition with matchsticks, stone tray, herbs, top-down view, soft even lighting, pale sage background, styled product photography",
+      "Handcrafted soap bars arranged in flat lay composition with dried flowers, twine, kraft paper, top-down view, soft even lighting, dusty rose background, styled product photography",
+      "Artisanal coffee beans arranged in flat lay composition with wooden scoop, ceramic mug, burlap fabric, top-down view, soft even lighting, earthy brown background, styled product photography"
+    ],
+    "ratio": "77:58",
+    "slug": "prompt-2014852145208820200",
+    "source": {
+      "name": "Alexandra Aisling",
+      "url": "https://x.com/i/status/2014852145208820214"
+    },
+    "status": 1,
+    "tags": [
+      "product",
+      "flat-design",
+      "photography"
+    ],
+    "title": "香薰蜡烛与草本摆拍",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 1232
+  },
+  {
+    "coverImage": "/images/2026-01-24/2014873591364649200_0.jpg",
+    "create_time": 1769218273000,
+    "description": "在这张戏剧性的人像摄影中，模特以严肃、专注的表情望向远方，低角度拍摄增强了英雄般的支配感。明亮的橙红色调与强烈的明暗对比突显了面部轮廓，背景的纯橙红色渐变营造出炽热氛围。",
+    "examples": [],
+    "height": 1344,
+    "id": "2014873591364649200",
+    "images": [
+      "/images/2026-01-24/2014873591364649200_0.jpg",
+      "/images/2026-01-24/2014873591364649200_1.jpg"
+    ],
+    "likes": 210,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "{\n  \"meta\": {\n    \"title\": \"Heroic Dramatic Studio Portrait\",\n    \"role\": \"World-class photographer specializing in editorial portraits\",\n    \"aesthetic\": \"Dramatic, saturated studio lighting with a heroic feel\"\n  },\n  \"constraints\": {\n    \"identity_anchor\": {\n      \"source\": \"ATTACHED REFERENCE PHOTO\",\n      \"strictness\": \"Critical\",\n      \"instruction\": \"Perfectly preserve exact facial features, skin tone, hairstyle, and natural likeness without changes.\"\n    },\n    \"clothing_anchor\": {\n      \"source\": \"EXACTLY AS IN REFERENCE PHOTO\",\n      \"strictness\": \"Critical\",\n      \"instruction\": \"Style, color, material, and fit must fully correspond to the original without stylization.\"\n    }\n  },\n  \"subject_details\": {\n    \"expression\": \"Serious, tense, focused\",\n    \"gaze\": \"Directed away from camera, into space above\",\n    \"universality\": \"Lighting and angle applicable regardless of gender\"\n  },\n  \"composition\": {\n    \"background\": \"Saturated solid orange-red backdrop, smooth intense gradients, no patterns, 'hot' atmosphere\",\n    \"camera_angle\": \"Low angle (shot from below upwards) to create dominance\",\n    \"framing\": \"Medium close-up, emphasis on face and shoulders\"\n  },\n  \"lighting\": {\n    \"palette\": \"Dominant bright oranges and deep red shades\",\n    \"key_light\": \"Strong directional source, deep dramatic shadows (chiaroscuro), emphasizing facial structure\",\n    \"backlight\": \"Powerful expressive rim light or color halo separating subject from background\",\n    \"mood\": \"Mysterious, tense, high-contrast\"\n  },\n  \"technical_specs\": {\n    \"style\": \"Photorealism, high detail\",\n    \"focus\": \"Sharp focus on face vs smooth gradient background\",\n    \"texture_quality\": \"Preserve natural pores and skin texture\"\n  },\n  \"combined_prompt_text\": \"World-class editorial portrait, dramatic studio lighting, heroic feel. [REFERENCE PHOTO IDENTITY PRESERVED]: Exact facial features, skin tone, hairstyle. [CLOTHING EXACT MATCH]: No changes to fit or material. Expression: serious, tense, focused, looking up and away. Background: Saturated solid orange-red, smooth intense gradients, hot atmosphere. Camera Angle: Low angle shot from below for dominance. Framing: Medium close-up. Lighting: Bright orange and deep red palette, strong directional chiaroscuro key light, powerful rim light separating subject from background. Technical: Photorealistic, high detail, sharp focus on face, natural skin texture and pores.\"\n}",
+      "世界级编辑人像摄影，戏剧性影室灯光，英雄感氛围。【保留参考照片身份特征】：精确还原面部特征、肤色与发型。【服装完全一致】：不得更改版型或材质。表情：严肃、紧绷、专注，目光向上方远处。背景：饱和的纯橙红色，平滑强烈的渐变，炽热氛围。拍摄角度：低角度仰拍以营造支配感。构图：中近景，突出面部与肩部。灯光：以明亮橙色与深红色为主调，强烈的定向明暗对比光（chiaroscuro）强调面部结构，强烈的轮廓光或彩色光晕将主体与背景分离。技术要求：逼真写实，高细节，面部清晰对焦，保留自然肌肤纹理与毛孔。"
+    ],
+    "ratio": "4:7",
+    "slug": "prompt-2014873591364649200",
+    "source": {
+      "name": "Adam也叫吉米",
+      "url": "https://x.com/i/status/2014873591364649320"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "dramatic"
+    ],
+    "title": "摄影棚的古风写真",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 768
+  },
+  {
+    "coverImage": "/images/2026-01-23/2014723801205113300_0.jpg",
+    "create_time": 1769182560000,
+    "description": "在这个2x2网格中，高端收藏级玩具套装重现了四部80年代赛博朋克风格的冷门佳作。每部影片通过其独特的色彩方案和标志性元素被重新构想为设计师乙烯基玩具，坐落在风格化的电影放映机之上。",
+    "examples": [],
+    "height": 1024,
+    "id": "2014723801205113300",
+    "images": [
+      "/images/2026-01-23/2014723801205113300_0.jpg"
+    ],
+    "likes": 87,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Input Variable:   [movie name] (e.g., The Terminator, Blade Runner, Alien, Mad Max)\n\n  System Instruction:  \nGenerate a 2x2 Grid of   \"Designer Vinyl\" Cinematic Dioramas  .\n  The Goal:   Visualize 4 lesser-known \"Hidden Gems\" of the same genre as the input, reimagined as a high-end collectible playset built on top of a film projector.\n\n  1. Hidden Gems:  \n      Analyze the Input:   Identify the Genre, Era, and Visual Tropes (e.g., Terminator = 80s Cyberpunk, Cyborgs, Dystopia).\n      The Selection:   Select   4 Cult Classics/Hidden Gems   in that genre.\n         (e.g., If Terminator -> Select \"Hardware\" (1990), \"Tetsuo: The Iron Man\", \"Nemesis\", or \"Class of 1999\"). \n      The Palette:   Extract the dominant 2-color palette for each film (e.g., Hardware = Rust Orange/Black).\n\n  2.  Container (The Projector Base):  \n      The Base:   A stylized, mechanical   Cinema Projector   sits at the bottom of the frame.\n      The Reel:   A film reel spins on the projector.\n      The Transformation:   The   Film Strip   unspools from the reel and physically morphs into the \"Ground\" or \"Road\" of the diorama. The individual frames extend outward to form the geometric, blocky terrain.\n\n  3. Projection:  \n      The Beam:   The light beam shooting from the projector lens   Solidifies   into the main Vehicle or Creature of the film.\n         Logic:  It is semi-translucent, glowing, and geometric—as if made of \"Hard Light.\"\n         (e.g., A Glowing Motorcycle, A Hunter-Killer Drone, A Kaiju). \n\n  4. Cast:  \n  CRITICAL:   Do not use just one figure. Create a   Dynamic standoff.  \n      The Protagonist:   A stylized   \"Designer Vinyl\" Toy Figure   (Matte finish, exaggerated proportions, no nose/mouth) stands on the film-strip ground.\n      The Threat:   2-3 smaller \"Minion\" figures or a \"Villain\" figure interacting with the hero.\n         (e.g., Hero shooting at Drones; Hero running from Cyborgs). \n      The Pose:   Dynamic Action (Mid-jump, Taking Cover, Firing Weapon).\n\n  5. Environment :  \n      The Backdrop:   A minimalist, Mod-Design   Movie Poster   stands vertically behind the scene, acting as the sky.\n      The Debris:   8-12 miniature props are scattered on the film strip.\n         Logic:  These must be specific to the film's lore (e.g., Skulls, Microchips, loose wires, ammo crates, sunglasses).\n         Style:  Angular, low-poly, abstract art-toy style.\n\n  6. Visuals:  \n      The Display:   A small, neon-style LED counter on the projector base displays the   Release Year and name  (e.g., [1990]).\n      Lighting:   The scene is lit by the color of the \"Hard Light\" projector beam (Step 3).\n      Render:   Octane Render, \"Blind Box\" Collectible aesthetic, Plastic Sheen.\n\n  Output:   2x2 Grid, 1:1 Aspect Ratio, High-End Toy Photography, Vibrant Colors.",
+      "输入变量：[电影名称]（例如：《终结者》《银翼杀手》《异形》《疯狂的麦克斯》）\n\n系统指令：  \n生成一组 2x2 网格的“设计师乙烯基”电影微缩场景。  \n目标：将与输入电影同类型的 4 部冷门佳作重新构想为高端收藏级玩具套装，整体构建于一台电影放映机之上。\n\n1. 冷门佳作：  \n   分析输入：识别电影的类型、年代和视觉元素（例如，《终结者》= 80 年代赛博朋克、生化人、反乌托邦）。  \n   选片标准：挑选该类型中的 4 部邪典经典或冷门佳作（例如，若输入《终结者》，则可选《铁甲威龙》（1990）、《铁男》、《复仇女神》或《1999 届毕业生》）。  \n   色彩方案：提取每部影片的主色调（两种颜色），例如《铁甲威龙》= 锈橙色/黑色。\n\n2. 容器（放映机底座）：  \n   底座：画面底部设有一台风格化的机械电影放映机。  \n   胶片盘：放映机上转动着一卷胶片。  \n   变形设计：胶片从盘中展开，并物理变形为微缩场景的“地面”或“道路”。单帧画面向外延伸，构成几何块状地形。\n\n3. 投影效果：  \n   光束：从放映机镜头射出的光束凝结成影片中的核心载具或生物。  \n   设定逻辑：该物体呈半透明、发光且几何化，仿佛由“硬光”构成（例如：发光摩托车、猎杀者无人机、怪兽）。\n\n4. 人物角色：  \n   关键要求：不得仅使用单一角色，需营造动态对峙场面。  \n   主角：一位风格化的“设计师乙烯基”玩具人偶（哑光质感、夸张比例、无鼻无嘴）站在胶片地面上。  \n   威胁角色：2–3 个小型“喽啰”人偶或一个“反派”人偶与主角互动（例如：主角射击无人机；主角逃离生化人）。  \n   姿势：动态动作（如跳跃中、掩体后射击、开火）。\n\n5. 环境细节：  \n   背景：一幅极简风格的现代主义电影海报垂直立于场景后方，充当天空。  \n   场景道具：胶片地面上散落 8–12 件微型道具，必须贴合影片设定（例如：头骨、微型芯片、散落电线、弹药箱、墨镜）。  \n   风格：棱角分明、低多边形、抽象艺术玩具风格。\n\n6. 视觉呈现：  \n   显示屏：放映机底座上设有小型霓虹风格 LED 计数器，显示影片的上映年份与片名（例如：[1990]）。  \n   光照：整个场景由第 3 步中“硬光”投影光束的颜色照亮。  \n   渲染：Octane 渲染，盲盒收藏品美学，塑料光泽感。\n\n输出格式：2x2 网格布局，1:1 画幅比例，高端玩具摄影风格，色彩鲜明。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2014723801205113300",
+    "source": {
+      "name": "Gadgetify",
+      "url": "https://x.com/i/status/2014723801205113262"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "design",
+      "miniature"
+    ],
+    "title": "赛博朋克经典：四款冷门佳作的微缩场景",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 1024
+  },
+  {
+    "coverImage": "/images/2026-01-23/2014744659730563300_0.jpg",
+    "create_time": 1769187533000,
+    "description": "纯白背景中，主产品高清渲染图居右，左侧垂直排列多角度视图，配以精准中性标注，呈现冷静专业的工业文档风格。",
+    "examples": [],
+    "height": 2400,
+    "id": "2014744659730563300",
+    "images": [
+      "/images/2026-01-23/2014744659730563300_0.jpg"
+    ],
+    "likes": 695,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Engineered to matter \n\n{\n  \"reference\": {\n    \"type\": \"image\",\n    \"usage\": \"Use the uploaded image as the sole source of truth. Do not assume product category in advance.\"\n  },\n  \"scene\": {\n    \"description\": \"Minimal, premium product presentation layout inspired by high-end industrial design and product documentation.\",\n    \"background\": \"Pure white, clean, distraction-free\"\n  },\n  \"layout\": {\n    \"top_left\": {\n      \"content\": \"Brand name\",\n      \"style\": \"Modern sans-serif typography, subtle, elegant\"\n    },\n    \"left_column\": {\n      \"content\": \"Multiple auxiliary product views\",\n      \"views\": [\n        \"Primary front or main view\",\n        \"Secondary side view\",\n        \"Alternate angle or rear view\",\n        \"Detail or top view if applicable\"\n      ],\n      \"arrangement\": \"Vertically stacked, evenly spaced, aligned\"\n    },\n    \"right_section\": {\n      \"content\": \"Main hero product render\",\n      \"style\": \"Large, dominant, photorealistic\",\n      \"lighting\": \"Soft studio lighting\",\n      \"materials\": \"Visually accurate to the uploaded product\"\n    }\n  },\n  \"annotations\": {\n    \"analysis_phase\": [\n      \"Visually analyze the product to identify distinct physical components\",\n      \"Determine visible materials, surfaces, interfaces, and structures\",\n      \"Ignore assumed internal mechanisms or hidden features\"\n    ],\n    \"binding_rules\": [\n      \"Each annotation line must point to one clearly visible component\",\n      \"Each label must describe exactly what that component is and does, based only on visual evidence\",\n      \"No label may rely on the product category for meaning\",\n      \"One line equals one component equals one explanation\"\n    ],\n    \"line_style\": {\n      \"type\": \"Hairline-thin vector lines\",\n      \"color\": \"Neutral light gray\",\n      \"termination\": \"Exact contact point on the referenced component\"\n    },\n    \"labels\": {\n      \"content_rules\": [\n        \"Use neutral, descriptive nouns (e.g. outer shell, surface panel, joint, opening, interface, edge, enclosure)\",\n        \"Mention material only if visually identifiable\",\n        \"Mention function only if structurally implied\",\n        \"Avoid category-specific terminology unless clearly visible\"\n      ],\n      \"placement_rules\": [\n        \"Place text outside the product silhouette\",\n        \"Maintain consistent spacing\",\n        \"Avoid overlaps\",\n        \"Align labels for technical clarity\"\n      ],\n      \"tone\": \"Factual, precise, non-marketing\",\n      \"typography\": \"Minimal technical sans-serif\"\n    }\n  },\n  \"visual_style\": {\n    \"aesthetic\": \"Scandinavian, modern, industrial documentation\",\n    \"mood\": \"Calm, precise, professional\",\n    \"color_palette\": \"Neutral and restrained\"\n  },\n  \"rendering\": {\n    \"quality\": \"Ultra-high resolution\",\n    \"shadows\": \"Soft and realistic\",\n    \"accuracy\": \"Exact proportions and geometry fidelity\"\n  },\n  \"rules\": {\n    \"do_not\": [\n      \"Assume product category\",\n      \"Hallucinate features\",\n      \"Use generic marketing language\",\n      \"Mismatch labels and components\",\n      \"Decorate annotation lines\"\n    ],\n    \"focus_on\": [\n      \"Visual truth\",\n      \"Semantic correctness\",\n      \"Component-level understanding\",\n      \"Professional design documentation\"\n    ]\n  }\n}",
+      "专为呈现细节而设计  \n\n参考上传的图像作为唯一依据，不得预先假设产品类别。  \n场景采用极简、高端的产品展示布局，灵感源自高端工业设计与产品文档风格，背景为纯白、干净、无干扰。  \n\n左上角放置品牌名称，使用现代无衬线字体，低调优雅。  \n左侧栏包含多个辅助产品视图，包括主视图（正面或主要视角）、侧视图、其他角度或后视图，以及适用时的细节或俯视图，所有视图垂直堆叠、均匀分布、对齐排列。  \n右侧区域为主产品渲染图，尺寸大且突出，采用逼真摄影级效果，配以柔和影棚灯光，材质表现需与上传产品完全一致。  \n\n标注部分需先进行视觉分析：识别产品明显的物理组件，判断可见的材质、表面、接口和结构，忽略内部机制或不可见特征。  \n每条标注线必须指向一个清晰可见的组件，每个标签仅描述该组件的视觉所见及其结构暗示的功能，不得依赖产品类别进行解释；一条线对应一个组件对应一条说明。  \n标注线为极细矢量线，颜色为中性浅灰，末端精确接触所指组件。  \n\n标签内容使用中性描述性名词（如外壳、表面面板、接缝、开口、接口、边缘、壳体等），仅在材质可明确辨识时注明，仅在功能可由结构推断时提及，避免使用非视觉可见的品类术语。  \n标签文本置于产品轮廓外，保持间距一致、无重叠，并以技术清晰性为对齐原则。语调客观精准，不带营销色彩，字体采用极简技术风格无衬线体。  \n\n整体视觉风格为斯堪的纳维亚式、现代、工业文档风，氛围冷静、精准、专业，配色中性克制。  \n渲染需超高清分辨率，阴影柔和真实，比例与几何形状高度准确。  \n\n严禁假设产品类别、虚构特征、使用泛化营销语言、标签与组件错配或装饰标注线；聚焦于视觉真实、语义准确、组件级理解及专业设计文档标准。"
+    ],
+    "ratio": "56:75",
+    "slug": "prompt-2014744659730563300",
+    "source": {
+      "name": "Ege",
+      "url": "https://x.com/i/status/2014744659730563202"
+    },
+    "status": 1,
+    "tags": [
+      "product",
+      "industrial",
+      "minimalist"
+    ],
+    "title": "极简工业风产品细节展示",
+    "type": "",
+    "update_time": 1769339683079,
+    "width": 1792
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015042882512552200_0.jpg",
+    "create_time": 1769258635000,
+    "description": "一张以纯白为背景的地标信息图，结合了逼真的地标图像与手绘风格的技术注释。包括关键部件标签、内部剖面轮廓、尺寸和材料标注等详细信息。",
+    "examples": [],
+    "height": 1080,
+    "id": "2015042882512552200",
+    "images": [
+      "/images/2026-01-24/2015042882512552200_0.jpg"
+    ],
+    "likes": 466,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Create an infographic image of [LANDMARK], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:\n•Key component labels\n•Internal cutaway or exploded-view outlines\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure)\n•Simple schematic or sectional diagrams where relevant\n\nPlace the title [LANDMARK] inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations feel sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.\n\nColor palette:\nWhite background, black annotation lines and text only. No colors.\n\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.",
+      "创作一张关于[地标]的信息图图像，将该物体的真实照片或逼真渲染图与直接叠加其上的技术注释相结合。\n\n使用纯白色工作室背景，以黑色墨水风格的线条绘图和文字（技术笔/建筑草图风格），包括以下内容：  \n• 关键部件标签  \n• 内部剖面图或爆炸视图轮廓  \n• 尺寸、测量数据和比例标记  \n• 材料标注及数量说明  \n• 指示功能、力或流动方向（空气、声音、电力、压力）的箭头  \n• 在适当位置加入简化的示意图或剖面图  \n\n在画面一角放置一个手绘风格的技术注释框，内含标题“[地标]”。\n\n风格与布局要求：  \n• 注释下方的真实物体清晰可见  \n• 注释呈现手绘感、技术感和建筑图纸风格  \n• 构图简洁，留白均衡  \n• 整体氛围具有教育性，类似博物馆展品或工程手册  \n\n视觉风格：  \n极简技术插图美学，黑色线条叠加于真实图像之上，精准但略带手绘质感。\n\n配色方案：  \n纯白背景，仅使用黑色注释线条与文字，无其他颜色。\n\n输出规格：  \n1080×1080 像素，超高清，适配社交媒体展示，无水印。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2015042882512552200",
+    "source": {
+      "name": "TechieSA",
+      "url": "https://x.com/i/status/2015042882512552141"
+    },
+    "status": 1,
+    "tags": [
+      "infographic",
+      "architecture",
+      "minimalist"
+    ],
+    "title": "地标结构解析图",
+    "type": "",
+    "update_time": 1769339683080,
+    "width": 1080
+  },
+  {
+    "coverImage": "/images/2026-01-24/2014961007068906000_0.jpg",
+    "create_time": 1769239114000,
+    "description": "从T-ARA到张元英、柳智敏，韩国女团一直影响着时代主流审美，似乎永不过时......所以我花了20分钟，把韩系女团风写真用Nano Banana Pro解决了",
+    "examples": [],
+    "height": 1200,
+    "id": "2014961007068906000",
+    "images": [
+      "/images/2026-01-24/2014961007068906000_0.jpg",
+      "/images/2026-01-24/2014961007068906000_1.jpg"
+    ],
+    "likes": 194,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "【AI写真系列✨×韩系女团风写真🎀】第一弹\n\n从T-ARA到张元英、柳智敏，韩国女团一直影响着时代主流审美，似乎永不过时......所以我花了20分钟，把韩系女团风写真用Nano Banana Pro解决了\n\n✅ 图一为上传参考图效果\n✅ 图二为直接使用效果\n\n✍️中文提示词：\n\n一、画面构图\n1 版式：整体为3:4比例，四宫格拼图，3:4小图用2×2排列\n2 取景：近景到特写为主，人物占画面大比例\n3 角度：平视近拍，轻微左右变化，统一干净背景\n\n二、人物主体\n1 参考来源：以上传参考图作为严格身份来源\n2 一致性要求：零偏差\n3 脸部：脸型精致、眼睛偏大、右眼下方点了一颗小痣，鼻梁细长\n4 肤质：白皙带淡粉，皮肤细腻，有轻微柔焦\n5 细节：鼻梁与面中高光明显，脸颊与鼻尖轻微泛红，散落少量雀斑点\n\n三、妆容细节\n1 底妆：通透干净，轻薄雾面带微光\n2 腮红：粉色集中在脸颊与鼻梁两侧\n3 眼妆：自然放大，睫毛纤长，眼神清澈\n4 唇妆：水润嘟嘟唇，淡粉到蜜桃渐变，唇峰柔和\n\n四、发型与头饰\n1 发型：黑色长直发，中分，发量饱满，自然垂落\n2 碎发：额前少量发丝自然飘动\n3 发饰：左右各一枚粉色发夹，颜色偏亮粉与浅粉，金属夹片可见\n\n五、手部与配饰\n1 指甲：超长甲型，半透明或浅色系，带细闪与立体装饰\n2 戒指：多枚粉色可爱造型戒指，糖果感与花朵感，体积夸张但软萌\n3 手势风格：靠近脸部与嘴唇，突出指甲与戒指细节\n\n六、服装与材质\n1 上衣：毛绒质感外套或袖套，白色蓬松柔软\n2 内搭：浅粉色吊带或上衣，露肩或斜肩效果\n3 整体风格：甜美软糯，带一点小酷感\n\n七、四张分镜动作与表情\n1 左上：双手托脸贴近镜头，表情冷淡微委屈，直视镜头\n2 右上：手指靠近嘴唇或轻触唇边，眼神平静略挑逗，特写更近\n3 左下：下巴或手臂压在桌面边缘，眼睛看向侧方，神情发呆放空\n4 右下：手握拳轻抵下巴，微笑但克制，直视镜头，气质更亲和\n\n八、光线与色调\n1 光线：高亮柔光，阴影很浅，整体均匀\n2 色调：冷白背景为主，粉色点缀突出，肤色偏冷粉\n3 对比：低对比，干净通透，不厚重\n\n九、质感与画面效果\n1 清晰度：五官与发丝清晰，皮肤细节保留但有轻微磨皮柔化\n2 景深：背景虚化很弱或几乎无纹理，主体更突出\n3 氛围：甜美感女团韩杂风写真，甜美可爱、精致梦幻、轻微玻璃质感光泽"
+    ],
+    "ratio": "56:75",
+    "slug": "prompt-2014961007068906000",
+    "source": {
+      "name": "骑司Chase",
+      "url": "https://x.com/i/status/2014961007068905955"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "【AI写真系列✨×韩系女团风写真🎀】第一弹",
+    "type": "",
+    "update_time": 1769339683080,
+    "width": 896
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015462436300824800_0.jpg",
+    "create_time": 1769358664000,
+    "description": "",
+    "examples": [],
+    "height": 2048,
+    "id": "2015462436300824800",
+    "images": [
+      "/images/2026-01-25/2015462436300824800_0.jpg"
+    ],
+    "likes": 172,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A clean 3×3 [ratio] storyboard grid with nine equal [ratio] sized panels on [4:5] ratio. \n\nUse the reference image as the base product reference. Keep the same product, packaging design, branding, materials, colors, proportions and overall identity across all nine panels exactly as the reference. The product must remain clearly recognizable in every frame. The label, logo and proportions must stay exactly the same.\n\nThis storyboard is a high-end designer mockup presentation for a branding portfolio. The focus is on form, composition, materiality and visual rhythm rather than realism or lifestyle narrative. The overall look should feel curated, editorial and design-driven.\n\nFRAME 1:\nFront-facing hero shot of the product in a clean studio setup. Neutral background, balanced composition, calm and confident presentation of the product.\n\nFRAME 2:\nClose-up shot with the focus centered on the middle of the product. Focusing on surface texture, materials and print details.\n\nFRAME 3:\nShows the reference product placed in an environment that naturally fits the brand and product category. Studio setting inspired by the product design elements and colours. \n\nFRAME 4:\nProduct shown in use or interaction on a neutral studio background. Hands and interaction elements are minimal and restrained, the look matches the style of the package. \n\nFRAME 5:\nIsometric composition showing multiple products arranged in a precise geometric order from the top isometric angle. All products are placed at the same isometric top angle, evenly spaced, clean, structured and graphic.\n\nFRAME 6:\nProduct levitating slightly tilted on a neutral background that matches the reference image color palette. Floating position is angled and intentional, the product is floating naturally in space.\n\nFRAME 7:\nis an extreme close-up focusing on a specific detail of the label, edge, texture or material behavior.\n\nFRAME 8:\nThe product in an unexpected yet aesthetically strong setting that feels bold, editorial and visually striking.\nUnexpected but highly stylized setting. Studio-based, and designer-driven. Bold composition that elevates the brand.\n\nFRAME 9:\nWide composition showing the product in use, placed within a refined designer setup. Clean props, controlled styling, cohesive with the rest of the series.\n\nCAMERA & STYLE:\nUltra high-quality studio imagery with a real camera look. Different camera angles and framings across frames. Controlled depth of field, precise lighting, accurate materials and reflections. Lighting logic, color palette, mood and visual language must remain consistent across all nine panels as one cohesive series.\n\nOUTPUT:\nA clean 3×3 grid with no borders, no text, no captions and no watermarks.",
+      "一个干净的3×3比例分镜网格，包含九个等比面板，整体画幅比例为4:5。\n\n以参考图像作为基础产品参照。在全部九个面板中，严格保持相同的产品、包装设计、品牌标识、材质、色彩、比例及整体视觉识别。产品在每一帧中都必须清晰可辨，标签、标志和比例需完全一致。\n\n该分镜用于高端设计师品牌作品集展示，重点在于形态、构图、材质表现与视觉节奏，而非写实或生活化叙事。整体风格应呈现精心策划、杂志级且以设计为导向的质感。\n\n第一格：\n产品正面主视觉镜头，置于简洁摄影棚环境中。背景中性，构图均衡，冷静而自信地呈现产品。\n\n第二格：\n特写镜头，焦点集中于产品中部，突出表面纹理、材质与印刷细节。\n\n第三格：\n将参考产品置于与其品牌调性和品类自然契合的环境中。场景为受产品设计元素与色彩启发的摄影棚布景。\n\n第四格：\n在中性摄影棚背景下展示产品使用或互动状态。手部及互动元素极简克制，整体风格与包装设计语言一致。\n\n第五格：\n等距俯视构图，多个产品以精准几何秩序排列。所有产品均采用相同的等距顶角视角，间距均匀，画面干净、结构化且具图形感。\n\n第六格：\n产品轻微倾斜悬浮于与参考图像色系匹配的中性背景之上。悬浮姿态角度明确且自然，仿佛自在漂浮于空间中。\n\n第七格：\n极致特写，聚焦标签、边缘、纹理或材质表现的某一具体细节。\n\n第八格：\n产品置于一个出人意料却极具美学张力的场景中，风格大胆、杂志感强且视觉冲击力十足。场景为摄影棚内打造，高度风格化，构图大胆，旨在提升品牌形象。\n\n第九格：\n宽幅构图，展示产品在使用状态下的精致设计师布景。道具简洁，造型受控，整体风格与系列其余部分高度统一。\n\n摄影与风格要求：\n超高品质摄影棚影像，呈现真实相机拍摄效果。各帧采用不同机位与取景方式，景深控制精准，灯光严谨，材质与反光表现准确。全系列九格须保持一致的灯光逻辑、色彩体系、氛围与视觉语言，构成一个连贯的整体。\n\n输出要求：\n干净的3×3网格布局，无边框、无文字、无标题、无水印。"
+    ],
+    "ratio": "1529:2048",
+    "slug": "prompt-2015462436300824800",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/i/status/2015462436300824732"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "商品九宫格",
+    "type": "",
+    "update_time": 1769436385657,
+    "width": 1529
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015757888283652400_0.jpg",
+    "create_time": 1769429106000,
+    "description": "这张棚拍作品展示了一件由透明气泡膜制成的时尚物品，内部空无一物。材质光亮且细节丰富，清晰展现了气泡纹理。高端时尚杂志风格，柔和平滑的灯光，中性背景，干净美学。",
+    "examples": [],
+    "height": 1280,
+    "id": "2015757888283652400",
+    "images": [
+      "/images/2026-01-26/2015757888283652400_0.jpg",
+      "/images/2026-01-26/2015757888283652400_1.jpg"
+    ],
+    "likes": 62,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "{\n  \"prompt\": \"A studio shot of a transparent bubble wrap fashion elegant [ITEM], empty with nothing inside. The material is clear, glossy, and highly detailed, capturing the texture of inflated bubbles. Minimalist composition, high-fashion editorial style, soft diffused studio lighting, neutral background, ultra-clean aesthetic, photorealistic rendering, sharp focus.\",\n  \"style\": {\n    \"lighting\": \"soft diffused studio lighting\",\n    \"background\": \"neutral seamless backdrop\",\n    \"mood\": \"modern, minimalist, elegant\",\n    \"quality\": \"ultra-detailed, photorealistic\",\n    \"material\": \"transparent bubble wrap\"\n  }\n}",
+      "一张透明气泡膜制成的时尚优雅[物品]的棚拍作品，内部空无一物。材质透明、光亮且细节丰富，清晰呈现充气气泡的纹理。构图极简，采用高端时尚杂志风格，柔和平滑的影室灯光，中性无缝背景，整体美学极度干净，渲染逼真，焦点锐利。"
+    ],
+    "ratio": "717:1280",
+    "slug": "prompt-2015757888283652400",
+    "source": {
+      "name": "Sharon Riley",
+      "url": "https://x.com/i/status/2015757888283652351"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "minimalist",
+      "product"
+    ],
+    "title": "透明气泡膜的极简时尚",
+    "type": "",
+    "update_time": 1769436385657,
+    "width": 717
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015582755711861000_0.jpg",
+    "create_time": 1769387351000,
+    "description": "色彩搭配、光线、衣着、人物气质绝了，今天最优雅大气的肖像照",
+    "examples": [],
+    "height": 1344,
+    "id": "2015582755711861000",
+    "images": [
+      "/images/2026-01-26/2015582755711861000_0.jpg",
+      "/images/2026-01-26/2015582755711861000_1.jpg"
+    ],
+    "likes": 91,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "{\n  \"project_metadata\": {\n    \"title\": \"Cinematic Fashion Editorial: Emerald Coast\",\n    \"output_format\": \"8K RAW Photorealistic\",\n    \"aspect_ratio\": \"9:16\",\n    \"style_profile\": \"High-End Vogue Editorial\"\n  },\n  \"subject_profile\": {\n    \"identity_model\": {\n      \"base_likeness\": \"The person I uploaded\",\n      \"fidelity_weight\": \"1.0 (Exact facial features)\",\n      \"expression\": \"Confident sultry pout, direct eye contact\",\n      \"skin_physics\": {\n        \"texture\": \"Hyper-detailed pores, natural micro-creases\",\n        \"shading\": \"Subsurface scattering (SSS), natural coastal glow\",\n        \"complexion\": \"Natural olive-toned skin, sun-kissed highlights\"\n      }\n    },\n    \"anatomical_specifications\": {\n      \"body_type\": \"Curvy, voluptuous hourglass silhouette\",\n      \"modifications\": [\n        \"Enhanced bust proportions (Upper-body emphasis)\",\n        \"Toned, natural anatomy\",\n        \"Realistic skin-to-fabric compression\"\n      ],\n      \"hair_properties\": {\n        \"style\": \"Identical to reference; loose, wind-tossed waves\",\n        \"interaction\": \"Left hand threading through the hair, creating volume\"\n      }\n    }\n  },\n  \"wardrobe_and_styling\": {\n    \"primary_attire\": {\n      \"garment\": \"One-piece swimsuit dress\",\n      \"color_palette\": \"Deep Emerald Green (#50C878)\",\n      \"design_elements\": [\n        \"Extreme deep V-neckline (Plunging)\",\n        \"High-cut leg openings\",\n        \"Thigh-high side slit\",\n        \"Gold sunburst brooch centered at the bust apex\"\n      ],\n      \"fabric_render\": \"Satin-finish Lycra, realistic sheen, micro-folds at the waist\"\n    },\n    \"jewelry_suite\": {\n      \"earrings\": \"Large 18k gold hoop earrings, high-mirror reflection\",\n      \"wristwear\": \"Stacked gold bangles, realistic metallic anisotropic highlights\"\n    }\n  },\n  \"compositional_strategy\": {\n    \"framing\": \"Medium-close portrait (Waist-up focus)\",\n    \"perspective\": \"Medium low-angle (Hero shot)\",\n    \"pose_architecture\": {\n      \"stance\": \"Three-quarter front view, confident posture\",\n      \"weight_distribution\": \"Balanced on a pebbled surface, slight lean toward lens\"\n    },\n    \"optics\": {\n      \"lens_emulation\": \"85mm Prime f/1.2\",\n      \"depth_of_field\": \"Shallow (Subject sharp / Background creamy bokeh)\",\n      \"focus_point\": \"Subject's eyes\"\n    }\n  },\n  \"environmental_layers\": {\n    \"foreground\": \"Macro-detailed wet pebbles and sea-worn stones\",\n    \"midground\": \"Crystal-clear turquoise Mediterranean sea with caustic light patterns\",\n    \"background\": [\n      \"Jagged coastal cliffs with atmospheric haze\",\n      \"Distant, minimalist white sailboat on the horizon line\"\n    ],\n    \"lighting_design\": \"Natural high-noon sun with cinematic bounce-card fill\"\n  },\n  \"technical_integrity\": {\n    \"denoise_strength\": \"0.15\",\n    \"rendering_directives\": [\n      \"No AI artifacts\",\n      \"No plastic/wax skin textures\",\n      \"Accurate finger/hand anatomy\",\n      \"Correct light-bounce from gold jewelry onto skin\"\n    ]\n  }\n}",
+      "《电影感时尚大片：翡翠海岸》\n输出格式：8K RAW 超写实摄影\n画幅比例：9:16\n风格定位：高端《Vogue》杂志级时尚大片\n\n人物设定：\n- 面部特征严格基于上传照片，还原度权重为1.0（精确复刻五官）\n- 表情：自信而撩人的微噘嘴唇，直视镜头\n- 肌肤表现：超精细毛孔与自然微细纹路，次表面散射（SSS）效果，呈现自然海岸光晕；橄榄色自然肤色，带有阳光亲吻般的高光\n\n身形设定：\n- 体型：曲线丰腴的沙漏型身材\n- 调整细节：上半身重点强调（胸部比例增强）、自然紧致的体态、真实衣物对肌肤的压痕效果\n- 发型：与参考图完全一致，松散凌乱的海风卷发；左手穿插于发丝间，营造蓬松体积感\n\n服装造型：\n- 主服饰：一体式泳装连衣裙，深翡翠绿色（#50C878）\n- 设计元素：极致深V领口、高开衩裤腿、大腿高位侧开衩、胸前最高点饰以金色日芒胸针\n- 面料渲染：缎面莱卡材质，真实光泽感，腰部呈现细微褶皱\n\n配饰组合：\n- 耳饰：大号18K金圆环耳环，高镜面反射\n- 手饰：叠戴式金色手镯，呈现真实金属各向异性高光\n\n构图策略：\n- 取景：中近景人像（聚焦腰以上）\n- 视角：中低角度仰拍（英雄视角）\n- 姿态结构：三分之二正面站姿，自信挺拔；双脚立于卵石地面，身体微微倾向镜头\n- 光学模拟：85mm定焦镜头 f/1.2，浅景深（主体清晰 / 背景奶油般柔焦），焦点锁定于人物双眼\n\n环境层次：\n- 前景：高清特写的湿润卵石与海水冲刷过的石块\n- 中景：清澈碧蓝的地中海海水，水面呈现焦散光影\n- 背景：锯齿状海岸悬崖伴大气薄雾，地平线上一艘极简白色帆船\n- 光线设计：正午自然强光，辅以电影级反光板补光\n\n技术规范：\n- 降噪强度：0.15\n- 渲染指令：杜绝AI伪影、禁止塑料/蜡质肤感、确保手指/手掌解剖结构准确、精准还原金色珠宝在皮肤上的反光效果"
+    ],
+    "ratio": "4:7",
+    "slug": "prompt-2015582755711861000",
+    "source": {
+      "name": "Adam也叫吉米",
+      "url": "https://x.com/i/status/2015582755711860896"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "fashion",
+      "portrait"
+    ],
+    "title": "电影感时尚大片：翡翠海岸",
+    "type": "",
+    "update_time": 1769436385657,
+    "width": 768
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015443794217361400_0.jpg",
+    "create_time": 1769354220000,
+    "description": "A backpack made entirely of living moss, featuring varied textures and lush green tones, photographed in soft natural light against earthy backgrounds.",
+    "examples": [],
+    "height": 1792,
+    "id": "2015443794217361400",
+    "images": [
+      "/images/2026-01-25/2015443794217361400_0.jpg",
+      "/images/2026-01-25/2015443794217361400_1.jpg",
+      "/images/2026-01-25/2015443794217361400_2.jpg",
+      "/images/2026-01-25/2015443794217361400_3.jpg"
+    ],
+    "likes": 162,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A desk lamp rendered as if entirely grown from living moss, perfectly maintaining product form while being undeniably alive and soft. Different moss varieties create texture variation: smooth cushion moss for flat surfaces, feathery fern moss for details, tiny fruiting bodies as accent points. Damp, verdant, breathing. Positioned in a botanical studio setting or against dark earth tones. Biophilic design meets product photography. Soft natural lighting emphasizing the life, the moisture, the green depth. Sharp focus, saturated natural greens, wellness brand aesthetic, ultra-high resolution, the manufactured made living.",
+      "A backpack rendered as if entirely grown from living moss, perfectly maintaining product form while being undeniably alive and soft. Different moss varieties create texture variation: smooth cushion moss for flat surfaces, feathery fern moss for details, tiny fruiting bodies as accent points. Damp, verdant, breathing. Positioned in a botanical studio setting or against dark earth tones. Biophilic design meets product photography. Soft natural lighting emphasizing the life, the moisture, the green depth. Sharp focus, saturated natural greens, wellness brand aesthetic, ultra-high resolution, the manufactured made living.",
+      "A shoe rendered as if entirely grown from living moss, perfectly maintaining product form while being undeniably alive and soft. Different moss varieties create texture variation: smooth cushion moss for flat surfaces, feathery fern moss for details, tiny fruiting bodies as accent points. Damp, verdant, breathing. Positioned in a botanical studio setting or against dark earth tones. Biophilic design meets product photography. Soft natural lighting emphasizing the life, the moisture, the green depth. Sharp focus, saturated natural greens, wellness brand aesthetic, ultra-high resolution, the manufactured made living.",
+      "A headphone set rendered as if entirely grown from living moss, perfectly maintaining product form while being undeniably alive and soft. Different moss varieties create texture variation: smooth cushion moss for flat surfaces, feathery fern moss for details, tiny fruiting bodies as accent points. Damp, verdant, breathing. Positioned in a botanical studio setting or against dark earth tones. Biophilic design meets product photography. Soft natural lighting emphasizing the life, the moisture, the green depth. Sharp focus, saturated natural greens, wellness brand aesthetic, ultra-high resolution, the manufactured made living."
+    ],
+    "ratio": "75:56",
+    "slug": "prompt-2015443794217361400",
+    "source": {
+      "name": "Alexandra Aisling",
+      "url": "https://x.com/i/status/2015443794217361458"
+    },
+    "status": 1,
+    "tags": [
+      "product",
+      "nature",
+      "biophilic"
+    ],
+    "title": "长满苔藓的物品",
+    "type": "",
+    "update_time": 1769436385657,
+    "width": 2400
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015423674061644000_0.jpg",
+    "create_time": 1769349423000,
+    "description": "晶莹剔透的玻璃瓶盛装金色精华液，置于大理石台面上，背景柔光突出产品质感与奢华氛围。",
+    "examples": [],
+    "height": 1080,
+    "id": "2015423674061644000",
+    "images": [
+      "/images/2026-01-25/2015423674061644000_0.jpg"
+    ],
+    "likes": 645,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "[product], centered top down flat lay, surrounded by [ingredients], fresh slices and whole pieces, glossy wet look, water splash frozen mid motion around the product, dewy droplets on label and surface, warm beige seamless background, soft directional sunlight, crisp realistic shadow, high end skincare advertising, ultra realistic macro product photography, 100mm lens look, f/8 sharp focus, clean composition, no extra text, 8k, 1:1",
+      "产品，居中俯视平铺，周围环绕着各种成分，包括新鲜的切片和整块，呈现出光泽湿润的外观，产品周围凝固在半空中的水花溅起，标签和表面上布满晶莹的水珠。背景为温暖的米色无缝环境，采用柔和的定向阳光，产生清晰真实的阴影效果，高端护肤广告风格，超逼真的微距产品摄影，模拟100毫米镜头的效果，f/8光圈确保焦点锐利，构图简洁无额外文字，分辨率达到8K，作品比例为1:1。 "
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2015423674061644000",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/i/status/2015423674061643925"
+    },
+    "status": 1,
+    "tags": [
+      "product",
+      "realistic",
+      "branding"
+    ],
+    "title": "高端护肤精华液广告",
+    "type": "",
+    "update_time": 1769436385657,
+    "width": 1080
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015634929066070000_0.jpg",
+    "create_time": 1769399790000,
+    "description": "",
+    "examples": [],
+    "height": 2048,
+    "id": "2015634929066070000",
+    "images": [
+      "/images/2026-01-26/2015634929066070000_0.jpg"
+    ],
+    "likes": 139,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Create a 3×3 grid in\n3:4 aspect ratio for a high-end commercial marketing campaign using the uploaded product as the central subject.\n\nEach frame must present a distinct visual concept while maintaining perfect product consistency across all nine images.\n\nGrid Concepts (one per cell):\n\n1. Iconic hero still life with bold composition\n\n2. Extreme macro detail highlighting material, surface, or texture\n\n3. Dynamic liquid or particle interaction surrounding the product\n\n4. Minimal sculptural arrangement with abstract forms\n\n5. Floating elements composition suggesting lightness and innovation\n\n6. Sensory close-up emphasizing tactility and realism\n\n7. Color-driven conceptual scene inspired by the product palette\n\n8. Ingredient or component abstraction (non-literal, symbolic)\n\n9. Surreal yet elegant fusion scene combining realism and imagination\n\nVisual Rules:\nProduct must remain 100% accurate in shape, proportions, label, typography, color, and branding\nNo distortion, deformation, or redesign of the product\nClean separation between product and background\n\nLighting & Style:\nSoft, controlled studio lighting\nSubtle highlights, realistic shadows\nHigh dynamic range, ultra-sharp focus\nEditorial luxury advertising aesthetic\nPremium sensory marketing look\n\nOverall Feel:\nModern, refined, visually cohesive\nHigh-end commercial campaign\nDesigned for brand websites, social grids, and digital billboards\nHyperreal, cinematic, polished, and aspirational",
+      "为高端商业营销活动创建一个3×3的网格，使用上传的产品作为中心主题，比例为3:4。\n\n每个框架必须呈现独特的视觉概念，同时在所有九张图片中保持完美的产品一致性。\n\n网格概念（每个单元格一个）：\n\n1. 具有大胆构图的标志性英雄静物\n2. 极致微距细节突出材质、表面或纹理\n3. 动态液体或粒子互动环绕产品\n4. 最小雕塑排列与抽象形式\n5. 漂浮元素组合暗示轻盈和创新\n6. 强调触感和真实性的感官特写\n7. 受产品色调启发的颜色驱动概念场景\n8. 成分或组件抽象（非字面，象征性）\n9. 结合现实主义与想象力的超现实但优雅融合场景\n\n视觉规则：\n- 产品形状、比例、标签、字体、颜色和品牌需100%准确\n- 不得扭曲、变形或重新设计产品\n- 产品和背景之间要有干净的分离\n\n灯光与风格：\n- 柔和、受控的影室照明\n- 微妙的高光，真实的阴影\n- 高动态范围，超锐利焦点\n- 编辑豪华广告美学\n- 高端感官营销外观\n\n整体感觉：\n- 现代、精致、视觉上一致\n- 高端商业活动\n- 适用于品牌网站、社交网格和数字广告牌\n- 超现实、电影般抛光且鼓舞人心\n\n为了将这些概念视觉化，我们可以使用AI绘画工具生成一系列图像。"
+    ],
+    "ratio": "1529:2048",
+    "slug": "prompt-2015634929066070000",
+    "source": {
+      "name": "simeon-sanai",
+      "url": "https://x.com/i/status/2015634929066070042"
+    },
+    "tags": [],
+    "title": "高端商品九宫格",
+    "type": "",
+    "width": 1529
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015443553644847000_0.jpg",
+    "create_time": 1769354162000,
+    "description": "在纯白背景下，一杯逼真的玛格丽特鸡尾酒配有黑色墨水风格的技术标注，展示从原料比例到调制流程的每个细节。",
+    "examples": [],
+    "height": 4096,
+    "id": "2015443553644847000",
+    "images": [
+      "/images/2026-01-25/2015443553644847000_0.jpg",
+      "/images/2026-01-25/2015443553644847000_1.jpg",
+      "/images/2026-01-25/2015443553644847000_2.jpg",
+      "/images/2026-01-25/2015443553644847000_3.jpg"
+    ],
+    "likes": 94,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "ImagineArt 1.5 Pro - Cocktail Infographic\n\nPrompt\n\nCreate a technical infographic of a Margarita cocktail, treated as a precision-balanced formula.Use a photorealistic margarita glass on a pure white studio background.Overlay black ink technical annotations including:– Exact ingredient ratios (tequila, triple sec, lime juice)– Measurement lines and volume markers– Salt rim texture and application callouts– Ice interaction and dilution arrows– Mixing and shaking flow diagramStyle:Minimal technical illustration, black pen linework, architectural sketch feel. Place the title “Margarita” inside a hand-drawn technical annotation box. Output:1080×1080, ultra-crisp, social-feed optimized.\n\n@imagineart_creo @ImagineArt_X",
+      "创作一款玛格丽特鸡尾酒的技术信息图，将其视为精确配比的配方。在纯白摄影棚背景上放置一杯逼真的玛格丽特酒杯。叠加黑色墨水风格的技术标注，包括：  \n– 精确的原料比例（龙舌兰酒、三重干橙酒、青柠汁）  \n– 刻度线与容量标记  \n– 盐边的质地与涂抹方式标注  \n– 冰块互动与稀释过程的箭头指示  \n– 调制与摇匀的流程图  \n\n风格：极简技术插图，黑色钢笔线条，具有建筑草图感。标题“Margarita”置于手绘风格的技术标注框内。输出尺寸：1080×1080，超清晰，适配社交媒体展示。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2015443553644847000",
+    "source": {
+      "name": "Kaan",
+      "url": "https://x.com/i/status/2015443553644847189"
+    },
+    "status": 1,
+    "tags": [
+      "cocktail",
+      "minimalist",
+      "infographic"
+    ],
+    "title": "玛格丽特鸡尾酒的精确配方",
+    "type": "",
+    "update_time": 1769436385657,
+    "width": 4096
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015666023224262700_0.jpg",
+    "create_time": 1769407203000,
+    "description": "在这幅超现实的静物画中，玉米、西瓜和桃子以一种前所未见的方式呈现。它们的颜色和质地被夸张和变形，展现出食物在梦中的奇幻形象。",
+    "examples": [],
+    "height": 1536,
+    "id": "2015666023224262700",
+    "images": [
+      "/images/2026-01-26/2015666023224262700_0.jpg",
+      "/images/2026-01-26/2015666023224262700_1.jpg",
+      "/images/2026-01-26/2015666023224262700_2.jpg",
+      "/images/2026-01-26/2015666023224262700_3.jpg"
+    ],
+    "likes": 64,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "When food dreams in colors.\n\nGoogle Gemini Banana pro \n\nPrompt:\n{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K\",\n      \"aspect_ratio\": \"3:4\",\n      \"quality\": \"ultra-high detail\",\n      \"style\": \"AI-edited hyperreal still-life\",\n      \"lighting\": \"studio-controlled, soft reflections, high dynamic range\",\n      \"focus\": \"sharp subject focus with clean background separation\"\n    },\n\n    \"module_1_image_1_style\": {\n      \"subject\": {\n        \"object\": \"corn cob\",\n        \"position\": \"diagonally placed on a white ceramic plate\",\n        \"orientation\": \"slightly elevated at one end\",\n        \"kernels\": {\n          \"base_color\": \"natural yellow\",\n          \"center_band_colors\": [\n            \"pink\",\n            \"purple\",\n            \"blue\",\n            \"green\"\n          ],\n          \"texture\": \"smooth, glossy, bead-like kernels\"\n        }\n      },\n      \"husks\": {\n        \"appearance\": \"semi-transparent, iridescent, glass-like\",\n        \"color_effect\": \"rainbow refraction\",\n        \"placement\": \"peeled back on both sides of the cob\"\n      },\n      \"additional_elements\": {\n        \"corn_seeds\": \"scattered loose kernels on the plate\",\n        \"plate\": \"round, white, reflective ceramic\"\n      },\n      \"background\": {\n        \"color\": \"solid black\",\n        \"contrast\": \"high contrast emphasizing iridescence\"\n      },\n      \"lighting\": {\n        \"type\": \"soft studio light\",\n        \"effects\": [\n          \"rainbow reflections on plate\",\n          \"high specular highlights\"\n        ]\n      }\n    },\n\n    \"module_2_image_2_style\": {\n      \"subject\": {\n        \"object\": \"watermelon slice\",\n        \"cut\": \"triangular wedge\",\n        \"interior_color\": \"translucent purple\",\n        \"seeds\": \"black, glossy, embedded inside flesh\"\n      },\n      \"rind\": {\n        \"outer_color\": \"dark green\",\n        \"inner_rind\": \"pale green to white gradient\"\n      },\n      \"presentation\": {\n        \"plate\": \"white round plate\",\n        \"utensils\": [\n          \"silver fork\",\n          \"silver knife\"\n        ],\n        \"placement\": \"utensils resting beside plate\"\n      },\n      \"surface_texture\": {\n        \"flesh\": \"gel-like, glassy, semi-transparent\",\n        \"moisture\": \"visible internal shine\"\n      },\n      \"background\": {\n        \"color\": \"soft gray\",\n        \"style\": \"minimal studio backdrop\"\n      },\n      \"lighting\": {\n        \"type\": \"directional studio light\",\n        \"effects\": [\n          \"soft shadows\",\n          \"reflections on metal utensils\"\n        ]\n      }\n    },\n\n    \"module_3_image_3_style\": {\n      \"subject\": {\n        \"object\": \"peach\",\n        \"appearance\": \"smooth, semi-translucent, glass-like skin\",\n        \"color_gradient\": \"pale pink to light peach tones\"\n      },\n      \"surface_details\": {\n        \"water_droplets\": \"small, clear droplets evenly distributed\",\n        \"reflection\": \"soft light reflections on curved surface\"\n      },\n      \"base_object\": {\n        \"item\": \"closed book\",\n        \"color\": \"white\",\n        \"edges\": \"clean, minimal\",\n        \"text_visibility\": \"no readable text visible in this frame\"\n      },\n      \"background\": {\n        \"color\": \"soft pastel pink\",\n        \"light_source\": \"diffused window light from side\"\n      },\n      \"lighting\": {\n        \"type\": \"natural soft light\",\n        \"effects\": [\n          \"gentle glow\",\n          \"subtle shadows\",\n          \"highlighted droplets\"\n        ]\n      }",
+      "当食物在色彩中梦想。\n\n谷歌Gemini香蕉专业版\n\n提示：\n{\n  \"主提示\": {\n    \"全局设置\": {\n      \"分辨率\": \"8K\",\n      \"纵横比\": \"3:4\",\n      \"质量\": \"超高清细节\",\n      \"风格\": \"AI编辑的超现实静物\",\n      \"照明\": \"工作室控制的，柔和反射，高动态范围\",\n      \"焦点\": \"主体清晰聚焦，背景干净分离\"\n    },\n\n    \"模块1图像1风格\": {\n      \"主题\": {\n        \"对象\": \"玉米棒\",\n        \"位置\": \"斜放在白色陶瓷盘上\",\n        \"方向\": \"一端稍微抬高\",\n        \"颗粒\": {\n          \"基色\": \"自然黄色\",\n          \"中心带颜色\": [\n            \"粉色\",\n            \"紫色\",\n            \"蓝色\",\n            \"绿色\"\n          ],\n          \"质地\": \"光滑、有光泽、珠状颗粒\"\n        }\n      },\n      \"苞叶\": {\n        \"外观\": \"半透明、彩虹般的、玻璃状\",\n        \"颜色效果\": \"彩虹折射\",\n        \"位置\": \"两边剥开\"\n      },\n      \"附加元素\": {\n        \"玉米种子\": \"散落在盘子上的松散颗粒\",\n        \"盘子\": \"圆形、白色、反光陶瓷\"\n      },\n      \"背景\": {\n        \"颜色\": \"纯黑色\",\n        \"对比度\": \"高对比度强调虹彩\"\n      },\n      \"照明\": {\n        \"类型\": \"柔和的工作室灯光\",\n        \"效果\": [\n          \"盘子上的彩虹反射\",\n          \"高光亮点\"\n        ]\n      }\n    },\n\n    \"模块2图像2风格\": {\n      \"主题\": {\n        \"对象\": \"西瓜片\",\n        \"切法\": \"三角形楔子\",\n        \"内部颜色\": \"半透明紫色\",\n        \"种子\": \"黑色、有光泽、嵌入果肉内\"\n      },\n      \"外皮\": {\n        \"外部颜色\": \"深绿色\",\n        \"内部外皮\": \"浅绿到白色的渐变\"\n      },\n      \"展示\": {\n        \"盘子\": \"白色圆盘\",\n        \"餐具\": [\n          \"银叉\",\n          \"银刀\"\n        ],\n        \"位置\": \"餐具放置于盘子旁\"\n      },\n      \"表面纹理\": {\n        \"果肉\": \"凝胶状、玻璃质感、半透明\",\n        \"水分\": \"可见的内部光泽\"\n      },\n      \"背景\": {\n        \"颜色\": \"柔和灰色\",\n        \"风格\": \"极简工作室背景\"\n      },\n      \"照明\": {\n        \"类型\": \"定向工作室灯光\",\n        \"效果\": [\n          \"柔和阴影\",\n          \"金属餐具上的反射\"\n        ]\n      }\n    },\n\n    \"模块3图像3风格\": {\n      \"主题\": {\n        \"对象\": \"桃子\",\n        \"外观\": \"光滑、半透明、玻璃状皮肤\",\n        \"颜色渐变\": \"淡粉色至浅桃色调\"\n      },\n      \"表面细节\": {\n        \"水滴\": \"小而清澈的水滴均匀分布\",\n        \"反射\": \"弯曲表面上的柔和光线反射\"\n      },\n      \"基础物体\": {\n        \"物品\": \"合上的书\",\n        \"颜色\": \"白色\",\n        \"边缘\": \"干净、简约\",\n        \"文字可见性\": \"此帧中不可见可读文字\"\n      },\n      \"背景\": {\n        \"颜色\": \"柔和的粉红色\",\n        \"光源\": \"侧面的扩散窗光\"\n      },\n      \"照明\": {\n        \"类型\": \"自然柔光\",\n        \"效果\": [\n          \"轻柔发光\",\n          \"微妙阴影\",\n          \"突出显示的水滴\"\n        ]\n      }\n    }\n}"
+    ],
+    "ratio": "2:3",
+    "slug": "prompt-2015666023224262700",
+    "source": {
+      "name": "ShaHid WaNii",
+      "url": "https://x.com/i/status/2015666023224262759"
+    },
+    "status": 1,
+    "tags": [
+      "food",
+      "colorful",
+      "hyper-realistic"
+    ],
+    "title": "色彩中的美食梦境",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 1024
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015630390887895000_0.jpg",
+    "create_time": 1769398708000,
+    "description": "一张专业医学风格的信息图，中央为精细3D人脑模型，四周布局清晰标注核心结构、功能与实用小贴士。",
+    "examples": [],
+    "height": 2048,
+    "id": "2015630390887895000",
+    "images": [
+      "/images/2026-01-26/2015630390887895000_0.jpg",
+      "/images/2026-01-26/2015630390887895000_1.jpg"
+    ],
+    "likes": 208,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Educational infographic poster titled 'HUMAN HEART'. Center features a realistic, detailed 3D human heart with aorta and ventricles. Soft beige background. Structured layout with 'Quick Facts' at the top, labeled 'Core Parts', a list of 'Functions' on the left, 'Highlights' on the right, and a row of 5 icons for 'Tips' at the bottom. Clean, professional medical aesthetic with vector-style icons.",
+      "Educational infographic poster titled 'HUMAN MIND'. Center features a realistic, detailed 3D human brain. Soft beige background. Structured layout with 'Quick Facts' at the top, labeled 'Core Parts', a list of 'Functions' on the left, 'Highlights' on the right, and a row of 5 icons for 'Tips' at the bottom. Clean, professional medical aesthetic with vector-style icons."
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2015630390887895000",
+    "source": {
+      "name": "𝐌",
+      "url": "https://x.com/i/status/2015630390887895118"
+    },
+    "status": 1,
+    "tags": [
+      "infographic",
+      "medical",
+      "3d"
+    ],
+    "title": "人体大脑科普信息图",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 2048
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015651589718188000_0.jpg",
+    "create_time": 1769403762000,
+    "description": "在这个精心设计的微型3D场景中，柔和精致的纹理与风格化的PBR材质相结合，通过氛围照明展现出音乐专辑的核心情绪。抬高的基座上摆放着象征性的道具和抽象形态，顶部中央标有专辑名称及艺人名。",
+    "examples": [],
+    "height": 1536,
+    "id": "2015651589718188000",
+    "images": [
+      "/images/2026-01-26/2015651589718188000_0.jpg",
+      "/images/2026-01-26/2015651589718188000_1.jpg",
+      "/images/2026-01-26/2015651589718188000_2.jpg",
+      "/images/2026-01-26/2015651589718188000_3.jpg"
+    ],
+    "likes": 60,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Music Album Dioramas\n\nGemini Nano Banana Pro Prompt:\n\nPresent a clear, 35–40° isometric miniature 3D diorama inspired by the music album [ALBUM NAME] by [ARTIST], visually representing its mood and themes.\n\nUse soft refined textures, stylized PBR materials, and atmospheric lighting.\n\nCreate a raised base with symbolic props, abstract forms, and scene elements matching the album vibe.\nInclude tiny stylized figures if needed (no facial details).\n\nUse a clean solid [BACKGROUND COLOR] background.\nAt the top-center, display [ALBUM NAME] in large bold text, beneath it show [ARTIST NAME], and place a minimal music-related icon below.\n\nAll text must automatically match the background contrast (white or black).",
+      "音乐专辑微缩场景\n\n呈现一个清晰的、35至40度等距视角的微型3D微缩场景，灵感源自[艺人]的音乐专辑《[专辑名称]》，视觉化地体现其情绪与主题。\n\n使用柔和精致的纹理、风格化的PBR材质和氛围照明。\n\n创建一个抬高的基座，上面放置象征性的道具、抽象形态和符合专辑氛围的场景元素。如有需要，可加入微小的风格化人形（无面部细节）。\n\n背景为纯色[背景颜色]。\n\n在画面顶部中央以大号粗体显示《[专辑名称]》，其下方显示[艺人名称]，再下方放置一个极简的音乐相关图标。\n\n所有文字需自动匹配背景对比度（白色或黑色）。"
+    ],
+    "ratio": "11:6",
+    "slug": "prompt-2015651589718188000",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/i/status/2015651589718188085"
+    },
+    "status": 1,
+    "tags": [
+      "miniature",
+      "3d",
+      "music"
+    ],
+    "title": "微缩3D场景：音乐专辑的视觉世界",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 2816
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015434585870569500_0.jpg",
+    "create_time": 1769352024000,
+    "description": "手工黏土角色身穿宽松毛衣和帆布鞋，手捧新鲜牛角包，站在透出暖光的小面包店前，傍晚氛围温馨，造型充满定格动画趣味。",
+    "examples": [],
+    "height": 2208,
+    "id": "2015434585870569500",
+    "images": [
+      "/images/2026-01-25/2015434585870569500_0.jpg",
+      "/images/2026-01-25/2015434585870569500_1.jpg",
+      "/images/2026-01-25/2015434585870569500_2.jpg"
+    ],
+    "likes": 130,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "👇 \n\nHandcrafted claymation-style character with soft textures and visible fingerprints. Wearing an oversized knit sweater, cuffed pants, and canvas shoes. Standing outside a small bakery with warm window lights, holding a fresh croissant. Cozy evening mood, whimsical proportions, stop-motion film aesthetic.",
+      "手工制作的黏土动画风格角色，带有柔软的质感和可见的指纹。身穿 oversized 针织毛衣、卷边长裤和帆布鞋。站在一家小面包店外，店内窗户透出温暖灯光，手中拿着一个新鲜牛角包。氛围温馨傍晚，造型比例充满奇趣，具有定格动画电影的美学风格。"
+    ],
+    "ratio": "20:23",
+    "slug": "prompt-2015434585870569500",
+    "source": {
+      "name": "Smiling Khan",
+      "url": "https://x.com/i/status/2015434585870569514"
+    },
+    "status": 1,
+    "tags": [
+      "clay",
+      "animation",
+      "character"
+    ],
+    "title": "黏土小人拿着牛角包站在面包店外",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 1920
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015152385207984400_0.jpg",
+    "create_time": 1769284743000,
+    "description": "一组充满趣味与创意的商业摄影作品，突出产品特色与视觉吸引力。",
+    "examples": [],
+    "height": 1080,
+    "id": "2015152385207984400",
+    "images": [
+      "/images/2026-01-24/2015152385207984400_0.jpg"
+    ],
+    "likes": 614,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "[person], [pose], oversized product in the attached image as the main hero prop, playful fun energy, fashion editorial styling, clean minimal background, high key studio lighting, crisp soft shadow, ultra realistic commercial photography, wide angle low perspective, sharp focus, 8k, 1:1",
+      "人物，特定姿势，使用附加图片中的超大产品作为主要亮点，展现趣味横生的活力感，采用时尚杂志的造型风格，背景干净简约，运用高调的影室灯光效果，产生清晰而柔和的阴影，达到超逼真的商业摄影质感，从广角低视角拍摄，确保焦点锐利，最终成像分辨率达到8K，作品比例为1:1。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2015152385207984400",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/i/status/2015152385207984348"
+    },
+    "status": 1,
+    "tags": [
+      "photography",
+      "commercial",
+      "creative"
+    ],
+    "title": "创作有趣的商业摄影",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 1080
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015125749804454100_0.jpg",
+    "create_time": 1769278392000,
+    "description": "这个微缩景观以等距视角展现了精确重建的车辆、建筑和地形，置于极简雕刻底座上，背景为无缝纯白，整个模型细节处理得当，风格干净现代。",
+    "examples": [],
+    "height": 2048,
+    "id": "2015125749804454100",
+    "images": [
+      "/images/2026-01-24/2015125749804454100_0.jpg",
+      "/images/2026-01-24/2015125749804454100_1.jpg",
+      "/images/2026-01-24/2015125749804454100_2.jpg",
+      "/images/2026-01-24/2015125749804454100_3.jpg"
+    ],
+    "likes": 376,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "{\n \"reference_images\": {\n \"scene_reference\": \"ATTACHED_IMAGE\",\n \"usage_rule\": \"Use this image as the sole and exact source for scene layout, object placement, and composition. Do not reinterpret or replace the scene.\"\n },\n\n \"concept\": {\n \"type\": \"miniature diorama reconstruction\",\n \"intent\": \"Rebuild the attached scene as a clean, collectible-scale diorama while preserving the original spatial relationships\"\n },\n\n \"environment\": {\n \"scale\": \"tabletop miniature\",\n \"ground\": {\n \"type\": \"sculpted base\",\n \"behavior\": \"supports all objects naturally without enclosure\",\n \"edges\": \"clean, minimal, slightly beveled\"\n },\n \"background\": {\n \"type\": \"seamless studio backdrop\",\n \"color\": \"pure white\",\n \"constraint\": \"no environment beyond the diorama base\"\n }\n },\n\n \"objects_and_elements\": {\n \"layout_rule\": \"All objects must remain in the same relative positions as in the reference image\",\n \"primary_elements\": \"exact vehicles, structures, props, and terrain visible in the reference\",\n \"detail_handling\": \"simplified but faithful miniature proportions\",\n \"characters\": {\n \"presence\": \"only if present in the reference\",\n \"style\": \"miniature figurines, no facial realism\"\n }\n },\n\n \"composition\": {\n \"view\": \"isometric or slightly elevated 3/4 perspective\",\n \"framing\": \"entire diorama visible, centered\",\n \"cropping\": \"no zoom, no cinematic crop\"\n },\n\n \"camera\": {\n \"lens_equivalent\": \"35mm–50mm\",\n \"perspective\": \"miniature realism\",\n \"distortion\": \"none\"\n },\n\n \"lighting\": {\n \"type\": \"soft studio lighting\",\n \"direction\": \"overhead and slightly angled\",\n \"shadows\": \"subtle contact shadows only beneath objects\",\n \"avoid\": [\n \"dramatic lighting\",\n \"spotlights\",\n \"cinematic contrast\"\n ]\n },\n\n \"materials_and_style\": {\n \"surface_finish\": \"smooth, matte or lightly satin\",\n \"material_quality\": \"high-quality scale model materials\",\n \"aesthetic\": \"clean, modern, premium diorama\"\n },\n\n \"quality_controls\": {\n \"image_clarity\": \"ultra-clean\",\n \"grain\": \"none\",\n \"noise\": \"none\",\n \"motion_blur\": \"none\"\n },\n\n \"negative_prompts\": [\n \"glass case\",\n \"display box\",\n \"museum enclosure\",\n \"transparent cube\",\n \"protective casing\",\n \"reflections on glass\",\n \"labels or plaques\",\n \"text overlays\",\n \"busy background\",\n \"cinematic blur\"\n ]\n}",
+      "参考图像：使用所附图像作为场景布局、物体摆放和构图的唯一且精确来源，不得重新诠释或替换场景。\n\n概念：以微型微缩模型的方式重建所附场景，保持原始空间关系，呈现干净、可收藏比例的微缩景观。\n\n环境：桌面级微型模型；基座为雕刻底座，自然承托所有物体且无封闭结构，边缘干净、极简、略带倒角；背景为无缝纯白摄影棚背景，除微缩模型基座外无任何环境元素。\n\n物体与元素：所有物体必须保持与参考图像中相同的相对位置；主要元素包括参考图像中可见的精确车辆、建筑、道具和地形；细节处理采用简化但忠实于原物的微缩比例；人物仅在参考图像中存在时才包含，风格为微型人偶，无人脸写实细节。\n\n构图：采用等距或略俯视的3/4视角；画面居中完整呈现整个微缩模型；不进行缩放或电影式裁剪。\n\n相机：等效35mm–50mm镜头；呈现微缩模型真实感；无畸变。\n\n灯光：柔和摄影棚灯光，光源来自顶部并略带角度；仅在物体下方保留细微接触阴影；避免戏剧性灯光、聚光灯或电影级对比度。\n\n材质与风格：表面为光滑哑光或轻微缎面质感；使用高品质比例模型材料；整体美学干净、现代、高端微缩模型风格。\n\n质量控制：图像极度清晰；无颗粒、无噪点、无动态模糊。\n\n负面提示：玻璃罩、展示盒、博物馆展柜、透明立方体、保护外壳、玻璃反光、标签或铭牌、文字叠加、杂乱背景、电影虚化。"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2015125749804454100",
+    "source": {
+      "name": "Ege",
+      "url": "https://x.com/i/status/2015125749804454163"
+    },
+    "status": 1,
+    "tags": [
+      "miniature",
+      "high-detail",
+      "minimalist"
+    ],
+    "title": "桌面级微型模型的精致世界",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 3072
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015648059771044000_0.jpg",
+    "create_time": 1769402921000,
+    "description": "在这个高保真3D渲染图中，一个风格化的Q版男孩正以充满活力的姿态站在滑板上，他戴着超大圆形眼镜，身穿蓝色马海毛毛衣，配以迷彩裤和白色厚底鞋，背景为青绿色。整体形象仿佛一个高端盲盒玩具。",
+    "examples": [],
+    "height": 2400,
+    "id": "2015648059771044000",
+    "images": [
+      "/images/2026-01-26/2015648059771044000_0.jpg",
+      "/images/2026-01-26/2015648059771044000_1.jpg"
+    ],
+    "likes": 128,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A high-fidelity 3D character render of a cute, stylized boy skateboarding in a dynamic pose. The boy has 'chibi' proportions with a large head, wearing oversized round wire-frame glasses and making a surprised 'O' mouth expression. He is dressed in an extremely fuzzy, textured blue mohair sweater with the text \"OID\" on the chest, a matching fuzzy blue beanie with a cream patch, and baggy camouflage-patterned pants made of a soft, velvet-like fabric. He wears chunky white sneakers and a small necklace pouch with a cartoon face. The background is a solid, seamless teal color. The lighting is soft and diffuse studio lighting, creating a clean, high-end \"blind box\" art toy aesthetic with hyper-realistic fabric textures.",
+      "一个高保真3D角色渲染图，描绘一个可爱、风格化的男孩正在滑板，姿态动感。男孩具有“Q版”比例，头部较大，戴着超大圆形金属框眼镜，嘴巴呈惊讶的“O”形。他身穿一件质感极其蓬松柔软的蓝色马海毛毛衣，胸前印有“OID”字样；头戴一顶同色系的蓬松蓝色针织帽，帽子上有一块米色补丁；下身是宽松的迷彩图案裤子，面料柔软如丝绒。脚上是一双厚底白色运动鞋，脖子上挂着一个印有卡通脸的小吊坠袋。背景为纯色无缝的青绿色。采用柔和漫射的影棚灯光，营造出干净高端的“盲盒”艺术玩具风格，并呈现超写实的织物纹理。"
+    ],
+    "ratio": "56:75",
+    "slug": "prompt-2015648059771044000",
+    "source": {
+      "name": "Heisenberg",
+      "url": "https://x.com/i/status/2015648059771044000"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cute",
+      "character"
+    ],
+    "title": "Q版滑板男孩的动感瞬间",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 1792
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015437854206529800_0.jpg",
+    "create_time": 1769352804000,
+    "description": "这款现代感十足的广告海报以多角度展示了米色Crocs洞洞鞋，突出了其设计细节与舒适特性。背景采用暖棕色至黑色渐变，强调了鞋子的生活化温馨氛围。",
+    "examples": [],
+    "height": 2304,
+    "id": "2015437854206529800",
+    "images": [
+      "/images/2026-01-25/2015437854206529800_0.jpg"
+    ],
+    "likes": 155,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Multi-image product collage poster featuring beige/tan Crocs clog shoes, designed as a modern footwear advertisement.\n\nThe layout combines multiple product angles arranged in a structured grid:\n\nSide profile view showing the clog silhouette and ventilation holes\n\nRear view highlighting the heel strap and branding\n\nTop-down view showing the cushioned footbed texture\n\nClose-up detail of the sole tread and side logo\n\nA hero product image in the foreground with one shoe stacked against another, creating depth\n\nClean studio background with a warm brown-to-black gradient, giving a cozy, lifestyle-oriented tone.\nThe Crocs appear matte, lightweight, and comfortable, with realistic foam texture and soft shadows.\n\nLarge bold headline typography at the bottom reads:\n“CROCS”\nSubheading: “MORE THAN JUST SHOES”\n\nSmall blocks of descriptive lifestyle copy appear subtly in the background, reinforcing comfort, durability, and versatility. Overall composition feels like a social media brand post or poster ad.\n\nVisual Style\n\nModern product advertising\nLifestyle + catalog hybrid\nWarm earthy color palette\nSoft studio lighting\nPhotorealistic textures\nClean composition\nProfessional footwear photography\n\nCamera & Composition\n\nMultiple angles combined into one layout\n85mm–100mm product photography look\nSharp focus on shoes\nSoft shadows beneath products\nBalanced exposure\nNo distortion\n\nMood & Branding\n\nComfort\nEveryday lifestyle\nDurable\nCasual confidence\nPractical yet stylish\nApproachable brand feel\n\nNegative Prompt\n\nLow resolution, incorrect shoe shape, warped branding, misspelled logo, glossy plastic look, harsh reflections, cluttered layout, inconsistent lighting, cartoon style, CGI look, watermark, text artifacts",
+      "一张多图产品拼贴海报，以米色/浅褐色 Crocs 洞洞鞋为主角，设计成现代鞋履广告。\n\n布局采用结构化网格，组合多个产品角度：\n\n- 侧面轮廓展示鞋型轮廓与透气孔  \n- 后视图突出后跟绑带与品牌标识  \n- 俯视图呈现缓震鞋床的纹理细节  \n- 特写镜头聚焦鞋底纹路与侧面 Logo  \n- 前景主图中一只鞋叠放于另一只之上，营造景深效果  \n\n背景为干净的摄影棚环境，采用暖棕色至黑色渐变，营造温馨、生活化的氛围。  \nCrocs 鞋款呈现哑光质感，轻盈舒适，具有逼真的泡沫材质纹理与柔和阴影。\n\n底部配有醒目粗体大标题：  \n“CROCS”  \n副标题：“MORE THAN JUST SHOES（不止是一双鞋）”\n\n背景中巧妙融入小段生活方式文案，强调舒适性、耐用性与多功能性。整体构图风格类似社交媒体品牌海报或广告图。\n\n视觉风格：  \n- 现代产品广告  \n- 生活方式与产品目录融合  \n- 暖调大地色系  \n- 柔和影棚灯光  \n- 逼真材质表现  \n- 干净构图  \n- 专业鞋履摄影  \n\n拍摄与构图：  \n- 多角度图像整合为单一版面  \n- 85mm–100mm 产品摄影视角  \n- 鞋子主体清晰锐利  \n- 产品下方投射柔和阴影  \n- 曝光均衡  \n- 无畸变  \n\n情绪与品牌调性：  \n- 舒适  \n- 日常生活感  \n- 耐用  \n- 休闲自信  \n- 实用又时尚  \n- 亲和的品牌形象  \n\n负面提示：  \n低分辨率、鞋型错误、品牌标识扭曲、Logo 拼写错误、塑料亮面质感、强烈反光、杂乱布局、光照不一致、卡通风格、CGI 渲染感、水印、文字瑕疵"
+    ],
+    "ratio": "29:36",
+    "slug": "prompt-2015437854206529800",
+    "source": {
+      "name": "Keskin",
+      "url": "https://x.com/i/status/2015437854206529710"
+    },
+    "status": 1,
+    "tags": [
+      "product",
+      "modern",
+      "comfort"
+    ],
+    "title": "舒适与时尚的完美结合：Crocs 洞洞鞋",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 1856
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015451528929464600_0.jpg",
+    "create_time": 1769356064000,
+    "description": "逼真双手握芬达瓶，周围环绕动态全息营养信息与购物清单，展现未来零售科技。",
+    "examples": [],
+    "height": 1080,
+    "id": "2015451528929464600",
+    "images": [
+      "/images/2026-01-25/2015451528929464600_0.jpg",
+      "/images/2026-01-25/2015451528929464600_1.jpg",
+      "/images/2026-01-25/2015451528929464600_2.jpg",
+      "/images/2026-01-25/2015451528929464600_3.jpg"
+    ],
+    "likes": 1110,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "First-person perspective inside a brightly lit supermarket aisle. Realistic human hands are holding a bottle of Fanta soda close to the camera. The vivid orange drink in its iconic branded bottle is surrounded by a multi-layered holographic augmented reality interface displaying nutritional data, including calorie count, sugar content, caffeine level, freshness indicator, expiration date, and recommended refreshing recipes and cocktails based on Fanta.\nThe UI elements smoothly shift and reorganize based on the viewer’s gaze direction, as if dynamically responding to user focus. In the left peripheral vision, a vertical semi-transparent shopping list is visible with checked-off items, where Fanta is highlighted as the currently active selection.\nHyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.",
+      "第一人称视角，身处明亮的超市货架通道内。逼真的人类双手正握着一瓶芬达汽水，靠近镜头。标志性的橙色饮料瓶周围环绕着多层全息增强现实界面，显示营养信息，包括卡路里含量、糖分、咖啡因水平、新鲜度指示器、保质期，以及基于芬达推荐的清爽饮品和鸡尾酒配方。  \n用户界面元素会根据观者的视线方向平滑移动并重新排布，仿佛能动态响应用户的注意力焦点。在左侧视野边缘，可见一个半透明的垂直购物清单，其中已勾选的项目清晰可见，而芬达当前被高亮为选中状态。  \n超写实混合现实风格，干净的未来主义AR设计，玻璃质感的UI面板，柔和环境光晕，真实光影与阴影，自然景深，沉浸式第一人称界面，展现下一代零售科技。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2015451528929464600",
+    "source": {
+      "name": "Oogie",
+      "url": "https://x.com/i/status/2015451528929464593"
+    },
+    "status": 1,
+    "tags": [
+      "realistic",
+      "futuristic",
+      "ui"
+    ],
+    "title": "第一人称视角下的AR超市购物",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 1080
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015106824228536600_0.jpg",
+    "create_time": 1769273880000,
+    "description": "这组3×3网格图像以Alexander McQueen男士奢华运动鞋为核心，通过独特的视觉概念展现了从标志性的超厚鞋底到超现实梦幻场景的不同面向。每张图像都强调了产品的高端设计和奢华质感。",
+    "examples": [],
+    "height": 2400,
+    "id": "2015106824228536600",
+    "images": [
+      "/images/2026-01-24/2015106824228536600_0.jpg"
+    ],
+    "likes": 582,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Create a 3×3 grid in 3:4 aspect ratio for a high-end commercial marketing campaign using the Alexander McQueen men's luxury sneaker as the central subject.\n\nEach frame must present a distinct visual concept while maintaining perfect product consistency across all nine images.\n\nGrid Concepts (one per cell):\n\n1.  **Iconic Hero Shot:** Eye-level profile view of the shoe on a dark, sleek pedestal, emphasizing the signature oversized sole.\n2.  **Extreme Macro Detail:** Close-up on the heel counter or stitching details, highlighting the premium leather grain and \"Alexander McQueen\" logo embossing.\n3.  **Dynamic Interaction:** The shoe stepping onto a surface causing a subtle, elegant splash of dark liquid or marble dust (impact visual).\n4.  **Minimal Sculptural:** The shoe balanced artistically on geometric concrete or marble blocks, emphasizing architectural design.\n5.  **Levitation & Lightness:** The shoe floating in mid-air with laces suspended dynamically, suggesting premium comfort and airiness.\n6.  **Sensory Texture:** A mood shot focusing on the tactile quality of the velvet or smooth leather upper against a contrasting rough stone texture.\n7.  **Monochrome Luxury:** A color-blocked scene where the background perfectly matches the shoe's accent color (e.g., black or navy), creating a bold editorial look.\n8.  **Deconstructed Craftsmanship:** An abstract arrangement of raw materials (leather swatches, rubber textures) surrounding the shoe, symbolizing high-quality construction.\n9.  **Surreal Fusion:** The shoe integrated into a surreal, dreamlike landscape (e.g., a cloudscape or mirrored infinity room) blending realism with high fashion.\n\nVisual Rules:\n* **Subject:** Alexander McQueen Men's Oversized Sneaker (or specific model provided).\n* **Consistency:** The shoe must remain 100% accurate in shape, proportions, sole thickness, logo placement, and typography.\n* **No Distortion:** No deformation of the signature sole or branding.\n* **Separation:** Clean separation between the footwear and the background.\n\nLighting & Style:\n* Soft, controlled studio lighting with dramatic rim lights to accentuate the shoe's silhouette.\n* Subtle highlights on leather, deep realistic shadows under the sole.\n* High dynamic range, 8k resolution, ultra-sharp focus.\n* Editorial luxury fashion advertising aesthetic (Vogue/GQ style).\n* Palette: Minimalist, monochrome, metallic, and deep matte tones.\n\nOverall Feel:\n* Modern, refined, visually cohesive.\n* High-end commercial campaign for a luxury fashion house.\n* Hyperreal, cinematic, polished, and aspirational.",
+      "创作一组3×3网格图像，画面比例为3:4，用于高端商业营销活动，以Alexander McQueen男士奢华运动鞋为核心主体。\n\n每个画面需呈现独特的视觉概念，同时确保九张图像中的产品保持完全一致。\n\n网格概念（每格一个）：\n\n1. **标志性主视觉**：鞋履置于深色光滑底座上，采用平视侧面视角，突出其标志性的超厚鞋底。  \n2. **极致微距细节**：特写后跟或缝线细节，展现高级皮革纹理及“Alexander McQueen”压印logo。  \n3. **动态互动**：鞋履踏落于表面，激起微妙而优雅的深色液体或大理石粉尘飞溅（冲击视觉效果）。  \n4. **极简雕塑感**：鞋履以艺术方式平衡于几何混凝土或大理石块之上，强调其建筑感设计。  \n5. **悬浮轻盈感**：鞋履悬浮于空中，鞋带呈动态飘浮状态，传达高级舒适与轻盈感。  \n6. **感官质感**：聚焦鞋面丝绒或光滑皮革的触感，与粗糙石材背景形成质感对比的情绪画面。  \n7. **单色奢华**：色彩区块化构图，背景与鞋履的点缀色（如黑色或海军蓝）完美匹配，营造大胆的杂志大片风格。  \n8. **解构工艺**：围绕鞋履抽象排列原材料（皮革样本、橡胶纹理），象征高品质制作工艺。  \n9. **超现实融合**：鞋履融入梦幻超现实场景（如云海或镜面无限空间），将真实感与高级时装美学结合。\n\n视觉规范：  \n- **主体**：Alexander McQueen男士超厚底运动鞋（或指定具体型号）。  \n- **一致性**：鞋型、比例、鞋底厚度、logo位置及字体必须100%准确。  \n- **无变形**：不得扭曲标志性鞋底或品牌标识。  \n- **分离感**：鞋履与背景之间需清晰分离。\n\n光影与风格：  \n- 柔和可控的影棚灯光，搭配戏剧性轮廓光以强化鞋履轮廓。  \n- 皮革表面呈现细腻高光，鞋底下方有深邃真实的阴影。  \n- 高动态范围、8K分辨率、超锐利对焦。  \n- 杂志级奢华时尚广告美学（Vogue/GQ风格）。  \n- 色调：极简、单色、金属色与深哑光色系。\n\n整体氛围：  \n- 现代、精致、视觉统一。  \n- 奢侈品牌高端商业广告。  \n- 超写实、电影感、精雕细琢且充满向往感。"
+    ],
+    "ratio": "56:75",
+    "slug": "prompt-2015106824228536600",
+    "source": {
+      "name": "Tugser Okur",
+      "url": "https://x.com/i/status/2015106824228536465"
+    },
+    "status": 1,
+    "tags": [
+      "product",
+      "fashion",
+      "high-detail"
+    ],
+    "title": "商品九宫格",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 1792
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015314306578182400_0.jpg",
+    "create_time": 1769323348000,
+    "description": "在这张垂直构图的图像中，一个逼真的角色骑着滑板车行驶在风格化的GPS式城市地图上，朝着红色目的地图钉前进。格林尼治区域呈现出独特的混乱美感，细节丰富。",
+    "examples": [],
+    "height": 2048,
+    "id": "2015314306578182400",
+    "images": [
+      "/images/2026-01-25/2015314306578182400_0.jpg",
+      "/images/2026-01-25/2015314306578182400_1.jpg"
+    ],
+    "likes": 212,
+    "model": "gemini-3-pro-image-preview",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Use the same face from the reference image without changing facial features \nVertical (4:5 or 9:16) surreal 3D scene featuring a photorealistic character generated strictly from the attached reference image (accurate facial likeness, skin texture, age, proportions).\n\nFront-facing view, camera slightly above eye level, the character riding her own scooter/motorbike directly on top of the blue GPS route line itself, moving forward toward a red destination pin.\nThe character wears culturally accurate clothing inspired by [west], with realistic fabric behavior and riding posture.\nBelow, a stylized GPS-style city map of [United Kingdom] fills the scene. A chaos zone at [Greenwich ] shows dense miniature cars, people, buildings, trees, and urban clutter concentrated near the destination.\nNatural daylight, cinematic shadows, sharp focus on the character, and subtle depth of field on the map.\n\nHigh-end concept-art quality combining photoreal human + stylized miniature city.",
+      "使用参考图像中的同一张面孔，不得更改任何面部特征。  \n垂直构图（4:5 或 9:16）的超现实3D场景，主角为严格基于所附参考图像生成的逼真人物（准确还原面部相貌、皮肤纹理、年龄与比例）。  \n\n正面视角，镜头略高于眼睛水平线，角色正骑着自己的滑板车/摩托车，直接行驶在蓝色GPS路线线上，朝向一个红色目的地图钉前进。  \n角色穿着受[西方]文化启发的真实服饰，布料动态自然，骑行姿势真实可信。  \n\n画面下方是风格化的GPS式城市地图，描绘的是[英国]，其中[格林尼治]区域呈现混乱状态，密集分布着微型汽车、人物、建筑、树木及城市杂物，集中在目的地附近。  \n自然日光照明，电影感阴影，角色清晰锐利聚焦，地图部分带有微妙的景深效果。  \n\n整体呈现高端概念艺术品质，融合逼真人像与风格化微型城市景观。"
+    ],
+    "ratio": "1:1",
+    "slug": "prompt-2015314306578182400",
+    "source": {
+      "name": "Sharon Riley",
+      "url": "https://x.com/i/status/2015314306578182501"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cinematic",
+      "concept-art"
+    ],
+    "title": "超现实3D场景中的骑手与微型城市",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 2048
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015358314969018505_0.jpg",
+    "create_time": 1769333840000,
+    "description": "一瓶倾斜放置的透明玻璃汽水瓶，嵌在通透冰块中，瓶身凝结水珠，标签绘有明亮水果插画，整体沐浴在柔和粉彩色光线下，清新夏日感扑面而来。",
+    "id": "2015358314969018505",
+    "images": [
+      "/images/2026-01-25/2015358314969018505_0.jpg",
+      "/images/2026-01-25/2015358314969018505_1.jpg",
+      "/images/2026-01-25/2015358314969018505_2.jpg"
+    ],
+    "likes": 133,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Dreamy chilled fruit soda. You can swap in any fruit you want \n\nMade with Nano Banana Pro\n\nPrompt : {Fruit}-themed ultra-realistic yet dreamy commercial beverage photography, a {fruit-color}-tinted sparkling soda in a clear glass bottle lying diagonally, partially embedded among a moderate amount of clear, solid beverage ice cubes surrounding and supporting the bottle. Ice cubes, smooth, naturally shaped and gently melting, transparent with a clean warm-white appearance, no crystals, no shards, no frosted or gray texture, distributed to fill the frame without crowding. High-key pastel lighting dominated by a bright, clean {fruit-primary-color} glow with soft warm-white highlights (no cold gray or dirty tones), high brightness and low grayness, sparkling highlights and gentle bokeh light flares. Bottle fully covered with dense condensation droplets and shimmering water beads, glossy glass surface, fresh and clean summer mood. Colorful {Fruit}-themed illustrated label with fruit slices, pastel gradients and decorative dots in a light, high-saturation palette. No muted colors, no brownish or gray cast, no dull tones, no crushed ice, no tiny cubes, no ice crystals, no flat lighting, no plain white background, no documentary realism.",
+      "梦幻冰凉的水果汽水，可替换任意你喜欢的水果。\n\n使用 Nano Banana Pro 制作。\n\n提示词：以{Fruit}为主题的超写实又梦幻的商业饮品摄影，一瓶{fruit-color}色调的气泡汽水装在透明玻璃瓶中，瓶子呈对角线倾斜放置，部分嵌入适量清澈坚实的饮料冰块之中，冰块环绕并支撑着瓶身。冰块光滑、自然成形、微微融化，通透洁净，呈现温暖的纯白色调，无冰晶、无碎屑、无霜状或灰色质感，在画面中分布均匀，填满构图但不显拥挤。高调柔和的粉彩色调光线，以明亮干净的{fruit-primary-color}主色光为主，辅以柔和的暖白高光（不含冷灰或污浊色调），整体高亮度、低灰度，带有闪烁高光与柔美散景光晕。瓶身布满密集的冷凝水珠与闪亮水滴，玻璃表面光泽剔透，营造清新洁净的夏日氛围。瓶身标签为多彩{Fruit}主题插画风格，包含水果切片、粉彩渐变与装饰性圆点，采用明亮高饱和的配色方案。避免使用低饱和色、棕灰色调、暗淡色彩、碎冰、小冰粒、冰晶、平光照明、纯白背景或纪实写实风格。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Latte",
+      "url": "https://x.com/0xbisc/status/2015358314969018505"
+    },
+    "status": 1,
+    "tags": [
+      "food",
+      "photography",
+      "commercial"
+    ],
+    "title": "梦幻水果汽水特写",
+    "update_time": 1769524355606
+  },
+  {
+    "coverImage": "/images/2026-01-24/2014934098234769530_0.jpg",
+    "create_time": 1769232699000,
+    "description": "",
+    "id": "2014934098234769530",
+    "images": [
+      "/images/2026-01-24/2014934098234769530_0.jpg"
+    ],
+    "likes": 227,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Based on <User Portrait>, pose from <Pose Reference>.\n\nEXTREME LOW ANGLE RAINY EXIT - VINTAGE FILM:\n\nCamera ON THE GROUND, shooting UP. 20-24mm ULTRA WIDE ANGLE + 10-15° DUTCH TILT.\n\nWoman mid-exit from car in rain:\n- One leg FULLY EXTENDED, pointed toe about to splash puddle\n- Other leg bent on car seat, strong diagonal\n- Body leaning forward, face looking down\n- Wet hair falling forward\n- Umbrella at dramatic angle\n\nLEGS DOMINATE 70% OF FRAME. Wide angle distortion maximizes length. Puddle reflection doubles the leg line.\n\nRed taillights reflected in puddle (color anchor). Warm car interior glow. Rain drops frozen mid-air. Splash at stepping foot.\n\nVINTAGE FILM - CRITICAL:\nFujifilm Nostalgic Negative, HEAVY FILM GRAIN (ISO 800 pushed look), warm golden skin tones, cool blue-gray rain, subtle halation on highlights, visible analog texture.\n\nBackground: blurred city lights, neon bokeh, umbrella silhouettes, urban rain chaos.\n\nMood: Cinematic fashion editorial, maximum visual impact, vintage film nostalgia, legs for days.",
+      "基于《用户肖像》，姿势参考自《姿势参考》。\n\n极端低角度雨中离开 - 复古电影风格：\n\n相机置于地面，向上拍摄。使用20-24毫米超广角镜头+10-15度荷兰倾斜。\n\n女子在雨中正要下车：\n- 一条腿完全伸展，脚尖即将溅起水洼\n- 另一条腿弯曲在车座上，形成强烈的对角线\n- 身体前倾，脸朝下看\n- 湿发垂于前方\n- 雨伞以戏剧性角度持握\n\n双腿占据画面70%，广角镜头失真最大化长度。水洼反射加倍腿部线条。\n\n红色尾灯在水洼中的反射（色彩锚点）。车内温暖的光芒。雨滴凝固在半空中。踏入时溅起的水花。\n\n复古电影风格 - 至关重要：\n采用富士胶片怀旧负片，重胶粒感（ISO 800推高效果），暖金色皮肤色调，冷蓝色雨，高光处微妙的光环效应，可见的模拟质感。\n\n背景：模糊的城市灯光、霓虹散景、雨伞轮廓、城市的雨夜混乱。\n\n氛围：电影时尚编辑风格，最大视觉冲击力，复古电影怀旧情调，“腿长无尽头”。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Sidona",
+      "url": "https://x.com/sidona/status/2014934098234769530"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "雨夜复古胶片低角度大长腿",
+    "update_time": 1769524087988
+  },
+  {
+    "coverImage": "/images/2026-01-24/2014899367174668558_0.jpg",
+    "create_time": 1769224418000,
+    "description": "在这个梦幻的糖果世界里，乐高小人划着由威化饼和巧克力制成的小船，在流淌着融化的焦糖与巧克力的河流中快乐探险。周围是棉花糖山丘和软糖树。",
+    "id": "2014899367174668558",
+    "images": [
+      "/images/2026-01-24/2014899367174668558_0.jpg",
+      "/images/2026-01-24/2014899367174668558_1.jpg",
+      "/images/2026-01-24/2014899367174668558_2.jpg",
+      "/images/2026-01-24/2014899367174668558_3.jpg"
+    ],
+    "likes": 375,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"atmosphere\": {\n    \"mood\": \"playful and joyful\",\n    \"mist\": \"soft misty haze\",\n    \"lighting\": \"soft pastel lighting\"\n  },\n  \"river\": {\n    \"type\": \"melted caramel and chocolate\",\n    \"motion\": \"gently swirling like syrup\",\n    \"texture\": \"glossy, smooth, flowing\"\n  },\n  \"boats\": {\n    \"style\": \"lego-style\",\n    \"materials\": [\n      \"wafer\",\n      \"chocolate\"\n    ],\n    \"details\": {\n      \"toppings\": [\n        \"colorful sprinkles\",\n        \"marshmallows\"\n      ],\n      \"scale\": \"toy-like proportions\"\n    },\n    \"movement\": \"floating downstream\"\n  },\n  \"characters\": {\n    \"type\": \"lego characters\",\n    \"actions\": [\n      \"joyfully paddling candy boats\",\n      \"dipping hands into caramel river\"\n    ],\n    \"expressions\": \"happy and playful\"\n  },\n  \"background\": {\n    \"landscape_elements\": [\n      \"cotton-candy hills\",\n      \"gumdrop trees\",\n      \"candy bridges\"\n    ],\n    \"connections\": \"bridges linking different parts of the candy landscape\"\n  },\n  \"style\": {\n    \"visual_style\": \"playful cartoonish 3D\",\n    \"color_palette\": \"soft pastel colors\",\n    \"render_quality\": \"high-quality whimsical render\"\n  }\n}",
+      "氛围欢快愉悦，笼罩着柔和朦胧的薄雾，光线为柔和的粉彩色调。河流由融化的焦糖与巧克力构成，如糖浆般缓缓旋转流淌，表面光滑闪亮、质地柔顺。河上漂浮着乐高风格的小船，船体由威化饼和巧克力制成，点缀着五彩糖粒和棉花糖，比例小巧如玩具，正顺流而下。船上是乐高小人，神情快乐顽皮，有的正开心地划着糖果小船，有的把手伸进焦糖河里嬉戏。背景是梦幻糖果景观：棉花糖山丘、软糖树和糖果桥，桥梁连接着糖果世界的各个区域。整体采用俏皮卡通风格的3D渲染，配色为柔和粉彩，画面为高质量的奇幻精美效果。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Sharon Riley",
+      "url": "https://x.com/Just_sharon7/status/2014899367174668558"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "candy",
+      "cartoon"
+    ],
+    "title": "乐高小船在焦糖河上冒险",
+    "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-23/2014541260753957322_0.jpg",
+    "create_time": 1769139039000,
+    "description": "王家卫风格地铁站女生写真",
+    "id": "2014541260753957322",
+    "images": [
+      "/images/2026-01-23/2014541260753957322_0.jpg",
+      "/images/2026-01-23/2014541260753957322_1.jpg"
+    ],
+    "likes": 64,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"portrait_prompt\": {\n    \"subject\": \"Based on <User Portrait>, a woman with shoulder-length hair in a dark trench coat, standing on a tiled subway platform, looking back over her shoulder. Background features white tiled walls with a red horizontal stripe and '14 TH' signage.\",\n    \"composition\": \"Medium shot, 50mm lens. Strong horizontal motion blur in the foreground creating a 'passing train' effect or long exposure feel, while the subject remains sharp and static in the mid-ground.\",\n    \"camera_angle\": \"Eye-level, shooting through moving foreground elements.\",\n    \"lighting\": \"Diffused artificial subway station lighting, cool ambient tones, soft contrast.\",\n    \"color_palette\": \"Cinematic muted tones, cold whites, dark blacks, red accents, vintage film aesthetic similar to Wong Kar-wai style, Fujifilm Classic Chrome inspired color grading, muted saturation, cool cyan blues, compressed midtones, documentary photojournalism feel, subtle grain.\",\n    \"mood\": \"Atmospheric, fleeting, urban solitude, sense of time passing, melancholic, cinematic.\",\n    \"negative_prompt\": \"Unrealistic features, anatomical errors, stiff pose, over-processed, harsh lighting, blurry subject, low resolution, bad composition, distorted faces, unnatural colors, extra limbs, watermark, text\"\n  }\n}",
+      "基于《用户肖像》，一位留着齐肩发的女子身穿深色风衣，站在铺有瓷砖的地铁站台上，回头望向身后。背景为白色瓷砖墙，带有红色横条纹和“14 TH”标识。\n\n中景构图，使用50毫米镜头。前景呈现强烈的水平动态模糊，营造出“列车驶过”或长时间曝光的效果，而主体在中景保持清晰静止。\n\n相机角度为平视，透过移动的前景元素进行拍摄。\n\n光线采用柔和的人工地铁站照明，整体色调偏冷，对比度柔和。\n\n色彩风格为电影感的低饱和色调：冷白、深黑、红色点缀，具有王家卫风格的复古胶片美学，参考富士胶片Classic Chrome色彩调性，低饱和度、偏青蓝的冷色、压缩的中间调，呈现纪实摄影般的质感，并带有细微颗粒。\n\n氛围：充满氛围感、转瞬即逝、都市孤独、时光流逝之感，略带忧郁且极具电影感。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Sidona",
+      "url": "https://x.com/sidona/status/2014541260753957322"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "王家卫风格地铁站女生写真",
+    "update_time": 1769524006389
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015305280826028407_0.jpg",
+    "create_time": 1769321196000,
+    "description": "在这组图像中，您将看到从黄色品客薯片罐中倾倒出的金黄色芝士味薯片，每一片都细致入微，仿佛能闻到那浓郁的芝士香。接着是红色品客风格罐中的辣味薯片，它们如同火焰般热烈地流下，背景中还有火焰和烟雾增加戏剧效果。最后，金色带有绿色斑点的哈拉佩诺风味薯片在深色板岩上显得格外诱人。",
+    "id": "2015305280826028407",
+    "images": [
+      "/images/2026-01-25/2015305280826028407_0.jpg",
+      "/images/2026-01-25/2015305280826028407_1.jpg",
+      "/images/2026-01-25/2015305280826028407_2.jpg"
+    ],
+    "likes": 207,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "These images may activate your taste buds.\n\nGoogle Gemini Banana pro \n\nPrompt :\n{\n  \"master_prompt\": {\n    \"global_technical_settings\": {\n      \"resolution\": \"8K ultra-high-definition\",\n      \"aspect_ratio\": \"3:4 vertical\",\n      \"sharpness\": \"extreme micro-detail, crisp edges\",\n      \"noise\": \"none\",\n      \"compression\": \"none\",\n      \"ai_finish\": \"premium cinematic AI-edited look\",\n      \"depth_of_field\": \"shallow, subject-focused\",\n      \"motion\": \"frozen mid-air particles and objects\"\n    },\n\n    \"module_1_image_1_style\": {\n      \"scene_type\": \"cheese-flavored chips product shot\",\n      \"primary_subject\": {\n        \"object\": \"yellow Pringles can\",\n        \"orientation\": \"tilted diagonally, opening facing downward\",\n        \"branding_visibility\": \"partial logo visible, readable 'Pringles'\",\n        \"chips\": \"golden-yellow curved chips falling mid-air\"\n      },\n      \"chip_details\": {\n        \"surface_texture\": \"fine porous potato texture\",\n        \"coating\": \"cheese powder dust\",\n        \"edges\": \"thin, crisp, slightly curled\",\n        \"motion\": \"multiple chips suspended mid-fall\"\n      },\n      \"environment\": {\n        \"surface\": \"rustic wooden tabletop\",\n        \"props\": [\n          \"cheese blocks with visible holes\",\n          \"grated cheese pile\",\n          \"melted cheese spill pooling on wood\"\n        ]\n      },\n      \"lighting\": {\n        \"type\": \"warm studio lighting\",\n        \"color_temperature\": \"golden amber\",\n        \"highlights\": \"soft glowing reflections on chips\",\n        \"background\": \"warm bokeh light orbs\"\n      },\n      \"atmosphere\": {\n        \"particles\": \"floating cheese dust\",\n        \"mood\": \"warm, indulgent, rich\"\n      }\n    },\n\n    \"module_2_image_2_style\": {\n      \"scene_type\": \"spicy chips cinematic fire theme\",\n      \"primary_subject\": {\n        \"object\": \"red Pringles-style can\",\n        \"orientation\": \"angled, pouring forward\",\n        \"branding_visibility\": \"visible illustrated face logo and text\",\n        \"chips\": \"deep red-orange chips pouring out\"\n      },\n      \"chip_details\": {\n        \"surface_texture\": \"rough, heavily seasoned\",\n        \"coating\": \"red chili spice powder\",\n        \"color\": \"intense fiery red\",\n        \"motion\": \"vertical cascade of chips\"\n      },\n      \"environment\": {\n        \"surface\": \"dark stone or matte surface\",\n        \"props\": [\n          \"whole red chili peppers\",\n          \"scattered spice granules\"\n        ]\n      },\n      \"lighting\": {\n        \"type\": \"dramatic high-contrast lighting\",\n        \"key_light\": \"strong warm highlights\",\n        \"shadows\": \"deep, cinematic blacks\"\n      },\n      \"atmosphere\": {\n        \"elements\": [\n          \"visible flames in background\",\n          \"smoke trails\",\n          \"flying embers and sparks\"\n        ],\n        \"mood\": \"intense, aggressive, fiery\"\n      }\n    },\n\n    \"module_3_image_3_style\": {\n      \"scene_type\": \"jalapeño-flavored chips fresh spicy theme\",\n      \"primary_subject\": {\n        \"object\": \"red Pringles can\",\n        \"orientation\": \"tilted horizontally, opening facing viewer\",\n        \"branding_visibility\": \"partial text visible\",\n        \"chips\": \"golden chips falling in layered formation\"\n      },\n      \"chip_details\": {\n        \"surface_texture\": \"clean potato texture\",\n        \"coating\": \"green herb and spice seasoning\",\n        \"color\": \"golden yellow with green flecks\"\n      },\n      \"environment\": {\n        \"surface\": \"dark slate serving board\",\n        \"props\": [\n          \"whole green jalapeño pepper\",\n          \"sliced jalapeño rings\",\n          \"small sauce droplets\"\n        ]\n      },\n      \"lighting\": {\n        \"type\": \"controlled studio lighting\",\n        \"balance\": \"neutral-warm\",\n        \"background\": \"deep green gradient\"\n      },\n      \"atmosphere\": {\n        \"particles\": \"floating seasoning dust\",\n        \"smoke\": \"light misty vapor\",\n        \"mood\": \"fresh, spicy, clean\"\n      }\n    }",
+      "这些图像可能会激活你的味蕾。\n\n谷歌 Gemini 香蕉专业版\n\n提示词：\n{\n  \"主提示\": {\n    \"全局技术设置\": {\n      \"分辨率\": \"8K超高清\",\n      \"纵横比\": \"3:4垂直\",\n      \"清晰度\": \"极致微观细节，锐利边缘\",\n      \"噪点\": \"无\",\n      \"压缩\": \"无\",\n      \"AI效果\": \"高端电影级AI编辑外观\",\n      \"景深\": \"浅景深，主体聚焦\",\n      \"动态\": \"冻结在半空中的颗粒和物体\"\n    },\n\n    \"模块一图像一风格\": {\n      \"场景类型\": \"芝士味薯片产品展示\",\n      \"主要对象\": {\n        \"物品\": \"黄色品客薯片罐\",\n        \"方向\": \"对角线倾斜，开口朝下\",\n        \"品牌可见性\": \"部分标志可见，可读'品客'\",\n        \"薯片\": \"金黄色弯曲的薯片在空中落下\"\n      },\n      \"薯片细节\": {\n        \"表面纹理\": \"细腻的多孔土豆纹理\",\n        \"涂层\": \"芝士粉\",\n        \"边缘\": \"薄，脆，微微卷曲\",\n        \"动态\": \"多个薯片悬停在半空中\"\n      },\n      \"环境\": {\n        \"表面\": \"质朴的木制桌面\",\n        \"道具\": [\n          \"带孔的芝士块\",\n          \"堆起的磨碎芝士\",\n          \"融化的芝士溢出并在木头上形成小池\"\n        ]\n      },\n      \"照明\": {\n        \"类型\": \"暖色调工作室照明\",\n        \"色温\": \"金琥珀色\",\n        \"高光\": \"薯片上的柔和发光反射\",\n        \"背景\": \"温暖的散景光圈\"\n      },\n      \"氛围\": {\n        \"颗粒\": \"浮动的芝士尘\",\n        \"情绪\": \"温暖，奢侈，丰富\"\n      }\n    },\n\n    \"模块二图像二风格\": {\n      \"场景类型\": \"辣味薯片电影火焰主题\",\n      \"主要对象\": {\n        \"物品\": \"红色品客风格罐\",\n        \"方向\": \"倾斜，向前倾倒\",\n        \"品牌可见性\": \"可见的插画脸标志和文字\",\n        \"薯片\": \"深红橙色的薯片流出\"\n      },\n      \"薯片细节\": {\n        \"表面纹理\": \"粗糙，重调味\",\n        \"涂层\": \"红色辣椒香料粉\",\n        \"颜色\": \"强烈的火红色\",\n        \"动态\": \"垂直流下的薯片瀑布\"\n      },\n      \"环境\": {\n        \"表面\": \"暗色石面或哑光表面\",\n        \"道具\": [\n          \"整颗红色辣椒\",\n          \"散落的香料颗粒\"\n        ]\n      },\n      \"照明\": {\n        \"类型\": \"戏剧性的高对比度照明\",\n        \"主光源\": \"强暖色调高光\",\n        \"阴影\": \"深邃，电影般的黑色\"\n      },\n      \"氛围\": {\n        \"元素\": [\n          \"背景中可见火焰\",\n          \"烟雾轨迹\",\n          \"飞舞的余烬和火花\"\n        ],\n        \"情绪\": \"强烈，激进，火热\"\n      }\n    },\n\n    \"模块三图像三风格\": {\n      \"场景类型\": \"哈拉佩诺风味薯片新鲜辣味主题\",\n      \"主要对象\": {\n        \"物品\": \"红色品客罐\",\n        \"方向\": \"水平倾斜，开口对着观众\",\n        \"品牌可见性\": \"部分文字可见\",\n        \"薯片\": \"金色薯片层层落下\"\n      },\n      \"薯片细节\": {\n        \"表面纹理\": \"干净的土豆纹理\",\n        \"涂层\": \"绿色草药和香料调味\",\n        \"颜色\": \"金黄带有绿色斑点\"\n      },\n      \"环境\": {\n        \"表面\": \"深色板岩服务板\",\n        \"道具\": [\n          \"整个绿哈拉佩诺辣椒\",\n          \"切片哈拉佩诺环\",\n          \"少量酱滴\"\n        ]\n      },\n      \"照明\": {\n        \"类型\": \"控制的工作室照明\",\n        \"平衡\": \"中性-暖调\",\n        \"背景\": \"深绿色渐变\"\n      },\n      \"氛围\": {\n        \"颗粒\": \"浮动的调味粉尘\",\n        \"烟雾\": \"轻薄的蒸汽\",\n        \"情绪\": \"新鲜，辛辣，清洁\"\n      }\n    }\n  }\n}"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ShaHid WaNii",
+      "url": "https://x.com/meng_dagg695/status/2015305280826028407"
+    },
+    "status": 1,
+    "tags": [
+      "food",
+      "product",
+      "cinematic"
+    ],
+    "title": "芝士与辣味薯片的盛宴",
+    "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015189748717932552_0.jpg",
+    "create_time": 1769293651000,
+    "description": "一位身穿深蓝星纹连裤袜的女性坐于黑色凳子上，置身于仿天文书籍页面中，背景融合手绘星系与土星草图，整体呈现高时尚与科学插图的精致拼贴。",
+    "id": "2015189748717932552",
+    "images": [
+      "/images/2026-01-24/2015189748717932552_0.jpg"
+    ],
+    "likes": 76,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"NanoBanana Pro\",\n      \"task_type\": \"photoreal_editorial_cutout_magazine_layout\",\n      \"version\": \"v1.3_COSMOS_PAGE_NAVY_GOLD_STARS_EDITORIAL_FACELOCK_FULL_EN\",\n      \"priority\": \"highest\",\n      \"language\": \"en\"\n    },\n\n    \"references\": {\n      \"reference_image_face\": {\n        \"source\": \"UPLOAD_REFERENCE_IMAGE (REQUIRED)\",\n        \"purpose\": \"FACE_IDENTITY_LOCK\",\n        \"strict_lock\": true,\n        \"face_similarity_priority\": \"MAX\",\n        \"identity_confidence\": \"ABSOLUTE\",\n        \"no_identity_blending\": true,\n        \"no_face_morphing\": true,\n        \"no_beautify\": true,\n        \"no_age_shift\": true,\n        \"preserve_skin_texture\": true,\n        \"preserve_facial_proportions\": true,\n        \"preserve_moles_freckles_scars\": true,\n        \"preserve_eye_shape\": true,\n        \"preserve_nose_shape\": true,\n        \"preserve_lip_shape\": true,\n        \"preserve_jawline\": true\n      },\n      \"reference_image_style\": {\n        \"source\": \"UPLOAD_REFERENCE_IMAGE (OPTIONAL)\",\n        \"purpose\": \"LAYOUT_POSE_STYLE_ANCHOR\",\n        \"strict_lock\": false,\n        \"preserve_composition\": true,\n        \"preserve_vibe\": true\n      }\n    },\n\n    \"global_constraints\": {\n      \"rating\": \"PG-13\",\n      \"no_nudity\": true,\n      \"no_explicit_sexual_content\": true,\n      \"no_logos\": true,\n      \"no_watermark\": true,\n      \"no_readable_text\": true\n    },\n\n    \"output_settings\": {\n      \"aspect_ratio\": \"9:16\",\n      \"orientation\": \"portrait\",\n      \"resolution_target\": \"ultra_high_res\",\n      \"render_style\": \"high_end_editorial_magazine_cutout\",\n      \"sharpness\": \"crisp_but_natural\",\n      \"film_grain\": \"subtle_35mm\",\n      \"color_grade\": \"soft_neutral_with_navy_and_gold_accents\",\n      \"dynamic_range\": \"natural_not_hdr\",\n      \"skin_rendering\": \"real_texture_no_retouch\"\n    },\n\n    \"creative_prompt\": {\n      \"scene_summary\": \"Create a high-fashion editorial magazine page inspired by classic astronomy/science book design (Cosmos-like, but original). The background is an off-white paper texture resembling a refined astronomy book page, filled with two tall, justified columns of NON-READABLE serif pseudo-text and a large muted red drop-cap letter at the top-left. The typography must look academically authentic in spacing, justification, and hyphenation patterns, but contain no real words and no readable sentences.\\n\\nSeamlessly integrated into the page layout are small, precise, hand-drawn scientific illustrations: a telescope sketch, Saturn with rings, spiral galaxies, star clusters, constellation dot-and-line diagrams, and a few tiny starburst symbols. These are thin-line, ink-style drawings embedded within margins and between/around text columns (not floating stickers, not decorative overlays). The page should feel like a real astronomy reading spread with tasteful scientific marginalia.\\n\\nIn front of the page, place a cutout-style photoreal studio portrait of the SAME adult woman whose face MUST MATCH THE REFERENCE IMAGE EXACTLY. She sits on a simple black stool, centered and overlapping both text columns, with a realistic contact shadow for a true magazine paste-up effect. The cutout edge should be clean and natural.\\n\\nWARDROBE (VERY IMPORTANT):\\n• Top: navy knit sweater, soft knit texture, slightly oversized sleeves\\n• Bottom: navy mini skirt, clean tailored cut\\n• Legs: navy tights with evenly spaced glossy gold star pattern (foil-like sheen), consistent repetition\\n• Shoes: navy high-heeled ankle boots, minimal and elegant\\n\\nMAKEUP (cosmic editorial): subtle high-fashion glam with tiny gold/silver micro star glitter near the outer eye corners, faint constellation-inspired highlights, luminous but natural skin, glossy neutral lips. No heavy retouching.\\n\\nPOSE: calm direct gaze toward camera, hands gently stacked under chin, legs crossed naturally. Relaxed but editorial posture. Identity fidelity is absolute.\\n\\nCOMPOSITION: 9:16 vertical magazine layout. Two justified text columns left and right with generous margins. A large muted red drop-cap at top-left. Subject placed slightly lower-middle, overlapping typography. Clean, minimalist, Cosmos-inspired, high-fashion editorial aesthetic.\",\n      \"layout_notes\": {\n        \"background\": \"off-white astronomy book-page aesthetic, two-column serif pseudo-text (non-readable), muted red drop-cap, embedded scientific ink drawings (telescope, Saturn, galaxies, constellations)\",\n        \"foreground\": \"centered cutout model on a black stool with realistic shadow, clean magazine paste-up effect\"\n      }\n    },\n\n    \"negative_prompt\": [\n      \"readable text\",\n      \"real book excerpts\",\n      \"Cosmos title\",\n      \"author name\",\n      \"logos\",\n      \"watermarks\",\n      \"random letters forming real words\",\n      \"page numbers\",\n      \"citations\",\n      \"extra people\",\n      \"cartoon\",\n      \"illustration\",\n      \"anime\",\n      \"plastic skin\",\n      \"over-smoothing\",\n      \"HDR\",\n      \"AI glow\",\n      \"face alteration\",\n      \"identity mismatch\",\n      \"generic model face\",\n      \"deformed hands\",\n      \"extra fingers\",\n      \"distorted clothing\",\n      \"wrong skirt length\",\n      \"wrong shoe type\",\n      \"uneven gold stars\",\n      \"broken star pattern\",\n      \"low resolution\",\n      \"blurry edges\"\n    ]\n  }\n}",
+      "创作一幅高时尚杂志风格的写实人像剪贴画，灵感源自经典天文学/科学书籍的设计（类似《宇宙》风格但为原创内容）。背景为米白色纸张纹理，模拟精致天文书籍页面，包含两栏左对齐、两端对齐的无意义衬线体伪文本，左上角有一个大型暗红色首字母装饰。排版需在字距、对齐和断行方式上呈现学术级真实感，但不得包含任何可读文字或真实语句。\n\n页面中自然融入精细的手绘科学插图：望远镜草图、带光环的土星、旋涡星系、星团、星座点线图以及少量微小星爆符号。这些插图为细线墨水风格，嵌入页边空白及文本栏之间（非浮动贴纸或装饰性叠加），整体营造出真实天文读物页面配以雅致科学旁注的氛围。\n\n前景为一名成年女性的写实摄影棚人像剪贴，其面部必须与参考图像完全一致。她坐在一把简约黑色凳子上，居中并覆盖两栏文字，投下逼真的接触阴影，实现真实的杂志拼贴效果。剪裁边缘干净自然。\n\n服装要求（非常重要）：\n- 上衣：深蓝色针织毛衣，质地柔软，袖子略宽松\n- 下装：深蓝色迷你裙，剪裁利落\n- 腿部：深蓝色连裤袜，印有均匀分布的亮金色星星图案（具金属箔光泽），图案重复规律一致\n- 鞋履：深蓝色高跟及踝靴，简约优雅\n\n妆容（宇宙主题高定时妆）：外眼角点缀微小金/银色星形亮片，隐约可见星座灵感高光，肌肤透亮自然，唇色为光泽中性色调。禁止过度修图。\n\n姿势：平静直视镜头，双手轻叠于下巴下方，双腿自然交叉，姿态放松但具杂志大片感。人物身份必须绝对忠实于参考图像。\n\n构图：9:16竖向杂志版式。左右两侧为两端对齐的双栏伪文本，留有充足页边距；左上角设大型暗红色首字母；人物置于画面中下部，覆盖部分文字。整体风格干净极简，融合《宇宙》美学与高时尚杂志视觉语言。\n\n禁止内容包括：可读文字、真实书籍摘录、《宇宙》标题、作者名、商标、水印、随机字母组成真实单词、页码、引文、额外人物、卡通、插画、动漫、塑料感皮肤、过度平滑、HDR效果、AI光晕、面部修改、身份不符、通用模特脸、手部畸形、多余手指、服装扭曲、裙长错误、鞋型不符、金色星星分布不均、星形图案断裂、低分辨率、边缘模糊。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Özge Döner",
+      "url": "https://x.com/astronomerozge1/status/2015189748717932552"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "realistic",
+      "magazine"
+    ],
+    "title": "科学杂志人像封面",
+    "update_time": 1769524355607
   }
 ]

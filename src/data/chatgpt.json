@@ -11402,5 +11402,97 @@
     ],
     "title": "针织微缩童话世界",
     "update_time": 1768825564718
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015622019845702000_0.jpg",
+    "create_time": 1769396712000,
+    "description": "悬浮在半空中的士力架薄荷巧克力棒，被清澈水花环绕。旁边是直立的好时特别黑巧克力，两者在高对比度的工作室灯光下展现极致细节和光泽。",
+    "examples": [],
+    "height": 1024,
+    "id": "2015622019845702000",
+    "images": [
+      "/images/2026-01-26/2015622019845702000_0.jpg",
+      "/images/2026-01-26/2015622019845702000_1.jpg"
+    ],
+    "likes": 134,
+    "model": "gpt-5",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Created by ChatGPT image 1.5 \n\nPrompt :\n{\n\"global_settings\": {\n\"resolution\": \"8K\",\n\"quality\": \"ultra-high\",\n\"render_style\": \"hyperrealistic commercial CGI\",\n\"lighting\": \"studio-grade, high-contrast, glossy highlights\",\n\"focus\": \"extreme sharpness, macro-level texture visibility\",\n\"color_depth\": \"rich, saturated, clean gradients\",\n\"noise\": \"none\",\n\"artifacts\": \"none\"\n},\n\n\"Module_1_Image_1_Style\": {\n\"subject\": {\n\"primary_object\": \"Snickers mint chocolate bar in turquoise wrapper\",\n\"pose\": \"diagonally tilted, floating mid-air\",\n\"orientation\": \"top-left to bottom-right angle\",\n\"visibility\": \"full front-facing packaging visible\"\n},\n\"packaging_details\": {\n\"colors\": [\"turquoise\", \"brown\", \"white\", \"blue\"],\n\"text_visible\": [\"SNICKERS\", \"SNICKERS\", \"with mint\"],\n\"surface\": \"glossy plastic wrapper with subtle creases\",\n\"product_image\": \"chocolate bar segment printed on wrapper\"\n},\n\"ingredients_visible\": [\n\"fresh mint leaves\",\n\"whole almonds\",\n\"white sugar-like spherical candies\",\n\"chocolate bar pieces\"\n],\n\"motion_elements\": {\n\"liquid\": \"clear water splash forming a curved arc around the bar\",\n\"droplets\": \"floating water bubbles and droplets suspended in air\"\n},\n\"background\": {\n\"color\": \"light aqua blue\",\n\"texture\": \"smooth gradient\",\n\"depth\": \"foreground and background elements clearly separated\"\n},\n\"lighting\": {\n\"key_light\": \"bright frontal studio light\",\n\"rim_light\": \"cool highlights on water edges\",\n\"reflections\": \"strong specular highlights on wrapper and liquid\"\n}\n},\n\"Module_2_Image_2_Style\": {\n\"subject\": {\n\"primary_object\": \"Hershey’s Special Dark chocolate mint packaging\",\n\"pose\": \"upright, centered, slightly elevated\",\n\"orientation\": \"front-facing, symmetrical composition\"\n},\n\"packaging_details\": {\n\"colors\": [\"black\", \"green\", \"yellow\"],\n\"text_visible\": [\n\"SPECIAL DARK\",\n\"HERSHEY’S\",\n\"SABOR MENTA\",\n\"60% DE CACAU\",\n\"100 g\"\n],\n\"surface\": \"matte-black wrapper with glossy highlights\"\n},\n\"ingredients_visible\": [\n\"mint leaves\",\n\"embossed Hershey’s chocolate squares\"\n],\n\"motion_elements\": {\n\"liquid\": \"thick molten chocolate splashes wrapping around the package\",\n\"droplets\": \"small chocolate particles suspended mid-air\"\n},\n\"background\": {\n\"color\": \"deep green gradient\",\n\"base_surface\": \"liquid chocolate pool beneath the package\"\n},\n\"lighting\": {\n\"key_light\": \"warm directional light\",\n\"accent_light\": \"golden highlights on chocolate splashes\",\n\"contrast\": \"high contrast between dark wrapper and green background\"\n}\n}",
+      "全局设置：\n分辨率：8K，\n质量：超高，\n渲染风格：超现实商业CGI，\n照明：工作室级，高对比度，光泽亮点，\n焦点：极端清晰度，宏观级别纹理可见性，\n色彩深度：丰富、饱和、干净的渐变，\n噪点：无，\n伪影：无。\n\n模块_1_图像_1_样式：\n主题：\n主要对象：士力架薄荷巧克力棒，绿松石色包装，\n姿势：对角线倾斜，悬浮在半空中，\n方向：从左上到右下角度，\n可见性：正面全部包装可见。\n包装细节：\n颜色：绿松石色、棕色、白色、蓝色，\n可见文字：“SNICKERS”、“SNICKERS”、“with mint”，\n表面：有细微皱纹的光泽塑料包装，\n产品图像：包装上的巧克力条片段。\n可见成分：\n新鲜薄荷叶，\n整颗杏仁，\n类似白糖的球形糖果，\n巧克力条块。\n动态元素：\n液体：围绕巧克力棒形成弧形的清澈水花，\n液滴：漂浮在空气中的水泡和液滴。\n背景：\n颜色：浅碧蓝色，\n质地：平滑渐变，\n深度：前景和背景元素明显分离。\n照明：\n主光：明亮的正面工作室灯光，\n轮廓光：水边缘的冷色调亮点，\n反射：包装和液体上的强烈镜面高光。\n\n模块_2_图像_2_样式：\n主题：\n主要对象：好时特别黑巧克力薄荷包装，\n姿势：直立，居中，稍微抬高，\n方向：正面朝向，对称构图。\n包装细节：\n颜色：黑色、绿色、黄色，\n可见文字：“SPECIAL DARK”、“HERSHEY’S”、“SABOR MENTA”、“60% DE CACAU”、“100 g”，\n表面：带有光泽亮点的哑光黑色包装。\n可见成分：\n薄荷叶，\n浮雕好时巧克力方块。\n动态元素：\n液体：包裹着包装的浓厚熔化巧克力飞溅，\n液滴：悬浮在半空中的小巧克力颗粒。\n背景：\n颜色：深绿色渐变，\n底面：位于包装下方的液态巧克力池。\n照明：\n主光：温暖的定向光，\n辅助光：巧克力飞溅上的金色亮点，\n对比度：暗色包装与绿色背景之间的高对比度。"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2015622019845702000",
+    "source": {
+      "name": "Meem",
+      "url": "https://x.com/i/status/2015622019845701998"
+    },
+    "status": 1,
+    "tags": [
+      "chocolate",
+      "product",
+      "cinematic"
+    ],
+    "title": "薄荷巧克力的奇幻漂流",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 1536
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015023330726981989_0.jpg",
+    "create_time": 1769253974000,
+    "description": "画面中的年轻男子神情内省，站在乡村小道旁，背景是开阔的稻田和远树。傍晚柔和的阳光洒在他平静的脸上，整个场景充满了安静与思考的气息。",
+    "id": "2015023330726981989",
+    "images": [
+      "/images/2026-01-24/2015023330726981989_0.jpg"
+    ],
+    "likes": 148,
+    "model": "gpt-5",
+    "prompts": [
+      "GPT Image 1.5\n\nPrompt:\n{\n  \"subject\": {\n    \"type\": \"young man\",\n    \"age\": \"early to mid 20s\",\n    \"appearance\": {\n      \"hair\": \"short to medium length, naturally styled\",\n      \"expression\": \"calm, introspective, emotionally reserved\",\n      \"skin_tone\": \"natural warm olive, soft and realistic\",\n      \"features\": \"sharp thoughtful eyes, subtle stubble or clean-shaven, natural facial texture\"\n    },\n    \"clothing\": \"earth-tone minimalist outfit, long-sleeve shirt or lightweight jacket, contemporary and understated\"\n  },\n  \"scene\": {\n    \"environment\": \"quiet rural roadside near rice fields\",\n    \"location\": \"open rice paddies with distant trees and a soft horizon\",\n    \"props\": \"simple parked motorcycle or compact car on the roadside\",\n    \"time_of_day\": \"golden hour / late afternoon\",\n    \"weather\": \"clear sky, gentle breeze moving the grass\"\n  },\n  \"composition\": {\n    \"style\": \"cinematic storyboard grid\",\n    \"shots\": [\n      \"extreme close-up of eyes with natural light reflections\",\n      \"medium portrait facing camera with soft sunlight on the face\",\n      \"top-down shot from above showing the subject beside the road\",\n      \"side profile portrait with wind subtly moving hair or clothing\",\n      \"wide shot walking alone along the road between rice fields\"\n    ],\n    \"camera_angles\": \"mix of eye-level, overhead, and side angles\",\n    \"framing\": \"subject centered with strong negative space and expansive landscape\"\n  },\n  \"lighting\": {\n    \"type\": \"natural sunlight\",\n    \"quality\": \"soft, diffused golden-hour light\",\n    \"color_temperature\": \"neutral with warm highlights\",\n    \"shadows\": \"gentle, realistic falloff\"\n  },\n  \"visual_style\": {\n    \"mood\": \"quiet, reflective, contemplative\",\n    \"color_grading\": \"muted earthy tones with slight cool shadows\",\n    \"contrast\": \"low to medium\",\n    \"film_look\": \"cinematic indie film aesthetic\",\n    \"realism\": \"high, photorealistic\"\n  },\n  \"camera_settings\": {\n    \"lens\": \"35mm–50mm cinematic lens\",\n    \"depth_of_field\": \"shallow to medium\",\n    \"focus\": \"sharp focus on subject, softly blurred background\"\n  },\n  \"quality\": {\n    \"resolution\": \"4K\",\n    \"detail\": \"high detail, realistic fabric texture and skin rendering\",\n    \"noise\": \"minimal\",\n    \"artifacts\": \"none\"\n  }\n}",
+      "一位20岁出头至中期的年轻男子，留着短至中等长度、自然打理的头发，神情平静、内省且情感克制，肤色为自然温暖的橄榄色，肤质柔和逼真，五官特征包括锐利而富有思考感的眼神，轻微胡茬或干净剃须，面部纹理自然。身穿大地色系极简风格服装，如长袖衬衫或轻便夹克，整体造型现代而低调。\n\n场景设定在宁静的乡间道路旁，靠近稻田，背景是开阔的水稻田、远处的树木和柔和的地平线，路边停着一辆简约的摩托车或小型汽车。时间为黄金时段（傍晚时分），天气晴朗，微风轻拂草地。\n\n画面构图采用电影分镜故事板风格，包含以下镜头：  \n- 眼睛的极致特写，带有自然光反射；  \n- 中景人像正面面对镜头，脸部沐浴在柔和阳光下；  \n- 从上方俯拍主角站在路边的画面；  \n- 侧脸肖像，微风轻轻吹动头发或衣物；  \n- 主角独自沿稻田间道路行走的广角镜头。  \n\n摄影角度混合使用平视、俯视与侧拍，主体居中构图，留有大量负空间并展现广阔风景。\n\n光线为自然日光，呈现柔和、漫射的黄金时刻光线效果，色调中性偏暖，阴影过渡自然柔和。\n\n整体视觉风格安静、沉思、内敛，色彩调校以低饱和的大地色为主，阴影略带冷调，对比度低至中等，具有独立电影般的电影感，高度写实。\n\n使用35mm至50mm电影镜头拍摄，景深浅至中等，主体清晰对焦，背景柔焦虚化。\n\n图像分辨率为4K，细节丰富，真实呈现织物纹理与皮肤质感，噪点极少，无任何瑕疵。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Duet | AI",
+      "url": "https://x.com/Sheldon056/status/2015023330726981989"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "realistic"
+    ],
+    "title": "沉思的年轻人在宁静的乡间道路上",
+    "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-25/2015337737860403283_0.jpg",
+    "create_time": 1769328934000,
+    "description": "在这张超写实的图像中，一位身穿红色长款风衣的时尚女子坐在老旧斑驳的巴士前缘，她的金发波浪起伏，戴着蓝色反光太阳镜，望向蓝天。背景展示了轻微剥落的青绿色与锈红色调的巴士车身，和一个简单的城市天际线。",
+    "id": "2015337737860403283",
+    "images": [
+      "/images/2026-01-25/2015337737860403283_0.jpg"
+    ],
+    "likes": 137,
+    "model": "gpt-5",
+    "prompts": [
+      "1. Open ChatGPT\n2. Upload Your Image\n3. Prompt\nA stylish young woman sitting on the front edge of an old vintage bus, wearing a long red trench coat, woolen beanie cap, round blue reflective sunglasses, layered necklaces, and rugged brown leather boots. She has wavy blonde hair and a confident, dreamy expression, looking upward toward the sky. The bus is weathered with peeling paint in turquoise and rust red tones.Bright clear blue sky, urban background with minimal buildings, soft daylight, cinematic color grading, shallow depth of field, high fashion travel vibe, editorial photography, ultra-realistic, 4K resolution, sharp focus, natural skin texture, dramatic composition, film still aesthetic.",
+      "一位时尚年轻女子坐在一辆老式复古巴士的前缘，身穿一件长款红色风衣、羊毛针织帽、圆形蓝色反光太阳镜、多层项链和粗犷的棕色皮革靴子。她拥有波浪状的金发，神情自信而梦幻，目光望向天空。巴士车身斑驳，油漆剥落，呈现青绿色与锈红色调。背景是晴朗明亮的蓝天，城市景致中仅有少量建筑，光线柔和，采用电影级色彩调校，浅景深，充满高级时装旅行氛围，具有杂志大片风格，超写实画质，4K分辨率，焦点锐利，皮肤纹理自然，构图富有戏剧性，呈现电影剧照般的美学效果。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aijaz",
+      "url": "https://x.com/iamsofiaijaz/status/2015337737860403283"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "cinematic",
+      "portrait"
+    ],
+    "title": "复古巴士上的时尚旅行者",
+    "update_time": 1769524355607
   }
 ]

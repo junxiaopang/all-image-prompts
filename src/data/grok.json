@@ -464,5 +464,85 @@
     ],
     "title": "3D写实风格的社交媒体网红肖像",
     "update_time": 1769070867844
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015049336003166398_0.jpg",
+    "create_time": 1769260174000,
+    "description": "",
+    "id": "2015049336003166398",
+    "images": [
+      "/images/2026-01-24/2015049336003166398_0.jpg"
+    ],
+    "likes": 208,
+    "model": "grok-2",
+    "prompts": [
+      "A stylized 3D animated female photographer character, Pixar–Disney style, soft cinematic lighting. A young woman with short curly brown hair, big expressive eyes, round glasses, and a calm confident expression. She is standing with arms crossed, a vintage analog camera hanging around her neck. Wearing a cream button-up shirt with rolled sleeves and high-waisted olive green trousers.\nThe background is a cozy vintage photography studio filled with old cameras, film rolls, photo prints pinned on the wall, wooden tables, and warm desk lamps. Retro aesthetic, nostalgic mood, warm tones, shallow depth of field, ultra-detailed textures, soft shadows, highly polished 3D render, studio quality, cinematic composition, 4k, portrait orientation.",
+      "一位风格化的3D动画女性摄影师角色，皮克斯–迪士尼风格，柔和的电影级灯光。年轻女子拥有棕色短卷发、大而富有表现力的眼睛、圆形眼镜，神情平静自信。她双臂交叉站立，脖子上挂着一台复古胶片相机。身穿米色纽扣衬衫（袖子卷起）和高腰橄榄绿长裤。  \n背景是一间温馨的复古摄影工作室，摆满老式相机、胶卷、钉在墙上的照片、木桌和暖光台灯。整体呈现复古美学与怀旧氛围，色调温暖，景深浅，纹理超精细，阴影柔和，3D渲染高度精致，具备专业影棚品质，构图具有电影感，4K分辨率，人像竖构图。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2015049336003166398"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "皮克斯风格3D动画女性摄影师",
+    "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015012622140424574_0.jpg",
+    "create_time": 1769251420000,
+    "description": "画面中的女孩有着大眼睛和浅棕色的发髻，她正和一只白色与棕色相间的小型㹴犬在户外享受阳光并自拍。背景是柔和模糊的绿色草地，整个场景充满了温馨愉悦的氛围，展现了细腻的毛发与皮肤纹理。",
+    "id": "2015012622140424574",
+    "images": [
+      "/images/2026-01-24/2015012622140424574_0.jpg"
+    ],
+    "likes": 186,
+    "model": "grok-2",
+    "prompts": [
+      "A cute Pixar-style 3D animated girl taking a close-up selfie with her small playful dog outdoors. The girl has big expressive eyes, freckles on her cheeks, soft rosy skin, and light brown hair tied in a messy bun, making a surprised “O” mouth expression. The dog is a small terrier with white and brown fur, tongue out, happy and energetic. Bright natural sunlight, soft golden hour lighting, shallow depth of field, green grassy background with bokeh. Ultra-detailed fur and skin textures, cinematic composition, vibrant colors, wholesome joyful mood, high-resolution, 3D cartoon realism, Pixar–Disney animation style.",
+      "一个可爱的皮克斯风格3D动画女孩在户外与她的小型活泼狗狗自拍特写。女孩拥有大而富有表现力的眼睛、脸颊上的雀斑、柔嫩红润的肌肤，以及扎成凌乱发髻的浅棕色头发，嘴巴呈惊讶的“O”形。狗狗是一只小型㹴犬，毛色为白色与棕色相间，吐着舌头，神情快乐且充满活力。画面沐浴在明亮的自然阳光下，呈现柔和的黄金时刻光线，浅景深，背景为绿色草地并带有散景效果。毛发与皮肤纹理极度细腻，构图具有电影感，色彩鲜艳，整体氛围温馨愉悦，高分辨率，3D卡通写实风格，皮克斯–迪士尼动画风格。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2015012622140424574"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "animation",
+      "cute"
+    ],
+    "title": "皮克斯风格3D动画女孩与狗狗的温馨自拍",
+    "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015783528752111653_0.jpg",
+    "create_time": 1769435219000,
+    "description": "这组贴纸以3D Q版卡通女孩为特色，展现了同一角色的多种表情与姿势。从惊讶、伤心到开心和思考，每个表情都栩栩如生。皮克斯/迪士尼风格的渲染让这些形象更加迷人，光滑的质感和柔光照明增加了真实感。",
+    "id": "2015783528752111653",
+    "images": [
+      "/images/2026-01-26/2015783528752111653_0.jpg"
+    ],
+    "likes": 518,
+    "model": "grok",
+    "prompts": [
+      "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt\nA cute 3D chibi-style cartoon girl sticker set, featuring the same character in multiple emotions and poses. Big expressive glossy eyes, soft rounded face, slightly oversized head, small body proportions. Light brown/blonde messy bun hairstyle with loose strands. Wearing a red leather jacket over a white top. Each pose shows different expressions: surprised, sad, confused, happy, thinking, winking, peace sign, shrugging. Pixar/Disney-inspired 3D render, smooth plastic-like texture, soft lighting, pastel beige background. Sticker-style white outline around each character, clean and minimal aesthetic, high detail, ultra cute, emoji-like expressions, high resolution, studio quality.",
+      "一组可爱的3D Q版卡通女孩贴纸，包含同一角色的多种表情与姿势。大而富有表现力的闪亮眼睛，柔和圆润的脸庞，略大的头部与娇小的身体比例。浅棕色/金色凌乱发髻，带有几缕散落的发丝。身穿红色皮夹克搭配白色上衣。每种姿势展现不同表情：惊讶、伤心、困惑、开心、思考、眨眼、比出和平手势、耸肩。风格受皮克斯/迪士尼启发的3D渲染，光滑如塑料的质感，柔光照明，背景为淡米色。每个角色周围有贴纸风格的白色轮廓线，整体干净简约，细节丰富，超萌可爱，表情类似表情包，高分辨率，影棚级画质。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2015783528752111653"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cute",
+      "cartoon"
+    ],
+    "title": "可爱3D卡通女孩多彩表情贴纸",
+    "update_time": 1769524355607
   }
 ]

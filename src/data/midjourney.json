@@ -3356,5 +3356,215 @@
     ],
     "title": "雾中废弃机械教堂",
     "update_time": 1769070867842
+  },
+  {
+    "coverImage": "/images/2026-01-22/2014416544600576341_0.jpg",
+    "create_time": 1769109304000,
+    "description": "一位时尚女性的双曝光丝网印刷肖像，融合Y2K风格、金色与深红霓虹光效，叠加数字故障与负片效果，营造出复古未来感。",
+    "id": "2014416544600576341",
+    "images": [
+      "/images/2026-01-22/2014416544600576341_0.jpg",
+      "/images/2026-01-22/2014416544600576341_1.jpg",
+      "/images/2026-01-22/2014416544600576341_2.jpg",
+      "/images/2026-01-22/2014416544600576341_3.jpg"
+    ],
+    "likes": 138,
+    "model": "midjourney",
+    "prompts": [
+      "RETROFUTURISTIC \n\nBase prompt :\n\nA [SUBJECT]\n\nminimalist screen print line art fashion magazine cover with bold typography of a [SUBJECT] in the style of y2k, [COLOR] and [COLOR] lighting, double exposure risograph portrait of a retrofuturistic scene, glitchcore style with foggy neon lights, overlaying the face, digital glitch, color negative\n\nCheck ALTs\n\nPS : Made with Midjourney , there was on the grid with some typos I prefered the ones without , so you could get renders with",
+      "minimalist screen print line art fashion magazine cover with bold typography of a fashionable woman in the style of y2k, gold and crimson lighting, double exposure risograph portrait of a retrofuturistic scene, glitchcore style with foggy neon lights, overlaying the face, digital glitch, color negative --v 7.0 --ar 4:5",
+      "minimalist screen print line art fashion magazine cover with bold typography of a man in the style of y2k, indigo and orange lighting, double exposure risograph portrait of a retrofuturistic scene, glitchcore style with foggy neon lights, overlaying the face, digital glitch, color negative --v 7.0 --ar 4:5 ",
+      "minimalist screen print line art fashion magazine cover with bold typography of a woman in the style of y2k, red and blue lighting, double exposure risograph portrait of a retrofuturistic scene, glitchcore style with foggy neon lights, overlaying the face, digital glitch, color negative --v 7.0 --ar 4:5",
+      "minimalist screen print line art fashion magazine cover with bold typography of a gothic woman in the style of y2k, black and white lighting, double exposure risograph portrait of a retrofuturistic scene, glitchcore style with foggy neon lights, overlaying the face, digital glitch, color negative --v 7.0 --ar 4:5"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2014416544600576341"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "glitch",
+      "y2k"
+    ],
+    "title": "Y2K时尚杂志封面：故障风双曝光肖像",
+    "update_time": 1769257445775
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015114891145691400_0.jpg",
+    "create_time": 1769275803000,
+    "description": "这是一张展示了特定美食的超写实数字插画，细节精确到食物的每一粒盐晶。采用暖色调与高对比度，使每种食材都显得格外诱人。中性背景更加突出了主体的精致。",
+    "examples": [],
+    "height": 816,
+    "id": "2015114891145691400",
+    "images": [
+      "/images/2026-01-24/2015114891145691400_0.jpg",
+      "/images/2026-01-24/2015114891145691400_1.jpg",
+      "/images/2026-01-24/2015114891145691400_2.jpg",
+      "/images/2026-01-24/2015114891145691400_3.jpg"
+    ],
+    "likes": 108,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "an ultra-realistic digital illustration of a [specific food, dish, dessert, or ingredient with precise details], [camera angle], warm colors, high resolution, high detail, high quality, high contrast, neutral background, in the style of artstation trending.",
+      "一张超写实的数字插画，描绘一道[具体的食物、菜肴、甜点或食材，并附带精确细节]，[相机角度]，采用暖色调，高分辨率，高细节，高质量，高对比度，中性背景，风格参考 ArtStation 热门作品。"
+    ],
+    "ratio": "91:51",
+    "slug": "prompt-2015114891145691400",
+    "source": {
+      "name": "Pierrick Chevallier | IA",
+      "url": "https://x.com/i/status/2015114891145691275"
+    },
+    "status": 1,
+    "tags": [
+      "food",
+      "high-detail",
+      "realistic"
+    ],
+    "title": "超写实美食数字插画",
+    "type": "",
+    "update_time": 1769436385657,
+    "width": 1456
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015681138442780700_0.jpg",
+    "create_time": 1769410807000,
+    "description": "一位高贵女王的面容与荒废宫殿的骨架结构交融，呈现如幽灵般淡白与浅玫瑰色的记忆印记。",
+    "examples": [],
+    "height": 896,
+    "id": "2015681138442780700",
+    "images": [
+      "/images/2026-01-26/2015681138442780700_0.jpg",
+      "/images/2026-01-26/2015681138442780700_1.jpg",
+      "/images/2026-01-26/2015681138442780700_2.jpg",
+      "/images/2026-01-26/2015681138442780700_3.jpg"
+    ],
+    "likes": 143,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "Double exposure portrait of a drifting sailor merging with the blueprint or skeletal structure of a rusted lighthouse, creating an Architectural Ghostly Imprint. Use faded, spectral tones of seafoam green and smoky beige to suggest the passage of time and memory --ar 3:2 --v 7.0",
+      "Double exposure portrait of a regal queen merging with the blueprint or skeletal structure of a deserted palace, creating an Architectural Ghostly Imprint. Use faded, spectral tones of pearlescent white and pale rose to suggest the passage of time and memory --ar 3:2 --v 7.0",
+      "Double exposure portrait of Child merging with the blueprint or skeletal structure of a Modern Skyscraper, creating an Architectural Ghostly Imprint. Use faded, spectral tones of Steel Blue and Silver to suggest the passage of time and memory --ar 3:2 --v 7.0",
+      "Double exposure portrait of Elderly Woman merging with the blueprint or skeletal structure of a Victorian Library, creating an Architectural Ghostly Imprint. Use faded, spectral tones of Sepia and Pale Blue to suggest the passage of time and memory --ar 3:2 --v 7.0"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2015681138442780700",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/i/status/2015681138442780740"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "architecture",
+      "ghostly"
+    ],
+    "title": "女王与废墟宫殿的双重曝光肖像",
+    "type": "",
+    "update_time": 1769436385657,
+    "width": 1344
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015741614782816500_0.jpg",
+    "create_time": 1769425226000,
+    "description": "An elderly man smokes alone in a rain-soaked alley, viewed through foggy, raindrop-streaked glass under moody blue and tungsten lights.",
+    "examples": [],
+    "height": 640,
+    "id": "2015741614782816500",
+    "images": [
+      "/images/2026-01-26/2015741614782816500_0.jpg",
+      "/images/2026-01-26/2015741614782816500_1.jpg",
+      "/images/2026-01-26/2015741614782816500_2.jpg",
+      "/images/2026-01-26/2015741614782816500_3.jpg"
+    ],
+    "likes": 55,
+    "model": "midjourney-v7",
+    "notes": [],
+    "originFile": "",
+    "prompts": [
+      "A photorealistic vintage car idling in traffic at night seen through raindrop-covered glass. Misty atmosphere, cold cinematic lighting, streaks of blue and tungsten glow, with bokeh distortions. Moody and emotional, with film still aesthetics. --ar 3:2 --v 7",
+      "A photorealistic old man smoking in a rainy alley seen through raindrop-covered glass. Misty atmosphere, cold cinematic lighting, streaks of blue and tungsten glow, with bokeh distortions. Moody and emotional, with film still aesthetics. --ar 3:2 --v 7",
+      "A photorealistic woman holding an umbrella under neon signs seen through raindrop-covered glass. Misty atmosphere, cold cinematic lighting, streaks of blue and tungsten glow, with bokeh distortions. Moody and emotional, with film still aesthetics. --ar 3:2 --v 7",
+      "A photorealistic couple waiting at a train station seen through raindrop-covered glass. Misty atmosphere, cold cinematic lighting, streaks of blue and tungsten glow, with bokeh distortions. Moody and emotional, with film still aesthetics. --ar 3:2 --v 7"
+    ],
+    "ratio": "3:2",
+    "slug": "prompt-2015741614782816500",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/i/status/2015741614782816529"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "photography",
+      "moody"
+    ],
+    "title": "雨夜朦胧玻璃电影镜头",
+    "type": "",
+    "update_time": 1769436385658,
+    "width": 960
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015139031034757157_0.jpg",
+    "create_time": 1769281559000,
+    "description": "这个作品展示了手工制作的纸卷工艺玩偶，细节极其丰富，从紧密的卷圈到流苏边缘无不体现匠人精神。细腻的纸张纹理和微妙色彩渐变赋予了玩偶生命力，柔和阴影增强了其三维立体感。",
+    "id": "2015139031034757157",
+    "images": [
+      "/images/2026-01-24/2015139031034757157_0.jpg",
+      "/images/2026-01-24/2015139031034757157_1.jpg",
+      "/images/2026-01-24/2015139031034757157_2.jpg"
+    ],
+    "likes": 58,
+    "model": "midjourney",
+    "prompts": [
+      "Style: Handmade Paper Quilling\n\nAI Platform/Model: @Grok Imagine\n\nPrompt:\nHyper-realistic photograph of an adorable handmade paper quilling amigurumi [SUBJECT], extremely detailed coiled and shaped paper strips, visible tight rolls, fringed edges and layered quill shapes, delicate paper grain and slight color gradients, soft shadows emphasizing 3D form, professional product photography, studio lighting, subtle bokeh, against [BACKGROUND DESCRIPTION], vertical composition, ultra-detailed, 2k, photorealistic, macro photography style --ar [X:X] --stylize 250 --v 6 --q 2",
+      "超写实摄影风格的手工纸卷工艺（纸艺卷曲）可爱玩偶[SUBJECT]，极度细致的卷曲与塑形纸条，清晰可见的紧密卷圈、流苏边缘和层叠的卷纸造型，细腻的纸张纹理与微妙的色彩渐变，柔和阴影突出三维形态，专业产品摄影，影棚灯光，轻微背景虚化，背景为[BACKGROUND DESCRIPTION]，竖构图，超高细节，2K分辨率，逼真摄影，微距摄影风格 --ar [X:X] --stylize 250 --v 6 --q 2"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Shams",
+      "url": "https://x.com/ShamsAmin56/status/2015139031034757157"
+    },
+    "status": 1,
+    "tags": [
+      "paper-craft",
+      "realistic",
+      "macro-photography"
+    ],
+    "title": "超写实的纸艺卷曲玩偶",
+    "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-26/2015736758110228520_0.jpg",
+    "create_time": 1769423970000,
+    "description": "这幅高端极简主义矢量插画，通过锐利几何面和干净垂直层次描绘[城市名称]的天际线。背景中半透明抽象曲线优雅穿梭于摩天大楼间，创造出动感对比。画面采用低饱和度色彩搭配，营造出深邃而宁静的城市夜景。",
+    "id": "2015736758110228520",
+    "images": [
+      "/images/2026-01-26/2015736758110228520_0.jpg"
+    ],
+    "likes": 11,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Style & Subject: A high-end minimalist vector illustration of [CITY NAME] skyline, featuring the distinct silhouettes of [CORE LANDMARKS]. The architectural forms are deconstructed into sharp geometric facets and clean vertical layers, emphasizing a sense of rational order and modern rhythmic beauty.\n\nArtistic Elements: Integrate flowing, translucent abstract ribbon-like curves in the background that weave gracefully through the skyscrapers. These curves should be thin and elegant, providing a dynamic contrast to the solid, static buildings. No messy details; focus on pure form and \"breathing\" negative space.\n\nColor Palette: A sophisticated, curated palette of muted teals, soft corals, warm ochre, and deep midnight blue. Use subtle tonal gradients and overlapping translucent layers to create depth and volume without using realistic shadows or 3D textures.\n\nTypography & Layout: Centered at the very bottom of the canvas, place the text \"[CITY NAME]\", elegant uppercase sans-serif font. The text must be situated in a clean, generous white margin at the bottom 15% of the image, completely isolated from the architectural graphics.--ar 4:5",
+      "风格与主题：一幅高端极简主义矢量插画，描绘[城市名称]的天际线，突出[核心地标]的独特剪影。建筑形态被解构为锐利的几何面与干净的垂直层次，强调理性秩序与现代韵律之美。\n\n艺术元素：在背景中融入流动、半透明的抽象丝带状曲线，优雅地穿梭于摩天大楼之间。这些曲线应纤细而精致，与坚实静止的建筑形成动态对比。避免杂乱细节，聚焦于纯粹形态与富有“呼吸感”的留白空间。\n\n配色方案：采用精心搭配的低饱和青绿色、柔珊瑚色、暖赭石色与深午夜蓝。通过微妙的色调渐变与半透明图层叠加营造深度与体积感，不使用写实阴影或三维纹理。\n\n文字与排版：在画布最底部中央放置文字“[城市名称]”，使用优雅的大写无衬线字体。文字必须位于画面底部15%区域的干净、宽裕白色边距内，与上方建筑图形完全隔离。--ar 4:5"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "两斤",
+      "url": "https://x.com/0x00_Krypt/status/2015736758110228520"
+    },
+    "status": 1,
+    "tags": [
+      "minimalist",
+      "cityscape",
+      "vector"
+    ],
+    "title": "[城市名称]天际线：极简与现代的对话",
+    "update_time": 1769524355607
   }
 ]
