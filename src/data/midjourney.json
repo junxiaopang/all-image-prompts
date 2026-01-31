@@ -3566,5 +3566,39 @@
     ],
     "title": "[城市名称]天际线：极简与现代的对话",
     "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-27/2016103411801063472_0.jpg",
+    "create_time": 1769511485000,
+    "description": "一个半透明薰衣草色身体、点缀日落橙光的卡通小孩，骑在云朵上，大头夸张表情，趣味配饰，在深色渐变背景中散发柔和内光。",
+    "id": "2016103411801063472",
+    "images": [
+      "/images/2026-01-27/2016103411801063472_0.jpg",
+      "/images/2026-01-27/2016103411801063472_1.jpg",
+      "/images/2026-01-27/2016103411801063472_2.jpg",
+      "/images/2026-01-27/2016103411801063472_3.jpg"
+    ],
+    "likes": 211,
+    "model": "midjourney-v7",
+    "prompts": [
+      "A 3D cartoon-style render of a [subject], with a soft matte translucent body in [color1] and glowing [color2] accents. Features include oversized head, exaggerated facial features, and fun accessories. Subtle internal glow and ambient lighting, centered on a dark gradient background. Stylized in a playful and imaginative atmosphere.",
+      "A 3D cartoon-style render of a cloud-rider child, with a soft matte translucent body in lavender and glowing sunset orange accents. Features include oversized head, exaggerated facial features, and fun accessories. Subtle internal glow and ambient lighting, centered on a dark gradient background. Stylized in a playful and imaginative atmosphere. --ar 3:2 --v 7",
+      "A 3D cartoon-style render of a tiny cloud ninja, with a soft matte translucent body in mist white and glowing deep indigo accents. Features include oversized head, exaggerated facial features, and fun accessories. Subtle internal glow and ambient lighting, centered on a dark gradient background. Stylized in a playful and imaginative atmosphere. --ar 3:2 --v 7",
+      "A 3D cartoon-style render of a dream-bot companion, with a soft matte translucent body in blush pink and glowing holographic silver accents. Features include oversized head, exaggerated facial features, and fun accessories. Subtle internal glow and ambient lighting, centered on a dark gradient background. Stylized in a playful and imaginative atmosphere. --ar 3:2 --v 7",
+      "A 3D cartoon-style render of a forest sprout kid, with a soft matte translucent body in leaf green and glowing amber accents. Features include oversized head, exaggerated facial features, and fun accessories. Subtle internal glow and ambient lighting, centered on a dark gradient background. Stylized in a playful and imaginative atmosphere. --ar 3:2 --v 7"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2016103411801063472"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cartoon",
+      "character"
+    ],
+    "title": "云上骑行的卡通小孩",
+    "update_time": 1769695828143
   }
 ]

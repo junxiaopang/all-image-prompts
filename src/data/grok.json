@@ -572,5 +572,92 @@
     ],
     "title": "皮克斯风格的3D卡通女孩表情包",
     "update_time": 1769606058723
+  },
+  {
+    "coverImage": "/images/2026-01-27/2016244247813620194_0.jpg",
+    "create_time": 1769545062000,
+    "description": "这张infographic图像以手绘技术注释清晰展示了对象的内部构造，关键部件、材料类型和数量均被详细标注。黑墨水风格线条与箭头指示了功能流和力的作用路径，提供详尽尺寸规格。",
+    "id": "2016244247813620194",
+    "images": [
+      "/images/2026-01-27/2016244247813620194_0.jpg",
+      "/images/2026-01-27/2016244247813620194_1.jpg"
+    ],
+    "likes": 264,
+    "model": "grok-2",
+    "prompts": [
+      "Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:\n•Key component labels\n•Internal cutaway or exploded-view outlines\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure)\n•Simple schematic or sectional diagrams where relevant\n\nPlace the title [OBJECT] inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations feel sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.\n\nColor palette:\nWhite background, black annotation lines and text only. No colors.\n\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.",
+      "为了创建一个关于【对象】的 infographic 图像，我们将结合该对象的真实照片或超写实渲染图，并在其上直接叠加技术注释。\n\n### 内容要求：\n- **关键组件标签**：使用黑墨水风格线条绘制并标注关键部件。\n- **内部剖视图或爆炸视图轮廓**：展示对象内部结构或组件分离视图，帮助理解其构造。\n- **尺寸、测量和比例标记**：提供详细的尺寸规格和比例尺，以准确表示大小。\n- **材料标注与数量**：指出使用的材料类型及其相应的数量。\n- **指示功能、力或流向的箭头**：用箭头表明空气、声音、电力或压力等的流动方向或作用力路径。\n- **简单的原理图或截面图**：在相关处添加，辅助说明工作原理或结构细节。\n\n### 标题与样式规则：\n- 在一角使用手绘的技术注释框内放置标题【对象】。\n- 确保真实对象在注释下方清晰可见。\n- 注释部分应体现出素描、技术性和建筑感。\n- 整洁的构图与均衡的负空间分布，营造出教育性、博物馆展览或工程手册的感觉。\n\n### 视觉风格：\n采用简约的技术插图美学，黑色线条覆盖于真实图像之上，精确但略带手工绘制的感觉。\n\n### 色彩方案：\n纯白背景，仅使用黑色注释线和文本。不使用颜色。\n\n### 输出规格：\n1080×1080像素，超高清晰度，适合社交平台分享，无水印。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "TechieSA",
+      "url": "https://x.com/TechieBySA/status/2016244247813620194"
+    },
+    "status": 1,
+    "tags": [
+      "infographic",
+      "black-white",
+      "technical"
+    ],
+    "title": "解构对象：内部结构与关键组件",
+    "update_time": 1769695828143
+  },
+  {
+    "coverImage": "/images/2026-01-30/2017084427139203442_0.jpg",
+    "create_time": 1769745377000,
+    "description": "这是一张展现小女孩抱着她的金毛犬的肖像，画面捕捉了她大而明亮的眼睛和温柔微笑，背景淡雅，突出了主体。柔和的灯光和细腻的毛发质感增添了温暖和真实感。",
+    "id": "2017084427139203442",
+    "images": [
+      "/images/2026-01-30/2017084427139203442_0.jpg"
+    ],
+    "likes": 123,
+    "model": "grok",
+    "prompts": [
+      "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt\n3D Pixar-style portrait of a cute young girl hugging a golden retriever, soft warm lighting, big expressive eyes, gentle smile, cozy emotional mood, ultra-detailed fur texture, smooth skin shading, pastel neutral background, shallow depth of field, cinematic close-up framing, soft natural colors, wholesome friendship vibe, high-resolution, studio quality render",
+      "3D皮克斯风格的可爱小女孩肖像，她正抱着一只金毛犬，柔和温暖的灯光，大而富有表现力的眼睛，温柔的微笑，温馨感人的情绪氛围，超精细的毛发质感，柔滑的皮肤明暗过渡，淡雅中性的背景，浅景深，电影感特写构图，柔和自然的色彩，充满纯真友谊的气息，高分辨率，影棚级渲染质量"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2017084427139203442"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "portrait",
+      "cute"
+    ],
+    "title": "小女孩与金毛犬的温馨瞬间",
+    "update_time": 1769779072218
+  },
+  {
+    "coverImage": "/images/2026-01-30/2017066146332377188_0.jpg",
+    "create_time": 1769741019000,
+    "description": "一位英勇的战士持枪站立，冷静的目光沿着枪管方向凝视前方，战术直升机在其后上方悬停，强烈的气流吹动着他的衣物和头发。画面通过极低角度拍摄，营造出压迫感。",
+    "id": "2017066146332377188",
+    "images": [
+      "/images/2026-01-30/2017066146332377188_0.jpg",
+      "/images/2026-01-30/2017066146332377188_1.jpg",
+      "/images/2026-01-30/2017066146332377188_2.jpg"
+    ],
+    "likes": 283,
+    "model": "grok-2",
+    "prompts": [
+      "{\n  \"prompt\": \"Use the uploaded image strictly as IDENTITY reference only. Preserve facial features, body proportions, and build exactly. Do NOT derive pose, posture, camera angle, orientation, or perspective from the reference.\\n\\nCinematic ultra-realistic FULL-BODY portrait, Golden Ratio composition. Subject stands perfectly upright with neutral vertical spine; no lean, no arch, no slouch. Head, shoulders, torso, hips, knees, ankles vertically aligned; weight evenly distributed.\\n\\nExtreme LOW-ANGLE camera near ground, angled upward for dominance; zero camera roll; single vanishing point below subject. Body rotated 15–20° counter-clockwise, left shoulder closer, posture fully upright.\\n\\nRight arm extended downward-forward, near-locked elbow, firm ONE-HAND grip holding a Desert Eagle. Wrist locked, recoil-ready. Gun angled diagonally lower-left → upper-right, offset camera-right ~10–15%. Barrel exits frame toward viewer via foreshortening, NOT aligned to camera axis.\\n\\nHead and gaze aligned precisely with weapon direction, eyes focused along gun line (not at lens). Expression: calm, heroic dominance, intimidating presence toward off-frame enemy. Left arm relaxed and partially obscured.\\n\\nWardrobe: grey heavily wrinkled button-up, sleeves rolled mid-forearm; brown leather suspenders; loose dark tie lifted by wind; black pants.\\n\\nEnvironment: tactical helicopter hovering behind/above with rotor blur; strong downdraft affecting hair, clothing, dust, debris, sparks, shattered glass. Stormy smoky sky. Lighting: cool overhead atmosphere + harsh top-down helicopter highlights, warm sparks below.\\n\\nGritty action-thriller realism, ultra-sharp 4K–8K, no text, no logos.\",\n  \n  \"conditional_rules\": {\n    \"if_female\": { \"add\": \"dark sunglasses\" }\n  },\n\n  \"negative_prompt\": \"pose or posture from reference, leaning, crouching, lunging, bent spine, head facing camera, eye contact with lens, gaze misaligned with weapon, squared front-facing body, gun aimed straight at camera, weapon aligned with camera axis, centered barrel, camera roll, fisheye distortion, flat lighting, clean clothing, beauty retouching, stylized look, blur, motion blur on subject, extra/missing limbs, distorted anatomy, bent wrist, two-handed grip, cropped head/feet, duplicated weapons, jewelry, accessories (except sunglasses if female), text, logos, watermarks\",\n\n  \"pose_lock\": {\n    \"lock_level\": \"absolute\"\n  },\n\n  \"seed_system\": {\n    \"base_seed\": 74291836,\n    \"variation_method\": \"offset\",\n    \"allowed_offset_range\": [-50, 50],\n    \"locked\": [\n      \"identity\",\n      \"pose\",\n      \"posture\",\n      \"camera_angle\",\n      \"camera_roll\",\n      \"vanishing_point\",\n      \"composition\",\n      \"body_rotation\",\n      \"arm_extension\",\n      \"weapon_direction\",\n      \"weapon_cropping\",\n      \"head_orientation\",\n      \"gaze_direction\"\n    ],\n    \"allowed_variation\": [\n      \"debris\",\n      \"sparks\",\n      \"clouds\",\n      \"fabric_motion\",\n      \"light_intensity\"\n    ]\n  },\n\n  \"style\": \"cinematic realism\",\n  \"resolution\": \"8k\",\n  \"quality\": \"ultra-high\"\n}",
+      "使用上传的图像仅作为身份参考，严格保留面部特征、身体比例和体型，不得从参考图中提取姿势、姿态、相机角度、朝向或透视关系。\n\n电影级超写实全身人像，黄金比例构图。人物完全直立，脊柱垂直中立，无倾斜、无弓背、无驼背；头部、肩膀、躯干、髋部、膝盖、脚踝严格垂直对齐，体重均匀分布。\n\n极低角度镜头贴近地面，向上仰拍以营造压迫感；相机无旋转（roll=0）；画面单点透视，消失点位于人物下方。身体逆时针旋转15–20度，左肩更靠近镜头，姿态保持完全直立。\n\n右臂向前下方伸展，肘部接近锁死，单手紧握一把沙漠之鹰手枪；手腕锁定，呈待击发状态。枪口沿左下至右上对角线方向，整体偏移镜头右侧约10–15%；枪管因透视缩短效果朝向观者并延伸出画框，不与镜头光轴对齐。\n\n头部与视线精确对准武器指向，目光沿枪管方向聚焦（非看向镜头）。表情冷静、英勇而具威慑力，面向画外敌人。左臂自然放松，部分被遮挡。\n\n服装：灰色重度褶皱纽扣衬衫，袖口卷至前臂中部；棕色皮革吊带；宽松深色领带被风吹起；黑色长裤。\n\n环境：战术直升机在人物后上方悬停，旋翼模糊；强烈下洗气流吹动头发、衣物，并卷起尘土、碎片、火花与碎玻璃。天空阴沉多烟。光照：冷色调顶光氛围 + 直升机带来的强烈顶部高光，下方有暖色火花照明。\n\n硬核动作惊悚片写实风格，超清晰4K–8K画质，不含文字或标志。\n\n若为女性角色，则额外添加深色太阳镜。\n\n禁止内容：参考图中的姿势或姿态、身体前倾、蹲伏、弓步、脊柱弯曲、头部正对镜头、眼神直视镜头、视线与武器方向不一致、正面朝向、枪口正对镜头、武器与镜头光轴对齐、枪管居中、相机旋转、鱼眼畸变、平面光照、整洁衣物、美颜修饰、风格化处理、模糊、主体运动模糊、多余或缺失肢体、解剖结构失真、手腕弯曲、双手持枪、头部或脚部裁切、重复武器、珠宝首饰及其他配饰（女性角色除外的太阳镜）、文字、标志、水印。\n\n姿态锁定等级：绝对锁定。\n\n种子系统基础种子值：74291836，采用偏移变异方式，允许偏移范围[-50, 50]。以下元素严格锁定：身份、姿势、姿态、相机角度、相机旋转、消失点、构图、身体旋转、手臂伸展、武器方向、武器裁剪、头部朝向、视线方向。允许变化元素：碎片、火花、云层、织物动态、光照强度。\n\n风格：电影写实主义，分辨率：8K，质量：超高。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Pulikesi",
+      "url": "https://x.com/23rd_Pulikesi/status/2017066146332377188"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "realistic"
+    ],
+    "title": "硬核动作惊悚片中的超写实战士",
+    "update_time": 1769779072218
   }
 ]
