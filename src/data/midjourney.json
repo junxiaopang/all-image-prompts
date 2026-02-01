@@ -3600,5 +3600,35 @@
     ],
     "title": "云上骑行的卡通小孩",
     "update_time": 1769695828143
+  },
+  {
+    "coverImage": "/images/2026-01-31/2017484581016928521_0.jpg",
+    "create_time": 1769840781000,
+    "description": "在这张图中，一位身穿极简汉服的美丽女子，以她坚毅的丹凤眼凝视前方，周围环绕着丝绸般顺滑的墨绿色流动能量，仿佛从东方奇幻电影中走出。",
+    "id": "2017484581016928521",
+    "images": [
+      "/images/2026-01-31/2017484581016928521_0.jpg",
+      "/images/2026-01-31/2017484581016928521_1.jpg",
+      "/images/2026-01-31/2017484581016928521_2.jpg",
+      "/images/2026-01-31/2017484581016928521_3.jpg"
+    ],
+    "likes": 6,
+    "model": "midjourney-v6",
+    "prompts": [
+      "这就是我梦里的国风3D！ \n终于把这种“青蛇劫起”般的电影级质感用 Niji 6 完美复刻了。\n那个墨绿色的流体背景和皮肤的通透感简直绝了……为了还原这个神仙画风，我大概跑了50张图调参。\n今天把压箱底的 Prompt 和风格思路毫无保留地分享给大家！\n\n 风格拆解 (The Vibe Check):\n这种风格的核心不是 2D，而是极致的 3D渲染感 (C4D/Octane) 加上 东方奇幻美学。\n\n关键要素：\n主体： 坚毅的丹凤眼 (Sharp phoenix eyes) + 极简汉服。\n\n环境： 墨绿色的流动能量 (Swirling dark green liquid/energy)，要有丝绸般的顺滑感。\n\n光影（重中之重）： 必须要有电影光感 (Cinematic lighting) 和让皮肤像玉一样的次表面散射 (Subsurface scattering)。\n\n 一键出图咒语 (复制即用)：\n\n/imagine prompt: A stunning 3D Chinese animation style close-up of a beautiful heroine, determined sharp phoenix eyes, black hair in traditional bun, white minimalist Hanfu, surrounded by swirling dark green fluid energy ribbons, cinematic lighting, subsurface scattering, elegant, high octane render, 8k resolution, masterpiece --ar 9:16 --niji 6 --s 250"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ponyo",
+      "url": "https://x.com/ponyodong/status/2017484581016928521"
+    },
+    "status": 1,
+    "tags": [
+      "chinese-style",
+      "cinematic",
+      "3d"
+    ],
+    "title": "墨绿流能中的坚毅丹凤",
+    "update_time": 1769951226230
   }
 ]

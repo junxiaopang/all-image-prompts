@@ -659,5 +659,146 @@
     ],
     "title": "硬核动作惊悚片中的超写实战士",
     "update_time": 1769779072218
+  },
+  {
+    "coverImage": "/images/2026-01-31/2017470598616916165_0.jpg",
+    "create_time": 1769837448000,
+    "description": "在这张奢华时尚杂志风格的图像中，一位肤色苍白、发型对称双丸子头的女性，佩戴圆形黑色墨镜和亮面黑色口红，身穿黑色高领毛衣，神情平静地站在醒目的红色摄影棚中。她身后是一只佩戴镶钻珠宝项圈的咆哮黑豹。戏剧性灯光强调了电影级对比度和细节。",
+    "id": "2017470598616916165",
+    "images": [
+      "/images/2026-01-31/2017470598616916165_0.jpg"
+    ],
+    "likes": 20,
+    "model": "grok-2",
+    "prompts": [
+      "High-fashion editorial portrait of a pale woman with symmetrical double space buns, round black sunglasses, glossy black lipstick, wearing a black turtleneck, calm expression. A roaring black panther stands behind her wearing a diamond jeweled collar. Bold red studio background, dramatic lighting, luxury fashion magazine aesthetic, ultra-detailed, cinematic contrast, sharp focus, Vogue style, photorealistic, dark elegant mood.",
+      "高定时装杂志风格人像：一位肤色苍白的女性，对称双丸子头，圆形黑色墨镜，亮面黑色口红，身穿黑色高领毛衣，神情平静。一只咆哮的黑豹站在她身后，佩戴镶钻珠宝项圈。背景为醒目的红色摄影棚，采用戏剧性灯光，呈现奢华时尚杂志美学，细节极致丰富，电影级对比度，焦点锐利，具有《Vogue》风格，写实逼真，氛围暗黑优雅。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2017470598616916165"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "fashion",
+      "portrait"
+    ],
+    "title": "暗黑优雅写真：红棚中的时尚人像与黑豹",
+    "update_time": 1769861767583
+  },
+  {
+    "coverImage": "/images/2026-01-30/2017217674242396333_0.jpg",
+    "create_time": 1769777146000,
+    "description": "这幅图像展示了一位成年女性，她留着金色短卷发，穿着亮红色服装，佩戴樱桃主题配饰。她的手指间捏着一个微小的、会动的迷你版自己，迷你人偶表情夸张，呈卡通式尖叫状。背景设置在一间装饰有樱桃图案与花朵的粉彩粉色房间。",
+    "id": "2017217674242396333",
+    "images": [
+      "/images/2026-01-30/2017217674242396333_0.jpg"
+    ],
+    "likes": 55,
+    "model": "grok-2",
+    "prompts": [
+      "A playful surreal fashion portrait of an adult woman with short wavy blonde hair wearing cherry-themed accessories and glossy red outfit, holding a tiny animated miniature version of herself between her fingers, the miniature screaming with exaggerated cartoon expression, Pixar-style 3D doll character mixed with photorealistic human, pastel pink room with cherry decor and flowers, soft sunlight, dreamy bokeh light leaks, kawaii aesthetic, ultra-detailed fashion photography, shallow depth of field, magazine editorial vibe, vibrant red and pink color palette, cinematic lighting, high resolution",
+      "一幅充满趣味的超现实时尚人像，描绘一位留着金色短卷发的成年女性，身穿亮红色服装，佩戴樱桃主题配饰，手指间捏着一个微小的、会动的迷你版自己；这个迷你人偶表情夸张，呈卡通式尖叫状。整体风格融合皮克斯3D玩偶角色与逼真人类形象，背景为粉彩粉色房间，装饰有樱桃图案与花朵，柔光照射，梦幻光晕与漏光效果，可爱（kawaii）美学，超高细节的时尚摄影，浅景深，杂志大片氛围，以鲜艳的红与粉为主色调，电影级灯光，高分辨率。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2017217674242396333"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "3d",
+      "cute"
+    ],
+    "title": "超现实时尚人像：迷你版自我尖叫",
+    "update_time": 1769861767583
+  },
+  {
+    "coverImage": "/images/2026-02-01/2017768487297683715_0.jpg",
+    "create_time": 1769908470000,
+    "description": "画面捕捉了一个3D皮克斯风格的女孩在跳跃时的欢快瞬间。她金色的头发随风飘动，脸上带着灿烂的笑容，身穿温暖黄白配色的毛茸茸毛衣和蓬松工装裤。",
+    "id": "2017768487297683715",
+    "images": [
+      "/images/2026-02-01/2017768487297683715_0.jpg",
+      "/images/2026-02-01/2017768487297683715_1.jpg"
+    ],
+    "likes": 83,
+    "model": "grok",
+    "prompts": [
+      "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt\nA joyful 3D Pixar-style cartoon girl captured mid-jump, full of energy and happiness. She has blonde hair (either in cute buns or flowing freely), oversized round glasses, and playful accessories like goggles or a beret. Big expressive eyes, wide cheerful smile, soft toy-like facial features. Outfit in a warm yellow-and-white palette: a fuzzy mustard-yellow sweater or jacket over a white top, fluffy white cargo pants, and chunky white sneakers. Dynamic jumping pose with arms raised or making peace signs, lively motion frozen in air. Ultra-detailed 3D render, smooth stylized textures, soft studio lighting, subtle shadows, vibrant monochrome yellow background, cinematic depth of field, adorable animated movie aesthetic, high resolution, cheerful and uplifting mood.",
+      "一个充满活力与喜悦的3D皮克斯风格卡通女孩，正跳跃至半空。她拥有金色头发（扎成可爱的发髻或自然飘逸）、超大圆框眼镜，以及俏皮的配饰如护目镜或贝雷帽。大而富有表现力的眼睛、灿烂的笑容，脸部特征柔软如玩具般可爱。服装采用温暖的黄白配色：一件毛茸茸的芥末黄毛衣或夹克搭配白色上衣，蓬松的白色工装裤和厚底白色运动鞋。动态跳跃姿势，双臂高举或比出和平手势，生动的动作定格于空中。超精细3D渲染，光滑的风格化材质，柔和的影棚灯光，微妙阴影，鲜明的单色黄色背景，电影级景深效果，呈现可爱动画电影的美学风格，高分辨率，整体氛围欢快而振奋人心。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2017768487297683715"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "animation",
+      "cartoon"
+    ],
+    "title": "活力四射的3D卡通女孩跳跃瞬间",
+    "update_time": 1769951226228
+  },
+  {
+    "coverImage": "/images/2026-02-01/2017911449595809920_0.jpg",
+    "create_time": 1769942555000,
+    "description": "图像中的时尚女孩以舒适芥末黄套装和圆形眼镜出现，站在巨大的智能手机前，手指向手机屏幕上“Noor”的X个人资料界面，鼓励观众点击‘关注’。背景采用极简浅灰色，整体为皮克斯级别的3D效果。",
+    "id": "2017911449595809920",
+    "images": [
+      "/images/2026-02-01/2017911449595809920_0.jpg"
+    ],
+    "likes": 46,
+    "model": "grok",
+    "prompts": [
+      "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt\nA hyper-realistic 3D cartoon illustration of a stylish girl standing outside a giant modern smartphone. The phone screen clearly displays an X (Twitter) profile interface with the name “Noor ”, username @Noor_ul_ain43, verified blue tick, bio text “Stoic!”, and follower/following counts visible. The “Follow” button is bright blue and clearly readable.\nThe girl is wearing a cozy oversized mustard-yellow knitted outfit (cardigan and wide pants), white sneakers with yellow accents, and a small backpack. She has round black glasses, soft expressive eyes, and curly hair tied in a messy bun. Her pose is dynamic and engaging — she is smiling and pointing her index finger directly at the “Follow” button on the phone screen, as if encouraging viewers to follow.\nThe character stands slightly in front and to the side of the phone, creating a strong depth effect. Lighting is soft studio lighting with gentle shadows. Background is minimal and light grey for a clean, premium look. Style is Pixar-quality 3D, ultra-detailed, smooth textures, realistic fabric knitting, sharp UI details, high resolution, cinematic composition",
+      "一张超写实的3D卡通插画，描绘一位时尚女孩站在一部巨大的现代智能手机外。手机屏幕上清晰显示一个X（Twitter）个人资料界面，用户名为“Noor”，账号为@Noor_ul_ain43，带有蓝色认证徽标，简介文字为“Stoic!”，并可见粉丝数和关注数。“关注”按钮为亮蓝色，清晰可读。\n\n女孩身穿舒适的 oversized 芥末黄针织套装（开衫和阔腿裤），脚踩白色配黄色点缀的运动鞋，背着一个小背包。她戴着圆形黑框眼镜，眼神柔和富有表现力，卷发扎成一个凌乱的发髻。她的姿势充满动感且引人注目——正微笑着用食指直接指向手机屏幕上的“关注”按钮，仿佛在鼓励观众点击关注。\n\n角色略微站在手机前方偏侧位置，营造出强烈的景深效果。采用柔和的影棚灯光，投射出轻柔阴影。背景为极简浅灰色，呈现干净高级的视觉感。整体风格为皮克斯级别的3D效果，细节极致丰富，纹理平滑，织物针织质感真实，用户界面细节锐利，高分辨率，电影级构图。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2017911449595809920"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "portrait",
+      "cinematic"
+    ],
+    "title": "时尚女孩引导你关注Noor的X（Twitter）主页",
+    "update_time": 1769951226229
+  },
+  {
+    "coverImage": "/images/2026-02-01/2017889153774735423_0.jpg",
+    "create_time": 1769937239000,
+    "description": "一位东亚女性身着绣花中式礼服，肌肤如冷白瓷，眼神深邃直视镜头，融合古典油画笔触与超写实摄影质感。",
+    "id": "2017889153774735423",
+    "images": [
+      "/images/2026-02-01/2017889153774735423_0.jpg",
+      "/images/2026-02-01/2017889153774735423_1.jpg"
+    ],
+    "likes": 28,
+    "model": "grok-2",
+    "prompts": [
+      "东方美学与古典油画的碰撞。\nOriental aesthetics meet classical texture.Testing a new prompt for that \"cold porcelain\" look. \n\n左边GROK\n右边SEEDREAM\n你pick哪一种风格？\n\nPrompt：\n\nClose-up portrait of a stunning East Asian woman, blending classical medieval oil painting style with hyper-realistic photography. Cold white porcelain skin, natural \"no-makeup\" look, glossy wet lips. Messy light brown hair, windswept strands crossing the face adding a sense of chaos. Emotional direct gaze, deep eyes. Wearing pearl earrings, cream-white Chinese traditional couture with floral embroidery and sequins, hand gently touching the collar. Vintage brownish background, dappled light and shadows, soft focus creating a dreamy ethereal atmosphere, 8k resolution, extremely detailed texture, cinematic lighting."
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ponyo",
+      "url": "https://x.com/ponyodong/status/2017889153774735423"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "classical",
+      "chinese-style"
+    ],
+    "title": "冷瓷肌肤的东方肖像",
+    "update_time": 1769951226230
   }
 ]

@@ -11494,5 +11494,119 @@
     ],
     "title": "复古巴士上的时尚旅行者",
     "update_time": 1769524355607
+  },
+  {
+    "coverImage": "/images/2026-01-30/2017261058982072577_0.jpg",
+    "create_time": 1769787490000,
+    "description": "",
+    "id": "2017261058982072577",
+    "images": [
+      "/images/2026-01-30/2017261058982072577_0.jpg",
+      "/images/2026-01-30/2017261058982072577_1.jpg",
+      "/images/2026-01-30/2017261058982072577_2.jpg"
+    ],
+    "likes": 91,
+    "model": "gpt-5",
+    "prompts": [
+      "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K UHD\",\n      \"aspect_ratio\": \"3:4\",\n      \"quality\": \"ultra-high\",\n      \"sharpness\": \"extreme clarity\",\n      \"lighting\": \"studio-controlled, soft gradients\",\n      \"background_style\": \"minimal, clean, distraction-free\",\n      \"render_style\": \"clearly AI-edited, hyper-detailed, photorealistic-surreal hybrid\"\n    },\n\n    \"modules\": {\n      \"module_1\": {\n        \"module_name\": \"Image 1 – Banana Duck Hybrid\",\n        \"subject_description\": {\n          \"primary_form\": \"Hybrid creature combining a duck and a peeled banana\",\n          \"head\": {\n            \"type\": \"duck head\",\n            \"color\": \"off-white to pale cream\",\n            \"texture\": \"fine feather-like skin texture\",\n            \"eyes\": \"small, round, glossy black eyes\",\n            \"beak\": {\n              \"color\": \"yellow-orange\",\n              \"surface\": \"slightly speckled with darker spots\",\n              \"shape\": \"smooth, curved, realistic duck beak\"\n            }\n          },\n          \"body\": {\n            \"core_structure\": \"banana\",\n            \"color\": \"ripe yellow\",\n            \"surface\": \"smooth with natural banana speckling\",\n            \"banana_peels\": {\n              \"count\": 3,\n              \"position\": \"peeled outward symmetrically\",\n              \"texture\": \"fibrous inner peel texture, slightly rough outer peel\",\n              \"color_variation\": \"light yellow to pale cream\"\n            }\n          },\n          \"legs_and_feet\": {\n            \"type\": \"duck legs and webbed feet\",\n            \"color\": \"golden yellow\",\n            \"texture\": \"smooth, slightly glossy\",\n            \"pose\": \"standing upright with one foot slightly forward\"\n          }\n        },\n        \"pose_and_composition\": {\n          \"orientation\": \"upright, centered\",\n          \"camera_angle\": \"eye-level\",\n          \"framing\": \"full body visible\",\n          \"balance\": \"stable, symmetrical composition\"\n        },\n        \"background\": {\n          \"color\": \"soft gradient from light blue to white\",\n          \"texture\": \"smooth, studio backdrop\",\n          \"shadows\": \"soft shadow beneath feet\"\n        }\n      },\n\n      \"module_2\": {\n        \"module_name\": \"Image 2 – Broccoli Martial Artist Figure\",\n        \"subject_description\": {\n          \"primary_form\": \"Humanoid figure made entirely of broccoli and green vegetables\",\n          \"head\": {\n            \"shape\": \"human-like face\",\n            \"material\": \"smooth green vegetable texture\",\n            \"hair\": {\n              \"type\": \"dense broccoli florets\",\n              \"shape\": \"rounded, afro-like silhouette\",\n              \"texture\": \"tight clustered florets\"\n            },\n            \"facial_expression\": \"focused, intense, slightly stern\",\n            \"eyes\": \"human-like, forward-looking\"\n          },\n          \"torso\": {\n            \"build\": \"highly muscular\",\n            \"muscle_definition\": \"exaggerated and clearly segmented\",\n            \"material\": \"elongated green vegetable stalks forming muscle fibers\"\n          },\n          \"arms\": {\n            \"shape\": \"muscular, flexed\",\n            \"hands\": {\n              \"form\": \"broccoli florets shaped into fists\",\n              \"pose\": \"one arm extended forward, one arm bent\"\n            }\n          },\n          \"legs\": {\n            \"structure\": \"thick and powerful\",\n            \"material\": \"clustered broccoli florets\",\n            \"stance\": \"wide martial-arts stance\"\n          }\n        },\n        \"pose_and_composition\": {\n          \"orientation\": \"dynamic fighting pose\",\n          \"camera_angle\": \"slightly low angle\",\n          \"framing\": \"full body visible\",\n          \"energy\": \"motion-ready, balanced tension\"\n        },\n        \"background\": {\n          \"color\": \"light neutral gradient\",\n          \"texture\": \"smooth studio backdrop\",\n          \"shadows\": \"soft grounding shadow under feet\"\n        }\n      }",
+      "8K 超高清分辨率，3:4 纵横比，超高质量，极致清晰度，影棚控制光线搭配柔和渐变，背景极简干净无干扰，渲染风格为明显 AI 编辑、超精细、写实与超现实融合。  \n\n第一幅图像——香蕉鸭混合体：  \n主体为鸭子与剥开的香蕉融合而成的混合生物。头部为鸭头，颜色为米白至淡奶油色，表面呈现细腻羽毛状皮肤纹理；眼睛小而圆，有光泽的黑色；喙呈黄橙色，略带深色斑点，形状平滑弯曲，逼真自然。身体以香蕉为主体，颜色为成熟的黄色，表面光滑并带有天然香蕉斑点；三片香蕉皮对称向外翻开，内侧纤维质感，外侧略粗糙，颜色从浅黄到淡奶油色过渡。腿部与脚蹼为鸭腿和蹼足，金黄色，表面光滑略带光泽，姿态直立，一脚略微前伸。整体构图居中直立，镜头平视，全身完整可见，画面稳定对称。背景为从浅蓝到白色的柔和渐变，采用光滑影棚背景布，脚下投射柔和阴影。  \n\n第二幅图像——西兰花武术家形象：  \n主体为完全由西兰花及其他绿色蔬菜构成的人形角色。头部为人脸轮廓，材质为光滑绿色蔬菜肌理；头发由浓密西兰花花簇组成，呈圆形爆炸头造型，花簇紧密聚集；面部表情专注、强烈且略显严肃，双眼类人，目光前视。躯干肌肉发达，肌理夸张分明，由拉长的绿色蔬菜茎秆构成肌肉纤维。双臂肌肉隆起，拳头由西兰花花簇塑形，一臂前伸，一臂弯曲。双腿粗壮有力，由密集西兰花花簇组成，呈宽大的武术马步姿态。整体姿态为动态战斗姿势，镜头略低角度仰拍，全身完整可见，充满蓄势待发的张力。背景为浅中性色柔和渐变，光滑影棚背景布，脚下有柔和投影。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ShaHid WaNii",
+      "url": "https://x.com/meng_dagg695/status/2017261058982072577"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "物品混合体",
+    "update_time": 1769861767583
+  },
+  {
+    "coverImage": "/images/2026-02-01/2017797340598571239_0.jpg",
+    "create_time": 1769915349000,
+    "description": "这是一张高质量的数字艺术作品，展现了一个头部巨大、身体小巧可爱的南亚男子形象。他有着深色整齐的头发和修剪得体的胡须，穿着浅色衬衫，表情温和自信，画面采用柔和温暖的光线和粉彩色调。",
+    "id": "2017797340598571239",
+    "images": [
+      "/images/2026-02-01/2017797340598571239_0.jpg",
+      "/images/2026-02-01/2017797340598571239_1.jpg",
+      "/images/2026-02-01/2017797340598571239_2.jpg",
+      "/images/2026-02-01/2017797340598571239_3.jpg"
+    ],
+    "likes": 161164,
+    "model": "gpt-5",
+    "prompts": [
+      "Open ChatGPT\n\nPrompt \n\nA chibi-style cartoon illustration of a South Asian man with an oversized head and a very small, cute body (super-deformed proportions). He has neatly styled dark hair, a well-groomed beard, sharp expressive eyes, and a gentle confident smile. The face is slightly realistic but clearly cartoonish, with smooth skin and soft shading. He is wearing a simple light-colored shirt. Big head (70%), tiny body (30%), short arms and legs. Soft warm lighting, pastel tones, clean outlines, high-quality digital art. Background is softly blurred and minimal, giving a cinematic yet cute cartoon feel.",
+      "一张南亚男子的Q版卡通插画，头部巨大，身体非常小巧可爱（超级变形比例）。他有着整齐打理的深色头发、修剪得体的胡须、锐利而富有表现力的眼睛，以及温和自信的微笑。脸部略带写实感但明显是卡通风格，皮肤光滑，阴影柔和。他穿着一件简单的浅色衬衫。头部占70%，身体仅占30%，四肢短小。画面采用柔和温暖的光线、粉彩色调、清晰干净的轮廓线，为高质量数字艺术作品。背景轻微虚化且极简，营造出电影感又可爱的卡通氛围。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "G O T",
+      "url": "https://x.com/ChiyaanKaran07/status/2017797340598571239"
+    },
+    "status": 1,
+    "tags": [
+      "cartoon",
+      "cute",
+      "cinematic"
+    ],
+    "title": "可爱的南亚男子Q版卡通头像",
+    "update_time": 1769951226229
+  },
+  {
+    "coverImage": "/images/2026-02-01/2017886103781490917_0.jpg",
+    "create_time": 1769936512000,
+    "description": "这是一座手工雕刻的木质微型人像，以埃隆·马斯克为原型。清晰的刀痕和天然木纹展现了工匠的技艺，未打磨的边缘增添了真实感。周围散落着工具与木屑，柔和的灯光照亮了工作台。",
+    "id": "2017886103781490917",
+    "images": [
+      "/images/2026-02-01/2017886103781490917_0.jpg",
+      "/images/2026-02-01/2017886103781490917_1.jpg"
+    ],
+    "likes": 5557,
+    "model": "gpt-5",
+    "prompts": [
+      "A hand-carved wooden miniature figure of [NAME], shaped with visible knife marks, natural grain texture, and smooth unfinished edges. Placed on a workshop table with carving tools, wood shavings, and soft warm directional lighting. 1080×1080.\n\nElon musk",
+      "一个手工雕刻的[NAME]木质微型人像，带有清晰可见的刀痕、天然木纹肌理和光滑未打磨的边缘。放置在工作台上，周围有雕刻工具、木屑，以及柔和温暖的定向灯光。1080×1080。\n\n埃隆·马斯克"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Duet | AI",
+      "url": "https://x.com/Sheldon056/status/2017886103781490917"
+    },
+    "status": 1,
+    "tags": [
+      "craftsmanship",
+      "portrait",
+      "wooden"
+    ],
+    "title": "手工雕刻的埃隆·马斯克木像",
+    "update_time": 1769951226229
+  },
+  {
+    "coverImage": "/images/2026-02-01/2017780453080732054_0.jpg",
+    "create_time": 1769911323000,
+    "description": "一位穿着高领连衣裙的女性从破裂的手机屏幕中探出身子，脚搭在玻璃边缘，与现实鹅卵石路面形成真实互动，营造数字与物理交融的沉浸感。",
+    "id": "2017780453080732054",
+    "images": [
+      "/images/2026-02-01/2017780453080732054_0.jpg",
+      "/images/2026-02-01/2017780453080732054_1.jpg"
+    ],
+    "likes": 22,
+    "model": "gpt-5",
+    "prompts": [
+      "超现实电影感时尚摄影，第一人称视角俯视自然握持的智能手机。屏幕破裂处，一个超现实微型女性从屏幕浮出现实空间，数字与物理世界完美融合。\n\n女性上半身和一条腿伸出屏幕，下半身留在屏幕内，保持完美比例。脚轻轻搭在玻璃边缘，在屏幕上投出柔和真实的影子。屏幕显示精妙的反射和深度变形。\n\n她穿着优雅深棕色罗纹高领连衣裙、黑色皮靴、黑色墨镜，手提结构感黑色手袋。金色头发向后梳理，姿态自信，下巴微抬，似乎察觉观看者，踏入他们的世界。\n\n现实环境呈现纹理灰色鹅卵石路面。摄影师的手自然握持设备，指甲深色抛光。画框下方可见摄影师的黑色尖头皮靴和棕色罗纹连衣裙下摆，加强沉浸式第一人称视角。\n\n屏幕内保留细微 UI 涂鸦和社交图标，部分被浮出的身体遮挡，增强深度真实感。\n\n光线柔和自然日光。超清焦点、玻璃和面料真实反射、精确比例、逼真纹理。浅景深突出主体同时维持环境真实感。高分辨率、专业编辑时尚摄影融现代 Instagram 超现实主义、干净构图、完美真实感和屏幕与主体的可信物理交互。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "摆烂程序媛",
+      "url": "https://x.com/wanerfu/status/2017780453080732054"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "surreal",
+      "cinematic"
+    ],
+    "title": "手机屏幕里走出的超现实女性",
+    "update_time": 1769951226230
   }
 ]
