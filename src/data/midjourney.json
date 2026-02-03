@@ -3630,5 +3630,34 @@
     ],
     "title": "墨绿流能中的坚毅丹凤",
     "update_time": 1769951226230
+  },
+  {
+    "coverImage": "/images/2026-01-30/2017311074551533921_0.jpg",
+    "create_time": 1769799414000,
+    "description": "在这张广告图像中，一位30岁的俄罗斯男模正对镜头站立，身体略微倾斜，手持一瓶饮品靠近镜头展示。他穿着白色运动鞋，站在湿漉漉的街头，画面采用低角度仰拍，强调了电影感灯光效果。",
+    "id": "2017311074551533921",
+    "images": [
+      "/images/2026-01-30/2017311074551533921_0.jpg",
+      "/images/2026-01-30/2017311074551533921_1.jpg"
+    ],
+    "likes": 105,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Professional photo, a guy, a 30-year-old Russian model (reference image), is facing the lens, tilted towards the camera, angle from below, shot with a wide-angle lens. The guy is tilted and shows a bottle close-up to the camera, a hand with a bottle close-up right in front of the lens. The label and direction of the bottle are straight so the label is readable. He's wearing white sneakers, one foot in front of the camera. The guy is standing on the street, wet asphalt and splashes from below. Bright colors, cinematic lighting, the light is behind and on the model’s face. --v7 --ar 3:4 --style raw",
+      "专业摄影，一位30岁的俄罗斯男模（参考图像），正对镜头，身体略微朝向相机倾斜，采用低角度仰拍，使用广角镜头拍摄。男子身体倾斜，将一瓶饮品贴近镜头特写展示，一只手握着瓶子，瓶身正对镜头，标签清晰可读。他穿着白色运动鞋，一只脚伸到镜头前方。男子站在街头，地面是湿漉漉的沥青，下方有水花飞溅。画面色彩鲜明，采用电影感灯光，光源位于模特后方并照亮其面部。--v7 --ar 3:4 --style raw"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Alejo",
+      "url": "https://x.com/ecommartinez/status/2017311074551533921"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "advertising"
+    ],
+    "title": "街头饮品广告的电影级人像",
+    "update_time": 1770125991919
   }
 ]

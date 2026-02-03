@@ -800,5 +800,34 @@
     ],
     "title": "冷瓷肌肤的东方肖像",
     "update_time": 1769951226230
+  },
+  {
+    "coverImage": "/images/2026-02-02/2018333840402759934_0.jpg",
+    "create_time": 1770043261000,
+    "description": "年轻女子站在黄昏的海边，微风轻拂发丝，手捧野花，身穿宽松白衬衫，背景是平静深蓝海面，画面充满韩式MV的忧郁氛围。",
+    "id": "2018333840402759934",
+    "images": [
+      "/images/2026-02-02/2018333840402759934_0.jpg",
+      "/images/2026-02-02/2018333840402759934_1.jpg"
+    ],
+    "likes": 110,
+    "model": "grok-2",
+    "prompts": [
+      "Cinematic portrait of a young woman by the seaside at twilight, wind in her hair, loose white shirt, holding wildflowers. Minimal, soft natural light, deep blue tones, calm sea, melancholic Korean music-video aesthetic. 8K ultra-realistic, film look, subtle lens flare,",
+      "黄昏时分海边年轻女子的电影感肖像，微风吹拂她的发丝，身穿宽松白衬衫，手捧野花。极简构图，柔和自然光，深蓝色调，平静海面，带有忧郁感的韩式音乐视频美学。8K超写实，胶片质感，微妙镜头光晕。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Oogie",
+      "url": "https://x.com/oggii_0/status/2018333840402759934"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "realistic"
+    ],
+    "title": "黄昏海边的白衬衫女子",
+    "update_time": 1770125991919
   }
 ]
