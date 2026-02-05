@@ -3659,5 +3659,126 @@
     ],
     "title": "街头饮品广告的电影级人像",
     "update_time": 1770125991919
+  },
+  {
+    "coverImage": "/images/2026-02-04/2019034889165951208_0.jpg",
+    "create_time": 1770210404000,
+    "description": "以金色和黑色为主调，呈现一种精致而高贵的视觉风格，细节丰富，质感突出。",
+    "id": "2019034889165951208",
+    "images": [
+      "/images/2026-02-04/2019034889165951208_0.jpg",
+      "/images/2026-02-04/2019034889165951208_1.jpg",
+      "/images/2026-02-04/2019034889165951208_2.jpg"
+    ],
+    "likes": 20,
+    "model": "midjourney-v7",
+    "prompts": [
+      "A classy Midjourney Style with Golden and Black\n\n-sref 2910482926",
+      "一种优雅的 Midjourney 风格，以金色和黑色为主  \n-sref 2910482926"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Keskin",
+      "url": "https://x.com/craftian_keskin/status/2019034889165951208"
+    },
+    "status": 1,
+    "tags": [
+      "gold",
+      "design",
+      "elegant"
+    ],
+    "title": "Midjourney黑金风格",
+    "update_time": 1770297866990
+  },
+  {
+    "coverImage": "/images/2026-02-02/2018399459634520417_0.jpg",
+    "create_time": 1770058905000,
+    "description": "",
+    "id": "2018399459634520417",
+    "images": [
+      "/images/2026-02-02/2018399459634520417_0.jpg",
+      "/images/2026-02-02/2018399459634520417_1.jpg",
+      "/images/2026-02-02/2018399459634520417_2.jpg",
+      "/images/2026-02-02/2018399459634520417_3.jpg"
+    ],
+    "likes": 146,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Feels oddly calm\n\n--sref 2224065556"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Ege",
+      "url": "https://x.com/egeberkina/status/2018399459634520417"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "midjourney寂静风格",
+    "update_time": 1770296666395
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019319853778440650_0.jpg",
+    "create_time": 1770278344000,
+    "description": "展示Midjourney最新推出的图像生成风格，具有鲜明的视觉特征和创新表现手法。",
+    "id": "2019319853778440650",
+    "images": [
+      "/images/2026-02-05/2019319853778440650_0.jpg",
+      "/images/2026-02-05/2019319853778440650_1.jpg",
+      "/images/2026-02-05/2019319853778440650_2.jpg",
+      "/images/2026-02-05/2019319853778440650_3.jpg"
+    ],
+    "likes": 25,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Newly created style on Midjourney\n\n--sref 6055153646",
+      "Midjourney 上新创建的风格\n\n--sref 6055153646"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2019319853778440650"
+    },
+    "status": 1,
+    "tags": [
+      "concept-art",
+      "render",
+      "creative"
+    ],
+    "title": "Midjourney玫瑰金风格示例",
+    "update_time": 1770297866990
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019366158651257080_0.jpg",
+    "create_time": 1770289384000,
+    "description": "一位芭蕾舞者在浓雾中定格舞姿，体积光穿透雾气形成层次，暖色背光与微粒营造神秘氛围。",
+    "id": "2019366158651257080",
+    "images": [
+      "/images/2026-02-05/2019366158651257080_0.jpg",
+      "/images/2026-02-05/2019366158651257080_1.jpg",
+      "/images/2026-02-05/2019366158651257080_2.jpg",
+      "/images/2026-02-05/2019366158651257080_3.jpg"
+    ],
+    "likes": 30,
+    "model": "midjourney-v7",
+    "prompts": [
+      "share: Volumetric light rays,\n\nPrompt:\nA cinematic rendering of the [subject] shrouded in volumetric light rays, with dense fog breaking the scene into atmospheric layers. Warm backlights and glowing particles enhance the mood and mystery.\n\nCheck ATLs for inspiration",
+      "A cinematic rendering of a ballerina mid-pose shrouded in volumetric light rays, with dense fog breaking the scene into atmospheric layers. Warm backlights and glowing particles enhance the mood and mystery. --ar 3:2 --v 7",
+      "A cinematic rendering of a medieval knight in armor shrouded in volumetric light rays, with dense fog breaking the scene into atmospheric layers. Warm backlights and glowing particles enhance the mood and mystery. --ar 3:2 --v 7",
+      "A cinematic rendering of a broken statue in a garden shrouded in volumetric light rays, with dense fog breaking the scene into atmospheric layers. Warm backlights and glowing particles enhance the mood and mystery. --ar 3:2 --v 7",
+      "A cinematic rendering of a fox standing in a misty field shrouded in volumetric light rays, with dense fog breaking the scene into atmospheric layers. Warm backlights and glowing particles enhance the mood and mystery. --ar 3:2 --v 7"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2019366158651257080"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "moody"
+    ],
+    "title": "雾中舞者：光与影的芭蕾",
+    "update_time": 1770297866990
   }
 ]

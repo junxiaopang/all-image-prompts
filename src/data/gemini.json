@@ -36028,5 +36028,675 @@
     ],
     "title": "新中式美学的穿搭拆解",
     "update_time": 1770125991920
+  },
+  {
+    "coverImage": "/images/2026-02-04/2018912386078630122_0.jpg",
+    "create_time": 1770181197000,
+    "description": "画面捕捉到一名棕发女子站在路灯下，她的脸半隐于阴影中，风衣随风轻摆。她似乎察觉到了摄像头的存在，周围是空无一人的城市街道。",
+    "id": "2018912386078630122",
+    "images": [
+      "/images/2026-02-04/2018912386078630122_0.jpg",
+      "/images/2026-02-04/2018912386078630122_1.jpg"
+    ],
+    "likes": 85,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Night-time CCTV footage, strong contrast, visible noise.\nA woman with brown hair stands under a streetlight, her face half-consumed by shadow, hair catching the light.\nShe is aware of the camera but does not acknowledge it directly.\n\nMakeup: soft contour, warm brown eyeshadow, matte nude lips\nHairdo: brown hair worn loose, slightly wind-swept\nOutfit: black trench coat, inner grey top\nNail art: dark taupe nails\nAccessories: leather crossbody bag, subtle ear cuffs\n\nBackground: empty sidewalk, urban street corner, CCTV pole visible\nLighting: harsh streetlight creating dramatic shadows\nStyle: urban surveillance noir, realistic\n\nDont change the face",
+      "夜间闭路电视监控画面，高对比度，可见噪点。  \n一名棕发女子站在路灯下，脸部半隐于阴影中，发丝被光线勾勒。  \n她察觉到摄像头的存在，但并未直接回应。\n\n妆容：柔和修容，暖棕色眼影，哑光裸色唇  \n发型：棕色长发披散，略带风吹凌乱感  \n服装：黑色风衣，内搭灰色上衣  \n美甲：深灰褐色指甲  \n配饰：皮革斜挎包，低调耳夹\n\n背景：空无一人的街道人行道，城市街角，可见监控杆  \n灯光：刺眼的路灯营造出强烈的戏剧性阴影  \n风格：都市监控黑色电影风格，写实  \n\n不要改变面部特征"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "simply",
+      "url": "https://x.com/kingofdairyque/status/2018912386078630122"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "noir",
+      "urban"
+    ],
+    "title": "监控下的美女自拍",
+    "update_time": 1770208769273
+  },
+  {
+    "coverImage": "/images/2026-02-03/2018738789263286290_0.jpg",
+    "create_time": 1770139808000,
+    "description": "在这个高分辨率的动漫风格插图中，一位角色身着特色服装，摆出极富动感的姿势，周围环绕着专属能量光环。深色背景与微妙发光效果进一步突显了角色的超现实细节。",
+    "id": "2018738789263286290",
+    "images": [
+      "/images/2026-02-03/2018738789263286290_0.jpg",
+      "/images/2026-02-03/2018738789263286290_1.jpg",
+      "/images/2026-02-03/2018738789263286290_2.jpg",
+      "/images/2026-02-03/2018738789263286290_3.jpg"
+    ],
+    "likes": 47,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Dynamic Anime Style in NIJI 7 mode\n\nPROMPT\nstylized character design of [character name],  wearing [Description],  in a dynamic anime-inspired pose,  with [character-specific energy, aura, or power effects /  color] surrounding the body, \nagainst a dark background with a subtle glowing effect. Full-length character design, high resolution, high quality, high detail, perfect lighting, in the anime style, hyper-detailed, hyper-realistic, a masterpiece, best quality.",
+      "动态动漫风格，NIJI 7 模式  \n\n[角色名]的风格化角色设计，身着[服装描述]，摆出充满动感的动漫风格姿势，身体周围环绕着[角色专属的能量、光环或特效/颜色]，背景为深色并带有微妙的发光效果。全身角色设计，高分辨率、高质量、高细节、完美光影，动漫风格，超精细、超写实，杰作，最佳品质。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Pierrick Chevallier | IA",
+      "url": "https://x.com/CharaspowerAI/status/2018738789263286290"
+    },
+    "status": 1,
+    "tags": [
+      "anime",
+      "character",
+      "high-detail"
+    ],
+    "title": "动感十足的动漫角色设计",
+    "update_time": 1770208769273
+  },
+  {
+    "coverImage": "/images/2026-02-04/2019011014973685925_0.jpg",
+    "create_time": 1770204712000,
+    "description": "在这幅温馨的绘本插画中，一位穿着简单却充满象征意义服饰的小女孩正自信地展示她的才艺，她夸张而迷人的表情与姿态让整个场景充满了童趣和活力。",
+    "id": "2019011014973685925",
+    "images": [
+      "/images/2026-02-04/2019011014973685925_0.jpg",
+      "/images/2026-02-04/2019011014973685925_1.jpg",
+      "/images/2026-02-04/2019011014973685925_2.jpg",
+      "/images/2026-02-04/2019011014973685925_3.jpg"
+    ],
+    "likes": 67,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Storybook Character Design\n\nGemini Nano Banana Pro Prompt:\n\n“Create a storybook-style character illustration centered on personality expression.\n\nThe character embodies the trait [confident / shy / chaotic / calm], clearly communicated through body language, posture, and gesture. The character is shown [ACTION OR EMOTION], with an exaggerated yet charming facial expression typical of illustrated storybooks.\n\nClothing and accessories are simple but meaningful, visually reinforcing the personality through [OUTFIT + SYMBOLIC DETAILS] (shapes, textures, small narrative cues).\n\nFacial features are simplified and friendly, with soft lines and minimal detail. The character has a strong, readable silhouette and clear shape language suitable for children’s picture books.\n\nIllustration style is storybook-focused: hand-drawn or painterly, warm color palette, soft shading, and slightly whimsical proportions.\n\nThe background is minimal and abstract, using subtle colors or light textures to support the mood without distracting from the character, keeping the focus on emotion and storytelling.”",
+      "绘本角色设计\n\n创作一幅以性格表达为核心的绘本风格角色插画。\n\n角色体现[自信 / 害羞 / 混乱 / 冷静]的特质，并通过肢体语言、姿态和手势清晰传达。角色正在[动作或情绪]，面部表情夸张却富有魅力，符合绘本插画的典型风格。\n\n服装与配饰简洁但富有意义，通过[服装 + 象征性细节]（形状、纹理、微小叙事线索）在视觉上强化角色个性。\n\n面部特征简化且亲切，线条柔和、细节极少。角色具有鲜明、易辨识的剪影和清晰的造型语言，适合儿童图画书。\n\n插画风格聚焦于绘本表现：手绘或绘画感强烈，采用温暖的配色、柔和的阴影，以及略带奇趣的比例。\n\n背景极简且抽象，使用柔和色彩或轻微纹理烘托情绪，不分散对角色的注意力，始终聚焦于情感与故事叙述。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2019011014973685925"
+    },
+    "status": 1,
+    "tags": [
+      "character",
+      "childlike",
+      "illustration"
+    ],
+    "title": "绘本中的自信小女孩",
+    "update_time": 1770208769274
+  },
+  {
+    "coverImage": "/images/2026-02-04/2019002511160656019_0.jpg",
+    "create_time": 1770202684000,
+    "description": "一辆现代摩托车在空旷公路上飞驰，车身线条流畅，充满速度感。",
+    "id": "2019002511160656019",
+    "images": [
+      "/images/2026-02-04/2019002511160656019_0.jpg",
+      "/images/2026-02-04/2019002511160656019_1.jpg",
+      "/images/2026-02-04/2019002511160656019_2.jpg",
+      "/images/2026-02-04/2019002511160656019_3.jpg"
+    ],
+    "likes": 29,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Industrial design, concept sketches, [Subject], multiple-view drawing, modern minimalism, clean lines, white background"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2019002511160656019"
+    },
+    "status": 1,
+    "tags": [
+      "vehicle",
+      "modern",
+      "realistic"
+    ],
+    "title": "一辆疾驰的摩托车",
+    "update_time": 1770208769274
+  },
+  {
+    "coverImage": "/images/2026-02-04/2018911526330245273_0.jpg",
+    "create_time": 1770180992000,
+    "description": "在这张电影感十足的肖像中，一位金发微卷的年轻男子站在夜晚的城市街道上，严肃地回望肩后。背景中模糊的暖金色灯光与冷蓝色调的夜空形成强烈对比，雨滴和微尘在光线中闪烁，营造出一种闪耀而神秘的氛围。",
+    "id": "2018911526330245273",
+    "images": [
+      "/images/2026-02-04/2018911526330245273_0.jpg"
+    ],
+    "likes": 100101,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "The Prompt \n​\nA high-definition, cinematic portrait of a young man with wavy blonde hair, looking over his shoulder with a serious expression. He is standing on a crowded, rainy city street at night. The background is filled with intense, warm golden bokeh from city lights and traffic, contrasting with cool blue tones in the upper atmosphere. Rain droplets and golden dust particles are caught in the light, creating a shimmering, ethereal atmosphere. Sharp focus on the subject's face, shallow depth of field, photorealistic, shot on 35mm lens, moody lighting.\n\n​Why this works:\n​Lighting Contrast: By specifying \"warm golden bokeh\" against \"cool blue tones,\" you get that professional color grading (Teal and Orange) common in modern films.\n​Atmospherics: Adding \"rain droplets\" and \"dust particles\" adds texture and depth, making the image feel alive rather than static.\n​Technical Details: Mentioning a \"35mm lens\" and \"shallow depth of field\" tells the AI to mimic the blur and focus of a real high-end camera.",
+      "一位金发微卷的年轻男子的高清电影感肖像，神情严肃地回望肩后。他站在夜晚拥挤而下雨的城市街道上，背景是城市灯光与车流形成的强烈暖金色虚化光斑，与上方大气中的冷蓝色调形成鲜明对比。雨滴与金色微尘在光线中闪烁，营造出一种闪耀而空灵的氛围。人物面部清晰锐利，浅景深，写实风格，使用35mm镜头拍摄，光影氛围富有情绪感。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aijaz",
+      "url": "https://x.com/iamsofiaijaz/status/2018911526330245273"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "night"
+    ],
+    "title": "夜雨中的凝视：金发男子的光影肖像",
+    "update_time": 1770208769274
+  },
+  {
+    "coverImage": "/images/2026-02-03/2018685474131562751_0.jpg",
+    "create_time": 1770127097000,
+    "description": "在这张超写实电影感的街头人像中，一位年轻女子静立于拥挤的城市街道。长曝光效果使得周围人群形成拉丝状动态模糊，而她保持绝对静止，面部清晰聚焦，神情平静深邃，背景虚化奶油般柔美，呈现出都市叙事风格。",
+    "id": "2018685474131562751",
+    "images": [
+      "/images/2026-02-03/2018685474131562751_0.jpg"
+    ],
+    "likes": 898,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Ultra-realistic cinematic street portrait of a young woman standing still in a crowded city street, sharp focus on her face with calm, intense expression. Long-exposure effect with people moving around her creating strong directional motion blur, streaked crowd movement while the subject remains perfectly still. Natural soft daylight, shallow depth of field, creamy bokeh, realistic skin texture, subtle freckles, neutral makeup, dark winter coat and scarf. Emotional, introspective mood, urban storytelling photography, DSLR quality, 85mm lens look, f/1.8, high dynamic range, 8K, professional color grading.",
+      "超写实电影感街头人像，一位年轻女子静立于拥挤的城市街道中，面部清晰聚焦，神情平静而深邃。采用长曝光效果，周围人群移动形成强烈的方向性动态模糊，人流呈拉丝状，而主体人物保持绝对静止。自然柔和的日光，浅景深，奶油般柔美的背景虚化，真实肌肤质感，细微雀斑，淡雅妆容，深色冬装外套与围巾。情绪内敛、富有沉思氛围，呈现都市叙事风格摄影，DSLR画质，85mm镜头效果，光圈f/1.8，高动态范围，8K分辨率，专业级色彩调校。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Taaruk",
+      "url": "https://x.com/Taaruk_/status/2018685474131562751"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "urban"
+    ],
+    "title": "静立于喧嚣中的年轻女子",
+    "update_time": 1770208769274
+  },
+  {
+    "coverImage": "/images/2026-02-04/2018932875060777249_0.jpg",
+    "create_time": 1770186082000,
+    "description": "这幅超写实摄影作品展示了父亲、母亲和女儿穿着协调的休闲装，以圆形爆炸式构图排列。周围悬浮着各自的时尚单品，通过细虚线与家人相连。背景采用影棚微妙渐变，营造温暖氛围。",
+    "id": "2018932875060777249",
+    "images": [
+      "/images/2026-02-04/2018932875060777249_0.jpg"
+    ],
+    "likes": 178,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Ultra-realistic family fashion infographic photography featuring a Father, Mother, and Daughter in coordinated casual outfits, arranged in a balanced circular exploded composition.\nFloating elements organized clockwise around the trio:\n• Father: neutral baseball cap, classic wristwatch, cotton crew-neck tee, lightweight casual jacket, tailored denim jeans, leather belt, ankle socks, white sneakers.\n• Mother: soft knit hat, minimal gold earrings, relaxed-fit cotton top, cropped denim or linen jacket, high-waist jeans, leather belt, clean sneakers, structured mini handbag.\n• Daughter: playful hair accessories, soft cotton tee, light denim jacket, stretch jeans, ankle socks, pastel sneakers, mini backpack.\nEach clothing item suspended mid-air with fine dotted guide lines connecting back to each family member.\nMinimal editorial labels highlighting fabric, color, and material details (cotton, denim, leather, rubber sole).\nClean studio background with subtle gradient.\nSoft diffused lighting for a warm, wholesome mood.\nPremium lifestyle editorial styling, ultra-sharp focus, natural skin tones, 8K quality, high-end fashion catalog aesthetic.",
+      "超写实家庭时尚信息图摄影，展现父亲、母亲和女儿三人穿着协调的休闲装束，以平衡的圆形爆炸式构图排列。  \n三人周围顺时针悬浮分布以下单品元素：  \n• 父亲：中性色棒球帽、经典腕表、纯棉圆领T恤、轻便休闲夹克、剪裁合身牛仔裤、皮质腰带、短袜、白色运动鞋。  \n• 母亲：柔软针织帽、极简金色耳钉、宽松纯棉上衣、短款牛仔或亚麻夹克、高腰牛仔裤、皮质腰带、干净运动鞋、结构感迷你手袋。  \n• 女儿：趣味发饰、柔软纯棉T恤、轻薄牛仔夹克、弹力牛仔裤、短袜、马卡龙色运动鞋、迷你背包。  \n每件服装单品悬浮于空中，并以细虚线引导线连接回对应的家庭成员。  \n配有简洁的编辑标签，突出面料、颜色与材质细节（如纯棉、牛仔布、皮革、橡胶鞋底）。  \n背景为干净影棚搭配微妙渐变，采用柔和漫射光线营造温暖温馨氛围。  \n整体呈现高端生活方式杂志风格，超高清锐利对焦，自然肤色，8K画质，高端时尚画册美学。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Smiling Khan",
+      "url": "https://x.com/AIwithkhan/status/2018932875060777249"
+    },
+    "status": 1,
+    "tags": [
+      "photography",
+      "fashion",
+      "family"
+    ],
+    "title": "家庭时尚：休闲装的完美搭配",
+    "update_time": 1770208769274
+  },
+  {
+    "coverImage": "/images/2026-02-03/2018682785871827160_0.jpg",
+    "create_time": 1770126456000,
+    "description": "画面聚焦一位女性的上半身，她的面容宁静安详，肌肤如瓷，微带红晕。头发整齐束于脑后，几缕发丝勾勒出脸庞。采用3:4画幅，从90度顶视俯拍，利用自然日光在面部和肩部投下柔和阴影，营造梦幻超现实氛围。",
+    "id": "2018682785871827160",
+    "images": [
+      "/images/2026-02-03/2018682785871827160_0.jpg",
+      "/images/2026-02-03/2018682785871827160_1.jpg",
+      "/images/2026-02-03/2018682785871827160_2.jpg",
+      "/images/2026-02-03/2018682785871827160_3.jpg",
+      "/images/2026-02-03/2018682785871827160_4.jpg"
+    ],
+    "likes": 141,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Light and Shadow \n\nPrompt: \n{\n  \"generation_manifest\": {\n    \"system_directives\": {\n      \"output_version\": \"5.0_UltraDetail\",\n      \"canvas_parameters\": {\n        \"aspect_ratio\": \"3:4\",\n        \"compositional_style\": \"High-Fashion Cinematic Surrealism\",\n        \"fidelity_target\": \"Anatomical_Identity_Lock\"\n      }\n    },\n    \"subject_node\": {\n      \"biometrics\": {\n        \"facial_configuration\": {\n          \"feature_retention\": [\"Eyes\", \"Nose\", \"Mouth\"],\n          \"alignment_logic\": \"Symmetrical_Proportional_Integrity\",\n          \"expression_profile\": \"Serene_Calm_Innocent\"\n        },\n        \"dermatology_rendering\": {\n          \"surface\": \"Flawless_White_Porcelain\",\n          \"finish\": \"Radiant_Luminous\",\n          \"pigmentation\": \"Subtle_Natural_Blush\",\n          \"makeup_logic\": \"Minimalist_Bare_Aesthetic\"\n        },\n        \"follicle_dynamics\": {\n          \"base_color\": \"natural\",\n          \"primary_state\": \"Neatly_Tied_Back\",\n          \"secondary_state\": \"Loose_Strands_Peripheral_Framing\"\n        }\n      },\n      \"geometry_and_pose\": {\n        \"framing\": \"Upper_Torso_Facial_Focus\",\n        \"visibility\": \"Bare_Shoulders_Exposed\",\n        \"posture\": \"Graceful_Static\"\n      }\n    },\n    \"optics_and_lighting_rig\": {\n      \"camera_telemetry\": {\n        \"angle_vector\": \"90_Degree_Top_Down_Overhead\",\n        \"lens_characteristic\": \"Soft_Focus_Expressive\",\n        \"perspective\": \"Surreal_Dreamy\"\n      },\n      \"lighting_architecture\": {\n        \"primary_source\": \"Soft_Direct_Natural_Sunlight\",\n        \"shadow_mapping\": {\n          \"geometry_patterns\": [\"Vertical_Artistic\", \"Gridded_Mesh\"],\n          \"projection_surface\": [\"Facial_Planes\", \"Clavicle\", \"Shoulders\"],\n          \"contrast_ratio\": \"Low_Soft_Diffused\"\n        }\n      }\n    },\n    \"atmospheric_meta\": {\n      \"tonality\": \"Pure_Graceful_Atmospheric\",\n      \"chroma_profile\": \"Gentle_Naturalistic\",\n      \"emotional_layer\": \"Tranquility_Innocence\"\n    }\n  }\n}",
+      "光影\n\n一位面容宁静、纯真而安详的女性，面部特征（眼睛、鼻子、嘴唇）清晰保留，比例对称协调。肌肤如无瑕白瓷般细腻，呈现自然柔和的光泽，带有淡淡红晕，妆容极简近乎素颜。头发为自然发色，整齐束于脑后，几缕松散发丝轻柔勾勒脸庞轮廓。构图聚焦于上半身与面部，双肩裸露，姿态优雅静谧。采用3:4画幅，风格融合高级时尚与电影感超现实主义。摄影视角为90度顶视俯拍，镜头柔焦且富有表现力，营造梦幻超现实氛围。主光源为柔和直射的自然日光，在面部、锁骨与肩部投下垂直艺术感与网格状的低对比度柔影。整体色调纯净温柔，色彩自然温和，传递出宁静与纯真的情感氛围。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Melis",
+      "url": "https://x.com/miilesus/status/2018682785871827160"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "soft-focus"
+    ],
+    "title": "顶视柔焦下的宁静面容",
+    "update_time": 1770208769274
+  },
+  {
+    "coverImage": "/images/2026-02-03/2018764499881537605_0.jpg",
+    "create_time": 1770145938000,
+    "description": "",
+    "id": "2018764499881537605",
+    "images": [
+      "/images/2026-02-03/2018764499881537605_0.jpg",
+      "/images/2026-02-03/2018764499881537605_1.jpg"
+    ],
+    "likes": 43,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Busy inside a glass workspace\n\nMade with Nano Banana Pro on @higgsfield_ai\n\n- Prompt \nHyper-realistic macro photography of a real living [Subject/Job Title] working at a desk inside a tall vertical rectangular glass cube. Centered composition. The glass structure occupies approximately 80% of the vertical frame height, ensuring a perfect amount of minimalist soft blue negative space on all four sides. The camera distance is a stable medium-close shot.\n\nThe Composition: The two glass walls facing the camera are completely clear and empty to allow a perfect view of the interior. In contrast, the interior of the two back walls is cluttered and densely covered from the floor to the very top edge with hundreds of [Specific Job-related Items: e.g., sticky notes, charts, blueprints, vibrant mood boards, tiny Pantone color swatches], creating an intense \"busy\" workload atmosphere.\n\nInterior Details: realistic [Specific Desk Items], and a warm incandescent desk lamp that casts a soft golden glow over the workspace. The interior floor is made of polished white ceramic tiles. The floor around the desk is cluttered with tall, messy stacks of organized papers, open reference books and [Specific  Items]\n\nThe Realism: The person is NOT a plastic figure; they have visible skin texture, natural hair, and realistic clothing folds. Every object inside has sharp, crisp, and high-contrast textures. Lighting & Style: Bright studio lighting, clean shadows, macro photography style, minimalist soft blue background. 8k resolution, extremely detailed and sharp focus.",
+      "超写实微距摄影：一位真实的[职业/身份]在一张办公桌前工作，身处一个高大的垂直矩形玻璃立方体内。画面采用居中构图，玻璃结构占据画面垂直高度的约80%，四周留出恰到好处的极简柔和蓝色负空间。镜头距离为稳定的中近景。\n\n构图细节：面向镜头的两面玻璃墙完全通透、空无一物，确保能清晰看到内部；而另外两面背对镜头的内墙则从地面到顶部密密麻麻覆盖着数百件[与该职业相关的具体物品，例如：便利贴、图表、蓝图、鲜艳的情绪板、小型潘通色卡]，营造出极度“忙碌”的工作氛围。\n\n内部细节：真实还原的[具体桌面物品]，以及一盏温暖的白炽台灯，在工作区投下柔和的金色光晕。地面为抛光白色陶瓷瓷砖，桌旁堆满高高叠起、杂乱却有序的纸张、摊开的参考书籍和[具体物品]。\n\n真实感表现：人物并非塑料模型，具有可见的皮肤纹理、自然发丝和逼真的衣物褶皱。内部每件物品都拥有锐利、清晰、高对比度的质感。\n光影与风格：明亮的影室灯光，干净利落的阴影，微距摄影风格，极简柔和蓝色背景。8K分辨率，细节极致丰富，焦点极为锐利。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ΛRMIN | AI",
+      "url": "https://x.com/Arminn_Ai/status/2018764499881537605"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "忙碌于玻璃工作间内",
+    "update_time": 1770208769274
+  },
+  {
+    "coverImage": "/images/2026-02-03/2018673817778840039_0.jpg",
+    "create_time": 1770124317000,
+    "description": "45度俯视的等距迷你3D卡通模型，呈现品牌标志性元素与简约人物，搭配柔和写实质感和干净背景。",
+    "id": "2018673817778840039",
+    "images": [
+      "/images/2026-02-03/2018673817778840039_0.jpg",
+      "/images/2026-02-03/2018673817778840039_1.jpg",
+      "/images/2026-02-03/2018673817778840039_2.jpg",
+      "/images/2026-02-03/2018673817778840039_3.jpg",
+      "/images/2026-02-03/2018673817778840039_4.jpg"
+    ],
+    "likes": 52,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Present a clear, 45° top-down isometric miniature 3D cartoon diorama of [UNIVERSITY NAME] campus. The scene should feature soft refined textures, realistic PBR materials, and immersive ambient lighting that reflects the academic atmosphere. Create a small raised diorama-style base that automatically populates with a curated selection of the most iconic elements: main library, administration building, campus quad, bell tower, student union, sports stadium, and signature campus greenery or pathways unique to [UNIVERSITY NAME]. Include tiny stylized figures of students in casual campus attire, carrying backpacks, sitting on benches, or walking between classes (no facial details). Use a clean solid [BACKGROUND COLOR] background. At the top-center, display \"[UNIVERSITY NAME]\" in large bold text, and place the university shield, mascot silhouette, or founding year emblem below the text. All text must automatically match the background contrast. Composition: perfectly centered layout, square 1080x1080, ultra-clean, high-clarity 3D diorama aesthetic.\n\n\n",
+      "Present a clear, 45° top-down isometric miniature 3D cartoon diorama of the [BRAND], with soft refined textures, realistic PBR materials, and gentle lifelike lighting.\nCreate a small raised diorama-style base that includes the most recognizable elements of the store, along with tiny stylized characters if needed (no facial details).\nUse a clean solid [BACKGROUND COLOR] background.\n\nAt the top-center, display [BRAND] in large bold text, and place the official logo associated with [BRAND] below the subtext.\nAll text must automatically match the background contrast (white or black).\n\nComposition: perfectly centered layout, square 1080x1080, ultra-clean, high-clarity diorama aesthetic."
+    ],
+    "ratio": "",
+    "source": {
+      "name": "两斤",
+      "url": "https://x.com/0x00_Krypt/status/2018673817778840039"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "miniature",
+      "branding"
+    ],
+    "title": "品牌迷你立体场景展示",
+    "update_time": 1770208769275
+  },
+  {
+    "coverImage": "/images/2026-02-03/2018693848890036659_0.jpg",
+    "create_time": 1770129093000,
+    "description": "宫廊深深，日光斜落。 白衣行于静木之间，龙纹在胸，风声在袖。  我一直很着迷这种“未言之势”—— 人未登殿，威仪已在。  分享这组我很喜欢的画面，以及背后的提示词。 有些美，不靠喧哗，只靠时间与光。",
+    "id": "2018693848890036659",
+    "images": [
+      "/images/2026-02-03/2018693848890036659_0.jpg",
+      "/images/2026-02-03/2018693848890036659_1.jpg"
+    ],
+    "likes": 127,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A young noble man in traditional Chinese imperial robe,\nwhite silk embroidered with golden dragon,\nwalking through an ancient palace corridor of dark wood,\nsunlight filtering through carved windows,\nquiet authority, restrained elegance,\ncinematic lighting, historical atmosphere,\na sense of destiny before the throne.",
+      "自然真实的视觉风格，全身镜头，清冷绝色的明代翩翩佳公子，复原款明制圆领袍，米白缎面材质，胸前与肩部彩色团龙纹刺绣，金色玉带，黑色明制官帽，身姿挺拔迈步前行，身后跟随深色明制官服侍从，木质廊柱与雕花窗棂，慵懒诗意氛围，侧逆光，丁达尔光效，复古低饱和暖棕色调，大师级构图，浅景深，前景虚化遮挡，电影质感。大师级作品。超高清高品质高质量佳作，画面清晰，专业后期处理优化，真实细腻的皮肤质感，完美光影，近景失焦遮挡。情态生动自然，故事感，随机角度，随机运镜，光影斑驳，柔焦美学，细腻肌理质感，情绪写意，艺术人像高级感。大光圈虚化营造高级电影质感。整体构图融合浪漫主义美学，突出人物立体轮廓与优雅气质。空灵的气氛，巧妙地捕捉情感，情绪表达色彩化，色彩艳丽，情绪叙事，整体氛围慵懒又随性，尽显松弛感，现场感，既视感，伦勃朗光，极强的光影对比，渐变美学，氛围感，故事感，复古胶片摄影，明显的胶片颗粒感，真实光影，复古色调，富士滤镜，Kodak Portra 400胶片质感，_DSF1600.RAF效果，XF56mm F1.2镜头视角，IMG_2094.CR2质感，ins风，背景虚化，沉浸，文艺风格构图，细节丰富，强烈的视觉冲击力。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ponyo",
+      "url": "https://x.com/ponyodong/status/2018693848890036659"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "复原款明制圆领袍",
+    "update_time": 1770208769275
+  },
+  {
+    "coverImage": "/images/2026-02-03/2018504325597659157_0.jpg",
+    "create_time": 1770083907000,
+    "description": "在这幅图像中，一只由折纸艺术精心制作的可爱动物跃然纸上。它以卡哇伊风格呈现，拥有电影级别的细腻质感和高清晰度细节，背景为纯净的白色。",
+    "id": "2018504325597659157",
+    "images": [
+      "/images/2026-02-03/2018504325597659157_0.jpg",
+      "/images/2026-02-03/2018504325597659157_1.jpg",
+      "/images/2026-02-03/2018504325597659157_2.jpg",
+      "/images/2026-02-03/2018504325597659157_3.jpg"
+    ],
+    "likes": 408,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "origami adorable [COLOR] [ANIMAL],\nkawaii, paper craft, cinematic, white background, high detail, HD, ultra detailed\n\nCan’t wait to see what you come up with",
+      "折纸风格的可爱[颜色][动物]，  \n卡哇伊、纸艺、电影感、白色背景、高细节、高清、超精细"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Kris Kashtanova",
+      "url": "https://x.com/icreatelife/status/2018504325597659157"
+    },
+    "status": 1,
+    "tags": [
+      "cute",
+      "paper-craft",
+      "cinematic"
+    ],
+    "title": "折纸艺术打造的超精细可爱动物",
+    "update_time": 1770208769275
+  },
+  {
+    "coverImage": "/images/2026-02-03/2018562067033375224_0.jpg",
+    "create_time": 1770097674000,
+    "description": "从45度俯视，一个等距微型3D场景展示了城市的昼夜对比。一边沐浴在温暖日光下，另一边沉浸在冷冽月色中，抬高的基座上细节丰富，风格化人物点缀其中。",
+    "id": "2018562067033375224",
+    "images": [
+      "/images/2026-02-03/2018562067033375224_0.jpg",
+      "/images/2026-02-03/2018562067033375224_1.jpg",
+      "/images/2026-02-03/2018562067033375224_2.jpg",
+      "/images/2026-02-03/2018562067033375224_3.jpg"
+    ],
+    "likes": 163,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "“Day vs Night” Diorama of Cities\n\nGemini Nano Banana Pro Prompt:\n\nCreate a clear, 45° top-down isometric miniature 3D diorama of [LOCATION], split between day and night.\n\nUse soft refined textures, realistic PBR materials, with warm daylight lighting on one side and cool moonlit lighting on the other.\n\nBuild a raised base with consistent geometry but different environmental details (lighting, activity, mood).\n\nInclude tiny stylized figures behaving differently in day vs night (no facial details).\nUse a clean solid [BACKGROUND COLOR] background.\n\nAt the top-center, display [LOCATION NAME] in large bold text, beneath it show ‘Day & Night’, and place a minimal time-cycle icon below.\n\nAll text must automatically match the background contrast (white or black).",
+      "“昼夜对比”城市微缩场景\n\n创建一个清晰的45度俯视等距微型3D微缩场景，展现[地点]的昼夜分界。\n\n一侧采用柔和精致的纹理与写实PBR材质，配以温暖的日光照明；另一侧则使用冷色调的月光照明。\n\n构建一个抬高的基座，保持一致的几何结构，但两侧环境细节（光照、活动、氛围）各不相同。\n\n加入微小的风格化人物，分别呈现白天与夜晚的不同行为（无需面部细节）。\n\n背景使用纯色[背景颜色]。\n\n在画面顶部中央显示大号粗体字[地点名称]，其下方标注“Day & Night”，再下方放置一个极简的时间循环图标。\n\n所有文字需自动匹配背景对比度（白色或黑色）。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2018562067033375224"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cityscape",
+      "miniature"
+    ],
+    "title": "昼夜分界的微缩城市",
+    "update_time": 1770208769275
+  },
+  {
+    "coverImage": "/images/2026-02-04/2019117016024563872_0.jpg",
+    "create_time": 1770229984000,
+    "description": "探索一个粗野主义风格的室内环境，通过四个精确划分的画面展现单一人物在不同视角下的孤独与细节。使用电影级拍摄手法，强调材质的真实感和光影的变化。",
+    "id": "2019117016024563872",
+    "images": [
+      "/images/2026-02-04/2019117016024563872_0.jpg",
+      "/images/2026-02-04/2019117016024563872_1.jpg",
+      "/images/2026-02-04/2019117016024563872_2.jpg",
+      "/images/2026-02-04/2019117016024563872_3.jpg"
+    ],
+    "likes": 77,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Worm’s-Eye\nHigh-Angle\nMacro\nGround-Level\n\n{\n  \"output\": {\n    \"canvas\": {\n      \"type\": \"vertical cinematic\",\n      \"layout_rule\": \"split the image into four perfectly equal horizontal sections\",\n      \"panel_count\": 4,\n      \"panel_uniformity\": \"all panels must be identical in height and width, min height 600px\",\n      \"divider\": \"clean, thin black horizontal lines\",\n      \"alignment\": \"strict, no variation\"\n    }\n  },\n  \"style\": {\n    \"aesthetic\": \"clean noir cinematic\",\n    \"tone\": \"editorial-documentary\",\n    \"mood\": \"cold, isolated, grounded\",\n    \"lighting_philosophy\": \"low-key noir lighting with clean cinematic readability\"\n  },\n  \"scene\": {\n    \"environment\": {\n      \"type\": \"brutalist concrete interior\",\n      \"materials\": \"raw concrete, visible aggregate, drying rings\",\n      \"lighting\": {\n        \"source\": \"single overhead practical light\",\n        \"direction\": \"top-down\",\n        \"contrast\": \"high\",\n        \"shadow_behavior\": \"deep blacks with retained detail\",\n        \"atmosphere\": \"dust motes visible in light shafts\"\n      }\n    }\n  },\n  \"subject\": {\n    \"continuity\": {\n      \"same_subject\": true,\n      \"same_scene\": true,\n      \"consistent_wardrobe\": true,\n      \"consistent_physical_proportions\": true\n    },\n    \"materials\": {\n      \"skin\": \"realistic micro-creases and subtle sweat sheen\",\n      \"fabric\": \"heavy wool or canvas with frayed edges\",\n      \"edge_separation\": \"clean silhouette separation from environment\"\n    }\n  },\n  \"composition\": {\n    \"panels\": [\n      {\n        \"panel\": 1,\n        \"camera_view\": \"extreme low-angle (worm’s-eye)\",\n        \"description\": \"camera placed near floor looking straight upward, subject appears monolithic, concrete ceiling dominates frame\",\n        \"depth_of_field\": \"deep\"\n      },\n      {\n        \"panel\": 2,\n        \"camera_view\": \"high-angle three-quarter\",\n        \"description\": \"camera looking down from an offset angle, subject seated or kneeling, floor texture and spatial context visible\",\n        \"depth_of_field\": \"shallow\"\n      },\n      {\n        \"panel\": 3,\n        \"camera_view\": \"tight macro interaction\",\n        \"description\": \"extreme close framing on tactile interaction such as fingertips touching cold concrete, texture and surface tension emphasized\",\n        \"depth_of_field\": \"shallow\"\n      },\n      {\n        \"panel\": 4,\n        \"camera_view\": \"ground-level depth shot\",\n        \"description\": \"camera placed on the floor looking toward the subject’s feet and lower legs, strong foreground-to-background depth\",\n        \"depth_of_field\": \"deep\"\n      }\n    ]\n  },\n  \"camera\": {\n    \"system\": \"ARRI Alexa cinematic look\",\n    \"grain\": \"subtle 35mm film grain\",\n    \"lens_behavior\": \"realistic optical distortion only\",\n    \"artifacts\": \"no digital sharpening or artificial clarity\"\n  },\n  \"color_and_grade\": {\n    \"temperature\": \"neutral\",\n    \"contrast\": \"controlled\",\n    \"black_levels\": \"deep but not crushed\",\n    \"restrictions\": \"no AI glow, no lifted blacks\"\n  },\n  \"constraints\": {\n    \"panel_integrity\": [\n      \"all four panels are equal in size\",\n      \"no panel may be taller or shorter than another\",\n      \"no cropping or overlap between panels\",\n      \"perspective differences must come only from camera position\"\n    ]\n  },\n  \"negative_prompt\": [\n    \"uneven panels\",\n    \"unequal sections\",\n    \"vertical split\",\n    \"collage layout\",\n    \"merged frames\",\n    \"inconsistent panel scaling\",\n    \"stretched panels\",\n    \"plastic skin\",\n    \"beauty filter\",\n    \"fake HDR\",\n    \"neon\",\n    \"glow\",\n    \"bloom\",\n    \"illustration\",\n    \"3D render\",\n    \"over-saturated\",\n    \"washed-out\",\n    \"logos\",\n    \"text\",\n    \"watermarks\",\n    \"distorted anatomy\",\n    \"cropped limbs across panels\",\n    \"bird’s-eye view\",\n    \"side profile\",\n    \"medium-wide back shot\"\n  ]\n}",
+      "仰视  \n高角度  \n微距  \n地面视角  \n\n垂直电影画幅，将画面严格均分为四个水平相等的部分，每部分高度与宽度完全一致（最小高度600像素），以干净纤细的黑色横线分隔，对齐精准无偏差。  \n\n整体风格为干净的黑色电影美学，基调如纪实编辑摄影，氛围冷峻、孤寂、贴近现实；采用低调黑色电影布光，同时保持清晰的电影级可读性。  \n\n场景设定于粗野主义混凝土室内，材质为原始混凝土，可见骨料与干涸水渍痕迹；光源为单一顶部实用灯具，光线自上而下，高对比度，阴影深黑但保留细节，光束中可见漂浮尘埃。  \n\n主体在四幅画面中保持完全一致：同一人物、同一场景、服装统一、身体比例不变；皮肤呈现真实细微褶皱与轻微汗光，衣物为厚重羊毛或帆布，边缘有磨损，主体轮廓与环境清晰分离。  \n\n四幅构图分别为：  \n1. 极端低角度（虫眼视角）——相机贴近地面垂直向上拍摄，人物显得如纪念碑般巨大，混凝土天花板占据画面主导，景深深远；  \n2. 高角度三分之三视角——相机从偏斜上方俯拍，人物呈坐姿或跪姿，可见地面纹理与空间环境，景深浅；  \n3. 紧凑微距互动——极端特写聚焦于指尖触碰冰冷混凝土的瞬间，强调材质肌理与表面张力，景深浅；  \n4. 地面深度镜头——相机置于地面，朝向人物脚部与小腿，营造强烈前景至背景的纵深感，景深深远。  \n\n使用ARRI Alexa电影感系统，叠加细微35毫米胶片颗粒，仅保留真实光学畸变，禁止数字锐化或人工增强清晰度。  \n\n色彩与调色要求：色调中性，对比度受控，黑位深邃但不压死；严禁AI光晕、提亮黑场。  \n\n约束条件：四幅画面尺寸绝对相等，不得有任何高低差异、裁剪、重叠；视角变化仅由相机位置决定。  \n\n负面提示：画面不均、分区不等、垂直分割、拼贴布局、帧融合、比例不一致、拉伸变形、塑料质感皮肤、美颜滤镜、伪HDR、霓虹、发光、辉光、插画、3D渲染、过饱和、褪色、标志、文字、水印、解剖失真、跨画面肢体裁切、鸟瞰视角、侧脸、中远景背影。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Kaan",
+      "url": "https://x.com/kaanakz/status/2019117016024563872"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "architecture",
+      "portrait"
+    ],
+    "title": "混凝土空间的四视角图",
+    "update_time": 1770297866990
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019339841507643609_0.jpg",
+    "create_time": 1770283110000,
+    "description": "四座小众城市标志性建筑被转化为精致蛋糕，切开展示内部多彩糕点层次，外观逼真如真实建筑。",
+    "id": "2019339841507643609",
+    "images": [
+      "/images/2026-02-05/2019339841507643609_0.jpg"
+    ],
+    "likes": 17,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "<instructions> input=continent or country. Find 4 less famous cities or regions, analyze deeply and select their most architecturally distinct building. Function DrawCity($lesser_known){ Concept: Architectural Cross-Section - The building's form containing complex pastry layers. Process: 1. SELECT TARGET: Identify $ BuildingName. 2. EXTRACT GEOMETRY: Define $ Silhouette (The outer profile). Do not simplify the geometry. 3. DEFINE INTERIOR ($FlavorProfile): - Assign distinct color contrast layers (e.g., Red Velvet inside White Marble, Matcha Sponge inside Grey Concrete, Gold flakes in Jelly). 4. SURGICAL SLICE: - Remove 1/4 of the structure or create a vertical cross-section. - CRITICAL: The cut must be clean and sharp. It must reveal $ FlavorProfile layers inside the walls/floors. - The remaining 3/4 of the building must remain architecturally perfect. 5. MATERIAL MAPPING (Apply texture to Exterior): IF Gothic/Ornate → Ext: White Chocolate Sculpting // interior: Layers of dark berry compote & almond sponge. IF Modern/Glass → Ext: Isomalt panes & Mirror Glaze // interior: : Geometric cubes of mango mousse & coconut dacquoise. IF Brutalist/Concrete → Ext: Grey Sesame Velvet Spray // interior: : Dense strata of charcoal sponge & salted caramel. IF Adobe/Organic → Ext: Cinnamon Marzipan // interior: : Spiced carrot cake & cream cheese strata. 6. EXECUTE: Macro shot, 45-degree angle, sharp focus on the \"cut\" to show texture. } Output: 2x2 grid. Run DrawCity($lesser_known) 4 times. Label: Bottom of each image \"City, State/Country - Building Name\". Include: A small visual recipe card in corner listing the \"Internal Layers\". </instructions>",
+      "<指令> 输入：大洲或国家。找出4个不太知名的城市或地区，深入分析并选出其中最具建筑特色的建筑物。  \n函数 DrawCity($小众地点) {  \n概念：建筑剖面——建筑形态内含复杂的糕点层次。  \n流程：  \n1. 选定目标：识别$建筑名称。  \n2. 提取几何结构：定义$轮廓（外部轮廓），不得简化几何形状。  \n3. 定义内部（$风味组合）：  \n   - 分配具有鲜明色彩对比的层次（例如：白色大理石外表内藏红丝绒夹层、灰色混凝土内嵌抹茶海绵蛋糕、果冻中加入金箔）。  \n4. 精密切割：  \n   - 移除建筑的四分之一，或制作垂直剖面。  \n   - 关键要求：切口必须干净利落，清晰展现墙体/楼板内的$风味组合层次。  \n   - 剩余四分之三的建筑必须保持建筑外观的完美无瑕。  \n5. 材质映射（应用于外部）：  \n   - 若为哥特式/繁复风格 → 外部：白巧克力雕刻 // 内部：深色浆果果酱与杏仁海绵蛋糕层。  \n   - 若为现代/玻璃风格 → 外部：异麦芽酮糖玻璃板与镜面釉 // 内部：芒果慕斯与椰子达克瓦兹几何立方体。  \n   - 若为粗野主义/混凝土风格 → 外部：灰色芝麻天鹅绒喷涂层 // 内部：竹炭海绵蛋糕与海盐焦糖致密夹层。  \n   - 若为土坯/有机风格 → 外部：肉桂杏仁膏 // 内部：香料胡萝卜蛋糕与奶油奶酪夹层。  \n6. 执行：  \n   - 采用微距镜头，45度角拍摄，焦点清晰对准“切口”以展现纹理细节。  \n}  \n输出：2x2网格图像。运行 DrawCity($小众地点) 四次。  \n每张图片底部标注：“城市, 州/国家 - 建筑名称”。  \n在角落附上一张小型视觉食谱卡，列出“内部层次”。</指令>"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Gadgetify",
+      "url": "https://x.com/Gdgtify/status/2019339841507643609"
+    },
+    "status": 1,
+    "tags": [
+      "architecture",
+      "food",
+      "high-detail"
+    ],
+    "title": "建筑蛋糕剖面图",
+    "update_time": 1770297866990
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019262960062067135_0.jpg",
+    "create_time": 1770264780000,
+    "description": "展现四位著名导演在他们代表作品中的创作瞬间，通过高端风格化可动人偶和精确分镜画面，重现每部电影的独特美学与技术细节。",
+    "id": "2019262960062067135",
+    "images": [
+      "/images/2026-02-05/2019262960062067135_0.jpg",
+      "/images/2026-02-05/2019262960062067135_1.jpg"
+    ],
+    "likes": 61,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "2x2 grid, do this for 4 famous movies: Anchor: A 3D diorama of the actual film director (semantically inferred from the input film) intensely storyboarding at a director’s desk; the storyboard frames on the desk match the film’s signature composition, color language, and shot grammar; four floating cinematic “frame panels” show the film’s most iconic signature moments as storyboard-style grayscale frames with camera notes; behind them a deluxe “Director Edition” display box with the film title and director credit, featuring the main characters as dynamic collectible poses matching the film’s tone; floating props: clapboard, 35mm film strips, viewfinder, lens caps, marked script pages, clean studio sweep background::3.8\nMorphology: premium stylized collectible figure with crisp hard-surface edges, camera-gear geometry, film-frame borders, storyboard annotation glyphs, motion arrows and blocking marks consistent with the film’s genre and era::3.2\nMaterial Physics: glossy figure surface with subtle mold lines, matte paper storyboard cards with visible grain, semi-matte box with spot UV + foil title, translucent plastic window insert, realistic film strip sheen, crisp print registration, dust-free studio finish::3.2\nIllumination: high-end studio product lighting, soft key + gentle fill, subtle rim light, controlled reflections, even exposure for legible storyboard notes and title text::1.6\nRender Stack: collectible figure photography, shallow depth of field but readable text, isometric-leaning three-quarter angle, clean cyclorama background, sharp focus on face + hands + storyboard page, premium box art aesthetic::1.2\nNegative: photoreal human skin, realistic pores, painterly texture, messy stains, low detail hands, illegible text, gibberish typography, watermarks, brand logos, extra limbs, deformed fingers, blurry frames, dull colors, harsh contrast:: -1.2",
+      "2x2 网格，为四部著名电影分别创作以下内容：锚点画面为一位3D微缩场景，展现该影片导演（根据输入片名语义推断）正专注地在导演桌前绘制分镜脚本；桌上的分镜画面精准还原该电影标志性的构图、色彩语言与镜头语法；四个悬浮的“电影画框面板”以分镜风格的灰度画面呈现该片最具代表性的经典瞬间，并附有摄影机位注释；背景中设有一款豪华“导演版”展示盒，印有电影标题与导演署名，盒面人物以契合影片氛围的动态可动人偶姿势呈现；悬浮道具包括场记板、35毫米胶片条、取景器、镜头盖、标注过的剧本页；背景为干净整洁的摄影棚布景。\n\n造型风格：高端风格化可动人偶，具有清晰硬朗的表面边缘、摄影器材几何元素、胶片画幅边框、分镜注释符号，以及符合影片类型与年代特征的动作箭头与走位标记。\n\n材质物理效果：人偶表面光亮并带有细微合模线，分镜卡纸为哑光且可见纸张纹理，展示盒半哑光并采用局部UV与烫金标题，透明塑料视窗插件，胶片条具有真实光泽感，印刷套色精准，整体呈现无尘摄影棚质感。\n\n灯光：高端产品摄影棚灯光，柔和主光搭配轻柔补光，辅以微妙轮廓光，反射控制得当，曝光均匀以确保分镜注释与标题文字清晰可读。\n\n渲染风格：可动人偶产品摄影，浅景深但文字清晰可辨，略带等距视角的三分之二角度构图，纯色无缝背景，面部、手部及分镜页面保持锐利焦点，整体呈现高端收藏盒艺术美学。\n\n负面提示：避免写实人类皮肤、毛孔细节、绘画笔触质感、污渍杂乱、手部细节不足、文字不可读、无意义字体、水印、品牌标识、多余肢体、手指畸形、画面模糊、色彩沉闷、高对比度。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Gadgetify",
+      "url": "https://x.com/Gdgtify/status/2019262960062067135"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "miniature",
+      "portrait"
+    ],
+    "title": "四部经典电影的导演视角微缩场景",
+    "update_time": 1770297866990
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019267462647439770_0.jpg",
+    "create_time": 1770265853000,
+    "description": "在这个细致的微型3D立体模型中，探索来自特定国家的自然奇观。等距视角与柔和光线相结合，展现了丰富的地形层次和有机写实质感的植被。探险者点缀其中，增添了生动趣味。",
+    "id": "2019267462647439770",
+    "images": [
+      "/images/2026-02-05/2019267462647439770_0.jpg",
+      "/images/2026-02-05/2019267462647439770_1.jpg",
+      "/images/2026-02-05/2019267462647439770_2.jpg",
+      "/images/2026-02-05/2019267462647439770_3.jpg"
+    ],
+    "likes": 74,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Natural Wonder of the Country Dioramas\n\nGemini Nano Banana Pro Prompt:\n\n“Create an isometric miniature 3D diorama highlighting the natural landmark [NATURAL WONDER] from [COUNTRY NAME/PLANET].\n\nUse a 40–45° top-down view. Textures look organic and realistic with PBR materials. Lighting feels soft and atmospheric.\n\nThe raised base shows terrain layers, vegetation, and surrounding geography. Add tiny stylized explorers or wildlife with no facial details.\n\nBackground remains solid [BACKGROUND COLOR].\n\nTop center text displays [COUNTRY NAME] in bold.\nSecond line shows [NATURAL WONDER]. Place a minimal nature icon below. Text automatically adapts for contrast.”",
+      "国家自然奇观微缩立体模型\n\n创建一个等距视角的微型3D立体模型，突出展示来自[国家名称/星球]的自然奇观[NATURAL WONDER]。  \n采用40–45°俯视角度，材质使用基于物理渲染（PBR）的有机写实质感。光线柔和且富有氛围感。  \n抬高的底座展现地形层次、植被及周边地理环境。添加风格化的小型探险者或野生动物，无需面部细节。  \n背景为纯色[BACKGROUND COLOR]。  \n顶部中央以粗体显示[国家名称]，第二行显示[NATURAL WONDER]，下方配以简约自然图标。文字自动调整以确保与背景形成对比。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2019267462647439770"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "miniature",
+      "nature"
+    ],
+    "title": "微缩3D模型中的自然奇观",
+    "update_time": 1770297866990
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019331032160563388_0.jpg",
+    "create_time": 1770281010000,
+    "description": "这幅超写实的男性肖像展现了英俊青年身穿深色西装，内搭白衬衫，其轮廓分明的下颌线与富有表现力的双眼引人注目。画面采用戏剧性的低调影棚布光，背景深邃阴郁，营造出优雅而自信的氛围。",
+    "id": "2019331032160563388",
+    "images": [
+      "/images/2026-02-05/2019331032160563388_0.jpg",
+      "/images/2026-02-05/2019331032160563388_1.jpg"
+    ],
+    "likes": 66,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Ultra-realistic cinematic male portrait, handsome young man in a tailored dark suit with an open white shirt, sharp jawline and expressive eyes, soft tousled hair, warm golden rim lighting, dramatic low-key studio setup, dark moody background, luxury editorial fashion vibe, shallow depth of field, high contrast, rich shadows, photoreal skin texture, premium DSLR look, 85mm lens, f/1.8, cinematic color grading, Vogue / GQ style, elegant and confident mood.",
+      "超写实电影感男性肖像，英俊青年身穿剪裁精良的深色西装，内搭敞开的白衬衫，轮廓分明的下颌线与富有表现力的双眼，柔软凌乱的发型，温暖的金色轮廓光，戏剧性的低调影棚布光，深邃阴郁的背景，奢华时尚杂志风格，浅景深，高对比度，浓郁阴影，逼真肌肤质感，高端单反相机效果，85mm镜头，光圈f/1.8，电影级色彩调校，Vogue/GQ风格，优雅而自信的氛围。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Kashberg",
+      "url": "https://x.com/Kashberg_0/status/2019331032160563388"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "fashion"
+    ],
+    "title": "英俊青年的奢华肖像",
+    "update_time": 1770297866990
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019342167102353672_0.jpg",
+    "create_time": 1770283664000,
+    "description": "这组时尚杂志风格的肖像通过多种姿态和角度展现了模特的优雅与自信，从正面特写到行走抓拍，每一帧都精准复刻了参考图中的身份特征、服装及配饰。背景简约，灯光柔和，营造出专业高端的电影感。",
+    "id": "2019342167102353672",
+    "images": [
+      "/images/2026-02-05/2019342167102353672_0.jpg",
+      "/images/2026-02-05/2019342167102353672_1.jpg"
+    ],
+    "likes": 50,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Defined From Every Angle.\n\nPrompt: \n\n{\n  \"subject\": {\n    \"identity_reference\": \"uploaded face and body reference\",\n    \"identity_accuracy\": \"100% same facial structure, hair, skin tone, body shape, outfit, accessories; do not alter identity\",\n    \"pose_variations\": [\n      {\n        \"name\": \"front-facing medium shot\",\n        \"description\": \"upper to mid-body, facing camera directly, elegant and confident posture\"\n      },\n      {\n        \"name\": \"front-facing extreme close-up\",\n        \"description\": \"focus on face and eyes, capturing expression and makeup details\"\n      },\n      {\n        \"name\": \"low-angle full-body shot\",\n        \"description\": \"camera slightly below, looking upward, powerful stance emphasizing outfit and height\"\n      },\n      {\n        \"name\": \"high-angle shot\",\n        \"description\": \"slightly above, looking down, soft editorial perspective\"\n      },\n      {\n        \"name\": \"side profile portrait\",\n        \"description\": \"exact profile of face and hair, elegant posture, studio lighting highlights contours\"\n      },\n      {\n        \"name\": \"34 profile (three-quarter turn)\",\n        \"description\": \"torso and face turned three-quarters, emphasizing silhouette and outfit details\"\n      },\n      {\n        \"name\": \"over-the-shoulder view\",\n        \"description\": \"subject looks slightly away from camera, shoulder closest to camera in foreground\"\n      },\n      {\n        \"name\": \"Dutch tilt\",\n        \"description\": \"slightly rotated camera angle for dynamic editorial feel, maintaining consistent pose\"\n      },\n      {\n        \"name\": \"mid-walk candid\",\n        \"description\": \"natural motion captured, subtle step forward, relaxed arms, editorial energy\"\n      }\n    ]\n  },\n  \"wardrobe\": {\n    \"description\": \"maintain exact outfit, fabric, and accessories as in identity reference\",\n    \"consistency\": \"all panels must match perfectly\"\n  },\n  \"environment\": {\n    \"setting\": \"studio environment\",\n    \"background\": \"clean, minimal, neutral or light-grey cyclorama\",\n    \"lighting\": \"soft professional studio lighting, subtle fill, flattering highlights\"\n  },\n  \"camera\": {\n    \"shot_type\": \"varies per panel as specified\",\n    \"angle\": \"specified per panel (low, high, front, profile, Dutch tilt, mid-motion)\",\n    \"depth_of_field\": \"shallow, subject in sharp focus, blurred background\"\n  },\n  \"composition\": {\n    \"grid\": \"3x3 contact sheet\",\n    \"spacing\": \"consistent, balanced layout\",\n    \"framing\": \"each panel fully showcases pose and outfit while keeping identity clear\"\n  },\n  \"aesthetic\": {\n    \"style\": \"editorial fashion photography\",\n    \"mood\": \"cinematic, professional, high-end\",\n    \"color_palette\": \"maintain wardrobe and skin tones as reference, neutral background\"\n  },\n  \"render_quality\": {\n    \"realism\": \"ultra-photorealistic\",\n    \"resolution\": \"high (8K recommended)\",\n    \"detail_focus\": \"fabric texture, skin, hair, accessories, lighting consistency across panels\"\n  },\n  \"negative_prompts\": [\n    \"identity change\",\n    \"distorted anatomy\",\n    \"extra limbs\",\n    \"blurred face\",\n    \"motion artifacts\",\n    \"low resolution\",\n    \"inconsistent outfit or hair\",\n    \"harsh shadows\",\n    \"plastic skin\",\n    \"busy background\"\n  ]\n}",
+      "从每个角度精准呈现。\n\n提示词：\n\n使用上传的人脸与身体参考图作为身份基准，确保面部结构、发型、肤色、体型、服装及配饰100%一致，不得更改身份特征。  \n包含以下多种姿态变化：  \n- 正面中景：上半身至中身，正对镜头，姿态优雅自信；  \n- 正面特写：聚焦面部与双眼，清晰呈现表情与妆容细节；  \n- 低角度全身照：镜头略低于视线，仰拍展现强大气场，突出服装与身高；  \n- 高角度镜头：略高于主体俯拍，呈现柔和的时尚编辑视角；  \n- 侧面肖像：精确侧脸与发型轮廓，姿态优雅，影棚灯光强调面部线条；  \n- 3/4侧脸（四分之三转体）：身体与面部呈四分之三角度，突出剪影与服装细节；  \n- 越肩视角：主体略微侧头避开镜头，靠近镜头一侧肩膀位于前景；  \n- 倾斜镜头（Dutch tilt）：相机轻微旋转，营造动态时尚感，同时保持姿势一致；  \n- 行走抓拍：自然行走瞬间，微微迈步，手臂放松，散发时尚活力。\n\n服装需完全复刻参考图中的款式、面料与配饰，所有画面必须严格一致。  \n场景为影棚环境，背景干净简约，采用中性或浅灰色无缝背景布。  \n灯光为柔和专业影棚光，辅以微妙补光，呈现讨喜高光。\n\n各画面镜头类型依上述姿态分别设定，角度包括低角度、高角度、正面、侧脸、倾斜及动态中景，景深较浅，主体清晰锐利，背景虚化。\n\n构图采用3×3接触印相式排版，间距均衡统一，每格完整展现姿态与服装，同时确保身份清晰可辨。\n\n整体风格为时尚杂志摄影，氛围电影感、专业且高端，色彩忠实还原参考图中的服装与肤色，背景保持中性。\n\n渲染质量要求超写实，建议8K高分辨率，重点呈现面料质感、肌肤、发丝、配饰细节，并确保各画面灯光一致性。\n\n避免以下内容：身份改变、解剖结构扭曲、多余肢体、面部模糊、运动伪影、低分辨率、服装或发型不一致、强烈阴影、塑料感皮肤、杂乱背景。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2019342167102353672"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "fashion",
+      "cinematic"
+    ],
+    "title": "影棚中的超写实时尚肖像",
+    "update_time": 1770297866991
+  },
+  {
+    "coverImage": "/images/2026-02-04/2019057751260090731_0.jpg",
+    "create_time": 1770215854000,
+    "description": "一部手机屏幕化作门户，里面穿冬装的青年伸手接过现实世界倒入的霓虹绿汽水，液体飞溅瞬间定格，雪花在屏内飘落，现实桌面温暖极简。",
+    "id": "2019057751260090731",
+    "images": [
+      "/images/2026-02-04/2019057751260090731_0.jpg",
+      "/images/2026-02-04/2019057751260090731_1.jpg"
+    ],
+    "likes": 250,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A hyper-realistic surreal photograph of a modern smartphone lying flat on a wooden table, its screen acting as a portal between two worlds. From inside the phone screen, a smiling young man dressed in winter clothing—puffer jacket, knit beanie, gloves—extends his hands outward into the real world, holding a clear glass. From outside the phone, a real human hand pours a bright neon-green carbonated drink into the glass, with liquid splashes frozen mid-air as it crosses the boundary between the digital screen and reality. Snowflakes drift inside the phone screen while the real environment remains warm and minimal. Ultra-detailed textures, cinematic lighting, shallow depth of field, photorealistic surrealism, high-resolution editorial photography.",
+      "一张超写实的超现实主义摄影作品：一部现代智能手机平放在木桌上，其屏幕化作连接两个世界的门户。从手机屏幕内部，一位身穿冬季服装（羽绒夹克、针织毛线帽和手套）的微笑青年将双手伸向现实世界，手中握着一只透明玻璃杯；而来自屏幕外的一只真实人类的手正将明亮的霓虹绿色碳酸饮料倒入杯中，液体飞溅的瞬间被定格在跨越数字屏幕与现实边界的空中。雪花在手机屏幕内缓缓飘落，而现实环境则温暖而极简。画面呈现极致细腻的质感、电影级光影、浅景深效果，融合写实与超现实风格，具有高分辨率的杂志级摄影水准。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Smiling Khan",
+      "url": "https://x.com/AIwithkhan/status/2019057751260090731"
+    },
+    "status": 1,
+    "tags": [
+      "photography",
+      "realistic",
+      "cinematic"
+    ],
+    "title": "手机屏幕里的冬日青年接住现实汽水",
+    "update_time": 1770297866991
+  },
+  {
+    "coverImage": "/images/2026-02-04/2019090528407875990_0.jpg",
+    "create_time": 1770223669000,
+    "description": "这是一张超写实的年轻女性肖像，她有着深色卷发，面带微笑，身穿时尚黑色大衣和灰色针织围巾。背景是繁忙的纽约街头，行人与出租车因动态模糊而虚化，突出了她的自信表情。",
+    "id": "2019090528407875990",
+    "images": [
+      "/images/2026-02-04/2019090528407875990_0.jpg"
+    ],
+    "likes": 143,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A high-resolution, hyper-realistic portrait of a smiling young woman with curly dark hair, wearing a stylish black wool coat and a textured grey knit scarf. She is standing still and looking directly at the camera with a confident expression. The background is a busy New York City street with people and a yellow taxi blurred by heavy motion, creating a cinematic 'frozen in time' effect. Soft, natural daylight, 8k resolution, shot on 35mm lens, deep depth of field on the subject, sharp facial details.\"\n​Tips for a Better Result:\n​Aspect Ratio: If your tool supports it, use a 9:16 ratio to get that vertical, tall look.\n​Lighting: Mentioning \"Golden Hour\" can add a warmer, more glowy feel to her skin if you want to change the mood.\n​Style: Adding \"Shot on Fujifilm\" or \"Kodak Portra 400\" often helps AI generate more realistic skin tones and less \"plastic\" textures.",
+      "一张高分辨率、超写实的年轻女性肖像，她有着深色卷发，面带微笑，身穿时尚的黑色羊毛大衣和有纹理的灰色针织围巾。她静止站立，自信地直视镜头。背景是繁忙的纽约街头，行人和一辆黄色出租车因强烈的动态模糊而虚化，营造出电影般的“时间凝固”效果。柔和的自然日光，8K 分辨率，使用 35mm 镜头拍摄，人物景深深，面部细节锐利清晰。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aijaz",
+      "url": "https://x.com/iamsofiaijaz/status/2019090528407875990"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "cinematic",
+      "fashion"
+    ],
+    "title": "纽约街头的时尚女性肖像",
+    "update_time": 1770297866991
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019261027217756648_0.jpg",
+    "create_time": 1770264319000,
+    "description": "这幅图像展现了一位女模特坐在仿毛皮扶手椅中，身着冰蓝色外套，配以简约妆容和发型。她姿态优雅有力，目光沉静锐利，背景采用深色调并带有微妙渐变，强调了顶级时尚杂志的美学。",
+    "id": "2019261027217756648",
+    "images": [
+      "/images/2026-02-05/2019261027217756648_0.jpg",
+      "/images/2026-02-05/2019261027217756648_1.jpg",
+      "/images/2026-02-05/2019261027217756648_2.jpg",
+      "/images/2026-02-05/2019261027217756648_3.jpg"
+    ],
+    "likes": 79,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Ultra-high fashion editorial portrait of a confident female model seated in an oversized textured fur armchair, wearing a luxurious icy blue faux-fur coat over tailored black trousers and black pointed heels. Strong elegant pose with crossed legs, relaxed yet powerful body language, one hand resting on the armrest, the other near the chin. Slicked-back hair, minimal makeup, sharp cheekbones, calm and intense gaze toward camera. Dark moody studio background with subtle gradient, soft cinematic lighting emphasizing fabric texture and facial structure. Premium fashion magazine aesthetic, dramatic contrast, shallow depth of field, ultra-realistic, high detail, 85mm lens look, Vogue / Harper’s Bazaar style, editorial luxury photography.",
+      "超高端时尚杂志风格人像，一位自信的女模特坐在一张超大纹理仿毛皮扶手椅中，身着奢华的冰蓝色仿毛皮外套，内搭剪裁精良的黑色长裤与黑色尖头高跟鞋。姿态优雅有力，双腿交叠，身体语言放松却充满力量感，一手搭在扶手上，另一手轻靠下巴。头发向后梳整，妆容极简，颧骨分明，目光沉静而锐利地直视镜头。背景为深色调影棚，带有微妙渐变，采用柔和的电影感布光，突出面料质感与面部轮廓。整体呈现顶级时尚杂志美学，对比强烈，浅景深，超写实高细节，85mm镜头效果，具有《Vogue》或《Harper’s Bazaar》风格的奢华编辑摄影。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Kashberg",
+      "url": "https://x.com/Kashberg_0/status/2019261027217756648"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "portrait",
+      "cinematic"
+    ],
+    "title": "奢华时尚：自信女模的超写实肖像",
+    "update_time": 1770297866991
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019338808009920744_0.jpg",
+    "create_time": 1770282863000,
+    "description": "",
+    "id": "2019338808009920744",
+    "images": [
+      "/images/2026-02-05/2019338808009920744_0.jpg"
+    ],
+    "likes": 123,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A minimalist cinematic colored poster featuring a [Character Name]’s portrait from shoulders to the top of the head. The face is reconstructed using a small number of large, square-cut paper fragments arranged in a simple grid [around 4x5 or 5x6 pieces]. Each paper fragment contains a disjointed part of the face which together reconstruct the portrait. The internal paper fragments constituting the face are not perfectly flat; many have slightly curled edges and lifted corners, casting tiny, realistic shadows that give them a three-dimensional, tacked-down appearance. 4 of these squares have subtle black handwritten [text1, text2, text3, text4] directly on the skin/image. Scattered irregularly around the outer perimeter of this central grid in various randomly placed positions (not confined to the corners), several [Sticky Note Color] sticky notes are attached to the [Color] wall, containing handwritten [External Text Content, e.g., iconic quotes]. The overall layout is slightly irregular with visible gaps between the pieces showing [Color] concrete wall background. Realistic paper texture throughout, high-end studio lighting emphasizing the lifted edges, sharp focus on ink and paper grain.",
+      "一张极简风格的电影感彩色海报，呈现[角色名称]从肩膀至头顶的肖像。面部由少量大型方形裁切纸片组成，排列成简洁网格（约4x5或5x6块）。每张纸片承载面部的一个不连续局部，共同拼合成完整肖像。构成面部的纸片并非完全平整，许多边缘微微卷曲、角部略微翘起，投下细微而真实的阴影，营造出立体、仿佛被钉在墙上的效果。其中四块方片上直接在皮肤/图像上以黑色手写字体标注了[text1, text2, text3, text4]。在中央网格外围不规则地散落着若干张[便利贴颜色]的便利贴，随意贴在[墙面颜色]的墙面上（位置随机分布，不限于角落），上面手写着[外部文字内容，例如经典台词]。整体布局略显不规则，纸片之间留有可见缝隙，露出[墙面颜色]的混凝土墙面背景。全图呈现真实纸张质感，采用高端影室灯光突出翘起边缘，墨迹与纸纹细节清晰锐利。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ΛRMIN | AI",
+      "url": "https://x.com/Arminn_Ai/status/2019338808009920744"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "极简风格的电影感拼贴海报",
+    "update_time": 1770297866991
   }
 ]

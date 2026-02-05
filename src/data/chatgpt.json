@@ -11608,5 +11608,61 @@
     ],
     "title": "手机屏幕里走出的超现实女性",
     "update_time": 1769951226230
+  },
+  {
+    "coverImage": "/images/2026-02-04/2018948213336907876_0.jpg",
+    "create_time": 1770189738000,
+    "description": "年轻女性站在雨中的城市街道上，穿着白色棉质衬衫和深色牛仔裤。暖红色街灯照亮她的侧面，背景虚化突出了她的平静与自信。",
+    "id": "2018948213336907876",
+    "images": [
+      "/images/2026-02-04/2018948213336907876_0.jpg"
+    ],
+    "likes": 53,
+    "model": "gpt-5",
+    "prompts": [
+      "GPT Image 1.5\n\nPrompt:\nA cinematic portrait of a light skinned young adult woman with short brown hair, standing on a rainy city street at dusk. She wears a loose white cotton button up shirt with visible wrinkles and soft texture, sleeves relaxed, paired with dark wash straight leg jeans. Her hands rest casually in her pockets. She looks slightly downward and away from the camera with a calm, confident expression. Dramatic warm red and amber streetlight casts strong side lighting across her face and shirt, creating deep shadows and contrast. Wet pavement reflects city lights. Dark urban buildings fade into the background with soft bokeh. Shallow depth of field. Low angle perspective for a strong, cinematic feel. Shot on a Canon EOS R5, 85mm f 1.2 lens. Warm cinematic color grading with deep contrast. Aspect ratio 4:5.",
+      "一幅电影感肖像：一位浅肤色的年轻女性站在黄昏时分下雨的城市街道上，留着棕色短发。她穿着一件宽松的白色棉质纽扣衬衫，布料有明显褶皱和柔软质感，袖子自然垂落，搭配深色直筒牛仔裤。她的双手随意插在口袋里，目光微微向下并略偏移镜头，神情平静而自信。戏剧性的暖红色与琥珀色街灯从侧面强烈照亮她的脸部和衬衫，形成深邃的阴影与高对比度。湿漉漉的人行道反射着城市灯光，背景中深色的城市建筑以柔焦虚化淡出。浅景深，低角度视角，营造强烈的电影氛围。使用佳能 EOS R5 相机，85mm f/1.2 镜头拍摄。采用温暖的电影级色彩调校，具有深沉的对比度。画面比例为 4:5。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Harboriis",
+      "url": "https://x.com/harboriis/status/2018948213336907876"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "urban"
+    ],
+    "title": "雨夜中的自信侧影",
+    "update_time": 1770208769274
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019366459982635412_0.jpg",
+    "create_time": 1770289456000,
+    "description": "在这幅超写实的电影感肖像中，一位金发女子身着橄榄绿外套站在广袤的金褐色草原上，身旁坐着一只警觉的美洲狮。画面利用了35毫米胶片摄影技术，捕捉到了柔和温暖的黄金时刻光线，背景虚化突出主体，呈现出戏剧性的自然美。",
+    "id": "2019366459982635412",
+    "images": [
+      "/images/2026-02-05/2019366459982635412_0.jpg"
+    ],
+    "likes": 28,
+    "model": "gpt-5",
+    "prompts": [
+      "1. Open ChatGPT\n2. Upload Your Image\n3. Prompt\nA cinematic portrait of a fearless blonde woman standing in a vast golden-brown grassland at golden hour. She wears an olive-green long coat and textured dress, hands in pockets, calm yet powerful expression. Beside her sits a majestic cougar (mountain lion), alert and loyal.Soft warm sunlight, shallow depth of field, dramatic natural tones, earthy color palette, cinematic lighting, ultra-realistic details, sharp focus on subject, soft background blur, movie poster style, 35mm photography, high contrast, moody atmosphere, professional color grading, 8K quality.",
+      "一部电影感十足的肖像作品：一位无畏的金发女子站在广袤的金褐色草原上，正值黄金时刻。她身穿橄榄绿长外套与富有质感的连衣裙，双手插在口袋中，神情平静却充满力量。一只雄伟的美洲狮（山狮）忠诚而警觉地坐在她身旁。画面沐浴在柔和温暖的阳光下，采用浅景深、戏剧性的自然色调与大地色系，电影级布光，超写实细节，主体清晰锐利，背景柔美虚化，风格如电影海报，采用35毫米胶片摄影，高对比度，氛围深沉，专业调色，8K画质。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aijaz",
+      "url": "https://x.com/iamsofiaijaz/status/2019366459982635412"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "realistic"
+    ],
+    "title": "勇敢女性与美洲狮在金色草原上的电影级肖像",
+    "update_time": 1770297866990
   }
 ]
