@@ -3780,5 +3780,160 @@
     ],
     "title": "雾中舞者：光与影的芭蕾",
     "update_time": 1770297866990
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019305081468842249_0.jpg",
+    "create_time": 1770274822000,
+    "description": "一名迷路的孩子化作煤气灯下朦胧的幽灵剪影，深红与金色雾气弥漫在维多利亚时代伦敦街头。",
+    "id": "2019305081468842249",
+    "images": [
+      "/images/2026-02-05/2019305081468842249_0.jpg",
+      "/images/2026-02-05/2019305081468842249_1.jpg",
+      "/images/2026-02-05/2019305081468842249_2.jpg",
+      "/images/2026-02-05/2019305081468842249_3.jpg"
+    ],
+    "likes": 64,
+    "model": "midjourney-v7",
+    "prompts": [
+      "GASLIT SPECTRAL \n\nBase prompt :\n\n[SUBJECT] rendered as a Gaslit Spectral Silhouette, a mysterious figure shrouded in the fog of a Victorian London street. Use a palette of deep [COLOR1] and [COLOR2] to emphasize the ethereal and haunting nature of the scene, with the soft glow of gas lamps casting long shadows\n\nCheck ALTS",
+      "A lost child rendered as a Gaslit Spectral Silhouette, a mysterious figure shrouded in the fog of a Victorian London street. Use a palette of deep crimsons and golds to emphasize the ethereal and haunting nature of the scene, with the soft glow of gas lamps casting long shadows --ar 3:2 --v 7.0 ",
+      "A decaying scarecrow rendered as a Gaslit Spectral Silhouette, a mysterious figure shrouded in the fog of a Victorian London street. Use a palette of deep violet and blood red to emphasize the ethereal and haunting nature of the scene, with the soft glow of gas lamps casting long shadows --ar 3:2 --v 7.0",
+      "A forgotten street musician rendered as a Gaslit Spectral Silhouette, a mysterious figure shrouded in the fog of a Victorian London street. Use a palette of deep browns and greys to emphasize the ethereal and haunting nature of the scene, with the soft glow of gas lamps casting long shadows. --ar 3:2 --v 7.0",
+      "A runaway carriage horse rendered as a Gaslit Spectral Silhouette, a mysterious figure shrouded in the fog of a Victorian London street. Use a palette of deep charcoals and ambers to emphasize the ethereal and haunting nature of the scene, with the soft glow of gas lamps casting long shadows. --ar 3:2 --v 7.0"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2019305081468842249"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "dark",
+      "victorian"
+    ],
+    "title": "雾中维多利亚街的幽影孩童",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020075067833544743_0.jpg",
+    "create_time": 1770458402000,
+    "description": "温暖怀旧的手绘画面，戏剧化构图讲述动人故事。",
+    "id": "2020075067833544743",
+    "images": [
+      "/images/2026-02-07/2020075067833544743_0.jpg"
+    ],
+    "likes": 11,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Classic animation-cinematic SREF. Hand-painted warmth, theatrical composition, nostalgic color harmony, and story-first pacing.\n\n --sref 2321282909\n\n#midjourney #sref #aiart #tischeins",
+      "经典动画电影风格参考。手绘质感的温暖、戏剧化的构图、怀旧的色彩和谐，以及以故事为先的节奏。\n\n--sref 2321282909"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Tischeins",
+      "url": "https://x.com/tisch_eins/status/2020075067833544743"
+    },
+    "status": 1,
+    "tags": [
+      "animation",
+      "hand-drawn",
+      "classic"
+    ],
+    "title": "手绘风经典动画场景",
+    "update_time": 1770473654611
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020061102214873279_0.jpg",
+    "create_time": 1770455072000,
+    "description": "照片中的女模特身着白色紧身连衣裙站在纯白背景前，身上随意贴满了从杂志上剪下的章鱼图片，并泼洒了各种鲜艳明亮的颜料，形成了强烈的视觉冲击。",
+    "id": "2020061102214873279",
+    "images": [
+      "/images/2026-02-07/2020061102214873279_0.jpg",
+      "/images/2026-02-07/2020061102214873279_1.jpg",
+      "/images/2026-02-07/2020061102214873279_2.jpg",
+      "/images/2026-02-07/2020061102214873279_3.jpg"
+    ],
+    "likes": 32,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Female model wearing white bodycon dress posing against a white background, photos of octopus have been roughly cut out of a magazine and placed over the top of female, include splashes of brightly coloured paint, bright vivid colours --ar 4:5 --raw --s 75 --v 7",
+      "一位身穿白色紧身连衣裙的女模特站在纯白背景前摆姿势，杂志上剪下的章鱼图片被粗略地贴在她身上，画面中还泼洒着鲜艳明亮的颜料，色彩鲜明生动。--ar 4:5 --raw --s 75 --v 7"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Michael Rabone",
+      "url": "https://x.com/michaelrabone/status/2020061102214873279"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "illustration",
+      "colorful"
+    ],
+    "title": "白色连衣裙女模与多彩章鱼装饰",
+    "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019814594328375300_0.jpg",
+    "create_time": 1770396300000,
+    "description": "温暖饱和的色调与柔和光影营造出1980年代电影海报般的怀旧氛围，带有轻微喷绘质感。",
+    "id": "2019814594328375300",
+    "images": [
+      "/images/2026-02-06/2019814594328375300_0.jpg",
+      "/images/2026-02-06/2019814594328375300_1.jpg",
+      "/images/2026-02-06/2019814594328375300_2.jpg",
+      "/images/2026-02-06/2019814594328375300_3.jpg"
+    ],
+    "likes": 14,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Retro 80s Realism\n --sref 738064309\n\nA nostalgic, hyper-realistic style evoking 1980s movie posters or commercial art. It features warm, saturated colors, soft cinematic lighting, and a distinct retro-American atmosphere with slightly airbrushed textures.",
+      "复古80年代写实风格  \n--sref 738064309  \n\n一种唤起1980年代电影海报或商业艺术的怀旧、超写实风格，采用温暖饱和的色彩、柔和的电影感光影，以及带有轻微喷绘质感的独特复古美式氛围。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "midlibrary",
+      "url": "https://x.com/Midlibrary_io/status/2019814594328375300"
+    },
+    "status": 1,
+    "tags": [
+      "retro",
+      "realistic",
+      "cinematic"
+    ],
+    "title": "80年代复古写实电影海报",
+    "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019825934195454002_0.jpg",
+    "create_time": 1770399003000,
+    "description": "这幅作品展示了一个以达·芬奇风格雕刻的木雕角色，置于白色背景上。其姿态动感十足，超写实主义风格加之戏剧性的明暗对比，使得木纹细节栩栩如生，展现出图库照片级的画质。",
+    "id": "2019825934195454002",
+    "images": [
+      "/images/2026-02-06/2019825934195454002_0.jpg",
+      "/images/2026-02-06/2019825934195454002_1.jpg",
+      "/images/2026-02-06/2019825934195454002_2.jpg",
+      "/images/2026-02-06/2019825934195454002_3.jpg"
+    ],
+    "likes": 41,
+    "model": "midjourney",
+    "prompts": [
+      "Wooden Sculpture in Midjourney\n\nPROMPT\na wooden sculpture of [character] on a white background, in a dynamic pose, carved in the style of Leonardo da Vinci. hyper-realistic, tenebristic style of artistry, dramatic chiaroscuro lighting, fine wood grain details, stock photo quality, professional color grading.",
+      "一个[角色]的木雕，置于白色背景上，呈动态姿势，以达·芬奇风格雕刻。超写实主义，明暗对照强烈的艺术风格，戏剧性的明暗对比光影，精细的木纹细节，图库照片级画质，专业色彩调校。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Pierrick Chevallier | IA",
+      "url": "https://x.com/CharaspowerAI/status/2019825934195454002"
+    },
+    "status": 1,
+    "tags": [
+      "character",
+      "realistic",
+      "cinematic"
+    ],
+    "title": "达·芬奇风格的动态木雕角色",
+    "update_time": 1770473654612
   }
 ]

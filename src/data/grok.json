@@ -829,5 +829,33 @@
     ],
     "title": "黄昏海边的白衬衫女子",
     "update_time": 1770125991919
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020018576242163909_0.jpg",
+    "create_time": 1770444933000,
+    "description": "一位皮克斯风格的可爱女孩自信地从撕裂的复古报纸中探出身子，报纸标题为“NOOR UL AIN”，画面写实又充满动画魅力，电影级布光与浅景深营造强烈视觉冲击。",
+    "id": "2020018576242163909",
+    "images": [
+      "/images/2026-02-07/2020018576242163909_0.jpg"
+    ],
+    "likes": 136,
+    "model": "grok-2",
+    "prompts": [
+      "A cinematic, hyper-realistic editorial artwork of a cute animated-style girl breaking through a torn newspaper page. Replace the man with this girl (same face, same hairstyle, same proportions, do not change her facial features). The newspaper is ripped open in the center with dramatic jagged paper edges curling outward. The girl is emerging confidently through the paper, slightly turned pose, expressive big eyes, soft smile, stylized Pixar-like realism.\nAt the top of the newspaper, replace the headline text with bold black typography reading “NOOR UL AIN”, clean newspaper font, perfectly aligned and clearly readable. The newspaper layout looks authentic, vintage journalism style.\nHer outfit remains modern and elegant, smooth lighting on skin, realistic textures mixed with animated charm. Cinematic studio lighting, shallow depth of field, strong foreground depth, high detail, magazine cover quality, 4K resolution, creative surreal composition.",
+      "一张电影感十足、超写实的时尚插画作品：一位可爱、动画风格的女孩从一张撕裂的报纸页面中破纸而出。将原图中的男性替换为这位女孩（保持相同的面部特征、发型和比例，不得更改她的面部细节）。报纸中央被撕开，边缘呈戏剧性的锯齿状并向外卷曲。女孩自信地从中探出身来，身体微微侧转，拥有灵动的大眼睛和柔和的微笑，呈现出皮克斯风格的写实感。\n\n报纸顶部的标题文字替换为醒目的黑色粗体字“NOOR UL AIN”，使用干净利落的报纸字体，排版精准、清晰可读。整体报纸版面呈现真实复古的新闻印刷风格。\n\n女孩穿着现代而优雅，皮肤光照柔和，质感真实又不失动画魅力。画面采用电影级影棚布光，浅景深，强烈的前景纵深感，细节丰富，具备杂志封面级别的视觉品质，4K分辨率，构图富有创意且超现实。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2020018576242163909"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "character",
+      "realistic"
+    ],
+    "title": "女孩从报纸中破纸而出",
+    "update_time": 1770473654611
   }
 ]

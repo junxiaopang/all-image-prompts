@@ -36698,5 +36698,593 @@
     "tags": [],
     "title": "极简风格的电影感拼贴海报",
     "update_time": 1770297866991
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019764034321719431_0.jpg",
+    "create_time": 1770384245000,
+    "description": "这幅插图以极简扁平风格呈现，通过大胆形状和有限色彩展现简单概念。其干净矢量设计与流畅曲线适用于社交媒体发布。",
+    "id": "2019764034321719431",
+    "images": [
+      "/images/2026-02-06/2019764034321719431_0.jpg",
+      "/images/2026-02-06/2019764034321719431_1.jpg",
+      "/images/2026-02-06/2019764034321719431_2.jpg",
+      "/images/2026-02-06/2019764034321719431_3.jpg"
+    ],
+    "likes": 21,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Minimal Social Media Illustrations\n\nGemini Nano Banana Pro Prompt:\n\n“A minimal flat illustration showing [SIMPLE ACTION / IDEA]. Bold shapes, limited color palette (2–4 colors). Clean vector style, smooth curves, high contrast. Designed for social media, centered composition.”",
+      "极简社交媒体插图\n\nGemini Nano Banana Pro 提示词：\n\n“一幅极简扁平风格插图，展现[简单动作/概念]。使用大胆的形状和有限的配色（2至4种颜色）。干净的矢量风格，流畅的曲线，高对比度。专为社交媒体设计，采用居中构图。”"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2019764034321719431"
+    },
+    "status": 1,
+    "tags": [
+      "minimalist",
+      "flat-design",
+      "social-media"
+    ],
+    "title": "极简风格的社交媒体图形",
+    "update_time": 1770390680780
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019648173652996217_0.jpg",
+    "create_time": 1770356622000,
+    "description": "在这张高端时尚杂志风格的照片中，一位身着祖母绿色皮革装的女性自信地倚靠在巨大的绿色皮革靴雕塑上，全身照强调了戏剧性的比例对比。纯白背景和柔和灯光增强了超现实主义氛围。",
+    "id": "2019648173652996217",
+    "images": [
+      "/images/2026-02-06/2019648173652996217_0.jpg"
+    ],
+    "likes": 56,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Oversized Attitude.\n\nNano Banana Pro on Gemini \n\nPrompt\n\n{\n  \"style\": \"high-fashion editorial, minimalist surrealism\",\n  \"subject\": \"a confident woman leaning casually against an oversized green leather boot sculpture\",\n  \"pose\": \"relaxed yet powerful stance, body slightly angled, one arm holding a small handbag\",\n  \"outfit\": {\n    \"top\": \"emerald green fitted sleeveless top\",\n    \"bottom\": \"matching green leather pants\",\n    \"footwear\": \"knee-high green leather boots\",\n    \"accessories\": \"small structured green handbag\"\n  },\n  \"composition\": {\n    \"scale\": \"dramatic contrast between human figure and oversized object\",\n    \"framing\": \"full body shot, centered subject with negative space\",\n    \"background\": \"pure white seamless studio backdrop\",\n    \"floor\": \"glossy white reflective surface\"\n  },\n  \"lighting\": {\n    \"type\": \"soft studio lighting\",\n    \"mood\": \"clean, premium, editorial\",\n    \"shadows\": \"subtle, natural, controlled\"\n  },\n  \"color_palette\": \"monochromatic green tones with neutral white\",\n  \"camera\": {\n    \"angle\": \"eye-level\",\n    \"lens\": \"85mm fashion lens\",\n    \"depth_of_field\": \"sharp focus on subject, smooth background\"\n  },\n  \"vibe\": \"luxury fashion campaign, modern, confident, surreal elegance\",\n  \"quality\": \"ultra-high resolution, crisp details, magazine-ready\"\n}",
+      "高端时尚杂志风格，极简超现实主义。一位自信的女性随意倚靠在一只巨大的绿色皮革靴子雕塑上，姿态放松却充满力量感，身体微微倾斜，单手拿着一只小巧手袋。她身穿祖母绿贴身无袖上衣、同色系皮革长裤和及膝绿色皮革靴，搭配一只小巧挺括的绿色手袋。画面构图强调人物与巨大物体之间的戏剧性比例对比，采用全身镜头，主体居中并留有大量负空间，背景为纯白无缝影棚背景，地面为高光白色反光材质。布光为柔和的影棚灯光，营造干净、高级、杂志大片般的氛围，阴影细腻自然且受控。整体色调为单色系绿色搭配中性白色。使用85mm人像镜头，眼平视角拍摄，人物清晰锐利，背景柔美虚化。整体氛围奢华、现代、自信，兼具超现实优雅感。图像为超高分辨率，细节清晰，达到杂志印刷水准。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Maercih",
+      "url": "https://x.com/Maercihh/status/2019648173652996217"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "minimalist",
+      "surrealism"
+    ],
+    "title": "绿意奢华：自信女性与巨型靴子雕塑",
+    "update_time": 1770390680780
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019779947020026325_0.jpg",
+    "create_time": 1770388039000,
+    "description": "奢侈品牌平面广告",
+    "id": "2019779947020026325",
+    "images": [
+      "/images/2026-02-06/2019779947020026325_0.jpg",
+      "/images/2026-02-06/2019779947020026325_1.jpg"
+    ],
+    "likes": 28,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "[BRAND NAME]. Act as a Fashion Photographer and Graphic Designer specializing in luxury brand campaign visuals with integrated typography and surreal spatial design.\n\nPHASE 1: SPATIAL CONCEPT\n\nCreate a high-fashion editorial image where architecture and graphic design merge into a theatrical stage. The foundation is a bold geometric floor pattern that extends into forced perspective, creating infinite depth and visual drama. This is not a neutral backdrop – the floor is a protagonist that amplifies brand identity through pattern, color, and spatial illusion.\n\nPHASE 2: CHECKERBOARD ARCHITECTURE\n\n- Surface: Checkerboard/geometric tile pattern rendered in brand-relevant colors\n\n- Perspective: Aggressive forced perspective starting from bottom foreground and receding toward horizon (vanishing point at upper third of frame)\n\n- Pattern Logic: Autonomously determine pattern based on [BRAND NAME]:\n\n- Color Palette: Incorporate 2-3 signature colors of [BRAND NAME] into floor pattern while maintaining readability\n\n- Texture: Photorealistic rendering with subtle reflections and shadows for depth\n\nPHASE 3: MODEL & STYLING\n\n- Subject: One fashion model (gender-fluid casting) captured mid-motion – dynamic pose suggesting walking, running, or dancing\n\n- Outfit: Elevated monochrome look (black, white, or brand-neutral tone) to let floor pattern and typography dominate. Include 1-2 key accessories in [BRAND NAME]'s signature color as hero product focal points\n\n- Pose Energy: 70% movement, 30% control – fashion-forward but grounded (avoid floating/unnatural levitation)\n\n- Placement: Model positioned in lower-mid frame, interacting spatially with both floor perspective and typography layer\n\n- Camera Angle: Low-to-mid angle (waist-to-full body shot) to emphasize floor perspective drama\n\nPHASE 4: TYPOGRAPHY INTEGRATION\n\n- Brand Script: Oversized handwritten/script version of [BRAND NAME] rendered as flat graphic element behind or around the model\n\n- Scale: Typography should be 40-60% of frame width – bold and unmissable but not crushing the model\n\n- Color: Signature brand color (autonomously selected), solid fill with clean edges\n\n- Interaction: Typography appears to \"sit\" in the space – model may partially overlap letters, creating layering hierarchy\n\n- Logo Lockup: Clean, small brand logo centered in upper portion of frame (10-15% of width) in black or brand color\n\n- Treatment: Pure vector aesthetic – no gradients, no shadows, no dimensional effects. Flat color only.\n\nPHASE 5: COLOR ORCHESTRATION (AUTONOMOUS)\n\nAutonomously research and apply [BRAND NAME]'s iconic color system:\n\n- Primary: Identify 1-2 hero brand colors (e.g., Gucci → forest green + red, Tiffany → robin egg blue)\n\n- Application: Use primary colors in floor pattern AND typography for visual cohesion\n\n- Balance: 60% white/neutral space, 30% brand color saturation, 10% black for anchoring\n\n- Accent: Hero product (bag, shoes, accessory) should echo brand color for strategic eye-pull\n\nPHASE 6: LIGHTING & ATMOSPHERE\n\n- Lighting Setup: High-key fashion lighting with soft shadows – think editorial studio quality\n\n- Key Light: 45° front-left to sculpt model, creating gentle shadows on checkerboard\n\n- Fill: Ambient fill to prevent harsh contrast while maintaining drama\n\n- Floor Treatment: Subtle specular highlights on floor tiles for luxury sheen (not glossy/mirror-like)\n\n- Background: Pure white or subtle gradient to white at horizon line – maintains clean editorial feel\n\nPHASE 7: TECHNICAL EXECUTION\n\n- Mood: Playful luxury – sophisticated but not stiff, energetic but refined\n\n- Composition Rule: Dynamic diagonal lines (floor perspective) + vertical anchor (model) + horizontal balance (typography)\n\n- Depth Layers: Background (white) → Typography (mid-ground) → Model (foreground) → Floor pattern (spanning all depths)\n\n- Post-Production: Magazine-cover polish with color grading that enhances brand palette\n\nTECHNICAL SPECS:\n\n- Camera Simulation: Phase One XF IQ4 150MP, 80mm lens, f/5.6 for controlled depth\n\n- Aspect Ratio: 4:5 (Instagram editorial) or 3:4 (print campaign)\n\n- Resolution: 8K output, print-ready sharpness\n\n- Color Space: sRGB with vibrant saturation for digital, slight desaturation for luxury print feel\n\n- Style Reference: Gucci campaigns by Glen Luchford, Prada visuals, Highsnobiety x luxury collabs, Vogue Italia editorials\n\n- Rendering: Photorealistic model and floor, graphic-design-quality typography (hybrid aesthetic)",
+      "[品牌名称]。扮演一位专注于奢侈品牌广告视觉的时尚摄影师兼平面设计师，擅长融合排版与超现实空间设计。\n\n第一阶段：空间概念  \n创作一幅高级时装大片，将建筑与平面设计融合为一个戏剧性舞台。画面基础是一个大胆的几何地板图案，并通过强制透视延伸出无限纵深与视觉张力。这并非中性背景——地板是主角，通过图案、色彩与空间幻觉强化品牌身份。\n\n第二阶段：棋盘格建筑  \n- 表面：以品牌相关色彩呈现的棋盘格/几何瓷砖图案  \n- 透视：从画面底部前景强烈延伸至地平线（消失点位于画面上三分之一处）  \n- 图案逻辑：根据[品牌名称]自主确定图案  \n- 色彩方案：在地板图案中融入[品牌名称]的2–3种标志性色彩，同时确保可读性  \n- 材质：逼真渲染，带有微妙反光与阴影以增强深度感  \n\n第三阶段：模特与造型  \n- 主体：一位性别流动的时尚模特，捕捉其动态瞬间——姿势暗示行走、奔跑或舞蹈  \n- 服装：高阶单色造型（黑、白或品牌中性色调），以突出地板图案与排版；搭配1–2件以[品牌名称]标志性色彩呈现的关键配饰，作为核心产品焦点  \n- 姿态能量：70%动感，30%控制——前卫时尚但脚踏实地（避免漂浮或不自然悬浮）  \n- 位置：模特置于画面中下部，与地板透视及排版图层形成空间互动  \n- 拍摄角度：低至中视角（腰部至全身镜头），强调地板透视的戏剧效果  \n\n第四阶段：排版融合  \n- 品牌字体：将[品牌名称]以超大手写/书法字体呈现为平面图形元素，置于模特背后或周围  \n- 尺寸：字体宽度占画面40–60%，醒目但不压倒模特  \n- 色彩：采用自主选定的品牌标志性色彩，纯色填充，边缘干净利落  \n- 互动关系：字体仿佛“存在于”空间之中，模特可部分遮挡字母，构建层次关系  \n- 品牌标识：在画面上部中央放置简洁小巧的品牌Logo（占画面宽度10–15%），使用黑色或品牌色  \n- 处理方式：纯矢量美学——无渐变、无阴影、无立体效果，仅用纯色  \n\n第五阶段：色彩统筹（自主决策）  \n自主研究并应用[品牌名称]的标志性色彩体系：  \n- 主色：识别1–2种核心品牌色彩（例如Gucci → 深绿+红，Tiffany → 知更鸟蛋蓝）  \n- 应用：主色同时用于地板图案与排版，实现视觉统一  \n- 平衡：60%白色/中性空间，30%品牌色彩饱和度，10%黑色用于锚定画面  \n- 点睛：核心产品（包袋、鞋履或配饰）应呼应品牌色彩，引导视觉焦点  \n\n第六阶段：灯光与氛围  \n- 布光方案：高调时尚布光，柔和阴影——呈现杂志级影棚质感  \n- 主光：45°前左方向打光，塑造模特轮廓，在棋盘格上投下柔和阴影  \n- 补光：环境补光防止对比过强，同时保留戏剧感  \n- 地板处理：瓷砖表面呈现微妙镜面高光，体现奢华光泽（非镜面反光）  \n- 背景：纯白或向地平线渐变为白的微渐变，保持干净的杂志风格  \n\n第七阶段：技术执行  \n- 氛围：玩味奢华——精致而不刻板，活力而内敛  \n- 构图法则：动态对角线（地板透视）+ 垂直锚点（模特）+ 水平平衡（排版）  \n- 景深层次：背景（白色）→ 排版（中景）→ 模特（前景）→ 地板图案（贯穿所有景深）  \n- 后期处理：杂志封面级精修，调色强化品牌色系  \n\n技术参数：  \n- 相机模拟：Phase One XF IQ4 150MP，80mm镜头，f/5.6光圈以控制景深  \n- 画幅比例：4:5（Instagram杂志风）或3:4（印刷广告）  \n- 分辨率：8K输出，印刷级锐度  \n- 色彩空间：数字端使用sRGB并增强饱和度，印刷端轻微去饱和以呈现奢华质感  \n- 风格参考：Glen Luchford为Gucci拍摄的广告、Prada视觉大片、Highsnobiety × 奢侈品牌联名、Vogue Italia时装专题  \n- 渲染风格：模特与地板高度写实，排版采用平面设计级图形表现（混合美学）"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "AmirMušić",
+      "url": "https://x.com/AmirMushich/status/2019779947020026325"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "奢侈品牌平面广告",
+    "update_time": 1770390680780
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019488962465685914_0.jpg",
+    "create_time": 1770318663000,
+    "description": "画面分为两部分，右侧为一对情侣在不锈钢电梯中用手机自拍，左侧展示了他们穿着的时尚单品。整体风格现代、极简，强调细节与真实感。",
+    "id": "2019488962465685914",
+    "images": [
+      "/images/2026-02-05/2019488962465685914_0.jpg",
+      "/images/2026-02-05/2019488962465685914_1.jpg"
+    ],
+    "likes": 85,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Return-to-work elevator pose couple version \n\nPrompt: A refined editorial fashion composite image with a 4:5 aspect ratio, split into two clear vertical sections.\n\nRIGHT SIDE – COUPLE PHOTO:\nA photorealistic mirror selfie of two people standing side by side in a modern stainless-steel elevator, taken with a smartphone. Both subjects are holding phones that fully cover their faces.\n\nFacial identity for both individuals must exactly match the uploaded reference images. Do not invent, beautify, or alter faces.\n\nLeft person (man):\nWearing a brown textured knit sweater over a white collared shirt with a brown tie, dark tailored trousers, black belt. Holding a black leather briefcase in one hand.\n\nRight person (woman):\nWearing a green sleeveless knit vest over a light blue striped button-up shirt with a dark tie, a short pleated plaid skirt, and brown knee-high leather boots. Holding a small book and a black handbag.\n\nClean brushed-metal elevator interior, symmetrical composition, soft overhead lighting, neutral reflections. Smartphone-camera realism, eye-level angle, natural posture. Editorial-documentary feel, modern and minimal.\n\nLEFT SIDE – FASHION ITEM BREAKDOWN:\nA clean, minimalist luxury fashion breakdown layout on a soft neutral background inspired by modern European interiors. No people on this side.\n\nThe clothing items worn by the couple are displayed individually and neatly arranged, each item floating with subtle realistic shadows, precise spacing, and catalog-style clarity.\n\nItems shown:\nBrown textured knit sweater\nWhite collared shirt\nBrown tie\nDark tailored trousers\nBlack leather briefcase\nGreen sleeveless knit vest\nLight blue striped button-up shirt\nDark tie\nPleated plaid mini skirt\nBrown knee-high leather boots\nBlack structured handbag\n\nEach item includes a small, elegant price label in refined sans-serif typography. Minimal text, balanced composition, luxury e-commerce lookbook aesthetic.",
+      "返岗电梯造型——情侣版\n\n提示词：一幅精致的时尚编辑风格合成图像，比例为4:5，画面清晰分为左右两个垂直部分。\n\n右侧——情侣合影：  \n在现代不锈钢电梯内，两人并肩站立，用智能手机拍摄的一张逼真镜面自拍。两人都手持手机，完全遮挡住面部。  \n两位人物的面部特征必须与上传的参考图像完全一致，不得虚构、美化或修改面部。\n\n左侧人物（男性）：  \n身穿棕色纹理针织毛衣，内搭白色有领衬衫与棕色领带，下穿深色剪裁西裤，配黑色皮带，一手提黑色皮革公文包。\n\n右侧人物（女性）：  \n身穿绿色无袖针织背心，内搭浅蓝色条纹纽扣衬衫与深色领带，下穿短款格纹百褶裙，脚踩棕色及膝皮革靴，手持一本小书和一只黑色手提包。\n\n电梯内部为干净的拉丝金属材质，构图对称，顶部柔光照明，反射效果中性自然。采用智能手机拍摄的真实感视角，平视角度，姿态自然，整体呈现纪实编辑风格，现代而极简。\n\n左侧——服饰单品分解：  \n以现代欧洲室内风格为灵感的柔和中性背景上，呈现干净、极简的奢侈时尚单品分解布局。此侧无人物。\n\n情侣所穿服饰单品逐一单独展示，整齐排列，每件单品悬浮呈现，带有微妙写实阴影，间距精准，具有商品目录般的清晰度。\n\n展示单品包括：  \n棕色纹理针织毛衣  \n白色有领衬衫  \n棕色领带  \n深色剪裁西裤  \n黑色皮革公文包  \n绿色无袖针织背心  \n浅蓝色条纹纽扣衬衫  \n深色领带  \n格纹百褶迷你裙  \n棕色及膝皮革靴  \n黑色结构感手提包  \n\n每件单品附带一个小型优雅的价格标签，采用精致的无衬线字体，文字极少，构图平衡，呈现高端电商画册美学。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Melis",
+      "url": "https://x.com/miilesus/status/2019488962465685914"
+    },
+    "status": 1,
+    "tags": [
+      "fashion",
+      "portrait",
+      "product"
+    ],
+    "title": "现代情侣电梯自拍与服饰单品展示",
+    "update_time": 1770390680780
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019640093217288658_0.jpg",
+    "create_time": 1770354695000,
+    "description": "在这个微型3D场景中，通过等距视角和45°角展示了一个国家的著名艺术形式。干净且富有表现力的材质，加上写实的灯光效果，使舞台元素和风格化的表演者栩栩如生，背景为纯色，强调视觉焦点。",
+    "id": "2019640093217288658",
+    "images": [
+      "/images/2026-02-06/2019640093217288658_0.jpg",
+      "/images/2026-02-06/2019640093217288658_1.jpg",
+      "/images/2026-02-06/2019640093217288658_2.jpg",
+      "/images/2026-02-06/2019640093217288658_3.jpg"
+    ],
+    "likes": 78,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "“Build an isometric miniature 3D diorama representing [COUNTRY NAME] through its famous music or dance form [ART FORM NAME].\n\nAngle stays close to 45°. Materials appear clean and expressive with realistic lighting.\n\nThe base includes instruments, stage elements, or performance space tied to the art form.\nAdd tiny stylized performers in motion with no facial details.\n\nBackground stays solid [BACKGROUND COLOR].\nTop center shows [COUNTRY NAME] in bold.\nBelow it display [ART FORM NAME].\n\nAdd a simple performance icon underneath. Text color adjusts for contrast.”",
+      "国家音乐或舞蹈微缩场景\n\n构建一个等距视角的微型3D微缩场景，通过其著名的音乐或舞蹈形式[艺术形式名称]来展现[国家名称]。\n\n视角保持接近45°。材质干净且富有表现力，配以写实灯光。\n\n底座包含与该艺术形式相关的乐器、舞台元素或表演空间。  \n加入微小的风格化表演者，呈动态姿势，无面部细节。\n\n背景为纯色[背景颜色]。  \n顶部中央以粗体显示[国家名称]，其下方展示[艺术形式名称]。  \n\n底部添加一个简洁的表演图标。文字颜色自动调整以确保对比度清晰。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2019640093217288658"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "miniature",
+      "performance"
+    ],
+    "title": "微型3D场景展现国家音乐舞蹈之美",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019599644595278024_0.jpg",
+    "create_time": 1770345052000,
+    "description": "照片捕捉了一个轻松的办公室场景，人物穿着简洁，坐在办公椅上，姿态自然。明亮的闪光灯增加了夜间拍照的真实感，背景干净无干扰，突出了主体。",
+    "id": "2019599644595278024",
+    "images": [
+      "/images/2026-02-06/2019599644595278024_0.jpg",
+      "/images/2026-02-06/2019599644595278024_1.jpg"
+    ],
+    "likes": 376,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Create a photorealistic lifestyle/editorial \"casual office snap\" photo shoot using an uploaded photo of a person as a reference. Maintain the person's appearance STRICTLY 1:1; identical facial identity (100% recognizability), the same proportions and geometry of the face, the shape of the eyes/nose/lips without changes, the same skin tone, the same age, the same hair/hairstyle and hairline. DO NOT change the face, DO NOT \"improve\", DO NOT change the gender. The location is strictly fixed and always the same: a small office/cabinet, a white wall made of square panels (decorative wall panels) in the background, a dark desk on the left, small office items (stationery/small items) on the desk, an office chair on wheels. No posters, no signs, no legible inscriptions in the background. The composition is strictly fixed: format 3:4 (vertical). The shot is of a sitting person in a chair, almost full-length, visible diagonally, the foreground is the edge of a light-colored table from below. One leg is extended forward and rests on the table, the sole of the sneaker is clearly visible in the frame (foreshortening effect), the other leg is bent and remains lower. The camera is slightly below/at table level, giving the impression of a \"snap photo\". The outfit is strictly fixed: a white loose T-shirt without logos or text (plain white tee), beige/khaki loose cargo pants, white sneakers. Minimal accessories: a watch/bracelet without brand names is acceptable. The pose is strictly fixed: the person is sitting in an office chair, relaxed, leaning back; the left arm is bent and resting on the face, the index finger at the temple, the elbow on the armrest; the right hand is resting on the hip/armrest; the gaze is directed at the camera, the expression is calm, confident, slightly bold (no smiling). The lighting is strictly controlled: a bright flash (direct on-camera flash) like in a night snapshot, hard shadows on the wall and behind the chair, high contrast, documentary iPhone/point-and-shoot style, ultra-realistic, sharp focus on the face. Important: the anatomy is strictly correct: 2 arms, 2 legs, 5 fingers, no deformities or extra limbs.",
+      "创作一张逼真的生活方式/纪实风格“办公室随拍”照片，使用上传的人物照片作为参考。必须严格1:1还原人物外貌：面部身份完全一致（100%可识别），面部比例与几何结构不变，眼睛、鼻子、嘴唇的形状不得更改，肤色、年龄、发型及发际线均保持原样。不得修改面部，不得“美化”，不得改变性别。场景固定不变：小型办公室/隔间，背景为白色方形装饰墙板，左侧有一张深色办公桌，桌上摆放小型办公用品（文具/小物件），配带滚轮的办公椅。背景中不得出现海报、标识或任何可读文字。构图严格固定：3:4竖版格式。画面为人物坐在椅子上，几乎全身入镜，呈对角线视角，前景为从下方可见的浅色桌面边缘。一条腿向前伸出并搭在桌面上，运动鞋鞋底在画面中清晰可见（透视缩短效果），另一条腿弯曲且位置较低。相机机位略低于桌面高度，营造出“随手抓拍”的感觉。服装严格固定：纯白色宽松T恤（无logo或文字）、米色/卡其色宽松工装裤、白色运动鞋。可佩戴极简配饰：允许无品牌名称的手表或手链。姿势严格固定：人物放松地靠坐在办公椅上，左臂弯曲，手托脸颊，食指轻触太阳穴，肘部置于扶手上；右手自然放在髋部或扶手上；目光直视镜头，表情冷静、自信，略带大胆（不可微笑）。灯光严格控制：使用明亮的机顶直闪，模拟夜间快照效果，墙面和椅子后方形成硬朗阴影，高对比度，呈现iPhone或傻瓜相机式的纪实风格，超写实，面部焦点锐利清晰。重要提示：解剖结构必须准确无误：双臂、双腿、五指，不得出现畸形或多肢等异常。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Harboriis",
+      "url": "https://x.com/harboriis/status/2019599644595278024"
+    },
+    "status": 1,
+    "tags": [
+      "realistic",
+      "portrait",
+      "office"
+    ],
+    "title": "办公室随拍：真实的生活瞬间",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019648865918677450_0.jpg",
+    "create_time": 1770356787000,
+    "description": "超写实纪录片风格摄影",
+    "id": "2019648865918677450",
+    "images": [
+      "/images/2026-02-06/2019648865918677450_0.jpg",
+      "/images/2026-02-06/2019648865918677450_1.jpg"
+    ],
+    "likes": 101,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A true-to-life documentary-style photograph of a modern Land Rover Defender, front view, parked on uneven forest ground. The vehicle is heavily covered in real wet mud and dirt splashes from off-road driving — natural, irregular patterns across the hood, grille, headlights, mirrors, windshield edges, tires, and wheel arches. Mud texture is thick, gritty, and uneven, with dried and wet areas mixed.\nShot at eye level with a full-frame professional DSLR camera, 50mm lens, natural perspective (no wide distortion). Overcast forest lighting with soft, diffused daylight filtering through dense trees. Subtle reflections on glass and metal, no dramatic highlights. Headlights on with soft realistic glow, not stylized.\nSurrounding environment includes dense green foliage, bushes, tall grass, fallen leaves, and dark forest shadows. Ground is damp soil with grass and small plants in the foreground, slightly out of focus. Color tones are muted, earthy, and cold — deep greens, browns, and greys. No cinematic exaggeration, no HDR look.\nExtremely realistic textures, true photographic noise, natural contrast, shallow depth of field, background softly blurred. Looks like a real off-road automotive photoshoot, candid and raw. Ultra-photorealism, 8K detail, zero stylization.\nNegative prompt (important):\nCGI, illustration, concept art, fantasy lighting, over-saturation, HDR, glossy paint, clean car, studio lighting, unrealistic symmetry, cartoonish mud, AI artifacts, plastic textures, exaggerated contrast",
+      "超写实纪录片风格摄影，现代路虎卫士正面视角，停在崎岖的林间地面；车身因越野行驶沾满真实的湿泥与泥点，泥渍呈自然不规则分布，覆盖引擎盖、进气格栅、车灯、后视镜、挡风玻璃边缘、轮胎及轮拱，泥质厚重粗糙且凹凸不均，干湿纹理交织；平视视角拍摄，全画幅专业单反相机 + 50mm 镜头，自然透视无广角畸变；阴天林间光线，柔和漫射日光透过茂密树林洒落，玻璃与金属处有细腻反光，无夸张高光，车灯开启，光晕柔和写实无风格化处理；环境环绕茂密绿色枝叶、灌木丛、长草、落叶与深邃林间阴影，前景为湿润泥土搭配杂草与小型植株，轻微失焦；色调低饱和、偏大地色且清冷，以深绿、棕、灰色为主，无电影化夸张效果，无 HDR 质感；极致写实纹理，真实摄影噪点，自然对比度，浅景深，背景柔和虚化，画面如真实越野汽车实拍，纪实且原始，8K 超清细节，无任何风格化修饰\n反向提示词（重点）\nCGI、插画、概念艺术、梦幻光影、色彩过饱和、HDR 效果、漆面油亮、车身干净、影棚布光、对称不自然、卡通化泥渍、AI 伪影、塑料质感、对比度夸张"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "آ",
+      "url": "https://x.com/Mystveil7/status/2019648865918677450"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "超写实纪录片风格摄影",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019637570133717072_0.jpg",
+    "create_time": 1770354094000,
+    "description": "超写实的美妆产品摄影图",
+    "id": "2019637570133717072",
+    "images": [
+      "/images/2026-02-06/2019637570133717072_0.jpg",
+      "/images/2026-02-06/2019637570133717072_1.jpg",
+      "/images/2026-02-06/2019637570133717072_2.jpg"
+    ],
+    "likes": 181,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A hyper-realistic beauty product photograph of a pink “LANEIGE Lip Sleeping Mask” jar placed at the center of a vibrant pastel-pink surface covered in fresh water droplets, the jar upright with a frosted pink lid and glossy translucent body, surrounded organically by delicate flowers including purple blossoms, pale lilies, yellow sprigs, and green leaves arranged diagonally around the product, soft diffused studio lighting from above creating gentle highlights and natural shadows, moisture beads sparkling across the background for a fresh dewy feel, clean skincare editorial aesthetic, feminine and luxurious mood, balanced flat-lay composition, shallow depth of field, ultra-detailed textures, photorealistic, high-end cosmetic advertising style, 8K quality",
+      "一张超写实的美妆产品摄影图：一瓶粉色“兰芝唇膜”罐子置于充满活力的淡粉色背景中央，罐体直立，配有磨砂粉色盖子和半透明亮面瓶身。周围自然散落着精致花卉，包括紫色花朵、浅色百合、黄色小枝与绿色叶片，呈对角线环绕产品布局。上方柔光棚灯营造出柔和高光与自然阴影，背景上晶莹水珠闪烁，呈现清新水润感。整体风格干净、如护肤杂志大片，氛围柔美奢华，构图平衡的俯拍平面布局，浅景深，纹理极度细腻，照片级真实感，高端化妆品广告风格，8K画质。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Oogie",
+      "url": "https://x.com/oggii_0/status/2019637570133717072"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "超写实的美妆产品摄影图",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019414961278103834_0.jpg",
+    "create_time": 1770301020000,
+    "description": "四种日常文具在黄金时刻化作真实感十足的地标建筑，广角镜头下人物衬托出恢弘比例。",
+    "id": "2019414961278103834",
+    "images": [
+      "/images/2026-02-05/2019414961278103834_0.jpg"
+    ],
+    "likes": 57,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "2x2 grid, do this 4 common desk gadgets: Concept: Turn objects into a landmark building that could exist.\n\n1. ANALYZE INPUT (Massing & Structure):\n\nMass: (Monolithic/Fragmented/Stacked/Spindly)\n\nSurface: (Reflective/Porous/Layered/Patterned)\n\nMechanism: (Static/Kinetic/Modular)\n\n2. AUTO-SELECT BUILDING TYPE:\n\nIF Monolithic + Stone-like → Museum\n\nIF Reflective + Aerodynamic → Skyscraper\n\nIF Modular + Stacked → Housing complex\n\nIF Porous + Organic → Botanical conservatory\n\nIF Kinetic + Mechanical → Transit hub\n\n3. EXECUTE:\nGolden-hour exterior render, people for scale, plausible materials, cinematic wide lens.",
+      "2x2 网格，对以下四种常见桌面小工具进行创作：概念是将物体转变为一座可能真实存在的地标建筑。\n\n1. 分析输入（体量与结构）：\n\n体量：（整体式 / 碎片化 / 堆叠式 / 纤细高耸）\n\n表面：（反光 / 多孔 / 分层 / 有图案）\n\n机制：（静态 / 动态 / 模块化）\n\n2. 自动选择建筑类型：\n\n若为整体式 + 类石材 → 博物馆  \n若为反光 + 流线型 → 摩天大楼  \n若为模块化 + 堆叠式 → 住宅综合体  \n若为多孔 + 有机形态 → 植物温室  \n若为动态 + 机械感 → 交通枢纽  \n\n3. 执行要求：\n\n黄金时刻的外部渲染，加入人物以体现比例，使用合理可信的材质，采用电影感广角镜头。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Gadgetify",
+      "url": "https://x.com/Gdgtify/status/2019414961278103834"
+    },
+    "status": 1,
+    "tags": [
+      "concept-art",
+      "architecture",
+      "cinematic"
+    ],
+    "title": "桌面小工具变身地标建筑",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019618076246090053_0.jpg",
+    "create_time": 1770349446000,
+    "description": "在这张独特的地图上，一座微型城市仿佛从纸面跃然而出，逼真的细节包括著名地标、自然元素和城市生活象征。所有元素均以三维形式呈现，结合影棚柔光照明，营造出电影般的视觉效果。",
+    "id": "2019618076246090053",
+    "images": [
+      "/images/2026-02-06/2019618076246090053_0.jpg",
+      "/images/2026-02-06/2019618076246090053_1.jpg",
+      "/images/2026-02-06/2019618076246090053_2.jpg",
+      "/images/2026-02-06/2019618076246090053_3.jpg"
+    ],
+    "likes": 181,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A street-style map of {CITY_NAME} placed on a {MAP_SURFACE}, with a photorealistic miniature version of {CITY_NAME} emerging from it {LANDMARK_1},{LANDMARK_2},{LANDMARK_3}, {NATURE_ELEMENT}, {URBAN_LIFE_ELEMENT}, {ICONIC_TRANSPORT},and {EXTRA_DETAIL}.All elements grow from the map like a 3D urban diorama. Studio soft lighting, cinematic depth, 2:3 format",
+      "一张街头风格的{CITY_NAME}地图放置在{MAP_SURFACE}上，地图上浮现出一座逼真的微型{CITY_NAME}城市模型，包含{LANDMARK_1}、{LANDMARK_2}、{LANDMARK_3}、{NATURE_ELEMENT}、{URBAN_LIFE_ELEMENT}、{ICONIC_TRANSPORT}以及{EXTRA_DETAIL}。所有元素如同三维城市微缩景观般从地图中生长而出。采用影棚柔光照明，具有电影感的景深，画面比例为2:3。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Duet | AI",
+      "url": "https://x.com/Sheldon056/status/2019618076246090053"
+    },
+    "status": 1,
+    "tags": [
+      "cityscape",
+      "cinematic",
+      "miniature"
+    ],
+    "title": "街头风格的微缩城市景观",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019424606960955624_0.jpg",
+    "create_time": 1770303320000,
+    "description": "这个3D角色展现了冬季特有的宁静和平淡，面部表情透露出不为所动的冷静与无聊。采用极简风格设计，皮肤光滑哑光，服装和配饰保持原样，背景柔和绿色。",
+    "id": "2019424606960955624",
+    "images": [
+      "/images/2026-02-05/2019424606960955624_0.jpg",
+      "/images/2026-02-05/2019424606960955624_1.jpg",
+      "/images/2026-02-05/2019424606960955624_2.jpg",
+      "/images/2026-02-05/2019424606960955624_3.jpg",
+      "/images/2026-02-05/2019424606960955624_4.jpg",
+      "/images/2026-02-05/2019424606960955624_5.jpg",
+      "/images/2026-02-05/2019424606960955624_6.jpg",
+      "/images/2026-02-05/2019424606960955624_7.jpg"
+    ],
+    "likes": 254,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"task\": \"image_style_transfer_3d_character\",\n  \"input\": {\n    \"source_image\": \"USER_UPLOADED_IMAGE\",\n    \"preserve_identity\": true,\n    \"preserve_pose\": true,\n    \"preserve_composition\": true,\n    \"preserve_clothing\": true,\n    \"preserve_accessories\": true\n  },\n  \"style_reference\": {\n    \"render_style\": \"stylized_3d_character\",\n    \"aesthetic\": \"soft_minimal_cartoon_3d\",\n    \"inspiration\": [\n      \"pixar_like_but_more_minimal\",\n      \"toy_figure_render\",\n      \"clean_product_character_design\"\n    ]\n  },\n  \"character_design\": {\n    \"skin\": {\n      \"material\": \"smooth_matte_plastic\",\n      \"texture\": \"soft_uniform\",\n      \"subsurface_scattering\": \"gentle\"\n    },\n    \"facial_features\": {\n      \"eyes\": \"half_closed_bored_expression\",\n      \"eyelids\": \"heavy\",\n      \"nose\": \"rounded_simplified\",\n      \"mouth\": \"flat_neutral\",\n      \"ears\": \"simplified_rounded\"\n    },\n    \"emotion\": \"unimpressed_calm_bored\"\n  },\n  \"clothing\": {\n    \"source\": \"exact_from_uploaded_image\",\n    \"lock_outfit\": true,\n    \"fit\": \"unchanged\",\n    \"fabric_translation\": \"3d_stylized_equivalent_only\",\n    \"no_replacement\": true,\n    \"no_enhancement\": true,\n    \"no_stylization_override\": true\n  },\n  \"accessories\": {\n    \"source\": \"exact_from_uploaded_image\",\n    \"lock_accessories\": true,\n    \"allow_only_existing\": true,\n    \"no_new_accessories\": true,\n    \"no_removal\": true,\n    \"no_addition\": true\n  },\n  \"lighting\": {\n    \"setup\": \"studio_softbox\",\n    \"shadows\": \"very_soft\",\n    \"contrast\": \"low\",\n    \"highlights\": \"subtle\"\n  },\n  \"background\": {\n    \"type\": \"solid_color\",\n    \"color_palette\": [\n      \"muted_green\",\n      \"pastel_tone\"\n    ],\n    \"gradient\": \"none\"\n  },\n  \"camera\": {\n    \"angle\": \"front_facing\",\n    \"framing\": \"medium_close_up\",\n    \"lens\": \"50mm_equivalent\",\n    \"distortion\": \"none\"\n  },\n  \"render_quality\": {\n    \"resolution\": \"high\",\n    \"edges\": \"clean\",\n    \"noise\": \"none\",\n    \"realism_balance\": \"stylized_over_realistic\"\n  },\n  \"output\": {\n    \"consistency\": \"very_high\",\n    \"style_strength\": \"strong\",\n    \"photorealism\": false,\n    \"strict_constraints\": true\n  },\n  \"negative_constraints\": [\n    \"no new accessories\",\n    \"no removed accessories\",\n    \"no outfit changes\",\n    \"no reinterpretation of clothing\",\n    \"no creative additions\"\n  ]\n}",
+      "任务：3D角色图像风格转换\n输入：\n- 源图像：用户上传的图像\n- 保持身份：是\n- 保持姿势：是\n- 保持构图：是\n- 保持服装：是\n- 保持配饰：是\n\n风格参考：\n- 渲染风格：风格化3D角色\n- 美学：柔和极简卡通3D\n- 灵感来自：\n  - 类似皮克斯但更极简\n  - 玩具人物渲染\n  - 干净的产品角色设计\n\n角色设计：\n- 皮肤：\n  - 材质：光滑哑光塑料\n  - 质地：柔软均匀\n  - 表面散射：温和\n- 面部特征：\n  - 眼睛：半闭着无聊的表情\n  - 眼睑：厚重\n  - 鼻子：圆润简化\n  - 嘴巴：平坦中性\n  - 耳朵：简化圆形\n- 情绪：不为所动平静无聊\n\n服装：\n- 来源：与上传图像完全一致\n- 锁定服装：是\n- 合身：不变\n- 面料转换：仅3D风格化等效\n- 不替换：是\n- 不增强：是\n- 不覆盖样式化：是\n\n配饰：\n- 来源：与上传图像完全一致\n- 锁定配饰：是\n- 仅允许现有：是\n- 不添加新配饰：是\n- 不移除：是\n- 不增加：是\n\n照明：\n- 设置：工作室柔光箱\n- 阴影：非常柔和\n- 对比度：低\n- 高光：微妙\n\n背景：\n- 类型：纯色\n- 色彩搭配：\n  - 柔和绿色\n  - 淡色调\n- 渐变：无\n\n相机：\n- 角度：正面朝向\n- 取景：中景特写\n- 镜头：等效50毫米\n- 失真：无\n\n渲染质量：\n- 分辨率：高\n- 边缘：干净\n- 噪点：无\n- 真实主义平衡：风格化优于真实感\n\n输出：\n- 一致性：非常高\n- 风格强度：强\n- 照片真实感：否\n- 严格约束：是\n\n负面约束：\n- 不添加新配饰\n- 不移除配饰\n- 不改变服装\n- 不重新诠释服装\n- 不创造性添加"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Ege",
+      "url": "https://x.com/egeberkina/status/2019424606960955624"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "character",
+      "minimalist"
+    ],
+    "title": "冬季的平静3D角色",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019643945353887824_0.jpg",
+    "create_time": 1770355614000,
+    "description": "画面捕捉了一位粗犷男子全速冲刺的瞬间，紧握的拳头与坚毅的脸庞展现无尽力量。背景融合了黑白漫画拼贴，刻画出他的速度与决心，整体呈现出电影级的动作氛围。",
+    "id": "2019643945353887824",
+    "images": [
+      "/images/2026-02-06/2019643945353887824_0.jpg"
+    ],
+    "likes": 298,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A cinematic, hyper-realistic action portrait of a rugged man sprinting directly toward the camera, intense determination on his face, clenched fist forward, wearing a black hoodie, gray pants, and white sneakers. Dynamic motion blur, flying debris, sparks, and dramatic lighting emphasize speed and power. Behind him, a high-contrast black-and-white comic-book collage shows multiple expressive panels of the same man shouting, running, and reacting, with bold ink lines, manga-style speed effects, and exclamation marks. Ultra-detailed textures, sharp focus on the foreground subject, shallow depth of field, gritty graphic novel aesthetic, photorealistic subject blended seamlessly with illustrated background, epic action atmosphere, 8k quality.",
+      "一张电影感十足、超写实的动作肖像：一位粗犷男子正全速冲向镜头，脸上充满坚毅神情，拳头紧握向前伸出，身穿黑色连帽衫、灰色长裤和白色运动鞋。动态模糊、飞溅的碎片、火花与戏剧性光影突显速度与力量。他身后是一幅高对比度的黑白漫画拼贴，包含多个表现该男子呐喊、奔跑与反应的分镜画面，采用粗犷墨线、日漫风格的速度特效及感叹号。整体呈现极致细节纹理，前景主体锐利聚焦，浅景深，融合粗粝的图像小说美学，写实人物与插画背景无缝结合，营造史诗级动作氛围，8K画质。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aijaz",
+      "url": "https://x.com/iamsofiaijaz/status/2019643945353887824"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "portrait",
+      "comic"
+    ],
+    "title": "超写实动作肖像：男子冲向镜头的瞬间",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-05/2019411461295218834_0.jpg",
+    "create_time": 1770300185000,
+    "description": "超写实3D渲染的透明水凝胶字母“text”，表面张力塑造出雕塑般的水滴曲线，内部微气泡与焦散光影细节清晰可见。",
+    "id": "2019411461295218834",
+    "images": [
+      "/images/2026-02-05/2019411461295218834_0.jpg"
+    ],
+    "likes": 348,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Abstract liquid typography spelling \"text\", thick transparent water-gel material, hyper realistic refraction and subtle caustics, realistic surface tension, sculpted droplet forms merged into smooth letter curves, glossy highlights, micro bubbles inside the gel, soft contact shadows on a pure white seamless background, scattered water droplets on the surface with sharp specular reflections, studio lighting, crisp photorealistic 3D render, macro detail, sharp focus, 8k, 1:1, no watermark, no extra text",
+      "抽象液态字体拼出“text”字样，厚实透明的水凝胶材质，超写实折射与细微焦散效果，真实的表面张力，雕塑般的水滴形态融合成流畅的字母曲线，高光亮泽，凝胶内部含有微小气泡，纯白无缝背景上呈现柔和接触阴影，表面散布着具有锐利镜面反射的水滴，影棚灯光，清晰逼真的3D渲染，微距细节，焦点锐利，8K分辨率，1:1比例，无水印，无额外文字。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2019411461295218834"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "realistic",
+      "high-detail"
+    ],
+    "title": "液态凝胶拼出的“text”字样",
+    "update_time": 1770390680781
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019852666567029072_0.jpg",
+    "create_time": 1770405377000,
+    "description": "这个图像展示了一个经过风格化处理的3D角色，保留了原始照片的所有特征，但转换成了具有皮克斯动画特色的卡通形象。背景为红色，照明柔和。",
+    "id": "2019852666567029072",
+    "images": [
+      "/images/2026-02-06/2019852666567029072_0.jpg",
+      "/images/2026-02-06/2019852666567029072_1.jpg",
+      "/images/2026-02-06/2019852666567029072_2.jpg",
+      "/images/2026-02-06/2019852666567029072_3.jpg"
+    ],
+    "likes": 192,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"task\": \"image_style_transfer_3d_character\",\n  \"input\": {\n    \"source_image\": \"USER_UPLOADED_IMAGE\",\n    \"preserve_identity\": true,\n    \"preserve_pose\": true,\n    \"preserve_composition\": true,\n    \"preserve_clothing\": true,\n    \"preserve_accessories\": true\n  },\n  \"style_reference\": {\n    \"render_style\": \"stylized_3d_character\",\n    \"aesthetic\": \"soft_minimal_cartoon_3d\",\n    \"inspiration\": [\n      \"pixar_like_but_more_minimal\",\n      \"toy_figure_render\",\n      \"clean_product_character_design\"\n    ]\n  },\n  \"character_design\": {\n    \"skin\": {\n      \"material\": \"smooth_matte_plastic\",\n      \"texture\": \"soft_uniform\",\n      \"subsurface_scattering\": \"gentle\"\n    },\n    \"facial_features\": {\n      \"eyes\": \"half_closed_bored_confident_expression\",\n      \"eyelids\": \"heavy\",\n      \"nose\": \"rounded_simplified\",\n      \"mouth\": \"flat_neutral\",\n      \"ears\": \"simplified_rounded\"\n    },\n    \"emotion\": \"cool_bored_unimpressed\"\n  },\n  \"clothing\": {\n    \"source\": \"exact_from_uploaded_image\",\n    \"lock_outfit\": true,\n    \"fit\": \"unchanged\",\n    \"fabric_translation\": \"3d_stylized_equivalent_only\",\n    \"no_replacement\": true,\n    \"no_enhancement\": true,\n    \"no_stylization_override\": true\n  },\n  \"accessories\": {\n    \"source\": \"exact_from_uploaded_image\",\n    \"lock_accessories\": true,\n    \"allow_only_existing\": true,\n    \"no_new_accessories\": true,\n    \"no_removal\": true,\n    \"no_addition\": true\n  },\n  \"lighting\": {\n    \"setup\": \"studio_softbox\",\n    \"shadows\": \"very_soft\",\n    \"contrast\": \"low\",\n    \"highlights\": \"subtle\"\n  },\n  \"background\": {\n    \"type\": \"solid_color\",\n    \"color\": \"red\"\n  },\n  \"camera\": {\n    \"angle\": \"front_facing\",\n    \"framing\": \"medium_close_up\",\n    \"lens\": \"50mm_equivalent\",\n    \"distortion\": \"none\"\n  },\n  \"render_quality\": {\n    \"resolution\": \"high\",\n    \"edges\": \"clean\",\n    \"noise\": \"none\",\n    \"realism_balance\": \"stylized_over_realistic\"\n  },\n  \"output\": {\n    \"consistency\": \"very_high\",\n    \"style_strength\": \"strong\",\n    \"photorealism\": false,\n    \"strict_constraints\": true\n  }\n}",
+      "输入：\n- 使用用户上传的图片作为源图像\n- 保持身份特征不变\n- 保持姿势不变\n- 保持构图不变\n- 保持服装不变\n- 保持配饰不变\n\n风格参考：\n- 渲染风格：风格化3D角色\n- 美学：柔和简约卡通3D\n- 灵感来源：皮克斯风格但更为简约，玩具人物渲染，干净的产品角色设计\n\n角色设计：\n- 皮肤：材质为光滑哑光塑料，纹理柔软均匀，具有轻微的次表面散射效果\n- 面部特征：眼睛半闭表现出无聊自信的表情，眼睑厚重，鼻子圆润简化，嘴巴扁平中性，耳朵简化圆形\n- 情绪：冷淡、无聊、不以为然\n\n服装：\n- 完全根据上传图片中的样式锁定，无替换和增强，禁止任何风格覆盖\n\n配饰：\n- 完全根据上传图片中的样式锁定，不允许新增或移除任何配件\n\n照明：\n- 设置：工作室柔光箱\n- 阴影：非常柔和\n- 对比度：低\n- 高光：微妙\n\n背景：\n- 类型：纯色\n- 颜色：红色\n\n相机：\n- 角度：正面\n- 取景：中等特写\n- 镜头：等效50mm\n- 无变形\n\n渲染质量：\n- 分辨率：高\n- 边缘：清晰\n- 噪点：无\n- 真实感平衡：风格化超过写实\n\n输出：\n- 一致性：非常高\n- 风格强度：强\n- 不追求照片真实感\n- 严格遵循约束条件"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Melis",
+      "url": "https://x.com/miilesus/status/2019852666567029072"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "character",
+      "toy"
+    ],
+    "title": "简约卡通3D角色，皮克斯风格",
+    "update_time": 1770473654611
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020068851216707786_0.jpg",
+    "create_time": 1770456919000,
+    "description": "这幅作品捕捉了一位拥有深色凌乱发型的人物，面部被霓虹橙色光带半遮掩。背景与皮肤在冷调青绿阴影中显现，而光带散发出强烈的暖橙光芒，形成鲜明对比。低角度拍摄增强了这种戏剧性的效果。",
+    "id": "2020068851216707786",
+    "images": [
+      "/images/2026-02-07/2020068851216707786_0.jpg"
+    ],
+    "likes": 47,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A high-fashion, cinematic portrait of a person with wet, dark tousled hair partially covering their face. They are wearing a glowing, horizontal neon orange light bar across their eyes like a visor. The lighting is a moody dual-tone: cool teal/cyan shadows on the skin and background, contrasted with the intense warm orange glow from the visor. Shot from a low angle looking up, soft bokeh, high resolution, hyper-realistic skin textures, edgy cyberpunk editorial style.\"\n​Key Elements Explained\n​If you want to tweak the result, here is why those specific words are in the prompt:\n​Low Angle: This creates that \"heroic\" or imposing feeling by looking up at the subject.\n​Teal and Orange: This is a classic cinematic color grading technique that makes the subject pop against the background.\n​Wet/Tousled Hair: Adds to the \"gritty\" and realistic texture of the image.\n​Neon Visor: Specifies that the light is the source of the glow, creating those realistic reflections on the nose and cheeks.",
+      "一张高时尚感、电影风格的人像，人物拥有湿润、深色且凌乱的头发，部分遮盖面部。双眼位置佩戴一条水平发光的霓虹橙色光带，如同面罩。光影采用情绪化的双色调：皮肤与背景呈现冷调青绿色/青蓝色阴影，与面罩发出的强烈暖橙色光芒形成鲜明对比。低角度仰拍，背景柔焦虚化，高分辨率，肌肤纹理超写实，整体风格为前卫赛博朋克风的时尚大片。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aijaz",
+      "url": "https://x.com/iamsofiaijaz/status/2020068851216707786"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "fashion",
+      "sci-fi"
+    ],
+    "title": "前卫赛博朋克风的电影级人像",
+    "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020005042540146707_0.jpg",
+    "create_time": 1770441706000,
+    "description": "此微缩立体模型以45度俯视角度展示了特定国家的传统服饰，人物身着精致的服装站立在刻有文化图案的抬高底座上。背景纯色处理，顶部标注国家及服饰名称。",
+    "id": "2020005042540146707",
+    "images": [
+      "/images/2026-02-07/2020005042540146707_0.jpg",
+      "/images/2026-02-07/2020005042540146707_1.jpg",
+      "/images/2026-02-07/2020005042540146707_2.jpg",
+      "/images/2026-02-07/2020005042540146707_3.jpg"
+    ],
+    "likes": 52,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Create a miniature 3D isometric diorama showcasing the traditional clothing of [COUNTRY NAME].\n\nView from a 45° top-down angle.\nTextures feel fabric-focused and refined. Materials follow realistic PBR shading.\n\nLighting stays soft and even.\nThe raised base includes cultural patterns, symbols, and regional elements. Tiny stylized figures wear traditional outfits with heavy facial details.\n\nBackground uses solid [BACKGROUND COLOR].\n\nTop center text reads [COUNTRY NAME] in bold.\nSecond line shows [CLOTHING NAME].\n\nPlace a minimal textile icon below. Text adapts to background contrast.",
+      "创建一个微型3D等距微缩立体模型，展示[国家名称]的传统服饰。  \n视角为45度俯视角度。  \n材质强调织物质感，精致细腻，采用写实的PBR着色。  \n光线柔和均匀。  \n抬高的底座包含文化图案、象征符号和地区元素。微缩风格的人物身着传统服装，面部细节丰富。  \n背景使用纯色[背景颜色]。  \n顶部中央以粗体显示[国家名称]，第二行显示[服饰名称]。  \n下方放置一个极简风格的纺织品图标，文字根据背景对比度自动调整。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2020005042540146707"
+    },
+    "status": 1,
+    "tags": [
+      "miniature",
+      "3d",
+      "traditional"
+    ],
+    "title": "微型3D等距视图中的传统服饰展示",
+    "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019637426998898928_0.jpg",
+    "create_time": 1770354060000,
+    "description": "在这幅风景摄影作品中，茂密的绿植与鲜艳的花朵环绕着一片宁静的水景，构成了一幅生动而和谐的画面。绿色和鲜艳色彩交相辉映，带来视觉上的享受。",
+    "id": "2019637426998898928",
+    "images": [
+      "/images/2026-02-06/2019637426998898928_0.jpg",
+      "/images/2026-02-06/2019637426998898928_1.jpg",
+      "/images/2026-02-06/2019637426998898928_2.jpg",
+      "/images/2026-02-06/2019637426998898928_3.jpg"
+    ],
+    "likes": 102101,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"prompt\": \"Create stunning images showcasing the beauty of Gardens, featuring lush greenery, vibrant flowers, and serene water features in 16K resolution\",\n  \"style\": \"landscape photography\",\n  \"resolution\": \"16K\",\n  \"colors\": [\"green\", \"vibrant\", \"pastel\"],\n  \"elements\": [\"Gardens\", \"flowers\", \"water features\", \"greenery\", \"serene\"]\n}",
+      "创作令人惊叹的16K分辨率图像，展现花园之美，包含茂密的绿植、鲜艳的花朵和宁静的水景，风格为风景摄影，色彩以绿色、鲜艳色和柔和色为主，元素包括花园、花卉、水景、绿意和宁静氛围。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "A",
+      "url": "https://x.com/WallPapers360/status/2019637426998898928"
+    },
+    "status": 1,
+    "tags": [
+      "photography",
+      "nature",
+      "landscape"
+    ],
+    "title": "花园中的宁静水景",
+    "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019724660703899993_0.jpg",
+    "create_time": 1770374858000,
+    "description": "一个受动漫启发的角色，表情和姿势夸张，穿着象征其个性的服装，背景是极简的抽象背景。",
+    "id": "2019724660703899993",
+    "images": [
+      "/images/2026-02-06/2019724660703899993_0.jpg",
+      "/images/2026-02-06/2019724660703899993_1.jpg",
+      "/images/2026-02-06/2019724660703899993_2.jpg",
+      "/images/2026-02-06/2019724660703899993_3.jpg"
+    ],
+    "likes": 28,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Character design illustration focused on personality: [TRAIT: confident / shy / chaotic / calm].\nThe character is [ACTION OR EMOTION], with exaggerated facial expression and expressive posture.\n\nClothing reflects personality: [OUTFIT + SYMBOLIC DETAILS].\nSimplified facial details, strong silhouette, readable shape design.\n\nIllustration style: ANIME-INSPIRED.\nBackground minimal and abstract to emphasize emotion.",
+      "角色设计插画，聚焦于性格：[特质：自信 / 害羞 / 混乱 / 冷静]。  \n角色正在[动作或情绪]，面部表情夸张，姿态富有表现力。  \n\n服装体现性格：[服装 + 象征性细节]。  \n面部细节简化，轮廓鲜明，造型清晰易读。  \n\n插画风格：受动漫启发。  \n背景极简且抽象，以突出情绪。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2019724660703899993"
+    },
+    "status": 1,
+    "tags": [
+      "anime",
+      "character",
+      "illustration"
+    ],
+    "title": "动漫角色表达情绪",
+    "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019847469165896077_0.jpg",
+    "create_time": 1770404138000,
+    "description": "在纯黑背景下，一张超写实的专业影棚拍摄图展现了具有强烈纹理细节的物体被晶莹透明塑料紧密包裹的情形。图像强调了包装的微褶皱、热封纹路和高对比度背景，营造出强烈的3D立体效果。",
+    "id": "2019847469165896077",
+    "images": [
+      "/images/2026-02-06/2019847469165896077_0.jpg",
+      "/images/2026-02-06/2019847469165896077_1.jpg",
+      "/images/2026-02-06/2019847469165896077_2.jpg",
+      "/images/2026-02-06/2019847469165896077_3.jpg"
+    ],
+    "likes": 44,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Composition & Subject: A professional front-facing studio shot of a hyper-realistic [INSERT OBJECT] standing vertical. The object features intense textural details like [DESCRIBE OBJECT TEXTURES].\nPouch Structure (Dual Material): The vacuum-sealed pouch is composed of two distinct layers. The back layer is a solid, opaque, industrial matte-white material (providing a high-contrast backdrop). The front layer is crystal-clear, high-gloss transparent plastic, allowing the object to be seen with perfect clarity and sharp detail.\n\nVacuum Physics & Compression: The packaging demonstrates extreme vacuum-contoured compression. The plastic is sucked inward like a second skin, clinging tightly to the [DESCRIBE KEY PROTRUDING PARTS] of the object. This creates aggressive, sharp tension micro-folds and deep sculptural wrinkles that radiate from the object's silhouette. The pouch edges feature a crisp, industrial micro-dotted heat-seal pattern.\n\nPackaging Detail: The top features a circular punch-hole for hanging display, located above a realistic zip-lock seal track. The vacuum effect is powerful, with the clear front plastic sucked tightly against the contours, creating sharp, ray-traced reflections and deep tension folds.\n\nGraphics & Strategic Placement:\nUpper Label: A crisp white thermal rectangular sticker with a barcode and price tag of \"$[INSERT PRICE]\" is placed at the top-left, positioned precisely below the zip-lock seal line.\nLower QR: A premium square holographic QR-code with prismatic iridescent reflections is located at the bottom-left corner.\n\nTypography & Extended Pattern: The word \"[INSERT OBJECT NAME IN CAPS]\" is printed vertically in a bold black Swiss font along the right side, layered over a black halftone dot-matrix pattern that extends fully to the mid-point of the pouch and then gradually fades/dissolves from there towards the center, creating a sophisticated transition.\n\nLighting & Background: Set against a pitch-black minimalist background. Cinematic Amber and Electric Blue rim lighting outlines the silhouette, highlighting the contrast between the white back and the clear front plastic, ensuring a zero-flatness, 3D pop. Technical Specs: Commercial product photography, 8k, Unreal Engine 5.4 render style, macro-detail, zero-flatness, ultra-high contrast, focus on extreme transparency of the front layer.",
+      "构图与主体：一张专业正面影棚拍摄的超写实[插入物体]，垂直直立。物体具有强烈的纹理细节，如[描述物体纹理]。  \n\n包装结构（双材质）：真空密封袋由两层截然不同的材料构成。背面是一层坚固、不透明的工业哑光白色材质（提供高对比度背景），正面则为晶莹剔透、高光亮面的透明塑料，使物体清晰可见，细节锐利分明。  \n\n真空物理与压缩效果：包装展现出极致的真空贴合压缩效果。透明塑料如第二层皮肤般被强力向内吸附，紧密包裹住物体的[描述关键突出部位]，形成强烈而锐利的张力微褶皱和深邃的雕塑感皱纹，从物体轮廓向外辐射。包装边缘带有清晰的工业风微点状热封纹路。  \n\n包装细节：顶部设有一个圆形穿孔，用于悬挂展示，位于一条逼真的拉链封口轨道上方。真空效果强劲，透明前层塑料紧贴物体轮廓，产生锐利的光线追踪反射和深度张力褶皱。  \n\n图形与策略性排布：  \n上部标签：左上角贴有一张干净的白色热敏矩形标签，印有条形码和“$[插入价格]”的价格标签，位置精准地位于拉链封口线下方。  \n底部二维码：左下角设有一个高端方形全息二维码，呈现棱镜般的虹彩反光效果。  \n\n字体与延展图案：右侧垂直印有粗体黑色瑞士字体的“[插入物体名称（大写）]”字样，叠加在黑色半调网点矩阵图案之上；该图案从包装右侧延伸至中部，并从中部开始逐渐淡化、溶解至中心，营造出精致的过渡效果。  \n\n灯光与背景：置于纯黑极简背景中。电影感琥珀色与电光蓝色轮廓光勾勒出物体剪影，突显白色背层与透明前层之间的对比，确保画面毫无平面感，呈现强烈的3D立体效果。  \n\n技术规格：商业产品摄影风格，8K分辨率，虚幻引擎5.4渲染，微距细节，零平面感，超高对比度，强调前层塑料的极致通透感。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ΛRMIN | AI",
+      "url": "https://x.com/Arminn_Ai/status/2019847469165896077"
+    },
+    "status": 1,
+    "tags": [
+      "realistic",
+      "product",
+      "packaging"
+    ],
+    "title": "超写实物体的极致真空包装展示",
+    "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-06/2019761819821260975_0.jpg",
+    "create_time": 1770383717000,
+    "description": "一个光滑塑料质感的简约3D卡通人物头像，带有柔和微笑和整洁胡须，置于纯红色背景中，风格现代友好。",
+    "id": "2019761819821260975",
+    "images": [
+      "/images/2026-02-06/2019761819821260975_0.jpg",
+      "/images/2026-02-06/2019761819821260975_1.jpg",
+      "/images/2026-02-06/2019761819821260975_2.jpg",
+      "/images/2026-02-06/2019761819821260975_3.jpg"
+    ],
+    "likes": 351,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n \"task\": \"stylized_3d_avatar_portrait\",\n \"input\": {\n \"reference_image\": \"USER_UPLOADED_IMAGE\",\n \"style_match_strength\": \"high\",\n \"preserve_identity\": false\n },\n \"output\": {\n \"type\": \"single_image\",\n \"aspect_ratio\": \"1:1\",\n \"resolution\": \"ultra_high_resolution\",\n \"render_quality\": \"cinema_grade_3d\",\n \"ai_artifacts\": \"none\"\n },\n \"style\": {\n \"character_type\": \"minimal_cartoon_3d_avatar\",\n \"inspiration\": [\n \"toy_figure_render\",\n \"pixar_like_but_simplified\",\n \"friendly_brand_avatar\"\n ],\n \"proportions\": {\n \"head\": \"slightly_oversized\",\n \"facial_features\": \"simplified_and_soft\",\n \"neck\": \"short_and_cylindrical\"\n }\n },\n \"character_design\": {\n \"skin\": {\n \"material\": \"smooth_semi_gloss_plastic\",\n \"subsurface_scattering\": \"soft\",\n \"imperfections\": \"none\"\n },\n \"face\": {\n \"eyes\": \"small_black_oval_minimal\",\n \"eyebrows\": \"thin_curved_minimal\",\n \"nose\": \"rounded_button_nose\",\n \"mouth\": \"subtle_smile_embedded_in_beard\"\n },\n \"hair\": {\n \"style\": \"stylized_solid_shapes\",\n \"material\": \"glossy_plastic\",\n \"edges\": \"rounded_and_soft\"\n },\n \"beard\": {\n \"style\": \"clean_stylized_beard_block\",\n \"material\": \"glossy_plastic\",\n \"integration\": \"merged_with_face_geometry\"\n }\n },\n \"lighting\": {\n \"setup\": \"studio_softbox\",\n \"key_light\": \"soft_front\",\n \"fill_light\": \"gentle\",\n \"rim_light\": \"very_subtle\",\n \"shadow_style\": \"soft_and_diffused\"\n },\n \"camera\": {\n \"framing\": \"centered_head_and_shoulders\",\n \"angle\": \"straight_on\",\n \"lens\": \"medium_focal_length\",\n \"distortion\": \"none\"\n },\n \"background\": {\n \"color\": \"solid_bold_red\",\n \"gradient\": \"none\",\n \"texture\": \"flat_clean\"\n },\n \"mood\": {\n \"emotion\": \"friendly_calm\",\n \"vibe\": \"modern_playful_premium\"\n }\n}",
+      "创作一个风格化3D头像肖像，采用极简卡通3D风格，参考用户上传的图像，高度匹配其风格但不保留原始身份特征。输出为1:1比例的单张超高清图像，渲染质量达到电影级3D水准，无任何AI伪影。\n\n角色设计灵感源自玩具人偶渲染、简化版皮克斯风格及友好的品牌头像。头部略大，面部特征简洁柔和，颈部短而呈圆柱形。皮肤材质为光滑半亮塑料，带有柔和次表面散射，无瑕疵。眼睛为小巧的黑色椭圆形极简造型，眉毛细而弯曲且极简，鼻子为圆润的纽扣鼻，嘴巴为融入胡须中的淡淡微笑。\n\n发型采用风格化的实心块状造型，材质为亮面塑料，边缘圆润柔和。胡须为干净利落的风格化块状，同样使用亮面塑料材质，并与面部几何结构融合一体。\n\n灯光采用摄影棚柔光箱布置：主光柔和正面打光，辅光轻柔，轮廓光极淡，阴影柔和弥散。相机采用中焦镜头，正面平视角度，构图为居中的头肩像，无畸变。\n\n背景为纯色鲜明红色，无渐变、无纹理，干净平整。整体情绪友好平静，氛围现代、活泼且具高级感。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Ege",
+      "url": "https://x.com/egeberkina/status/2019761819821260975"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cartoon",
+      "character"
+    ],
+    "title": "红色背景上的简约3D卡通头像",
+    "update_time": 1770473654612
   }
 ]
