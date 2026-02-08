@@ -857,5 +857,34 @@
     ],
     "title": "女孩从报纸中破纸而出",
     "update_time": 1770473654611
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020497303585567168_0.jpg",
+    "create_time": 1770559070000,
+    "description": "这位风格化的3D卡通女孩站在一条充满活力的涂鸦砖墙背景前，她那大而有表现力的绿色眼睛和温暖纯真的微笑令人难以忘怀。她身穿米色超大号针织毛衣和橄榄绿工装裤，以一种欢快活泼的姿势展现快乐与自由。",
+    "id": "2020497303585567168",
+    "images": [
+      "/images/2026-02-08/2020497303585567168_0.jpg",
+      "/images/2026-02-08/2020497303585567168_1.jpg"
+    ],
+    "likes": 3,
+    "model": "grok-2",
+    "prompts": [
+      "A cute stylized 3D cartoon girl with a Pixar–Disney-inspired look, big expressive green eyes, soft freckles, rosy cheeks, and a warm innocent smile. She is standing confidently in a colorful urban alley with a vibrant graffiti brick wall background, cinematic depth of field and soft bokeh lights.\nThe character has a cozy oversized knitted sweater in a neutral beige tone with long sleeves covering part of the hands. She wears loose-fit cargo pants (olive green / camouflage tone), slightly baggy, paired with chunky casual sneakers.\nHer pose is joyful and playful with both arms stretched wide outward, conveying happiness and freedom. Hair is medium-length brown, slightly messy yet cute, styled naturally (can be open or lightly tied), with soft realistic strands.\nLighting is warm and cinematic, soft ambient glow, ultra-detailed textures, high-quality 3D render, realistic fabric knit details, smooth skin shading, shallow depth of field, vibrant colors, whimsical mood, modern animated movie character style, ultra HD, sharp focus.",
+      "一位可爱的风格化3D卡通女孩，具有皮克斯–迪士尼风格的外观，大而富有表现力的绿色眼睛、柔和的雀斑、红润的脸颊和温暖纯真的微笑。她自信地站在一条色彩缤纷的城市小巷中，背景是充满活力的涂鸦砖墙，画面具有电影级景深和柔美的散景灯光。\n\n角色身穿一件舒适的超大号针织毛衣，中性米色调，长袖部分遮住双手；下身搭配宽松的工装裤（橄榄绿/迷彩色），略显宽松，并配以厚底休闲运动鞋。\n\n她的姿势欢快而活泼，双臂向外张开，传递出快乐与自由的感觉。头发为中等长度的棕色，略带凌乱却可爱自然，可披散或轻轻扎起，发丝柔软逼真。\n\n光线温暖且富有电影感，环境光柔和，纹理细节极其丰富，3D渲染质量高，织物针织细节真实，皮肤明暗过渡平滑，浅景深，色彩鲜艳，氛围充满奇趣幻想，呈现现代动画电影角色风格，超高清画质，焦点锐利。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2020497303585567168"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "animation",
+      "cinematic"
+    ],
+    "title": "欢快的3D卡通女孩在色彩斑斓的城市小巷中",
+    "update_time": 1770559802473
   }
 ]

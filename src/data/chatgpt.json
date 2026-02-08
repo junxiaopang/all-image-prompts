@@ -11692,5 +11692,36 @@
     ],
     "title": "灰墙前的现代肖像",
     "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020337546828632155_0.jpg",
+    "create_time": 1770520981000,
+    "description": "夜晚繁忙街道上，两个报纸折成的女孩共撑一伞，雨滴与暖光映出纸纹细节，背景虚化营造亲密奇幻感。",
+    "id": "2020337546828632155",
+    "images": [
+      "/images/2026-02-08/2020337546828632155_0.jpg",
+      "/images/2026-02-08/2020337546828632155_1.jpg",
+      "/images/2026-02-08/2020337546828632155_2.jpg",
+      "/images/2026-02-08/2020337546828632155_3.jpg"
+    ],
+    "likes": 34,
+    "model": "gpt-5",
+    "prompts": [
+      "GPT Image 1.5 on ChatGPT \n\nPrompt:\nA cinematic, warm-toned realistic photograph on the busy street set in the evening. In sharp focus on the streets of busy market are two handcrafted paper figures made from newspaper: two origami girls under one umbrella holding hands, one girl holds the umbrella. Dramatic top-down natural lighting and rain drops, highlighting paper textures, folds, and typography.\nShallow depth of field, soft bokeh, high contrast, intimate and whimsical mood, cinematic still-life photography.",
+      "一张具有电影感、暖色调的现实主义照片，拍摄于繁忙街道的夜晚。照片中，市场上熙熙攘攘的街道上有两个用报纸手工制作的折纸人物：两个折纸女孩共撑一把伞，手牵手，其中一个女孩手持伞。采用戏剧性的自上而下的自然光线和雨滴效果，突出纸张的纹理、褶皱和印刷字体。浅景深，柔和的散景效果，高对比度，营造出亲密而奇幻的氛围，呈现出电影般的静物摄影风格。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Duet | AI",
+      "url": "https://x.com/Sheldon056/status/2020337546828632155"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "realistic",
+      "photography"
+    ],
+    "title": "雨夜街角的折纸女孩",
+    "update_time": 1770557422088
   }
 ]

@@ -37286,5 +37286,381 @@
     ],
     "title": "红色背景上的简约3D卡通头像",
     "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020152101528301587_0.jpg",
+    "create_time": 1770476768000,
+    "description": "在阳光明媚的日子里，一位街头潮流模特自信地坐在现代建筑的边缘，穿着引人注目的红色运动装和巨大的白色松糕鞋。背景是高耸入云的玻璃摩天楼，整个画面通过超广角镜头捕捉，展现了从地面到天空的宏大视角。",
+    "id": "2020152101528301587",
+    "images": [
+      "/images/2026-02-07/2020152101528301587_0.jpg",
+      "/images/2026-02-07/2020152101528301587_1.jpg",
+      "/images/2026-02-07/2020152101528301587_2.jpg"
+    ],
+    "likes": 83,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"scene_description\": {\n    \"location\": \"Urban rooftop or high vantage point with a backdrop of towering glass skyscrapers and sleek modern architecture\",\n    \"vibe\": \"Energetic, youthful, urban streetwear, dynamic and slightly distorted perspective\",\n    \"lighting\": \"Bright daylight, harsh sunlight creating a sunburst/lens flare in the upper left, high contrast shadows on the sleek surfaces, vibrant colors\",\n    \"camera_settings\": \"Ultra-wide angle or Fisheye lens (approx 8mm-12mm), extreme low angle (worm's-eye view), forced perspective, deep depth of field, sharp focus from shoe sole to skyline, close up full body shot of the woman\"\n  },\n  \"primary_subjects\": [\n    {\n      \"character\": \"Young woman with shoulder-length brown hair\",\n      \"role\": \"Streetwear model / Urban explorer\",\n      \"action\": \"Sitting casually on the corner of a modern minimalist ledge or platform, looking down at the camera with a confident, relaxed expression. One leg is extended forward towards the lens creating extreme foreshortening, maintaining the same pose as before\",\n      \"details\": \"Bright red track jacket with white stripes on sleeves, Bright Red fitted leggings, massive white chunky platform sneakers with a distinct red tread pattern on the sole (shoe is the dominant foreground element)\"\n    }\n  ],\n  \"environment_details\": {\n    \"crowd\": \"None\",\n    \"architecture\": \"Curved modern glass skyscrapers surrounding the subject, smooth light concrete or metallic ledge in the foreground instead of a red brick wall, clean modern textures\",\n    \"fidelity\": \"High-resolution photography, realistic texture on the sneaker leather and modern materials, lens distortion effect on the buildings\"\n  }\n}",
+      "城市屋顶或高处俯瞰点，背景是高耸的玻璃摩天大楼与流畅的现代建筑；氛围充满活力、年轻、街头潮流感，视角动态且略带扭曲；明亮日光下，左上角有强烈阳光形成的光晕/镜头眩光，光滑表面投下高对比度阴影，色彩鲜艳。使用超广角或鱼眼镜头（约8-12mm），极端低角度（虫眼视角），强制透视，大景深，从鞋底到天际线全程清晰锐利，对女性进行全身近景拍摄。\n\n主角为一位肩长棕色头发的年轻女性，身份为街头潮流模特或都市探索者，她随意坐在现代极简风格的平台边缘，自信而放松地低头看向镜头。一条腿朝镜头方向伸展，形成强烈的前缩透视，保持此前姿势不变。身穿亮红色运动夹克（袖子上有白色条纹）、亮红色紧身 leggings，脚踩巨大的白色厚底松糕运动鞋，鞋底有醒目的红色纹路（鞋子作为画面最前景的主导元素）。\n\n周围无人群；环境为环绕主体的弧形现代玻璃摩天楼，前景是光滑浅色混凝土或金属材质的平台边缘，取代红砖墙，整体呈现干净现代的质感。画面为高分辨率摄影风格，运动鞋皮革与现代建材纹理逼真，并带有建筑因镜头畸变产生的扭曲效果。\n\n灵感源自 @TheDoctorLogos"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "ANKIT PATEL  | AI",
+      "url": "https://x.com/Ankit_patel211/status/2020152101528301587"
+    },
+    "status": 1,
+    "tags": [
+      "urban",
+      "fashion",
+      "street-art"
+    ],
+    "title": "都市潮流：从鞋底到天际线",
+    "update_time": 1770557422088
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020129901601313080_0.jpg",
+    "create_time": 1770471474000,
+    "description": "",
+    "id": "2020129901601313080",
+    "images": [
+      "/images/2026-02-07/2020129901601313080_0.jpg"
+    ],
+    "likes": 83,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Create a highly stylized 3D character portrait with a blocky, geometric voxel-like form and a handcrafted clay / foam micro-particle texture, inspired by painterly stop-motion aesthetics. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the person’s identity, facial structure, proportions, skin tone, and key features, but reinterpret them into a cuboid, low-poly caricature form with simplified geometry, squared facial planes, and intentionally rigid structure. Apply a dense tactile surface made of tiny bead-like or felted particles across all visible elements for a handcrafted look. Render against a swirling, painterly, post-impressionist background with thick directional strokes and vibrant motion, evoking a dreamlike night-sky energy. Lighting should be soft but directional, with warm highlights and gentle shadow falloff to enhance texture depth without realism. The overall look should feel artistic, whimsical, museum-grade, and handcrafted, not photoreal, not Pixar, not vinyl, not glossy CGI. Ultra-high detail, clean edges, intentional stylization, no text, no logos, no watermarks. Aspect ratio 4:5.",
+      "创作一幅高度风格化的3D人物肖像，采用方块状、几何体素般的造型，并赋予手工黏土/泡沫微粒质感，灵感源自绘画感十足的定格动画美学。以所附参考照片中的人物为基础，保留其身份特征、面部结构、比例、肤色及关键五官，但将其重新诠释为立方体、低多边形的夸张漫画形式，具有简化的几何形状、方形的面部平面和刻意僵硬的结构。在所有可见元素上覆盖一层密集而富有触感的微小珠状或毡化颗粒纹理，营造出手工制作的观感。背景采用漩涡状、富有笔触感的后印象派风格，以浓重的方向性笔触和充满活力的动感，唤起梦幻般的夜空氛围。灯光应柔和但具方向性，带有温暖高光与柔和阴影衰减，以增强纹理深度，同时避免写实感。整体效果应呈现艺术性、奇趣感、博物馆级品质与手工感，非写实、非皮克斯风格、非乙烯基材质、非光亮CG效果。画面需具备超高细节、清晰边缘、明确的风格化处理，不含文字、标志或水印。画幅比例为4:5。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "TechieSA",
+      "url": "https://x.com/TechieBySA/status/2020129901601313080"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "梵高风格3D人物肖像",
+    "update_time": 1770557422088
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020178832624611427_0.jpg",
+    "create_time": 1770483141000,
+    "description": "普通物品在雾气弥漫的梦境中幻化成奇异形态，漂浮于违背物理法则的空间，沐浴在柔和电影光晕下。",
+    "id": "2020178832624611427",
+    "images": [
+      "/images/2026-02-07/2020178832624611427_0.jpg",
+      "/images/2026-02-07/2020178832624611427_1.jpg",
+      "/images/2026-02-07/2020178832624611427_2.jpg",
+      "/images/2026-02-07/2020178832624611427_3.jpg"
+    ],
+    "likes": 76,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Surreal / Dreamlike Illustrations\n\nGemini Nano Banana Pro Prompt:\n\n“A surreal illustration where [NORMAL OBJECT] transforms into [UNEXPECTED FORM]. Dreamlike atmosphere, floating elements, impossible physics. Cinematic lighting with soft glow and haze. Artistic, painterly illustration style with rich color harmony.”",
+      "一幅超现实插画，其中[普通物体]转变为[意想不到的形态]。梦境般的氛围，漂浮的元素，违背物理法则的场景。电影感的灯光，带有柔和光晕与薄雾。富有艺术感的绘画风格，色彩和谐丰富。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Aleena Amir",
+      "url": "https://x.com/aleenaamiir/status/2020178832624611427"
+    },
+    "status": 1,
+    "tags": [
+      "surreal",
+      "cinematic",
+      "illustration"
+    ],
+    "title": "超现实梦境中的变形物体",
+    "update_time": 1770557422088
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020166891567014204_0.jpg",
+    "create_time": 1770480294000,
+    "description": "这个超高清的3D拟我表情头像，设计风格柔和圆润，干净简洁。主体完美居中，呈现漂浮效果，纯白背景上仅展示脸部特征，无任何细节遗漏同时保持极简。",
+    "id": "2020166891567014204",
+    "images": [
+      "/images/2026-02-07/2020166891567014204_0.jpg",
+      "/images/2026-02-07/2020166891567014204_1.jpg",
+      "/images/2026-02-07/2020166891567014204_2.jpg",
+      "/images/2026-02-07/2020166891567014204_3.jpg"
+    ],
+    "likes": 244,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n \"task\": \"floating_mini_memoji_face\",\n \"input\": {\n \"source_image\": \"USER_UPLOADED_IMAGE\",\n \"preserve_core_identity\": true,\n \"auto_detect_face_or_front_surface\": true\n },\n \"output\": {\n \"type\": \"face_only_character_render\",\n \"aspect_ratio\": \"1:1\",\n \"resolution\": \"ultra_high_resolution\",\n \"background\": \"pure_white\"\n },\n \"composition\": {\n \"subject_scale\": \"very_small\",\n \"subject_coverage_percentage\": \"20-30%\",\n \"placement\": \"perfectly_centered\",\n \"floating_effect\": true,\n \"no_grounding_elements\": true\n },\n \"cropping\": {\n \"mode\": \"face_only\",\n \"include_body\": false,\n \"include_neck\": false,\n \"include_shoulders\": false\n },\n \"style\": {\n \"overall_aesthetic\": \"memoji_like_3d_minimal\",\n \"design_language\": \"soft_rounded_clean\",\n \"realism_level\": \"stylized_not_photorealistic\",\n \"inspiration\": [\n \"apple_memoji\",\n \"ios_sticker_style\"\n ]\n },\n \"form_translation\": {\n \"shape_simplification\": \"high\",\n \"edge_rounding\": \"very_high\",\n \"detail_reduction\": \"strong_but_identity_preserved\"\n },\n \"surface_material\": {\n \"material\": \"soft_matte_plastic\",\n \"texture\": \"uniform\",\n \"specularity\": \"very_low\"\n },\n \"feature_handling\": {\n \"eyes_if_present\": {\n \"style\": \"rounded_friendly\",\n \"size\": \"slightly_large\"\n },\n \"expression\": \"neutral_or_soft\"\n },\n \"lighting\": {\n \"setup\": \"flat_ui_light\",\n \"contrast\": \"minimal\",\n \"shadows\": \"none\"\n },\n \"camera\": {\n \"angle\": \"straight_on\",\n \"distance\": \"pulled_back\",\n \"distortion\": \"none\"\n },\n \"constraints\": {\n \"background_must_be_white\": true,\n \"head_must_float\": true,\n \"no_body_parts_visible\": true,\n \"no_drop_shadows\": true,\n \"no_photorealism\": true\n }\n}",
+      "以用户上传的图像为基础，自动生成一个漂浮的迷你拟我表情头像。保留原始身份特征，自动识别人脸或正面区域。输出为仅含脸部的角色渲染图，比例1:1，超高清分辨率，纯白背景。  \n\n构图要求：主体非常小，占画面20%–30%，完美居中，呈现漂浮效果，无任何接地元素。裁剪仅保留脸部，不包含身体、颈部或肩膀。  \n\n风格参考苹果Memoji和iOS贴纸风格，整体为3D极简拟我表情风格，设计语言柔和圆润、干净简洁，非写实，而是高度风格化。  \n\n造型处理上进行高度简化，边缘极度圆滑，细节大幅减少但仍保留身份特征。材质为柔雾面塑料，纹理均匀，几乎无反光。  \n\n若包含眼睛，则采用圆润友好的样式，略大；表情为中性或柔和。  \n\n灯光采用扁平UI照明，对比度极低，无阴影。相机正对主体，距离拉远，无畸变。  \n\n严格限制：背景必须为纯白，头部必须漂浮，不可见任何身体部位，禁止投影，禁止写实风格。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Ege",
+      "url": "https://x.com/egeberkina/status/2020166891567014204"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "character",
+      "minimalist"
+    ],
+    "title": "极简3D拟我表情头像",
+    "update_time": 1770557422088
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020421229681770879_0.jpg",
+    "create_time": 1770540933000,
+    "description": "在这幅生动的9:16竖版构图中，一位身穿都市风夹克与运动鞋的模特，在夜晚繁忙的城市街道上大步前行。高对比度的单色画面配合动态模糊效果，使人群和湿滑路面的倒影显得格外真实，营造出强烈的电影叙事氛围。",
+    "id": "2020421229681770879",
+    "images": [
+      "/images/2026-02-08/2020421229681770879_0.jpg",
+      "/images/2026-02-08/2020421229681770879_1.jpg",
+      "/images/2026-02-08/2020421229681770879_2.jpg",
+      "/images/2026-02-08/2020421229681770879_3.jpg"
+    ],
+    "likes": 4,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"meta\": {\n    \"purpose\": \"Cinematic motion blur B&W street photography for urban fashion editorials\",\n    \"style\": \"High contrast monochrome, storytelling realism, Nike-inspired visuals, 8K\"\n  },\n  \"subject\": {\n    \"main\": \"[e.g., Model in streetwear walking through crowd]\",\n    \"pose\": \"[e.g., Dynamic stride with motion streaks]\",\n    \"attire\": \"[e.g., Urban jacket and sneakers]\"\n  },\n  \"environment\": {\n    \"setting\": \"[e.g., Busy city street at night]\",\n    \"details\": \"Crowd blur effect, wet pavement reflections\"\n  },\n  \"lighting\": {\n    \"type\": \"[e.g., Cinematic portrait with high contrast]\",\n    \"effects\": \"Monochrome grading, viral editorial mood\"\n  },\n  \"camera_specs\": {\n    \"lens\": \"[e.g., Wide angle for urban depth]\",\n    \"quality\": \"AI art realism, fine grain, no artifacts\",\n    \"aspect_ratio\": \"[e.g., 9:16 vertical]\",\n    \"negative\": [\"color\", \"static pose\", \"low contrast\", \"cartoonish\"]\n  }\n}\n\n#Promptshare #nanobanana",
+      "用于都市时尚专题的电影感动态模糊黑白街拍：高对比度单色、叙事性写实风格、受耐克启发的视觉效果、8K画质。主体为身穿街头服饰的模特在人群中行走，姿态为带有动态拖影的大步前行，着装包括都市风夹克与运动鞋。场景设定为夜晚繁忙的城市街道，具有人群模糊效果和湿滑路面的倒影。灯光采用高对比度的电影人像布光，配合单色调色与具有病毒式传播潜力的专题氛围。使用广角镜头以呈现城市纵深感，画面具备AI艺术写实感、细腻颗粒、无伪影，画幅比例为9:16竖构图。避免出现色彩、静态姿势、低对比度及卡通风格。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Shah",
+      "url": "https://x.com/ai_with_shah/status/2020421229681770879"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "black-white",
+      "urban"
+    ],
+    "title": "夜色中行走：都市街头的电影感黑白街拍",
+    "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020427411159241171_0.jpg",
+    "create_time": 1770542407000,
+    "description": "在这幅超现实的电影级景观中，一头雄伟的水晶狮子站在火山洞穴内的熔岩岩石上，而一只水晶鹿则立于被施了魔法的荧光森林中。熔岩溪流渐变为发光的森林地面，霓虹蓝与橙色灯光对比鲜明。",
+    "id": "2020427411159241171",
+    "images": [
+      "/images/2026-02-08/2020427411159241171_0.jpg",
+      "/images/2026-02-08/2020427411159241171_1.jpg"
+    ],
+    "likes": 35,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A majestic crystal lion and a crystal deer standing together in a mystical fantasy world, hyper-realistic transparent glass bodies with glowing prismatic reflections, the lion positioned on molten lava rocks inside a volcanic cave with flowing lava and sparks, the deer standing in an enchanted bioluminescent forest with glowing mushrooms and soft fog, both environments merging into one surreal cinematic landscape, lava streams blending into a magical glowing forest floor, neon blue and orange lighting contrast, ultra-detailed 3D render, cinematic composition, volumetric lighting, depth of field, fantasy realism, 8K, Unreal Engine, masterpiece, dramatic atmosphere, ethereal glow, highly detailed reflections and refractions.",
+      "一头雄伟的水晶狮子与一只水晶鹿并肩伫立于神秘的奇幻世界中，身体为超写实透明玻璃材质，散发出闪耀的棱镜反射光芒。狮子站在火山洞穴内的熔岩岩石上，周围流淌着熔岩与飞溅的火花；鹿则立于一片被施了魔法的生物荧光森林中，四周遍布发光蘑菇与柔和薄雾。两种环境融合为一幅超现实的电影级景观——熔岩溪流渐变为魔幻发光的森林地面，霓虹蓝与橙色灯光形成鲜明对比。画面为超精细3D渲染，采用电影构图、体积光效、景深效果，风格融合幻想与写实，8K分辨率，使用虚幻引擎打造，堪称杰作，氛围戏剧感十足，带有空灵辉光，反射与折射细节极为丰富。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Martian",
+      "url": "https://x.com/drzubi01/status/2020427411159241171"
+    },
+    "status": 1,
+    "tags": [
+      "fantasy",
+      "cinematic",
+      "high-detail"
+    ],
+    "title": "奇幻世界中的水晶狮子与鹿",
+    "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020467651680878693_0.jpg",
+    "create_time": 1770552001000,
+    "description": "这幅图像展示了绿色、红色、紫色和黑色葡萄的丰富色彩与质感，成串的葡萄及其藤蔓布置在餐桌上，旁边配有葡萄酒，完美呈现了葡萄的魅力。",
+    "id": "2020467651680878693",
+    "images": [
+      "/images/2026-02-08/2020467651680878693_0.jpg",
+      "/images/2026-02-08/2020467651680878693_1.jpg",
+      "/images/2026-02-08/2020467651680878693_2.jpg",
+      "/images/2026-02-08/2020467651680878693_3.jpg"
+    ],
+    "likes": 39,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"prompt\": \"Create stunning images showcasing various types of grapes, highlighting colors, textures, and clusters\",\n  \"style\": \"food photography\",\n  \"resolution\": \"4K\",\n  \"colors\": [\"green\", \"red\", \"purple\", \"black\"],\n  \"elements\": [\"grapes\", \"wine\", \"vine\", \"bunch\", \"table setting\"]\n}",
+      "创作令人惊艳的图像，展示多种葡萄，突出其颜色、质感和成簇形态，风格为美食摄影，分辨率为4K，包含绿色、红色、紫色和黑色葡萄，画面元素包括葡萄、葡萄酒、葡萄藤、成串葡萄以及餐桌布置。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "A",
+      "url": "https://x.com/WallPapers360/status/2020467651680878693"
+    },
+    "status": 1,
+    "tags": [
+      "food",
+      "photography",
+      "colorful"
+    ],
+    "title": "多彩葡萄的美食摄影",
+    "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-01-05/2008198862931214371_0.jpg",
+    "create_time": 1767626893000,
+    "description": "从下方仰视一块完全透明的有机玻璃，人们正从左向右走过，鞋底近在眼前，背景是纯净无瑕的蓝天。",
+    "id": "2008198862931214371",
+    "images": [
+      "/images/2026-01-05/2008198862931214371_0.jpg",
+      "/images/2026-01-05/2008198862931214371_1.jpg",
+      "/images/2026-01-05/2008198862931214371_2.jpg",
+      "/images/2026-01-05/2008198862931214371_3.jpg"
+    ],
+    "likes": 487,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "View from under a plane of completely transparent plexiglass. We are looking straight up. Many people are walking on the plexiglass. In the background is a pure blue sky. No buildings visible. No edges or separations in the plexiglass. It’s as if the plexiglass isn’t even there. We are very close to the people. The people are in the process of walking. The people are walking generally from left to right. The soles of their shoes are very close to the foreground.",
+      "从一块完全透明的有机玻璃板下方仰视。我们正直直向上看，许多人正在有机玻璃上行走。背景是一片纯净的蓝天，看不见任何建筑物。有机玻璃没有边缘或接缝，仿佛它根本不存在。我们离那些人非常近，他们正在行走，大致从左向右移动，鞋底非常靠近前景。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Christopher Fryant",
+      "url": "https://x.com/cfryant/status/2008198862931214371"
+    },
+    "status": 1,
+    "tags": [
+      "photography",
+      "realistic",
+      "urban"
+    ],
+    "title": "透明玻璃上行走的人群",
+    "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-01-27/2016245338793705945_0.jpg",
+    "create_time": 1769545323000,
+    "description": "这张图像展示了联名合作的高性能外套，采用硬朗设计和哑光面料。模特头部和肩部的侧面特写，突出了结构感强的兜帽和标志性的品牌Logo。",
+    "id": "2016245338793705945",
+    "images": [
+      "/images/2026-01-27/2016245338793705945_0.jpg"
+    ],
+    "likes": 217,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "[BRAND NAME]. \nAct as a Creative Director for a technical outerwear brand and a High-End Product Photographer.\n\nTHE TASK:\nAutonomously conceptualize and render a \"Technical Outerwear Campaign Image\" featuring a collaboration between the input brand ([BRAND NAME]) and a relevant performance fashion label.\nPHASE 1: PARTNER SELECTION & GEAR DESIGN (THE STRATEGIST)\nAnalyze [BRAND NAME]: Is it Luxury, Sport, Industrial, or Lifestyle?\nSelect the Apparel Partner:\nLuxury/Lifestyle -> The North Face, Moncler.\nTech/Industrial -> Arc'teryx, Stone Island Shadow Project.\nSport/Speed -> Nike ACG, Salomon.\nThe Gear: Design a Heavy Technical Outerwear Piece (Parka, Shell Jacket, or Anorak) with a structured HOOD or HIGH COLLAR.\nColor: The garment must be the Signature Color of [BRAND NAME].\nMaterial: Stiff, high-performance fabrics (Gore-Tex 3L, Ripstop) with matte finish.\nPHYSICAL BRANDING INTEGRATION (CRITICAL):\n    You must integrate the [BRAND NAME] logo physically onto the garment in a way that looks expensive and high-tech.\nPHASE 2: PHOTOGRAPHY & LIGHTING (THE PROFILE)\nFraming: A tight Head-and-Shoulders Side Profile Shot. Model faces Left.\nPose: Chin up, looking forward. Hood frames the face.\nLighting (Chiaroscuro Tech):\nKey Light: Hard light hitting the face profile and the [BRAND NAME] LOGO on the jacket, creating sharp contrast.\nThe Void: Background is Pure Void Black (#000000).\nTexture Priority: Maximize detail of fabric weave and the physical logo material.\nPHASE 3: UI & SCHEMATIC OVERLAY (BLUEPRINT AESTHETIC)\nOverlay a \"Technical Blueprint\" Interface (thin white lines):\nThe Grid: Vertical hairline white lines cutting through the image.\nLeft Sidebar: Vertical tech specs (e.g., \"75D 133g/m2\", \"GORE-TEX 3L\").\nCenter: Title \"[PARTNER] x [BRAND NAME]\".\nRight Side: The Partner Logo (e.g., The North Face logo) in white.\nPHASE 4: TECH SPECS\n100mm Macro Lens, f/8, High Co",
+      "[品牌名称]。  \n担任一个技术型户外服饰品牌的创意总监兼高端产品摄影师。\n\n任务：  \n自主构思并渲染一张“技术型户外服饰宣传图像”，展现[品牌名称]与一个相关高性能时尚品牌的联名合作。\n\n第一阶段：合作伙伴选择与服装设计（策略师）  \n分析[品牌名称]：属于奢华、运动、工业还是生活方式类？  \n选择合作服装品牌：  \n- 奢华/生活方式类 → The North Face、Moncler  \n- 科技/工业类 → Arc'teryx、Stone Island Shadow Project  \n- 运动/速度类 → Nike ACG、Salomon  \n\n服装设计：打造一件重型技术型外套（派克大衣、硬壳夹克或连帽衫），带有结构感强的兜帽或高领。  \n颜色：必须使用[品牌名称]的标志性色彩。  \n材质：挺括的高性能面料（如Gore-Tex 3L、防撕裂尼龙），表面为哑光质感。  \n\n实体品牌标识整合（关键要求）：  \n必须将[品牌名称]的Logo以实体形式融入服装，呈现昂贵且高科技的视觉效果。\n\n第二阶段：摄影与灯光（侧影风格）  \n构图：紧凑的头部与肩部侧面特写，模特面向左侧。  \n姿势：下巴微抬，目视前方，兜帽勾勒面部轮廓。  \n灯光（明暗对比科技风）：  \n- 主光：硬光照射面部轮廓及夹克上的[品牌名称]Logo，形成强烈明暗对比。  \n- 背景：纯黑虚空（#000000）。  \n- 纹理优先：最大化展现面料织纹与实体Logo材质的细节。\n\n第三阶段：界面与图解叠加（蓝图美学）  \n叠加“技术蓝图”风格界面（细白线）：  \n- 网格：垂直细白线贯穿画面。  \n- 左侧栏：垂直排列技术参数（例如“75D 133g/m²”、“GORE-TEX 3L”）。  \n- 中央标题：“[合作品牌] x [品牌名称]”。  \n- 右侧：合作品牌Logo（如The North Face标志），白色呈现。\n\n第四阶段：技术参数  \n100mm微距镜头，光圈f/8，高解析度。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "AmirMušić",
+      "url": "https://x.com/AmirMushich/status/2016245338793705945"
+    },
+    "status": 1,
+    "tags": [
+      "branding",
+      "fashion",
+      "product"
+    ],
+    "title": "高科技联名外套的侧面特写",
+    "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-01-24/2015152385207984348_0.jpg",
+    "create_time": 1769284743000,
+    "description": "这幅超写实的商业摄影作品以广角低视角捕捉了一个充满活力的人物，手中把玩着作为主角道具的超大尺寸产品。背景干净极简，高调影棚灯光下，清晰柔和的阴影突出了细节。",
+    "id": "2015152385207984348",
+    "images": [
+      "/images/2026-01-24/2015152385207984348_0.jpg",
+      "/images/2026-01-24/2015152385207984348_1.jpg"
+    ],
+    "likes": 684,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "[person], [pose], oversized product in the attached image as the main hero prop, playful fun energy, fashion editorial styling, clean minimal background, high key studio lighting, crisp soft shadow, ultra realistic commercial photography, wide angle low perspective, sharp focus, 8k, 1:1",
+      "[人物]，[姿势]，附图中作为主角道具的超大尺寸产品，充满玩趣与活力，时尚杂志风格造型，干净极简背景，高调影棚灯光，清晰柔和的阴影，超写实商业摄影，广角低视角，锐利对焦，8K分辨率，1:1比例"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2015152385207984348"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "fashion",
+      "product"
+    ],
+    "title": "超大时尚单品的活力展示",
+    "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020468935267844462_0.jpg",
+    "create_time": 1770552307000,
+    "description": "人物描边涂鸦",
+    "id": "2020468935267844462",
+    "images": [
+      "/images/2026-02-08/2020468935267844462_0.jpg",
+      "/images/2026-02-08/2020468935267844462_1.jpg"
+    ],
+    "likes": 42,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A high-quality mixed-media portrait of a bright and cheerful young woman with fresh, lively energy (using my uploaded person photo) standing on a train station platform at night. The subject has a friendly smile and bright eyes, posing with a lively, energetic expression, slightly leaning forward in a natural, upbeat stance, one hand playfully holding the strap of her light-colored backpack.\n\nShe is wearing a stylish pastel casual outfit (soft mint or sky-blue top, clean white mini skirt made of structured fabric, white sneakers, and small cute accessories).\n\nFull body visible from head to toe  \nFeet fully in frame, no cropping at legs or shoes  \nCentered composition with safe margin around the subject  \nCamera positioned far enough to capture the entire body  \nNatural leg proportions, no distortion\n\nThe background features a realistic 'KRL Jabodetabek' Commuter Line train side view with its signature red striping, with the train doors wide open, bathed in bright, cinematic station lighting and city night ambiance.\n\nSurrounding the realistic main subject are several cute, 3D-style 'Chibi' versions of herself, wearing the same outfit and same face. These chibis are interacting playfully: one is sitting on the subject's shoulder, one is climbing her leg, and another is peeking out from the backpack.\n\nOverlay the image with vibrant, hand-drawn doodle effects: soft white outlines around the subject, playful sparkles, doodle hearts, tiny flowers, smiley icons, and floating white handwritten phrases like \"shine\", \"bright night\", and \"happy vibes\".\n\nThe style seamlessly blends hyper-realistic photography with colorful, soft cartoon illustrations. Keeping face and all body shape unchanged.",
+      "一幅高品质混合媒介肖像画，描绘一位明亮欢快、充满活力的年轻女性（使用我上传的人物照片），夜晚站在火车站站台上。她面带友善微笑，眼神明亮，表情生动活泼，身体自然微微前倾，姿态积极向上，一只手俏皮地抓着浅色背包的肩带。\n\n她身穿时尚的淡彩色休闲装（柔和的薄荷绿或天蓝色上衣、结构感面料的纯白迷你裙、白色运动鞋，以及小巧可爱的配饰）。\n\n全身从头到脚完整可见，双脚完全在画面内，腿部和鞋子无任何裁切。  \n构图居中，人物四周留有安全边距。  \n相机距离足够远，能完整捕捉全身，腿部比例自然，无变形。\n\n背景为真实的“KRL Jabodetabek”通勤列车侧面，带有标志性的红色条纹，车门大开，沐浴在明亮而富有电影感的车站灯光与城市夜景氛围中。\n\n在写实主体周围环绕着几个可爱的3D风格“Q版”小人，穿着相同服装、拥有相同面容：一个坐在她的肩膀上，一个正攀爬她的腿，另一个从背包里探出头来。\n\n画面叠加鲜艳的手绘涂鸦效果：人物轮廓带有柔和白色描边，点缀着俏皮的闪光、涂鸦爱心、小花、笑脸图标，以及漂浮的白色手写字样，如“shine”、“bright night”和“happy vibes”。\n\n整体风格无缝融合超写实摄影与色彩柔和的卡通插画，保持面部特征与全身身形不变。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "simply",
+      "url": "https://x.com/kingofdairyque/status/2020468935267844462"
+    },
+    "status": 1,
+    "tags": [],
+    "title": "人物描边涂鸦",
+    "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020436889933852691_0.jpg",
+    "create_time": 1770544667000,
+    "description": "在一张浅色木质桌面上，一只侧翻的咖啡杯旁，深棕色的咖啡渍自然形成了一个清晰的人脸轮廓，细节丰富，仿佛是液体的记忆。周围是极简风格的桌面，只有柔和的侧光与之相伴。",
+    "id": "2020436889933852691",
+    "images": [
+      "/images/2026-02-08/2020436889933852691_0.jpg"
+    ],
+    "likes": 79,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "A dark brown coffee spill on a light wooden table surface, originating from a tipped-over coffee cup lying on its side. The spilled coffee naturally forms the silhouette of a human face that closely matches the face in the attached reference photo. Facial contours are clearly defined around the eyes, nose, and lips, while preserving the organic and fluid behavior of liquid coffee.The coffee cup is realistic, ceramic, minimal design, with a small amount of coffee still dripping from the rim. The wooden table has a smooth, natural texture. Soft side lighting enhances subtle reflections on the liquid surface. Photorealistic style, sharp focus, high resolution, minimalist composition, top-down perspective, shallow depth of field, natural color tones, no additional objects on the table.",
+      "一张浅色木质桌面上有一滩深棕色的咖啡渍，源自一只侧翻在桌上的咖啡杯。泼洒出的咖啡自然形成了一个人脸轮廓，与所附参考照片中的面部高度相似，眼睛、鼻子和嘴唇周围的轮廓清晰可辨，同时保留了液态咖啡的有机流动感。咖啡杯为写实风格，陶瓷材质，设计简约，杯沿仍有少量咖啡缓缓滴落。木质桌面纹理平滑自然。柔和的侧光增强了液体表面的细微反光。整体采用逼真摄影风格，焦点锐利，高分辨率，构图极简，俯视视角，浅景深，色调自然，桌面上无其他物品。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "simply",
+      "url": "https://x.com/kingofdairyque/status/2020436889933852691"
+    },
+    "status": 1,
+    "tags": [
+      "photography",
+      "realistic",
+      "minimalist"
+    ],
+    "title": "咖啡渍中浮现的面容",
+    "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020332873736196341_0.jpg",
+    "create_time": 1770519867000,
+    "description": "这件作品由多层高透明度亚克力板组成，每层之间留有空气间隙，通过不锈钢螺栓固定。彩虹色调与内六角螺栓细节在无缝纯色背景下清晰展现。",
+    "id": "2020332873736196341",
+    "images": [
+      "/images/2026-02-08/2020332873736196341_0.jpg"
+    ],
+    "likes": 61,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"request\": {\n    \"product\": \"[PRODUCT HERE]\",\n    \"background_color\": \"#59925C\",\n    \"style\": \"prismatic_industrial_minimalism\",\n    \"visual_elements\": {\n      \"structure\": \"multiple separate vertical acrylic layers forming the product silhouette — each layer is a distinct flat panel with visible air gaps between them, like slices of the product spaced apart\",\n      \"material\": \"high-clarity glass with rainbow prismatic iridescent tint\",\n      \"hardware\": \"stainless steel through-bolts with visible internal Allen hexagonal socket heads — bolts pass through all layers front to back, holding them together with visible spacing\",\n      \"orientation\": \"strictly upright vertical placement, full object visibility\",\n      \"lighting\": \"dispersive spectral highlights and sharp caustics\"\n    },\n    \"composition\": {\n      \"frame\": \"wide shot, no cropping, centered full-product view\",\n      \"camera_angle\": \"eye-level studio perspective, slightly angled to reveal gaps between layers\",\n      \"depth_of_field\": \"deep enough to maintain focus on hardware details\",\n      \"background\": \"seamless solid #59925C background with no floor, surface, pedestal, platform, table, shadow ground, or horizon line — the product floats against a uniform single-color field\",\n      \"grounding\": \"no visible ground plane, no reflective surface beneath the product\"\n    },\n    \"rendering_details\": {\n      \"transparency\": \"multi-layered refraction with thin-film interference\",\n      \"finish\": \"polished edges with subtle holographic light dispersion\",\n      \"hardware_detail\": \"macro-precision on hex-head bolt sockets\",\n      \"layer_direction\": \"every glass/acrylic layer is strictly vertical — no horizontal slabs, curved shells, or molded forms\",\n      \"layer_separation\": \"each glass panel must be visibly separated with clear air gaps — not fused or touching — bolts are the only element connecting the layers\"\n    }\n  }\n}",
+      "产品为[PRODUCT HERE]，背景色为#59925C，风格为棱镜工业极简主义。  \n视觉元素：产品由多个独立的垂直亚克力层构成轮廓，每一层均为独立的平板，层与层之间留有可见的空气间隙，如同将产品切成若干片并间隔排列；材质为高透明度玻璃，带有彩虹棱镜般的虹彩色调；使用不锈钢通体螺栓贯穿所有层，从前至后将各层固定，螺栓头部为可见的内六角凹槽结构，并保留清晰的层间间距；产品严格垂直摆放，整体完整可见；灯光呈现色散光谱高光与锐利的焦散效果。  \n\n构图要求：广角镜头，无裁剪，居中完整展示产品；相机视角为平视影棚角度，略带倾斜以展现层间空隙；景深足够深，确保螺栓等硬件细节清晰聚焦；背景为无缝纯色#59925C，无地面、台面、底座、平台、桌面、投影或地平线，产品悬浮于单一均匀色场中；画面中不可见任何地面平面或产品下方的反射面。  \n\n渲染细节：多层折射效果结合薄膜干涉；边缘抛光处理，带有微妙的全息光色散；螺栓内六角凹槽需呈现微距级精度；所有玻璃/亚克力层必须严格垂直，不得出现水平板、曲面壳体或模塑造型；各玻璃面板之间必须明显分离，留有清晰空气间隙，不得融合或接触，仅由螺栓连接各层。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Lloyd Creates",
+      "url": "https://x.com/lloydcreates/status/2020332873736196341"
+    },
+    "status": 1,
+    "tags": [
+      "industrial",
+      "minimalist",
+      "product"
+    ],
+    "title": "棱镜工业极简主义的悬浮艺术",
+    "update_time": 1770559802473
   }
 ]

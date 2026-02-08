@@ -3935,5 +3935,128 @@
     ],
     "title": "达·芬奇风格的动态木雕角色",
     "update_time": 1770473654612
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020184546981933521_0.jpg",
+    "create_time": 1770484503000,
+    "description": "夜晚的城市天际线被橙蓝辉光的半透明全息屏幕环绕，数据流与增强现实元素交织其间。",
+    "id": "2020184546981933521",
+    "images": [
+      "/images/2026-02-07/2020184546981933521_0.jpg",
+      "/images/2026-02-07/2020184546981933521_1.jpg",
+      "/images/2026-02-07/2020184546981933521_2.jpg",
+      "/images/2026-02-07/2020184546981933521_3.jpg"
+    ],
+    "likes": 95,
+    "model": "midjourney-v7",
+    "prompts": [
+      "A Cyberpunk Holographic Interface surrounding [SUBJECT], with translucent screens, data streams, and augmented reality elements. Use [COLOR1] and [COLOR2] in glowing, semi-transparent layers.",
+      "A Cyberpunk Holographic Interface surrounding a City Skyline at Night, with translucent screens, data streams, and augmented reality elements. Use Orange and Deep Blue in glowing, semi-transparent layers --ar 3:2 --v 7.0",
+      "A Cyberpunk Holographic Interface surrounding a Digital Avatar, with translucent screens, data streams, and augmented reality elements. Use Neon Pink and Teal in glowing, semi-transparent layers. --ar 3:2 --v 7.0",
+      "A Cyberpunk Holographic Interface surrounding a Futuristic Sports Car, with translucent screens, data streams, and augmented reality elements. Use Emerald Green and Gold in glowing, semi-transparent layers. --ar 3:2 --v 7.0",
+      "A Cyberpunk Holographic Interface surrounding a Robotic Arm, with translucent screens, data streams, and augmented reality elements. Use Electric Blue and Silver in glowing, semi-transparent layers. --ar 3:2 --v 7.0"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "LudovicCreator",
+      "url": "https://x.com/LudovicCreator/status/2020184546981933521"
+    },
+    "status": 1,
+    "tags": [
+      "cyberpunk",
+      "sci-fi",
+      "futuristic"
+    ],
+    "title": "赛博朋克城市夜景全息界面",
+    "update_time": 1770557422088
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020120366333436140_0.jpg",
+    "create_time": 1770469202000,
+    "description": "这幅图像捕捉了松散而富有表现力的动画草图风格，充满了创意和灵感。线条自由流动，形象生动有趣。",
+    "id": "2020120366333436140",
+    "images": [
+      "/images/2026-02-07/2020120366333436140_0.jpg"
+    ],
+    "likes": 35,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Really loving this loose animated-sketch SREF.\n\n --sref 4166492590\n",
+      "非常喜欢这种松散的动画草图风格参考图。\n\n--sref 4166492590\n"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Tischeins",
+      "url": "https://x.com/tisch_eins/status/2020120366333436140"
+    },
+    "status": 1,
+    "tags": [
+      "animation",
+      "creative",
+      "sketch"
+    ],
+    "title": "动画草图风格的创意灵感",
+    "update_time": 1770557422088
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020124798190268447_0.jpg",
+    "create_time": 1770470258000,
+    "description": "哈利·波特身穿校袍，戴圆框眼镜，在复古动漫风格下呈现出怀旧而鲜明的视觉效果。",
+    "id": "2020124798190268447",
+    "images": [
+      "/images/2026-02-07/2020124798190268447_0.jpg",
+      "/images/2026-02-07/2020124798190268447_1.jpg",
+      "/images/2026-02-07/2020124798190268447_2.jpg"
+    ],
+    "likes": 34,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Harry Potter, with Retro Anime Style\n\n--sref 4127059524",
+      "哈利·波特，复古动漫风格\n\n--sref 4127059524"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Keskin",
+      "url": "https://x.com/craftian_keskin/status/2020124798190268447"
+    },
+    "status": 1,
+    "tags": [
+      "anime",
+      "retro",
+      "character"
+    ],
+    "title": "哈利·波特 复古动漫风",
+    "update_time": 1770557422088
+  },
+  {
+    "coverImage": "/images/2026-02-07/2020188322698604948_0.jpg",
+    "create_time": 1770485404000,
+    "description": "一只昆虫在自然地面上的超写实微距摄影，细节丰富，焦点锐利，浅景深突出主体，自然光营造真实质感。",
+    "id": "2020188322698604948",
+    "images": [
+      "/images/2026-02-07/2020188322698604948_0.jpg",
+      "/images/2026-02-07/2020188322698604948_1.jpg",
+      "/images/2026-02-07/2020188322698604948_2.jpg",
+      "/images/2026-02-07/2020188322698604948_3.jpg"
+    ],
+    "likes": 31,
+    "model": "midjourney-v7",
+    "prompts": [
+      "a close-up of an [insect species] on [natural ground or surface], macro photography, national geographic-style photo, cute and adorable yet realistic, hyperrealistic, extremely detailed, high-definition, intricate micro-details, very sharp focus, shallow depth of field, natural lighting.",
+      "一只[昆虫种类]在[自然地面或表面]上的特写，微距摄影，国家地理风格照片，可爱迷人 yet 逼真，超写实，细节极其丰富，高清晰度，精细的微观细节，焦点非常锐利，浅景深，自然光线。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Pierrick Chevallier | IA",
+      "url": "https://x.com/CharaspowerAI/status/2020188322698604948"
+    },
+    "status": 1,
+    "tags": [
+      "macro-photography",
+      "nature",
+      "realistic"
+    ],
+    "title": "微距下的昆虫特写",
+    "update_time": 1770557422088
   }
 ]
