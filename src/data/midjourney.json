@@ -4058,5 +4058,346 @@
     ],
     "title": "微距下的昆虫特写",
     "update_time": 1770557422088
+  },
+  {
+    "coverImage": "/images/2026-02-10/2021176840870940905_0.jpg",
+    "create_time": 1770721085000,
+    "description": "由彩色小方块构成的体素风格女孩，在简约等距房间里给植物浇水，画面采用柔和色调与游戏资产风格。",
+    "id": "2021176840870940905",
+    "images": [
+      "/images/2026-02-10/2021176840870940905_0.jpg",
+      "/images/2026-02-10/2021176840870940905_1.jpg",
+      "/images/2026-02-10/2021176840870940905_2.jpg",
+      "/images/2026-02-10/2021176840870940905_3.jpg"
+    ],
+    "likes": 141,
+    "model": "midjourney-v7",
+    "prompts": [
+      "share: Voxel\n\nPrompt:\nA voxel-style 3D render of a [subject], composed of small colored cubes, sharp pixel edges, stylized lighting, pastel tones, displayed in a playful isometric room with minimal furniture, game asset aesthetic.\n\nCheck ATLs for inspiration",
+      "A voxel-style 3D render of a girl watering plants, composed of small colored cubes, sharp pixel edges, stylized lighting, pastel tones, displayed in a playful isometric room with minimal furniture, game asset aesthetic. --ar 3:2 --v 7",
+      "A voxel-style 3D render of a baker holding a tray of cookies, composed of small colored cubes, sharp pixel edges, stylized lighting, pastel tones, displayed in a playful isometric room with minimal furniture, game asset aesthetic. --ar 3:2 --v 7",
+      "A voxel-style 3D render of a dog wearing glasses and reading a book, composed of small colored cubes, sharp pixel edges, stylized lighting, pastel tones, displayed in a playful isometric room with minimal furniture, game asset aesthetic. --ar 3:2 --v 7",
+      "A voxel-style 3D render of a wizard casting a tiny spell, composed of small colored cubes, sharp pixel edges, stylized lighting, pastel tones, displayed in a playful isometric room with minimal furniture, game asset aesthetic. --ar 3:2 --v 7"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2021176840870940905"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "voxel",
+      "game-asset"
+    ],
+    "title": "像素女孩在等距房间浇花",
+    "update_time": 1770809719395
+  },
+  {
+    "coverImage": "/images/2026-02-11/2021509542945968374_0.jpg",
+    "create_time": 1770800407000,
+    "description": "展示Midjourney风格参考功能的界面，包含图片预览、分享按钮和评论区指引。",
+    "id": "2021509542945968374",
+    "images": [
+      "/images/2026-02-11/2021509542945968374_0.jpg",
+      "/images/2026-02-11/2021509542945968374_1.jpg"
+    ],
+    "likes": 9,
+    "model": "midjourney-v7",
+    "prompts": [
+      "New Midjourney Style Reference\nUnlock with --sref 1790519590\n",
+      "新 Midjourney 风格参考  \n使用 --sref 1790519590 解锁  \n"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Michael Rabone",
+      "url": "https://x.com/michaelrabone/status/2021509542945968374"
+    },
+    "status": 1,
+    "tags": [
+      "ui",
+      "graphic-novel",
+      "modern"
+    ],
+    "title": "Midjourney风格参考界面",
+    "update_time": 1770809719396
+  },
+  {
+    "coverImage": "/images/2026-02-12/2021856316722159690_0.jpg",
+    "create_time": 1770883084000,
+    "description": "展示Midjourney最新推出的图像生成风格，具有鲜明的视觉特征和细节表现。",
+    "id": "2021856316722159690",
+    "images": [
+      "/images/2026-02-12/2021856316722159690_0.jpg",
+      "/images/2026-02-12/2021856316722159690_1.jpg",
+      "/images/2026-02-12/2021856316722159690_2.jpg",
+      "/images/2026-02-12/2021856316722159690_3.jpg"
+    ],
+    "likes": 2223,
+    "model": "midjourney",
+    "prompts": [
+      "Newly created style on Midjourney\n\n--sref 4428133947",
+      "Midjourney 上新创建的风格\n\n--sref 4428133947"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2021856316722159690"
+    },
+    "status": 1,
+    "tags": [
+      "concept-art",
+      "render",
+      "creative"
+    ],
+    "title": "Midjourney新风格示例",
+    "update_time": 1770900564905
+  },
+  {
+    "coverImage": "/images/2026-02-12/2021768799897497920_0.jpg",
+    "create_time": 1770862219000,
+    "description": "在这张超写实电影感的照片中，一位戴头巾的年轻女性在欧式城市街道上滑行，她的动作自信而充满动感。身体周围环绕着粉橙色发光轮廓和霓虹光效，营造出未来感十足的街头时尚氛围。",
+    "id": "2021768799897497920",
+    "images": [
+      "/images/2026-02-12/2021768799897497920_0.jpg",
+      "/images/2026-02-12/2021768799897497920_1.jpg"
+    ],
+    "likes": 94,
+    "model": "midjourney",
+    "prompts": [
+      "Ultra-realistic cinematic street photography, a young hijabi woman skateboarding in a city street at dusk, fashion editorial style, full body shot, dynamic action pose, joyful confident expression.\nShe is a young woman (age 18–23), pale fair skin, smooth porcelain complexion, glossy peach lipstick, Korean look makeup, large glowing eyes, sharp wing eyeliner, soft youthful facial features, elegant and feminine. Her face identitical with the photo reference, dont take her outfit, only her face. \nShe is wearing a modern oversized hoodie with glowing neon typography on the chest with text \"Sufni\", modest hijab covering neck and chest fully (no skin showing on neck), loose pants, and trendy sneakers.\nHer skateboard is under her feet, mid-motion as she balances and rides, knees slightly bent, dynamic sporty posture.\nAdd neon light effects tracing her legs and shoes, glowing pink and orange light outlines around her body, glowing neon sneakers, electric light streaks and sparks around her legs, doodle neon hearts and stars near her feet, glowing futuristic street fashion vibe.\nBackground: European-style city street with warm bokeh lights, blurred people walking in background, evening golden hour to blue hour sky, cinematic depth of field, shallow focus, realistic lens blur, urban fashion atmosphere.\nLighting: cinematic neon rim light, warm street lights, glowing reflections on pavement, soft volumetric lighting, high dynamic range, ultra-detailed shadows, realistic global illumination.\nCamera: full-body fashion editorial shot, 35mm lens, low angle slightly upward, high-resolution, ultra sharp focus on subject, background bokeh, professional fashion photography, magazine cover quality.\nStyle: ultra-realistic, fashion magazine editorial, cinematic neon cyberpunk glow, modern youth street culture, no CGI look, no plastic skin, no cartoon, no illustration, natural skin texture, photorealistic.\n--ar 9:16 --v 6 --style raw --q 2 --s 750\n\nNegative prompt:\ncartoon, anime, CGI, 3D render, illustration, painting, plastic skin, doll face, oversharpen, oversaturated, low resolution, blurry, bad anatomy, extra fingers, extra limbs, distorted face, watermark, logo, text artifacts, AI generated look, synthetic lighting. Ratio 9 :16.",
+      "超写实电影感街头摄影，一位戴头巾的年轻女性在黄昏时分的城市街道上滑滑板，时尚杂志编辑风格，全身镜头，动态动作姿势，表情自信而愉悦。  \n她是一位18至23岁的年轻女性，肤色白皙，肤质如瓷般光滑，涂着亮泽的蜜桃色口红，妆容具有韩式风格，眼睛大而明亮，眼线锐利上扬，面部轮廓柔和青春，气质优雅柔美。她的面部需与参考照片完全一致，仅保留其面部特征，不包含其服装。  \n她身穿一件现代 oversized 连帽衫，胸前有发光霓虹字体“Sufni”，佩戴端庄的头巾，完全遮盖颈部与胸部（颈部无皮肤露出），下身搭配宽松长裤和潮流运动鞋。  \n滑板位于她脚下，正处于滑行中的平衡姿态，膝盖微弯，呈现动感十足的运动姿势。  \n添加霓虹光效勾勒她的双腿与鞋子，身体周围环绕粉橙色发光轮廓，运动鞋发出霓虹光芒，腿部周围带有电光轨迹与火花，脚边点缀涂鸦风格的霓虹爱心与星星，整体营造出充满未来感的街头时尚氛围。  \n背景为欧式城市街道，温暖的散景灯光，背景行人模糊走动，天空处于黄金时刻向蓝色时刻过渡阶段，具有电影级景深、浅景深效果、真实镜头虚化和都市时尚气息。  \n光影效果：电影感霓虹轮廓光、温暖街灯、路面上的发光反射、柔和体积光、高动态范围、超精细阴影、真实全局光照。  \n拍摄视角：全身时尚杂志编辑镜头，35mm 镜头，略带仰角的低机位，高分辨率，主体超清晰对焦，背景虚化，专业时尚摄影水准，具备杂志封面质感。  \n风格：超写实、时尚杂志编辑风、电影感霓虹赛博朋克光效、当代青年街头文化，杜绝CGI感、塑料肌肤、卡通、插画效果，强调自然肌肤纹理与逼真摄影质感。  \n--ar 9:16 --v 6 --style raw --q 2 --s 750\n\n负面提示：  \n卡通、动漫、CGI、3D渲染、插画、绘画、塑料肌肤、娃娃脸、过度锐化、过度饱和、低分辨率、模糊、解剖结构错误、多余手指、多余肢体、面部扭曲、水印、logo、文字伪影、AI生成感、人工合成光照。比例 9:16。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "simply",
+      "url": "https://x.com/kingofdairyque/status/2021768799897497920"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "fashion",
+      "neon"
+    ],
+    "title": "霓虹街头的滑板少女",
+    "update_time": 1770900564906
+  },
+  {
+    "coverImage": "/images/2026-02-11/2021555224348127276_0.jpg",
+    "create_time": 1770811298000,
+    "description": "一位创作者在晨光中打开Midjourney，开始新一轮的图像生成实验。",
+    "id": "2021555224348127276",
+    "images": [
+      "/images/2026-02-11/2021555224348127276_0.jpg",
+      "/images/2026-02-11/2021555224348127276_1.jpg",
+      "/images/2026-02-11/2021555224348127276_2.jpg",
+      "/images/2026-02-11/2021555224348127276_3.jpg"
+    ],
+    "likes": 300,
+    "model": "midjourney-v7",
+    "prompts": [
+      "Back to exploring with Midjourney this morning, it’s been a long time \n\n--sref 310012397 1496622816 --profile h3dkhkz --v 7",
+      "今天早上又开始用 Midjourney 进行探索了，已经很久没有这样做了。\n\n--sref 310012397 1496622816 --profile h3dkhkz --v 7"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Anima",
+      "url": "https://x.com/Anima_Labs/status/2021555224348127276"
+    },
+    "status": 1,
+    "tags": [
+      "creative",
+      "digital-art",
+      "modern"
+    ],
+    "title": "清晨的AI绘图探索",
+    "update_time": 1770900564906
+  },
+  {
+    "coverImage": "/images/2026-02-11/2021534216958402573_0.jpg",
+    "create_time": 1770806290000,
+    "description": "这幅肖像展示了闭眼的红发女子，她身穿白色立领衬衫，在柔和鼠尾草绿背景前显得超现实。强烈的ICM和长曝光效果带来了动态模糊感，前景中的粉色花朵旋转成圆形轨迹。",
+    "id": "2021534216958402573",
+    "images": [
+      "/images/2026-02-11/2021534216958402573_0.jpg",
+      "/images/2026-02-11/2021534216958402573_1.jpg",
+      "/images/2026-02-11/2021534216958402573_2.jpg"
+    ],
+    "likes": 23,
+    "model": "midjourney",
+    "prompts": [
+      "Into the dream i live in!..\n\nMade with Midjourney\nPrompt:\n\nA fine-art editorial portrait of a woman with red hair and closed eyes, wearing a white collared silk blouse. The image features a heavy intentional camera movement (ICM) and long exposure effect, creating a dreamy, ethereal motion blur. A soft pink flower is held in the foreground, its petals blurred into a circular motion. Muted sage green background, soft cinematic lighting, surreal atmosphere, shot on 35mm film, high grain, dreamcore aesthetic.\"",
+      "一幅精致艺术风格的肖像作品，描绘一位红发女子闭着眼睛，身穿白色立领真丝衬衫。画面采用强烈的故意相机移动（ICM）和长曝光效果，营造出梦幻、空灵的动态模糊感。前景中有一朵柔粉色花朵，其花瓣因旋转运动而模糊成圆形轨迹。背景为低饱和的鼠尾草绿色，光线柔和且富有电影感，整体氛围超现实，采用35毫米胶片拍摄，高颗粒感，呈现梦境核心（dreamcore）美学。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Al-Shamus",
+      "url": "https://x.com/im_shahid7/status/2021534216958402573"
+    },
+    "status": 1,
+    "tags": [
+      "portrait",
+      "cinematic",
+      "dreamcore"
+    ],
+    "title": "红发女子的梦境肖像",
+    "update_time": 1770900564906
+  },
+  {
+    "coverImage": "/images/2026-02-11/2021638376193994875_0.jpg",
+    "create_time": 1770831123000,
+    "description": "这个图像展示了用3D技术渲染的一个充满80年代风情的橡皮泥制品，它将你带回那个色彩柔和、设计圆润的时代。背景纯净，光线温柔，材质光滑，细节精致。",
+    "id": "2021638376193994875",
+    "images": [
+      "/images/2026-02-11/2021638376193994875_0.jpg",
+      "/images/2026-02-11/2021638376193994875_1.jpg",
+      "/images/2026-02-11/2021638376193994875_2.jpg",
+      "/images/2026-02-11/2021638376193994875_3.jpg"
+    ],
+    "likes": 87,
+    "model": "midjourney-v7",
+    "prompts": [
+      "PLASTICINE in Midjourney V7\n\nPROMPT\n3d render of a plasticine [pop culture object, symbol, or element],  in a cute and pastel color theme, \nisolated on a [solid background color],  with soft lighting, smooth rounded materials, and subtle shadows, in the style of 80s aesthetics, \nhigh resolution, high quality.",
+      "3D渲染的橡皮泥[流行文化物件、符号或元素]，采用可爱柔和的粉彩色调，置于[纯色背景]上，搭配柔光、光滑圆润的材质和细微阴影，呈现80年代美学风格，高分辨率，高质量。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Pierrick Chevallier | IA",
+      "url": "https://x.com/CharaspowerAI/status/2021638376193994875"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "clay",
+      "80s"
+    ],
+    "title": "80年代美学风格的3D橡皮泥流行物件",
+    "update_time": 1770900564906
+  },
+  {
+    "coverImage": "/images/2026-02-13/2022219710503563521_0.jpg",
+    "create_time": 1770969724000,
+    "description": "一张展示Midjourney最新图像生成风格的样图，具有鲜明的视觉特征和细节表现。",
+    "id": "2022219710503563521",
+    "images": [
+      "/images/2026-02-13/2022219710503563521_0.jpg",
+      "/images/2026-02-13/2022219710503563521_1.jpg",
+      "/images/2026-02-13/2022219710503563521_2.jpg",
+      "/images/2026-02-13/2022219710503563521_3.jpg"
+    ],
+    "likes": 21,
+    "model": "midjourney",
+    "prompts": [
+      "Newly created style on Midjourney\n\n--sref 5493627075",
+      "Midjourney 上新创建的风格\n\n--sref 5493627075"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2022219710503563521"
+    },
+    "status": 1,
+    "tags": [
+      "concept-art",
+      "render",
+      "creative"
+    ],
+    "title": "Midjourney新风格示例",
+    "update_time": 1770982410583
+  },
+  {
+    "coverImage": "/images/2026-02-13/2022252310664290547_0.jpg",
+    "create_time": 1770977457000,
+    "description": "一座展现四季变化的螺旋塔，每一层代表一个季节，从春季的新生命到冬季的静谧休眠。人物随螺旋阶梯成长、老去，体验自然循环。黏土风格渲染赋予作品童话般的质感。",
+    "id": "2022252310664290547",
+    "images": [
+      "/images/2026-02-13/2022252310664290547_0.jpg",
+      "/images/2026-02-13/2022252310664290547_1.jpg"
+    ],
+    "likes": 4,
+    "model": "midjourney",
+    "prompts": [
+      "Four-season spiral tower relief of [LOCATION] showing seasonal progression as \nvertical ascent. Each season occupies a tier, spiraling upward like nature's growth:\n\nTIER 1 - SPRING FOUNDATION (Ground Level, 0-3cm height):\n[LOCATION] awakening from winter - Melting snow revealing fresh earth, cherry \nblossoms bursting at base level, farmers planting fields, birds returning to \nnests, children flying kites, morning mist, NEW LIFE emerging from ground literally \nrising from platform, color palette: soft pinks, fresh greens, misty whites, \nhopeful pastels, composition: spreading outward like roots/growth, low relief \nshowing emergence.\n\nTIER 2 - SUMMER EXPANSION (Rising Level, 3-6cm height):\nSame location climbing upward - Full bloom vegetation now at mid-height, summer \nfestivals with crowds, beaches packed, markets overflowing with produce, sun at \nzenith, maximum energy, ABUNDANCE literally stacking higher, color palette: \nvibrant yellows, deep greens, azure blues, saturated intensity, composition: \ndensest layer with most figures/activity, medium relief showing peak vitality.\n\nTIER 3 - AUTUMN PLATEAU (Upper Level, 6-9cm height):\nElevation continues - Harvest scenes at higher tier, leaves changing and falling \ndownward toward lower levels, people gathering crops, preparing for winter, sunset \ngolden light, MATURITY and reflection, color palette: burnt oranges, golden yellows, \nburgundy reds, amber wisdom, composition: gathering inward, high relief with \ncontemplative mood.\n\nTIER 4 - WINTER SUMMIT (Peak Level, 9-12cm height):\nReaching apex - Snow covering peak like mountain top, bare trees at highest point, \nminimal activity (hibernation/rest), stars visible at top, full moon, DORMANCY \nand waiting, color palette: icy blues, pure whites, silver frost, deep night \npurples, composition: sparse and minimal, highest relief but most empty, creating \nanticipation for cycle restart.\n\nCONNECTING SPIRAL STAIRCASE/PATH:\nLiteral stairway winds around tower connecting all four tiers - Same CHARACTERS \nvisible climbing: \n- Tier 1: Child planting seed\n- Tier 2: Teenager harvesting fruit  \n- Tier 3: Adult gathering crops\n- Tier 4: Elder resting at summit\n\nCENTRAL AXIS ELEMENT:\n[ICONIC TREE/LANDMARK] grows through all four tiers - trunk at spring base, \nfull canopy at summer, changing leaves at autumn, bare branches at winter peak. \nVisible from all angles, unifying vertical element.\n\nWATER ELEMENT:\nStream/waterfall flows DOWN from winter (snowmelt) → through autumn (rainfall) → \nto summer (irrigation) → nourishing spring (groundwater), creating physical \ndownward flow while seasons spiral upward.\n\nMounted on circular platform showing seasonal quadrants at base (like compass), \nspiral rises counterclockwise (Northern Hemisphere seasonal flow). \n\nIsometric view showing all tiers simultaneously, Pixar-style clay render with \nStudio Ghibli's seasonal magic, color temperature rises with height (warm base \n→ cool summit), extreme height variation creates dramatic 3D effect, lighting \nfrom side showing tier shadows, background gradient from earth-tone to sky-blue. --ar 1:1\n\nINNOVATION: Seasons aren't flat quadrants but EVOLUTIONARY STAGES you climb through",
+      "[地点]的四季螺旋塔浮雕，以垂直上升的方式展现季节更迭。每一季占据一层，如自然生长般螺旋而上：\n\n第一层——春之根基（地面层，高度0-3厘米）：  \n[地点]从冬眠中苏醒——融雪露出新生泥土，樱花在底层盛放，农夫播种田地，鸟儿归巢，孩童放风筝，晨雾缭绕，新生命从平台地面真实升起。色彩以柔粉、嫩绿、雾白与充满希望的淡彩为主。构图如根系般向外延展，浅浮雕表现萌发之态。\n\n第二层——夏之繁盛（上升层，高度3-6厘米）：  \n同一地点向上攀升——植被在此中层全然盛开，夏日节庆人潮涌动，海滩熙攘，市集蔬果丰盈，烈日当空，能量达到顶峰，“丰饶”意象层层堆叠。色彩采用鲜明黄、深翠绿、湛蓝，饱和浓烈。构图为最密集的一层，人物与活动最多，中等浮雕展现生命巅峰。\n\n第三层——秋之高原（上层，高度6-9厘米）：  \n继续抬升——更高处呈现丰收场景，树叶变色并飘落至下层，人们收割作物、备冬储粮，夕照洒下金色光辉，体现成熟与沉思。色彩为焦橙、金黄、酒红与琥珀般的智慧色调。构图向内收拢，高浮雕营造静思氛围。\n\n第四层——冬之峰顶（顶端层，高度9-12厘米）：  \n抵达塔尖——积雪覆盖峰顶如高山之巅，最高处仅见枯枝，活动极少（休眠与静待），星辰显现于顶端，满月高悬，呈现“蛰伏”与“等待”之意。色彩为冰蓝、纯白、银霜与深邃夜紫。构图稀疏极简，虽为最高浮雕却最为留白，营造循环重启的期待感。\n\n连接螺旋阶梯/小径：  \n一条实体阶梯环绕塔身，连通四层——同一组角色沿阶攀登：  \n- 第一层：孩童播种  \n- 第二层：少年采摘果实  \n- 第三层：成人收割庄稼  \n- 第四层：老者静坐峰顶  \n\n中心轴元素：  \n[标志性树木/地标]贯穿四层——树干始于春之基底，盛夏形成完整树冠，秋季叶色变幻，冬季顶端仅余枯枝。此元素从任意角度皆可见，作为统一的垂直主线。\n\n水体元素：  \n溪流/瀑布自冬（融雪）向下流淌 → 经秋（降雨）→ 至夏（灌溉）→ 滋养春（地下水），形成物理上的下行水流，与螺旋上升的季节形成对比。\n\n整体安置于圆形基座之上，基座划分四季象限（如罗盘），螺旋呈逆时针上升（符合北半球季节流转）。  \n\n采用等距视角同时展现所有层级，皮克斯风格黏土渲染结合吉卜力式的季节魔法；色彩温度随高度升高由暖转冷；强烈高低起伏营造戏剧性3D效果；侧光照明凸显各层投影；背景渐变由大地色过渡至天蓝色。--ar 1:1\n\n创新点：四季并非平面象限，而是可攀登的演化阶段。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "两斤",
+      "url": "https://x.com/0x00_Krypt/status/2022252310664290547"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "animation",
+      "childlike"
+    ],
+    "title": "四季螺旋塔：从春之新生到冬之蛰伏",
+    "update_time": 1770982410586
+  },
+  {
+    "coverImage": "/images/2026-02-12/2021980176196739427_0.jpg",
+    "create_time": 1770912615000,
+    "description": "胶片质感的双重曝光作品，肖像与抽象纹理温柔交融，暖调中透出怀旧与沉思。",
+    "id": "2021980176196739427",
+    "images": [
+      "/images/2026-02-12/2021980176196739427_0.jpg",
+      "/images/2026-02-12/2021980176196739427_1.jpg",
+      "/images/2026-02-12/2021980176196739427_2.jpg",
+      "/images/2026-02-12/2021980176196739427_3.jpg"
+    ],
+    "likes": 57,
+    "model": "midjourney-v7",
+    "prompts": [
+      "SHARE: \n\nA double exposure composition where two images blend seamlessly. The first image is a portrait or landscape. The second image is texture or abstract elements. The blend is intentional and poetic. The color palette is warm and muted. The mood is dreamlike and contemplative. Shot on film, double exposure technique, natural grain. The blend tells a story. Poetic, dreamlike, nostalgic --v 7 --ar 9:16 --quality 2",
+      "一种双重曝光构图，两张图像无缝融合。第一张图像为肖像或风景，第二张图像为纹理或抽象元素。融合具有诗意且富有意图，色调温暖而柔和，氛围梦幻且沉思。采用胶片拍摄，运用双重曝光技法，保留自然颗粒感。整体融合讲述一个故事，风格诗意、梦幻、怀旧。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Heather Cooper",
+      "url": "https://x.com/HBCoop_/status/2021980176196739427"
+    },
+    "status": 1,
+    "tags": [
+      "cinematic",
+      "photography",
+      "film"
+    ],
+    "title": "双重曝光下的梦幻叙事",
+    "update_time": 1770982410587
+  },
+  {
+    "coverImage": "/images/2026-02-12/2021927043407991248_0.jpg",
+    "create_time": 1770899947000,
+    "description": "这幅作品展示了独特的纹理和色彩运用，仿佛是艺术家对自然界细腻触感的一次深刻挖掘。",
+    "id": "2021927043407991248",
+    "images": [
+      "/images/2026-02-12/2021927043407991248_0.jpg",
+      "/images/2026-02-12/2021927043407991248_1.jpg",
+      "/images/2026-02-12/2021927043407991248_2.jpg",
+      "/images/2026-02-12/2021927043407991248_3.jpg",
+      "/images/2026-02-12/2021927043407991248_4.jpg",
+      "/images/2026-02-12/2021927043407991248_5.jpg",
+      "/images/2026-02-12/2021927043407991248_6.jpg",
+      "/images/2026-02-12/2021927043407991248_7.jpg"
+    ],
+    "likes": 151,
+    "model": "midjourney",
+    "prompts": [
+      "During my style exploration on Midjourney, I discovered this one, the texture is simply stunning\n\n--sref 1007058050",
+      "在我使用 Midjourney 进行风格探索时，发现了这一种，其纹理简直惊艳。\n\n--sref 1007058050"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Anima",
+      "url": "https://x.com/Anima_Labs/status/2021927043407991248"
+    },
+    "status": 1,
+    "tags": [
+      "texture",
+      "art",
+      "creative"
+    ],
+    "title": "惊艳纹理的风格探索",
+    "update_time": 1770982410587
   }
 ]

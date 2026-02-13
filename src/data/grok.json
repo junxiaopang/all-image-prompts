@@ -886,5 +886,33 @@
     ],
     "title": "欢快的3D卡通女孩在色彩斑斓的城市小巷中",
     "update_time": 1770559802473
+  },
+  {
+    "coverImage": "/images/2026-02-08/2020396912474747234_0.jpg",
+    "create_time": 1770535135000,
+    "description": "一位Pixar风格的可爱女孩人偶身穿淡粉衬衫与牛仔短裤，置于透明吸塑包装中，周围整齐排列着日常配件，整体呈现柔和粉彩色调与精致细节。",
+    "id": "2020396912474747234",
+    "images": [
+      "/images/2026-02-08/2020396912474747234_0.jpg"
+    ],
+    "likes": 200,
+    "model": "grok-2",
+    "prompts": [
+      "A premium 3D starter pack collectible toy figure displayed in transparent blister packaging on a soft pastel pink background.\nCentered full-body anime / Pixar-inspired 3D girl doll with a cute, elegant face:\nbig expressive eyes, soft blush cheeks, smooth porcelain skin, glossy lips, wavy medium-length brown hair, gentle sweet expression.\nOutfit: oversized pastel pink button-up shirt worn open, white crop top inside, blue denim shorts, black sneakers with white soles.\nAccessories neatly arranged in molded compartments around the figure:\nblue backpack, smartphone, wired earphones, airpods, compact camera, instant camera, selfie stick/tripod, iced coffee cup, coffee mug, pen, casual shoes.\nPackaging design:\nminimalist aesthetic, symmetrical layout, clean plastic mold, premium collectible look.\nTop title text:\n“NOOR ” in a soft modern font, centered at the top of the packaging.\nSoft studio lighting, pastel color palette, ultra-detailed textures, realistic shadows, product photography style, kawaii modern aesthetic, 8K resolution, sharp focus.",
+      "一款高端3D入门收藏玩具人偶，置于透明吸塑包装中，背景为柔和的粉红色。  \n居中展示全身像的动漫/Pixar风格3D女孩玩偶，面容可爱优雅：  \n大而富有表现力的眼睛、柔和泛红的脸颊、光滑如瓷的肌肤、亮泽的嘴唇、中等长度的波浪棕色秀发，神情温柔甜美。  \n服装搭配：敞开穿着的宽松淡粉色纽扣衬衫，内搭白色短款上衣，蓝色牛仔短裤，黑色配白色鞋底的运动鞋。  \n配件整齐排列在人偶周围的模塑隔槽中：  \n蓝色背包、智能手机、有线耳机、AirPods、便携相机、拍立得相机、自拍杆/三脚架、冰咖啡杯、咖啡马克杯、笔、休闲鞋。  \n包装设计：  \n极简美学、对称布局、干净的塑料模具、高端收藏品质感。  \n包装顶部居中印有标题文字：  \n“NOOR”，采用柔和现代字体。  \n柔光摄影棚灯光、粉彩色调、超精细纹理、逼真阴影、产品摄影风格、可爱现代美学、8K分辨率、焦点锐利。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Noor",
+      "url": "https://x.com/Noor_ul_ain43/status/2020396912474747234"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "toy",
+      "product"
+    ],
+    "title": "高端3D女孩收藏人偶展示",
+    "update_time": 1770809719396
   }
 ]
