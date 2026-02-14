@@ -4399,5 +4399,99 @@
     ],
     "title": "惊艳纹理的风格探索",
     "update_time": 1770982410587
+  },
+  {
+    "coverImage": "/images/2026-02-13/2022391254315893048_0.jpg",
+    "create_time": 1771010623000,
+    "description": "一座浮岛上的发光树映照着水下幽蓝荧光岩层，宁静而神秘。",
+    "id": "2022391254315893048",
+    "images": [
+      "/images/2026-02-13/2022391254315893048_0.jpg",
+      "/images/2026-02-13/2022391254315893048_1.jpg"
+    ],
+    "likes": 99,
+    "model": "midjourney",
+    "prompts": [
+      "Desktop Wallpaper\n\nWhich image do you like best?\n\nCreated in @Somake_ai\nModel: Midjourney\n\nPrompt:\nA surreal digital art piece featuring a small rocky island floating in a vast, calm ocean under a hazy, monochromatic grey sky. Atop the island sits a glowing tree with ethereal foliage that transitions from soft pink to vibrant cyan, radiating a gentle light. The composition uses a split-level view, revealing a massive, jagged rock formation submerged beneath the water's surface, mirroring the island above. Bioluminescent blue light flows through the cracks of the underwater rock, with crystalline droplets falling into the abyss below. The mood is serene, mystical, and otherworldly, characterized by a minimalist color palette with pops of neon luminescence.\n#Wallpapers4k #AIart\n\n##",
+      "一张超现实的数字艺术作品，描绘了一座小小的岩石岛屿漂浮在广阔而平静的海洋中，上方是朦胧的单色灰色天空。岛顶生长着一棵发光的树，其空灵的枝叶由柔粉渐变为鲜艳的青色，散发出柔和的光芒。画面采用分层视角，揭示出水下隐藏的巨大锯齿状岩层，与上方岛屿形成镜像。幽蓝色的生物荧光从水下岩石的裂缝中流淌而出，晶莹剔透的水滴坠入下方的深渊。整体氛围宁静、神秘且超凡脱俗，采用极简的色彩搭配，并点缀以霓虹般的荧光色。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Viki",
+      "url": "https://x.com/churvikv/status/2022391254315893048"
+    },
+    "status": 1,
+    "tags": [
+      "fantasy",
+      "sci-fi",
+      "neon"
+    ],
+    "title": "发光树岛与水下荧光岩层",
+    "update_time": 1771072349379
+  },
+  {
+    "coverImage": "/images/2026-02-14/2022582347900817919_0.jpg",
+    "create_time": 1771056184000,
+    "description": "展示Midjourney最新推出的视觉风格，融合现代与实验性元素。",
+    "id": "2022582347900817919",
+    "images": [
+      "/images/2026-02-14/2022582347900817919_0.jpg",
+      "/images/2026-02-14/2022582347900817919_1.jpg",
+      "/images/2026-02-14/2022582347900817919_2.jpg",
+      "/images/2026-02-14/2022582347900817919_3.jpg"
+    ],
+    "likes": 13,
+    "model": "midjourney",
+    "prompts": [
+      "Newly created style on Midjourney\n\n--sref 7693155436",
+      "Midjourney 上新创建的风格\n\n--sref 7693155436"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Amira Zairi",
+      "url": "https://x.com/azed_ai/status/2022582347900817919"
+    },
+    "status": 1,
+    "tags": [
+      "creative",
+      "modern",
+      "concept-art"
+    ],
+    "title": "Midjourney新风格示例",
+    "update_time": 1771072349379
+  },
+  {
+    "coverImage": "/images/2026-02-14/2022609844977516891_0.jpg",
+    "create_time": 1771062739000,
+    "description": "Midjourney新风格示例",
+    "id": "2022609844977516891",
+    "images": [
+      "/images/2026-02-14/2022609844977516891_0.jpg",
+      "/images/2026-02-14/2022609844977516891_1.jpg",
+      "/images/2026-02-14/2022609844977516891_2.jpg",
+      "/images/2026-02-14/2022609844977516891_3.jpg",
+      "/images/2026-02-14/2022609844977516891_4.jpg",
+      "/images/2026-02-14/2022609844977516891_5.jpg",
+      "/images/2026-02-14/2022609844977516891_6.jpg",
+      "/images/2026-02-14/2022609844977516891_7.jpg"
+    ],
+    "likes": 11,
+    "model": "midjourney-v7",
+    "prompts": [
+      "--sref 2436531712"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Anima",
+      "url": "https://x.com/Anima_Labs/status/2022609844977516891"
+    },
+    "status": 1,
+    "tags": [
+      "interior",
+      "lifestyle",
+      "relaxation"
+    ],
+    "title": "Midjourney新风格示例",
+    "update_time": 1771071383460
   }
 ]

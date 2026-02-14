@@ -11779,5 +11779,36 @@
     ],
     "title": "酷感十足的超写实女性人像",
     "update_time": 1770982410587
+  },
+  {
+    "coverImage": "/images/2026-02-14/2022606746343317544_0.jpg",
+    "create_time": 1771062001000,
+    "description": "从一本超现实风格的护照中升起，这个微缩3D模型精细地展示了国家的标志性建筑与景色。柔和的电影照明突出了细节，让人仿佛置身于那片迷你的天地之中。",
+    "id": "2022606746343317544",
+    "images": [
+      "/images/2026-02-14/2022606746343317544_0.jpg",
+      "/images/2026-02-14/2022606746343317544_1.jpg",
+      "/images/2026-02-14/2022606746343317544_2.jpg",
+      "/images/2026-02-14/2022606746343317544_3.jpg"
+    ],
+    "likes": 37,
+    "model": "gpt-5",
+    "prompts": [
+      "Hyper-realistic open [COUNTRY] passport on a studio surface, with gold-embossed “[Official Passport Name]” text and leather texture. From its pages rises a miniature 3D diorama of [COUNTRY], featuring [ICONIC LANDMARKS], [CITYSCAPES/COASTLINES/COUNTRYSIDE], and tiny human figures for scale. Passport pages show stamps and paper texture. Soft cinematic lighting, shallow depth of field, ultra-detailed photorealistic luxury style.",
+      "超现实主义打开[国家]的护照放在工作室表面上，上面有浮雕的“[官方护照名称]”文字和皮革纹理。从其页面中升起一个微缩的3D立体模型，展现着[国家]的标志性建筑、城市景观/海岸线/乡村景色以及微小的人形作为比例参考。护照页显示邮票和纸张纹理。柔和的电影照明，浅景深，超详细的摄影写实奢华风格。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "simeon-sanai",
+      "url": "https://x.com/Naiknelofar788/status/2022606746343317544"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "cinematic",
+      "realistic"
+    ],
+    "title": "微缩3D模型展现国家风貌",
+    "update_time": 1771072349380
   }
 ]

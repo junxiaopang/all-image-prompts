@@ -38373,5 +38373,153 @@
     ],
     "title": "哑光黑与金属银的奢华波纹",
     "update_time": 1770982410587
+  },
+  {
+    "coverImage": "/images/2026-02-13/2022358227359252629_0.jpg",
+    "create_time": 1771002749000,
+    "description": "在这张充满戏剧性的图像中，一位写实风格的义警蹲伏在滴水嘴兽上，手持红色蛛网纹路面具，背景是1940年代阴暗的城市天际线和一轮巨大的满月。黑白风格，光影对比强烈。",
+    "id": "2022358227359252629",
+    "images": [
+      "/images/2026-02-13/2022358227359252629_0.jpg",
+      "/images/2026-02-13/2022358227359252629_1.jpg"
+    ],
+    "likes": 35,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "{\n  \"subject\": \"Use the reference image for facial features and likeness. A realistic noir vigilante with his face visible, wearing a black trench coat and a classic fedora, holding a red web-patterned superhero mask in one hand\",\n  \"pose\": \"Crouched heroically on a gothic rooftop gargoyle, holding his mask in one hand\",\n  \"environment\": \"1940s dark city skyline, massive full moon behind him, light fog and distant silhouettes below\",\n  \"style\": \"Cinematic black and white, dramatic high-contrast lighting, low-angle shot, subtle red accent in background\",\n  \"format\": \"Movie poster composition,4:5, ultra-detailed, 4K\"\n}",
+      "以参考图像为准还原面部特征与相貌。一位写实风格的黑色电影风格义警，面部清晰可见，身穿黑色风衣，头戴经典软呢帽，一手握着红色蛛网纹路的超级英雄面具。  \n姿势为英勇地蹲伏在哥特式屋顶的滴水嘴兽上，一手持面具。  \n背景是1940年代阴暗的城市天际线，身后是一轮巨大的满月，薄雾弥漫，远处可见模糊的人影剪影。  \n采用电影感黑白风格，戏剧性的高对比度光影，低角度镜头，背景中带有微妙的红色点缀。  \n构图如电影海报，比例4:5，超精细细节，4K画质。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Kaan",
+      "url": "https://x.com/kaanakz/status/2022358227359252629"
+    },
+    "status": 1,
+    "tags": [
+      "noir",
+      "cinematic",
+      "high-detail"
+    ],
+    "title": "夜幕下的义警：哥特风黑白电影海报",
+    "update_time": 1771072349379
+  },
+  {
+    "coverImage": "/images/2026-02-13/2022269227286102243_0.jpg",
+    "create_time": 1770981530000,
+    "description": "在这个情人节，[BRAND]为您呈现一场视觉盛宴。多款[PRODUCT]产品以心形排列，中心绽放浪漫之花，玫瑰花瓣轻舞于四周，营造出温馨甜蜜的氛围。品牌标志与底部浪漫标语清晰醒目，整体画面采用写实3D渲染，突显高端质感。",
+    "id": "2022269227286102243",
+    "images": [
+      "/images/2026-02-13/2022269227286102243_0.jpg"
+    ],
+    "likes": 507,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Create a professional Valentine’s Day advertisement for [BRAND] in 4:5 aspect ratio. The background should use the signature brand color as a clean, vibrant backdrop. Arrange multiple [PRODUCT] items creatively to form a perfect heart shape in the center of the composition. The products should appear realistic and three-dimensional with professional lighting and soft shadows, clearly displaying logos. Add romantic elements like rose petals or flowers floating around the heart. Position the logo at the top center of the image. At the bottom, include a romantic tagline in bold, modern typography that incorporates the brand’s messaging or plays on the product name. Use photorealistic 3D rendering style with studio lighting and premium advertising quality. Maintain a clean, modern aesthetic that matches the visual identity with significant breathing room around all elements.",
+      "为[BRAND]创作一张4:5比例的专业情人节广告。背景使用品牌标志性颜色，打造干净而鲜明的底色。将多个[PRODUCT]产品以创意方式排列，在画面中央组成一个完美的心形。产品需呈现逼真立体的效果，采用专业布光与柔和阴影，清晰展示品牌标志。在心形周围添加浪漫元素，如飘浮的玫瑰花瓣或花朵。将品牌Logo置于画面顶部中央，底部加入一句浪漫标语，使用粗体现代字体，巧妙融合品牌信息或玩味产品名称。整体采用写实3D渲染风格，搭配影棚灯光，呈现高端广告质感。保持干净现代的视觉美学，符合品牌视觉识别，并确保所有元素周围留有充足留白。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "TechieSA",
+      "url": "https://x.com/TechieBySA/status/2022269227286102243"
+    },
+    "status": 1,
+    "tags": [
+      "3d",
+      "branding",
+      "romantic"
+    ],
+    "title": "情人节特惠：爱的心形礼赞",
+    "update_time": 1771072349379
+  },
+  {
+    "coverImage": "/images/2026-02-14/2022544919920087188_0.jpg",
+    "create_time": 1771047260000,
+    "description": "照片捕捉了2000年代初家庭派对的真实瞬间，一位穿着黑色缎面夹克的时尚女子在昏暗、拥挤的背景中显得格外明亮。高对比度和颗粒感增强了现场氛围。",
+    "id": "2022544919920087188",
+    "images": [
+      "/images/2026-02-14/2022544919920087188_0.jpg",
+      "/images/2026-02-14/2022544919920087188_1.jpg"
+    ],
+    "likes": 27,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Candid party snapshot of a stylish young woman at a house party, wearing a black satin bomber jacket over a black crop top. Long straight dark hair, natural makeup, soft glow on skin. Shot with direct on-camera flash creating harsh shadows and a bright foreground subject against a dark, crowded background. Guests blurred in the background holding drinks, casual apartment setting with dim ambient lighting. In one shot she looks over her shoulder with a neutral expression; in another she smiles while holding a red plastic cup. 35mm lens, documentary nightlife photography, early 2000s party aesthetic, high contrast, grainy texture, realistic, raw, unfiltered vibe.",
+      "一场家庭派对上的抓拍瞬间：一位时尚年轻女子身穿黑色缎面飞行员夹克，内搭黑色短款上衣。她留着长直黑发，妆容自然，肌肤泛着柔和光泽。使用机顶直闪拍摄，形成强烈阴影，使前景人物明亮突出，背景则昏暗拥挤。背景中宾客模糊，手持饮料，身处灯光昏暗的普通公寓环境中。一张照片中她神情淡然地回眸；另一张则手握红色塑料杯微笑。采用35毫米镜头，纪实风格夜生活摄影，呈现2000年代初的派对美学，高对比度、颗粒质感，真实、原始、未经修饰的氛围。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Kashberg",
+      "url": "https://x.com/Kashberg_0/status/2022544919920087188"
+    },
+    "status": 1,
+    "tags": [
+      "night",
+      "fashion",
+      "photography"
+    ],
+    "title": "夜生活中的时尚女子",
+    "update_time": 1771072349379
+  },
+  {
+    "coverImage": "/images/2026-02-14/2022501210872574431_0.jpg",
+    "create_time": 1771036839000,
+    "description": "这幅作品将原始图像转化为电影般的油画，强调厚重的浮雕纹理和雕塑般的笔触。背景富有表现力的抽象笔触与主体的细致形成对比，营造出戏剧性的高对比度效果。",
+    "id": "2022501210872574431",
+    "images": [
+      "/images/2026-02-14/2022501210872574431_0.jpg"
+    ],
+    "likes": 90,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "Create your Knife Oil Painting Portrait  \n\n1. Open Gemini Nano Banana \n2. Select Your image \n3. Write Prompt \n\nPROMPT\nTransform this image into an extreme palette knife oil painting with heavy impasto texture and thick, sculpted paint strokes. Preserve and amplify the original image colors, using them as the dominant palette. Add rough canvas grain, layered knife strokes, abstract paint breaks, and dramatic high-contrast lighting. Keep the main subject sharp and detailed while allowing the background to dissolve into expressive, textured brushwork. Raw, cinematic, gallery-scale oil painting style.\nImage ratio 1:1",
+      "将此图像转换成极端调色刀油画，带有厚重的浮雕纹理和厚实、雕塑般的笔触。保留并放大原始图像颜色，将其用作主要色调。添加粗糙的画布颗粒、分层的刀痕、抽象的油漆断裂和戏剧性的高对比度照明。保持主体清晰细致，同时让背景溶解为富有表现力的纹理笔触。原始、电影般、美术馆规模的油画风格。图像比例为1:1。"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Shreya♡",
+      "url": "https://x.com/Shreyayadav/status/2022501210872574431"
+    },
+    "status": 1,
+    "tags": [
+      "oil-painting",
+      "cinematic",
+      "high-detail"
+    ],
+    "title": "厚重浮雕纹理的油画风格",
+    "update_time": 1771072349379
+  },
+  {
+    "coverImage": "/images/2026-02-13/2022353962385744076_0.jpg",
+    "create_time": 1771001732000,
+    "description": "一张绘图桌上展开的摩洛哥庭院住宅平面图，跃升为可居住的微缩世界：中央庭院有喷泉、橘树和饮茶家人，屋顶露台点缀灯笼与少年，浴室蒸汽透过星形窗格，建筑线条与真实隔断共存，人影如幽灵般穿行其间。",
+    "id": "2022353962385744076",
+    "images": [
+      "/images/2026-02-13/2022353962385744076_0.jpg",
+      "/images/2026-02-13/2022353962385744076_1.jpg",
+      "/images/2026-02-13/2022353962385744076_2.jpg",
+      "/images/2026-02-13/2022353962385744076_3.jpg"
+    ],
+    "likes": 122,
+    "model": "gemini-3-pro-image-preview",
+    "prompts": [
+      "An architectural floor plan of {BUILDING_TYPE} spread across a drafting table, with the spaces rising into inhabitable miniature. {ROOM_1} emerges with {FURNITURE_1} and {ACTIVITY_1} in progress, {ROOM_2} rises with {DESIGN_ELEMENT} and {HUMAN_MOMENT}, {ROOM_3} pushes up with {DETAIL_1} and {LIGHTING_1}. Walls exist as both lines and actual partitions simultaneously. Sight lines marked on the plan become actual views between spaces. The mechanical systems in the plan—HVAC, plumbing, electrical—pulse with invisible function. Human circulation patterns appear as ghosted movement trails. Architectural scale figures become actual tiny inhabitants living their tiny lives. Section cuts reveal vertical relationships. The architect's tools surround: scales, pencils, trace paper. Golden design studio light, the plan as promise and proof, 8K, architecture as life container.     \n\nCheck ALTs for ideas  @AdobeFirefly",
+      "An architectural floor plan of Moroccan riad courtyard house spread across a drafting table, with the spaces rising into inhabitable miniature. The central courtyard emerges with tiled fountain and orange trees and family taking tea as birds drink from basin in progress, the rooftop terrace rises with cushioned banquettes and brass lanterns and teenagers sneaking cigarettes under stars, the hammam bath pushes up with marble heated floor and cedar buckets and steam diffusing afternoon light through star-shaped vents. Walls exist as both lines and actual partitions simultaneously. Sight lines marked on the plan become actual views between spaces. The mechanical systems in the plan—HVAC, plumbing, electrical—pulse with invisible function. Human circulation patterns appear as ghosted movement trails. Architectural scale figures become actual tiny inhabitants living their tiny lives. Section cuts reveal vertical relationships. The architect's tools surround: scales, pencils, trace [...]",
+      "An architectural floor plan of Japanese ryokan traditional inn spread across a drafting table, with the spaces rising into inhabitable miniature. The tatami guest room emerges with futon laid out and low chabudai table and traveler in yukata contemplating rock garden in progress, the communal onsen bath rises with cypress soaking tub and bamboo water spout and steam rising as elderly guests soak in silence, the kaiseki dining room pushes up with lacquered trays on floor cushions and warm lantern glow through shoji screens. Walls exist as both lines and actual partitions simultaneously. Sight lines marked on the plan become actual views between spaces. The mechanical systems in the plan—HVAC, plumbing, electrical—pulse with invisible function. Human circulation patterns appear as ghosted movement trails. Architectural scale figures become actual tiny inhabitants living their tiny lives. Section cuts reveal vertical relationships. The architect's tools surround: scales, pencils [...]",
+      "An architectural floor plan of Brooklyn railroad apartment spread across a drafting table, with the spaces rising into inhabitable miniature. The front parlor turned bedroom emerges with mattress on floor and milk crate bookshelves and artist stretching canvas by window in progress, the middle room with no windows rises with string lights and thrifted couch and roommates arguing about dishes, the galley kitchen pushes up with vintage stove and fire escape herb garden visible and blue morning light mixing with coffee steam. Walls exist as both lines and actual partitions simultaneously. Sight lines marked on the plan become actual views between spaces. The mechanical systems in the plan—HVAC, plumbing, electrical—pulse with invisible function. Human circulation patterns appear as ghosted movement trails. Architectural scale figures become actual tiny inhabitants living their tiny lives. Section cuts reveal vertical relationships. The architect's tools surround: scales, pencils [...]",
+      "An architectural floor plan of Antarctic research station spread across a drafting table, with the spaces rising into inhabitable miniature. The common room emerges with worn sofas and ping pong table and scientists in fleece watching movie on projector in progress, the laboratory wing rises with ice core samples and microscopes and researcher logging data at 3am, the sleeping quarters pushes up with narrow bunks and personal photos taped to walls and blue polar twilight seeping through triple-pane windows. Walls exist as both lines and actual partitions simultaneously. Sight lines marked on the plan become actual views between spaces. The mechanical systems in the plan—HVAC, plumbing, electrical—pulse with invisible function. Human circulation patterns appear as ghosted movement trails. Architectural scale figures become actual tiny inhabitants living their tiny lives. Section cuts reveal vertical relationships. The architect's tools surround: scales, pencils, trace paper. [...]"
+    ],
+    "ratio": "",
+    "source": {
+      "name": "Alexandra Aisling",
+      "url": "https://x.com/AllaAisling/status/2022353962385744076"
+    },
+    "status": 1,
+    "tags": [
+      "architecture",
+      "miniature",
+      "realistic"
+    ],
+    "title": "微型摩洛哥庭院住宅模型",
+    "update_time": 1771072349380
   }
 ]
