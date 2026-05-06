@@ -2,7 +2,7 @@
 
 所有提示词的总目录，点击下方链接查看详情：
 
-- **chatgpt** (共 342 条): [第1页](./chatgpt/1.md) | [第2页](./chatgpt/2.md) | [第3页](./chatgpt/3.md) | [第4页](./chatgpt/4.md)
+- **chatgpt** (共 638 条): [第1页](./chatgpt/1.md) | [第2页](./chatgpt/2.md) | [第3页](./chatgpt/3.md) | [第4页](./chatgpt/4.md) | [第5页](./chatgpt/5.md) | [第6页](./chatgpt/6.md) | [第7页](./chatgpt/7.md)
 
 - **flux** (共 1 条): [第1页](./flux/1.md)
 

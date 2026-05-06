@@ -38,6 +38,7 @@ export const MODEL_MAP = {
   'dall-e-2': 'DALL-E 2',
   'dall-e-3': 'DALL-E 3',
   'gpt-image-1': 'gpt-image-1',
+  'gpt-image-2': 'gpt-image-2',
   'gpt-4o': 'GPT-4o',
   'gpt-5': 'GPT-5',
   'gemini-3-pro-image-preview': 'NanoBanana Pro',
@@ -66,7 +67,7 @@ export const MODEL_CATEGORIES = {
     'high_aes_general_v30l_art_fangzhou:general_v3.0_18b'
   ],
   'Midjourney': ['midjourney-v5','midjourney-v6','midjourney-v7'],
-  'GPT': ['dall-e-2', 'dall-e-3','gpt-image-1','gpt-4o','gpt-5'],
+  'GPT': ['gpt-image-2','gpt-image-1.5','gpt-image-1','gpt-4o'],
   'Grok': ['grok-2-image']
 };
 
