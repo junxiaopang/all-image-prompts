@@ -671,6 +671,10 @@ const App: React.FC = () => {
                   </button>
                   <button
                     onClick={() => setShowLikedOnly(true)}
+                    onContextMenu={(e) => {
+                      e.preventDefault();
+                      console.log('点赞列表 IDs:', likedIds.join(','));
+                    }}
                     className={`px-4 py-1.5 text-xs sm:text-sm font-medium rounded-md transition-all flex items-center gap-1.5 ${showLikedOnly
                       ? 'bg-white dark:bg-slate-600 text-pink-500 dark:text-pink-400 shadow-sm'
                       : 'text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200'

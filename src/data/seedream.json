@@ -525,40 +525,6 @@
     "update_time": 0
   },
   {
-    "id": "100014",
-    "slug": "jm-prompt-7567380031958158602",
-    "title": "厌世杰瑞的办公自拍",
-    "source": {
-      "name": "今天也要努力鸭",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA99pRDHC1K6oeBUglWeURQOPZsQduk8AANd91GECmXN1qetRd3VZOWjhFqzAGP_Ri"
-    },
-    "images": [
-      "images/seedream-images/7567380031958158602.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "photography",
-      "character"
-    ],
-    "coverImage": "images/seedream-images/7567380031958158602.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "149",
-    "status": "0",
-    "prompts": [
-      "日常快照视觉风格，轻微运动模糊，中心构图，拟人化老鼠\"杰瑞\"占据画面中心，自拍大头照，脸上带厌世神情，脖子挂带有自己大头照的工牌。背景为办公场景，旁边电脑屏幕显示平面设计页面，平凡独特氛围。",
-      "一只拟人化的老鼠“杰瑞”形象，以日常快照的视觉风格展现，照片中没有明确的主体或构图感，还带有轻微的运动模糊。主角占据画面中心位置，是自拍的大头照，脸上带着厌世的神情，它脖子上挂着一个带有自己大头照的工牌。背景是办公场景，旁边的电脑屏幕上是平面设计的页面，营造出一种平凡又独特的氛围。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100015",
     "slug": "jm-prompt-7566638876253605146",
     "title": "冥想的蚊子",
@@ -1454,41 +1420,6 @@
     "update_time": 0
   },
   {
-    "id": "100041",
-    "slug": "jm-prompt-7576671353156455707",
-    "title": "暗黑故宫：幼童皇帝的沉重仪式",
-    "source": {
-      "name": "冒险王的奇妙冒险",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAqElP_KWSRXdGNWSO_Jp04KZAL_Tmk351yAkHyN_mWs4djWPsMQcbKpjumgiAgVdU"
-    },
-    "images": [
-      "images/seedream-images/7576671353156455707.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "portrait",
-      "photography",
-      "retro"
-    ],
-    "coverImage": "images/seedream-images/7576671353156455707.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "58",
-    "status": "0",
-    "prompts": [
-      "厚重油画质感，暗黑色调，乌云密布氛围，庄重肃穆的皇家仪式感。3岁清朝幼童身着明黄色龙袍（饰龙纹刺绣、配黑色毛领），头戴红绒球顶戴，挂珍珠朝珠，画面下方仅露出肩膀，低头懵懂麻木，面部模糊隐藏在阴暗中。背景为故宫巨大暗黑的太和殿广场，汉白玉栏杆、石阶清晰，身后广场上无缝隙密密麻麻排列着大量百官人群，与幼童形成巨大与渺小的对比，宏伟的黄色琉璃瓦宫殿矗立其后。整体色调暗黑复古，厚重油画质感，历史叙事感强烈。",
-      "复古电影质感的历史场景画面，主体是身着明黄色龙袍（饰龙纹刺绣、配黑色毛领）、头戴红绒球顶戴、挂珍珠朝珠的清朝3岁幼童；在画面下方仅露出肩膀，低头懵懂麻木，面部模糊隐藏在阴暗中，背景是故宫巨大暗黑的太和殿广场，汉白玉栏杆、石阶清晰，身后广场上无缝隙密密麻麻排列着大量百官人群，和幼童形成巨大和渺小的对比，宏伟的黄色琉璃瓦宫殿矗立其后；整体色调暗黑复古，如乌云阴沉，充满庄重肃穆的皇家仪式感与历史叙事感，厚重油画。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100042",
     "slug": "jm-prompt-7559907099409534218",
     "title": "微缩景观中的好奇小猫",
@@ -1658,39 +1589,6 @@
     "update_time": 0
   },
   {
-    "id": "100047",
-    "slug": "jm-prompt-7575859184600714547",
-    "title": "现代俏皮的白菜图标",
-    "source": {
-      "name": "Wayne",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA4jv_PJNPx_OOoHOr-Ln6Nvk1jpWOrmIggpJYiW0yXTI"
-    },
-    "images": [
-      "images/seedream-images/7575859184600714547.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "ui"
-    ],
-    "coverImage": "images/seedream-images/7575859184600714547.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "88",
-    "status": "0",
-    "prompts": [
-      "卡通3D风格UI图标，正视图，一颗白菜素材图标，橙色与白色配色，带有柔和的渐变和微妙的高光，透明玻璃质感，弥散风，背景纯白色，现代俏皮设计，极简风格。",
-      "UI图标，采用卡通3D风格，正视图，素材图标（一颗白菜），使用橙色跟白色，带有柔和的渐变和微妙的高光，透明玻璃质感，弥散风，背景为纯白色，现代且俏皮的设计，极简风格"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100048",
     "slug": "jm-prompt-7571113707527294218",
     "title": "五路神爷喜庆图",
@@ -1718,39 +1616,6 @@
     "prompts": [
       "Q版搞笑喜庆插图，五路神爷分别为红色福神拿葫芦、绿色禄神抱玉如意、紫色寿神拿桃子、黄色喜神拿灯笼、红色财神拿元宝，均对着镜头开心笑，人物分开不重叠，画面中间留白，精细绘制，色彩鲜艳，喜庆氛围。",
       "五路神爷，福禄寿喜财，红色福神拿葫芦，绿色禄神抱着玉如意，紫色寿神拿桃子，黄色喜神拿灯笼，红色财神拿元宝，对着镜头，开心的笑的画面中间留白，Q版，搞笑，喜庆，插图效果，人物分开不重叠，精细"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100049",
-    "slug": "jm-prompt-7575029586040294707",
-    "title": "皮克斯风格的报纸探头",
-    "source": {
-      "name": "随性赴山河",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAbxMa5aVGFcEaq3iJOAAR7w6OXFjUcIPafpNGKsmBtxs"
-    },
-    "images": [
-      "images/seedream-images/7575029586040294707.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "拿去做封面，或者看电影发朋友圈的时候配上这张图",
-    "tags": [
-      "cartoon"
-    ],
-    "coverImage": "images/seedream-images/7575029586040294707.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "52",
-    "status": "0",
-    "prompts": [
-      "写实漫画风格，皮克斯漫画独特风格，夸张滑稽、搞笑、怪诞不经的造型，尼克和朱迪撕开报纸，从裂缝中探出头，脸上露出得意的笑，一只手臂伸到镜头前，如同登上报纸头条般引人注目，漫画质感，色彩明亮，动态感强，搞笑氛围。",
-      "写实漫画风格，尼克和朱迪以夸张滑稽、搞笑、怪诞不经的造型，撕开报纸，从裂缝中探出头，脸上露出一副得意的笑的表情，一只手臂伸到镜头前，如同登上报纸头条般引人注目，具有皮克斯漫画那种独特的风格"
     ],
     "width": 1536,
     "height": 2048,
@@ -1960,41 +1825,6 @@
     "update_time": 0
   },
   {
-    "id": "100056",
-    "slug": "jm-prompt-7573938345940765978",
-    "title": "疯狂动物城2：明星自拍",
-    "source": {
-      "name": "拾光",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAANslm35arJAuzSPiDDdxAUPwaiqO5pY8XXLq9BHm6yQQ"
-    },
-    "images": [
-      "images/seedream-images/7573938345940765978.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "疯狂动物城电影院ai合影",
-    "tags": [
-      "cartoon",
-      "character",
-      "fashion"
-    ],
-    "coverImage": "images/seedream-images/7573938345940765978.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "136",
-    "status": "0",
-    "prompts": [
-      "日系视觉系风格，用iphone前置自拍效果，画面比例3:4，光线明亮均匀，三位主体靠得很近，头部略微上仰，眼神直视镜头，左侧是身穿浅绿衬衫抱多彩花束的橙色毛发狐狸站得略靠前且身体略微内扣，中间是粉白色毛发装饰且带银色配饰、身穿粉紫色渐变并带有银色装饰服饰的女性，右侧是身穿蓝色警服双手叉腰的灰色毛发兔子，背景为坐满观众的超大电影院，三人背对银幕，银幕显示有众多动物角色、写着“Zootopia”的绿色路牌与显示数字“2”的黄色信号灯及城市建筑的《疯狂动物城2》电影海报，画面构图紧凑，视觉过渡自然，整体呈现精致时尚略带的合影效果。",
-      "不要换脸，人物脸部不能有任何改变！请将图1和图2图3的所有人融合成一张俯拍自拍照，画面构图紧凑，三位主体靠得很近，头部略微上仰，眼神直视镜头，营造出强烈的视觉冲击力。左侧人物站得略靠前，需要保持人脸相似度；需要保持人脸相似度，略微内扣身体，拍摄角度为高角度俯拍，使头部比例被夸张放大，符合典型的日韩视觉自拍风格。简洁干净，进一步凸显人物主体。画面风格偏向日系视觉系，整体画面清晰度高，用iphone前置自拍，最终呈现出精致、时尚、略带的合影效果。要求人物实现无缝融进画面，视觉过渡自然，整体画面光线明亮且均匀，背景为超大电影院坐满了观众，三人背对银幕，银幕显示图4的《疯狂动物城2》电影精美海报不要改变图4内容并填满屏幕，画面比例3:4。"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100057",
     "slug": "jm-prompt-7551412014480985383",
     "title": "血色巷影：新黑色侦探",
@@ -2124,41 +1954,6 @@
     "status": "1",
     "prompts": [
       "主体文字'好运'，狂野奔放草书字体，超粗笔画，流畅飘逸，力量感足，笔画延长变形缠绕，有明显飞白效果，鎏金质感，有金属光泽和厚重感，金色有深浅变化和熔金流动感，边缘略带泼溅金箔效果；背景是带细微噪点的黑色肌理背景，类似粗布、深色砂砾或老旧纸张纹理；'發财'为视觉中心占大部分画面，英文'GOOD LUCK'用浅金色或灰白色起装饰标注作用，有符文点缀，大师级海报风格，融合传统书法与现代设计感，神秘奢华充满能量，画面干净焦点清晰，黑色背景与鎏金字体对比强烈"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100061",
-    "slug": "jm-prompt-7568395837856845083",
-    "title": "国风哪吒螺旋行",
-    "source": {
-      "name": "一缕晨光",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAmspXMAVyiIrYCcO7mEWo8oPdUdGFRl73szv-YvhFi9Ao9F9PAJbDBjBC8SJ0YjkB"
-    },
-    "images": [
-      "images/seedream-images/7568395837856845083.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "poster",
-      "character",
-      "fantasy"
-    ],
-    "coverImage": "images/seedream-images/7568395837856845083.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "42",
-    "status": "0",
-    "prompts": [
-      "国风海报设计，高饱和度，8K高清，焦点固定在哪吒IP形象身上。画面中许多经典国风哪吒海报呈螺旋状环绕，哪吒在旋转的海报中行走，周围有朦胧的模糊、拖影和轨迹效果，充满神秘感。",
-      "海报，画面中有许多名哪吒的经典国风海报呈螺旋状，哪吒IP形象，在旋转的海报中行走，充满神秘感。焦点固定在哪吒IP形象身上，周围是朦胧的模糊、拖影和轨迹效果。高饱和度。8K 高清。"
     ],
     "width": 1152,
     "height": 2048,
@@ -2674,42 +2469,6 @@
     ],
     "width": 1104,
     "height": 1472,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100077",
-    "slug": "jm-prompt-7575491147246669107",
-    "title": "次元自拍：尼克狐与朱迪兔的网红之旅",
-    "source": {
-      "name": "噜学家",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAqYVrqg3aVfDjw8QCk6wdk65qbjp8z5-qkkGEewQ8ri0PrKpyDEXVkFuI3WyFhMge"
-    },
-    "images": [
-      "images/seedream-images/7575491147246669107.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "photography",
-      "neon",
-      "retro"
-    ],
-    "coverImage": "images/seedream-images/7575491147246669107.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "55",
-    "status": "0",
-    "prompts": [
-      "ins网红度假风，8K电影级写实，光线追踪，毛发纤维级细节，次表面散射，Unreal Engine5渲染，破次元构图，疯狂动物城尼克狐、朱迪兔与参考图1图2形象的黄色、头顶带橘的卡通角色在粉色海滩自拍，尼克手持巨型手机以45度角举起，三人手臂伸出Instagram相框外，手机悬浮画面中心呈透视畸变感；画面右侧巨屏UI锐度极致，显示用户名\"@NickJudy_Selfie\"配蓝V认证、点赞数\"5.8M\"加粗闪烁、实时录制红点跳动、带霓虹描边的评论气泡；相框边缘2cm厚玻璃材质反射粉色沙滩；环绕漂浮3D立体红心❤️、点赞手势👍、粉色椰子树🌴、香槟气泡✨图标，拖尾光效叠加暖粉色bloom光晕，镜头光斑梦幻；背景为芭比粉海滩，有细腻珊瑚沙颗粒感、渐变粉橘色海水波光粼粼、柔和日落体积光、贝壳与星星砂闪烁；左侧现实世界阴影锐利、饱和度真实，右侧数字界面柔光滤镜加暗角，高对比度粉金色调。",
-      "疯狂动物城尼克狐和朱迪兔和噜噜（参考附件形象）在粉色海滩自拍，尼克手持巨型手机以45度角举起，三人手臂伸出Instagram相框外打破次元壁，手机悬浮于画面中心呈透视畸变感。画面右侧巨屏UI锐度极致：用户名\"@NickJudy_Selfie\"配蓝V认证，点赞数\"5.8M\"加粗闪烁，实时录制红点跳动，评论气泡带霓虹描边。相框边缘2cm厚玻璃材质反射粉色沙滩。环绕漂浮3D立体红心❤️、点赞手势👍、粉色椰子树🌴、香槟气泡✨图标，拖尾光效叠加暖粉色bloom光晕，镜头光斑梦幻。背景为芭比粉海滩：细腻珊瑚沙颗粒感可见，渐变粉橘色海水波光粼粼，柔和日落体积光，贝壳与星星砂闪烁。左侧现实世界阴影锐利、饱和度真实，右侧数字界面柔光滤镜加暗角，高对比度粉金色调。ins网红度假风，8K电影级写实，光线追踪，毛发纤维级细节，次表面散射，景深聚焦手机，Unreal Engine5渲染，破次元构图，度假感，网感爆棚"
-    ],
-    "width": 1536,
-    "height": 2048,
     "type": "image",
     "create_time": 0,
     "update_time": 0
@@ -3470,77 +3229,6 @@
     "update_time": 0
   },
   {
-    "id": "100100",
-    "slug": "jm-prompt-7574436622226165018",
-    "title": "视觉系自拍：动物明星的大电影",
-    "source": {
-      "name": "困困🐟",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAwFwGT_wkqlL3zfDVixdCw44zQmwO9_K0S-3jwFTUnzoLfPhHV8MfIz5Ib3k9Qut4"
-    },
-    "images": [
-      "images/seedream-images/7574436622226165018.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "character",
-      "anime"
-    ],
-    "coverImage": "images/seedream-images/7574436622226165018.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "130",
-    "status": "0",
-    "prompts": [
-      "日系视觉系风格，iphone前置自拍效果，高角度俯拍画面中，中间是身穿白色带灰色花纹毛衣、身体略微内扣的棕色长发女性，左侧是身穿黄绿花纹衬衫搭配紫条纹领带、双手比心的橙色毛发狐狸，右侧是身穿蓝灰配色警服、双手比心的灰色毛发粉色内耳兔子，三人头部比例夸张放大，背景为坐满观众的超大电影院，狐狸与兔子背对银幕，银幕显示“疯狂动物城2”电影海报，画面光线明亮均匀，人物视觉过渡自然。",
-      "不要换脸，人物脸部不能有任何改变！请将图1和图2和图3的三人融合成一张三人俯拍自拍照，画面构图紧凑，三位主体靠得很近，头部略微上仰，眼神直视镜头，营造出强烈的视觉冲击力。图1在中间人物站得略靠前，需要保持人脸相似度；需要保持人脸相似度，略微内扣身体，拍摄角度为高角度俯拍，使头部比例被夸张放大，符合典型的日韩视觉自拍风格。简洁干净，进一步凸显人物主体。画面风格偏向日系视觉系，整体画面清晰度高，用iphone前置自拍，最终呈现出精致、时尚、略带的合影效果。要求人物实现无缝融进画面，视觉过渡自然，整体画面光线明亮且均匀，背景为超大电影院坐满了观众，两人背对银幕，银幕显示《疯狂动物城2》电影精美海报填满屏幕。"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100101",
-    "slug": "jm-prompt-7574230856168983846",
-    "title": "温馨边缘",
-    "source": {
-      "name": "pigting24",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAE3Sp2tihwc09HyqCP2uSK6j5M_GMmOBvMO6srXPE7ZVc1VrB14WwKtopNAj8Zb0D"
-    },
-    "images": [
-      "images/seedream-images/7574230856168983846.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "character",
-      "minimalist",
-      "nature"
-    ],
-    "coverImage": "images/seedream-images/7574230856168983846.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "45",
-    "status": "0",
-    "prompts": [
-      "卡通简笔画风格，壁纸设计，高清，尼克和朱迪上下趴在画面边缘，尼克是狐狸形象，朱迪是兔子形象，两者均露出充满爱意的表情，暖色调，柔和线条，温馨氛围。",
-      "卡通简笔画，壁纸，尼克和朱迪，上下趴在边上，充满爱意的表情和氛围，高清。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100102",
     "slug": "jm-prompt-7551469909985840447",
     "title": "Q版小米门店UI设计",
@@ -3810,41 +3498,6 @@
       "真实摄影，高质量，超清画质。电影级画面中，呈现出东方玄幻与超现实主义的场景。一只与绿色山丘融为一体伪装成山丘的巨型猫趴在其中，猫各处都被树木覆盖，看上去就像一座真山丘，其背部的起伏和其他山丘的起伏完美融合，难以分辨。山雾缭绕，营造出极简、治愈、梦幻而又震撼的氛围。猫低头俯视着面前极其渺小的人，宛如一幅电影摄影作品，堪称杰作，是能够获奖的优秀作品。全景构图，奇幻风格。"
     ],
     "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100110",
-    "slug": "jm-prompt-7574243347859000626",
-    "title": "狐狸尼克与粉丝破纸而出",
-    "source": {
-      "name": "锦安学长",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA-yxkxvlALOUaJbUB8wuit6pE4BhcCuMq5r8MwdVNp3_RsTVfxv-cAKVRnMACXT_Z"
-    },
-    "images": [
-      "images/seedream-images/7574243347859000626.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "character",
-      "cartoon"
-    ],
-    "coverImage": "images/seedream-images/7574243347859000626.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "468",
-    "status": "0",
-    "prompts": [
-      "迪士尼3D电影动画风格，橙红色毛发、绿色眼睛的狐狸尼克身穿绿色短袖衬衫搭配蓝紫条纹领带，呈现往镜头前冲的姿态，左手伸向镜头且手部有放大效果；一位年轻女性黑色长发别着浅色发夹，身穿白色短袖上衣与迷彩短裤，手自然搭在狐狸尼克肩膀上且身体靠近，两者一同从模仿3D卡通动画电影报纸排版、包含标题栏“KOTER NAWS”及新闻版块、图片区域的虚构报纸破洞穿出并直视镜头，背景为该虚构报纸，柔和自然光照亮主体，整体色彩鲜艳明亮。",
-      "迪士尼3D电影动画风格，画面质感细腻，图1保留动物角色造型特征，保留图2主体真实写真造型特征。画面生动逼真，色彩明快且富有层次，图1和图2主体一同撕开报纸从报纸的破洞中穿出，图1主体有一种往镜头前冲的姿态，打破了报纸的平面性，两位主体一起直视镜头，画面构图紧凑，形成二维背景与三维主体的视觉冲突与融合。图2主体的手自然的搭在图1主体的肩膀上，身体靠近。图1主体的左手伸向镜头，手部有被放大的视觉冲击效果。  背景是一份模仿3D卡通动画电影报纸排版的虚构报纸，包含标题栏（如 “KOTER NAWS”）、新闻版块、图片区域等元素，文字和版面设计模仿卡通动画电影报纸的布局，营造出贴近生活的媒介场景，虽文字为虚构，构建出虚实结合的叙事感，使画面更具冲击力与故事性。柔和的自然光照亮主体，采用电影级柔光，整体色彩鲜艳明亮，充满温暖的生活气息。"
-    ],
-    "width": 1536,
     "height": 2048,
     "type": "image",
     "create_time": 0,
@@ -4398,40 +4051,6 @@
     "update_time": 0
   },
   {
-    "id": "100127",
-    "slug": "jm-prompt-7567809121131580682",
-    "title": "皮克斯风格的报纸头条明星",
-    "source": {
-      "name": "用户5779491688121",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA9Fu_vRt6qvVO9awQVwnvfzFnqLpw43N58BOD0-ch85ACO7TKx2BAI839CTq4ImVX"
-    },
-    "images": [
-      "images/seedream-images/7567809121131580682.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "character"
-    ],
-    "coverImage": "images/seedream-images/7567809121131580682.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "8",
-    "status": "0",
-    "prompts": [
-      "写实漫画风格，皮克斯漫画独特风格，夸张滑稽、搞笑、怪诞不经造型的唐老鸭和米老鼠，撕开报纸从裂缝中探出头，脸上露出得意的笑，一只手臂伸到镜头前，如同登上报纸头条般引人注目。",
-      "写实漫画风格，唐老鸭和米老鼠以夸张滑稽、搞笑、怪诞不经的造型，撕开报纸，从裂缝中探出头，脸上露出一副得意的笑的表情，一只手臂伸到镜头前，如同登上报纸头条般引人注目，具有皮克斯漫画那种独特的风格"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100128",
     "slug": "jm-prompt-7570160864842501427",
     "title": "冬日雪乡Q版场景",
@@ -4707,40 +4326,6 @@
     "update_time": 0
   },
   {
-    "id": "100136",
-    "slug": "jm-prompt-7572391031812001033",
-    "title": "奢华未来主义的悬浮陀螺",
-    "source": {
-      "name": "用户5225937414531",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAnjprvkTiMV72x_LIIm7L8tNUFz8Tsmd3-TVm8kdNoUb5Tpq8PmG2DzHBHb4xJuS4"
-    },
-    "images": [
-      "images/seedream-images/7572391031812001033.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "未来科技・日落金锥形陀螺高端展板",
-    "tags": [
-      "futuristic",
-      "neon",
-      "gaming"
-    ],
-    "coverImage": "images/seedream-images/7572391031812001033.webp",
-    "model": "high_aes_general_v30l_art_fangzhou:general_v3.0_18b",
-    "ratio": "1152:2048",
-    "likes": "125",
-    "status": "1",
-    "prompts": [
-      "主体：中央悬浮巨大立体锥形陀螺几何体，表面包裹流动液态金属纹理（超复杂），呈现金色到橙色渐变\r\n风格技术：8K 超清，OC 渲染、Blender/C4D 制作，大师级配色，以日落金为基调，奢华未来主义美学\r\n场景背景：抽象几何空间，球体表面向外扩散能量光环\r\n核心定位：高级感拉满，适用于高端品牌发布会，视觉奢华且具科技张力"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100137",
     "slug": "jm-prompt-7571827116547919142",
     "title": "阳光洒满的温馨港风居室",
@@ -4913,76 +4498,6 @@
       "一颗巨大的葱郁树荫下，树荫占据了整个画面，枝繁叶茂，西方美学，人物孤独坐在长椅上，人物要小，树叶轮廓，强烈的西方文艺氛围，情绪表达色彩化，色彩低调暗沉，8k，情绪叙事，电影胶片质感，颗粒感，冷色系，西方美学，艺术视角。\r\n\r\n国际大师风格，大师光影，满屏翠绿、暗钴蓝灰色调。\r\n\r\n有风吹动树枝动感，风有的动感，抽象，细腻感，饱满细节，大师构图，莱卡相机拍摄"
     ],
     "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100142",
-    "slug": "jm-prompt-7575460283536166195",
-    "title": "星光伴梦",
-    "source": {
-      "name": "桃子吖",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAjh8EPbRNYlwtEZ7C5n7-GXYZMH5MIxxuQzIQq5gE8HM"
-    },
-    "images": [
-      "images/seedream-images/7575460283536166195.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "character",
-      "fantasy"
-    ],
-    "coverImage": "images/seedream-images/7575460283536166195.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "111",
-    "status": "0",
-    "prompts": [
-      "参考3D动画电影质感生成： 街道旁空地，尼克（狐狸）与朱迪（兔子）共同抬头望向星空，双手举高发光气球；气球为尼克狐狸头、朱迪兔子头造型，透明材质闪粉与星光特效闪烁；背景是布满闪烁星星的夜空、亮着暖黄色光的路灯、模糊绿植；画面中心构图，呈现路灯暖光与气球星光交织的柔和光影，尼克与朱迪毛发纹理清晰，气球反光质感细腻，画面底部有手写体“TaiZi”标识。",
-      "帮我生成四张图片，《疯狂动物城》尼克（狐狸）与朱迪（兔子），尼克穿浅绿色短袖衬衫+深色条纹领带+卡其色裤子，朱迪穿蓝色警服制服，两人共同手持一束发光气球（气球是尼克狐狸头、朱迪兔子头造型，透明材质带闪粉与星光特效），背景为夜晚星空（布满闪烁星星）+城市街道（暖黄色路灯、模糊绿植），中心构图，3D动画电影质感，光影柔和（路灯暖光+气球星光双重光源），细节精致（毛发纹理清晰、气球反光质感），画面氛围温馨治愈，8K超清，色彩协调，底部添加手写体“TaiZi”标识」\r\n画面高清"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100143",
-    "slug": "jm-prompt-7554004334862716170",
-    "title": "腹黑气质的蓝噪点男人特写",
-    "source": {
-      "name": "啊德特效制作",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAa_HW_-rQ75Q_5TNcxiqF_GStOn0V625sV6lkCmOGEDiIWA5TsqQFC1_EsFd0L9fm"
-    },
-    "images": [
-      "images/seedream-images/7554004334862716170.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "portrait",
-      "neon",
-      "photography"
-    ],
-    "coverImage": "images/seedream-images/7554004334862716170.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "2048:2048",
-    "likes": "70",
-    "status": "0",
-    "prompts": [
-      "细腻皮肤真实质感风格，一位戴棕色毛皮大帽子的男人的脸部特写，采用俯视镜头角度呈现，身着紫色带棕黄色翻领上衣、紫色裤子、棕色鞋子，身体前倾双手自然下垂，背景为暗色系阴郁场景，男人有散乱且湿漉漉的长发（发色不变），眼神朦胧并带有危险和眷恋情绪尽显腹黑高冷气质，画面带有摄影机极蓝噪点画质且有强烈蓝白色曝光效果，保持原比例。",
-      "采用细腻皮肤真实质感的风格，画面中展现了图中角色的脸部特写，通过俯视的镜头角度进行呈现。背景为暗色，营造出暗色系且阴郁的场景氛国，有着散乱的湿漉漉的长发，发丝粘在脸上，不改变原片发色。他的眼神胧，其中带着危险和眷恋的情绪，尽显腹黑高冷的气质。同时画面虽现出带有摄影机极蓝噪点的画质，并且有着强烈的蓝白色曝先效果。原比例。"
-    ],
-    "width": 2048,
     "height": 2048,
     "type": "image",
     "create_time": 0,
@@ -5263,40 +4778,6 @@
     "update_time": 0
   },
   {
-    "id": "100152",
-    "slug": "jm-prompt-7576118563082095922",
-    "title": "萌趣老钱风的河马与金币",
-    "source": {
-      "name": "伊泽",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAq18zJL0LnKvNqZ07U4k0x8ZU50jYFEmGmyWqPrLlDKlElvfdxsdjW2Ie6NyYfkpO"
-    },
-    "images": [
-      "images/seedream-images/7576118563082095922.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "cartoon"
-    ],
-    "coverImage": "images/seedream-images/7576118563082095922.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "4",
-    "status": "0",
-    "prompts": [
-      "3D卡通萌趣老钱风，超高清渲染，色调金、深绿、墨黑，一只黄色河马形象角色，头顶小橘子，身穿橙色下装，坐在庄园露天餐厅的实木餐桌旁，双手捧着光泽透亮的装满金币的水晶碗并与碗里金币互动，表情搞怪，背景有白色桌布、鎏金餐具、周围绿植和烛光",
-      "3D 卡通萌趣老钱风，超高清渲染，色调沉稳大气（金、深绿、墨黑）；场景为庄园的露天餐厅，实木餐桌，白色桌布，鎏金餐具，周围是绿植和烛光；垫图主体坐在餐桌旁，双手捧着一只装满金币的水晶碗，正和碗里的金币 “互动”，表情搞怪，水晶碗光泽透亮"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100153",
     "slug": "jm-prompt-7569585221985635594",
     "title": "三文鱼微距特写",
@@ -5425,41 +4906,6 @@
     "prompts": [
       "线描插画风格，画面呈现山、花草、树木、古村落、河流、小桥，一位戴斗笠的放牛娃牵着牛，空中有飞鸟，细节丰富且浓淡相宜，用矿物色染并云集不同色阶，融入抽象艺术与多层次透视构图，结合极简风格、大面积留白，色调从深灰白到鲜艳色彩过渡，呈现混乱但有序的视觉效果，凸显扁平插画清新质感与画面秩序美感，画质高清，营造亦真亦幻的超现实主义氛围，采用不规则构图。",
       "线描插画，细腻唯美意境，细节丰富，浓淡相宜，矿物色染，不同色阶云集，抽象艺术，多层次透视构图，山、花草、树木，古村落、河流、小桥、放牛娃， 飞鸟 极简风格，大面积留白，色调从深灰白到鲜艳色彩过渡，混乱但有序，整体凸显扁平插画的清新质感与画面的秩序美感，画质高清，亦真亦幻，抽象的梦幻般的感觉，超现实主义，不规则的构图。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100157",
-    "slug": "jm-prompt-7576186496181341486",
-    "title": "疯狂动物城2：狐狸尼克与兔子朱迪的电影之夜",
-    "source": {
-      "name": "我是小谷",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA_QH8qV9b-doI5BXNO3I0Juzt0ciwOT938NgLB-tk_e62ZBC7HEhLewtDV3sD9ALW"
-    },
-    "images": [
-      "images/seedream-images/7576186496181341486.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "anime",
-      "poster"
-    ],
-    "coverImage": "images/seedream-images/7576186496181341486.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "30",
-    "status": "0",
-    "prompts": [
-      "3D动画风格，狐狸尼克穿浅绿衬衫配红蓝条纹领带，兔子朱迪穿蓝色上衣和深蓝色背带裤，二者从撕破的报纸背景中探出身体，狐狸前爪向前伸展，手持做旧风格的电影票，电影票置于前景且宽度几乎与图片相同，呈现人眼3D感，背景是带有文字的撕破报纸，画面比例为3:4；电影票上有文字“疯狂动物城2”“英语IMAX2D 2张”“11-26 19:30~21:30”“1号IMAX厅(儿童需购票)”“特选座(IMAX) 9排13座|9排14座”，右侧有《疯狂动物城2》电影海报小图。",
-      "将两张图片融合在一起，保持图一背景不变，要求人物和电影票有互动，图一人物手拿图二电影票，图二电影票做旧风格，电影票至于前景，电影票的宽度几乎与图片相同，呈现人眼3D感，比例3:4"
     ],
     "width": 1152,
     "height": 2048,
@@ -5640,41 +5086,6 @@
     "update_time": 0
   },
   {
-    "id": "100163",
-    "slug": "jm-prompt-7575620437317569838",
-    "title": "尼克的3D卡通石膏半身像",
-    "source": {
-      "name": "疯狂的多多",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAg-qf5reBRv6mXo7H1CyzsiOP1oN8EbBDHWaGM9AUUFcTgXv62g5I9tDfUPUKLznB"
-    },
-    "images": [
-      "images/seedream-images/7575620437317569838.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "狐狸警官尼克",
-    "tags": [
-      "3d",
-      "cartoon",
-      "character"
-    ],
-    "coverImage": "images/seedream-images/7575620437317569838.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "14",
-    "status": "0",
-    "prompts": [
-      "皮克斯动画风格，3D卡通，伦勃朗光，高清细节，抽象，夸张。疯狂动物城角色尼克的半身彩色石膏像，穿着休闲短袖衬衫领带服装，深蓝色背景。",
-      "疯狂动物城角色尼克半身彩色石膏像的卡通半身石膏像，穿着休闲短袖衬衫领带服装，抽象，夸张，高清细节，深蓝色背景。皮克斯动画风格。 3D卡通，伦勃朗光"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100164",
     "slug": "jm-prompt-7572146539049635099",
     "title": "国潮七夕创意海报",
@@ -5741,40 +5152,6 @@
     ],
     "width": 1104,
     "height": 1472,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100166",
-    "slug": "jm-prompt-7549444530655776040",
-    "title": "古董书店的秋日静读",
-    "source": {
-      "name": "1234567",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAMVrMEw0EBGRu4Q-r4oU5VxDxfNUZboveAPzxowSLWziaDS5dF-rhia5Jm2scV2_p"
-    },
-    "images": [
-      "images/seedream-images/7549444530655776040.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "illustration",
-      "retro",
-      "nature"
-    ],
-    "coverImage": "images/seedream-images/7549444530655776040.webp",
-    "model": "high_aes_general_v30l_art_fangzhou:general_v3.0_18b",
-    "ratio": "1056:1584",
-    "likes": "386",
-    "status": "1",
-    "prompts": [
-      "一幅温馨可爱的钢笔和水彩描绘的插画，展现一间充满书籍的古董小书店场景。画面中有造型特的书架，摆满各种色彩丰富封面有趣的大小书籍。一只拟人化的白色大鸟坐在拥挤的书架间隙的地上认真看书，旁边有个小挎包。书店里有柔和的灯光，悬挂着不同形状的吊灯，书架高低错落，书籍摆放凌乱，背景处有一位在电脑前的戴眼镜的老店员，窗外能看到带有秋天氛围的景色，整体用柔和的色彩和细腻的线条，营造出温暖、治愈的氛围 。"
-    ],
-    "width": 1056,
-    "height": 1584,
     "type": "image",
     "create_time": 0,
     "update_time": 0
@@ -5978,41 +5355,6 @@
       "晶莹剔透霓虹色系的六个Q版游戏人物图标，马里奥、林克、皮卡丘、洛克人、我的世界、忍者神龟，魂斗罗，霓虹色系光晕爆棚，强烈视觉冲击，炫酷色彩光效，黑色背景，高清杰作，高级感。"
     ],
     "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100173",
-    "slug": "jm-prompt-7574987530014133530",
-    "title": "朱迪与尼克的电影梦",
-    "source": {
-      "name": "设计情报站",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAyj_3RDmgwnTrbCowEa1zu353-OyA5ABCOkygLJCDvz6R88ZgZwRWFlqzJ1h66Zt9"
-    },
-    "images": [
-      "images/seedream-images/7574987530014133530.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "disney",
-      "film"
-    ],
-    "coverImage": "images/seedream-images/7574987530014133530.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "104",
-    "status": "0",
-    "prompts": [
-      "迪士尼3D动画电影质感，超清，Hyperion渲染器效果，毛发细腻逼真，层次分明，光影自然，全局光照，自然柔和阴影，色彩鲜艳明快。朱迪・霍普斯和尼克・王尔德站在办公室背景中，手持16:9比例巨型电影票形状白色展板（无文字）。背景中有蓝白配色交通指示牌样式创意路牌，上方中文\"我在工位很想家\"，下方英文\"wozaigongweihenxiangjia\"。",
-      "核心主体:\r\n《疯狂动物城》的主角朱迪・霍普斯（Judy Hopps）和尼克・王尔德（Nick Wilde）\r\n手握持 16:9 比例巨型电影票形状白色展板（无文字）\r\n背景环境:\r\n办公室作为背景\r\n背景设置创意路牌：蓝白配色交通指示牌样式，上方中文 \"我在工位很想家\"，下方英文 \"wozaigongweihenxiangjia\"\r\n迪士尼 3D 动画电影质感，超清，Hyperion 渲染器效果，毛发细腻逼真，层次分明，光影自然，全局光照，自然柔和阴影，色彩鲜艳明快"
-    ],
-    "width": 1536,
     "height": 2048,
     "type": "image",
     "create_time": 0,
@@ -6355,39 +5697,6 @@
     "update_time": 0
   },
   {
-    "id": "100184",
-    "slug": "jm-prompt-7572927344197864755",
-    "title": "阴阳双鱼：凤与龙的对舞",
-    "source": {
-      "name": "至臻典藏",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAARawlNRQTVLeM0bOjwtYkgnYqODRvE4LojYJU-sEqmY10rd6ezFTcIjLb8UFqCvPV"
-    },
-    "images": [
-      "images/seedream-images/7572927344197864755.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "fantasy"
-    ],
-    "coverImage": "images/seedream-images/7572927344197864755.webp",
-    "model": "high_aes_general_v20_L:general_v2.0_L",
-    "ratio": "768:1024",
-    "likes": "725",
-    "status": "1",
-    "prompts": [
-      "阴阳，流动烟云构成的阴阳鱼图案，左边阳鱼部分是白色凤凰吐黑珠，右边阴鱼部分是黑龙吐白珠，图案虚化，古朴，沧桑，黑色背景纯色，自发光，多维艺术与工艺的结合，3D动感立体，8K 成像\r\n9:16"
-    ],
-    "width": 768,
-    "height": 1024,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100185",
     "slug": "jm-prompt-7523619173805739316",
     "title": "萌痞男歌星",
@@ -6482,41 +5791,6 @@
     "prompts": [
       "科幻机械风格，冷蓝色调，云层环绕，金属质感，巨型机械主体由3万米高的巨型引擎、利维坦级战斗飞船、自行式机械、装甲车和火车合体而成，整体呈橙色机甲形态，泰坦巨型引擎高1万米，机身表面覆盖冰层，环境温度零下300度。全景俯视视角，云层缠绕机甲身体，机械细节清晰，科技感与冰冷氛围交织。",
       "3万米高的巨型引擎和利维坦级战斗飞船自行式机械和装甲车和火车合体的橙色机甲云层围绕它的身体，泰坦巨型引擎1万米，零下300度。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100188",
-    "slug": "jm-prompt-7577292992365563146",
-    "title": "毛绒圣诞朱迪",
-    "source": {
-      "name": "摩羯座璐璐子",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA41RDYOSGeHl8AM7s5xphQyNC5UAmXacoUvvbg3yF72JrLFEmFynGDBh7JZ_yGmw4"
-    },
-    "images": [
-      "images/seedream-images/7577292992365563146.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "toy",
-      "character",
-      "festive"
-    ],
-    "coverImage": "images/seedream-images/7577292992365563146.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "13",
-    "status": "0",
-    "prompts": [
-      "IP设计，粘毛质感，毛绒绒的疯狂动物城角色朱迪，兔子警官朱迪穿着可爱绿色圣诞树造型衣服，歪头萌萌看向镜头，毛流感明显。圣诞树头顶有黄色星星发光，还有小小的毛线球状彩灯，下雪的氛围感，暖暖的光。",
-      "IP设计，粘毛质感，毛绒绒的疯狂动物城角色朱迪，兔子警官朱迪穿着一件可爱绿色圣诞树造型衣服，歪头萌萌的，看向镜头，毛流感，圣诞树头顶有黄色的星星发光，还有小小的毛线球状彩灯，下雪的氛围感，暖暖的光"
     ],
     "width": 1152,
     "height": 2048,
@@ -6861,42 +6135,6 @@
     "prompts": [
       "手游古风UI设计，西游记主题，金红色调，黑色背景，一组标题框合集，界面元素飘逸，细节精美，边缘有图案和装饰元素，无阴影光线影响，大师杰作质感。",
       "游戏古风界面的一组游戏风格UI标题框合集，采用手游游戏风格，飘逸，精美 的细节，边缘有图案和装饰元素，西游记主题，金红色调为主，不应受到阴影或光线的影响。大师杰作，黑色背景"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100199",
-    "slug": "jm-prompt-7569031836358233395",
-    "title": "极简线条骏马",
-    "source": {
-      "name": "大脸猫～小振",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAc3Ea1k6Kk8Lh-T6ArL5aUQERAy4Wq3IynktjfqAYKjxLH45uBThHniBPlECG95ac"
-    },
-    "images": [
-      "images/seedream-images/7569031836358233395.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "马年金马好运",
-    "tags": [
-      "minimalist",
-      "animal",
-      "portrait",
-      "abstract"
-    ],
-    "coverImage": "images/seedream-images/7569031836358233395.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "907",
-    "status": "0",
-    "prompts": [
-      "极简线条艺术，金黄色调，流动曲线构成骏马动态轮廓，横向密集排线形成置换效果，负空间设计增强韵律感，暖色渐变背景，高清矢量质感，几何抽象，现代感，动态张力，平面设计，线条美学，空间层次感。",
-      "金黃色極簡線條藝術，流動曲線構成骏马，動態輪廓，横向密集排線形成置換效果，負空間設計增强韵律感，暖色調漸變背景，高清矢量质感。"
     ],
     "width": 1152,
     "height": 2048,
@@ -7669,41 +6907,6 @@
     "update_time": 0
   },
   {
-    "id": "100223",
-    "slug": "jm-prompt-7574243293698002202",
-    "title": "数字故障圣诞树",
-    "source": {
-      "name": "Honey@",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAsytZ01OAnr3jHC5Pu-atkim1wvGpCrNDrWJAWDOlzFo"
-    },
-    "images": [
-      "images/seedream-images/7574243293698002202.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "futuristic",
-      "neon",
-      "gaming"
-    ],
-    "coverImage": "images/seedream-images/7574243293698002202.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "132",
-    "status": "0",
-    "prompts": [
-      "虚拟视觉风格，高饱和度克莱因蓝背景，真实圣诞树被虚拟电子像素块包裹，树上布满乱码、数字故障、星环失真效果，搭配全息炫彩半透明水晶装饰，随机出现色彩断层与扫描线。电子像素块闪烁动态光效，水晶呈现彩虹色渐变，故障元素叠加干扰纹理，整体构图突出科技与传统碰撞的视觉张力。",
-      "真实圣诞树被虚拟电子像素块包裹，圣诞树上有许多乱码，数字故障，星环失真，虚拟视觉，全息炫彩半透明水晶，随机出现色彩断层与扫描线。背景是高饱和度克莱因蓝。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100224",
     "slug": "jm-prompt-7572524159402659123",
     "title": "小橘子飞行员的夕阳飞行",
@@ -7767,76 +6970,6 @@
     ],
     "width": 1328,
     "height": 1328,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100226",
-    "slug": "jm-prompt-7576128254126329134",
-    "title": "未来科技发布会",
-    "source": {
-      "name": "光一族～",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAR8hTeRATa_y7xOigoN_WTTG8gKoKYYcpQL1w1QruwRSB6QtMs8Dd-vzXuJ1k3T2K"
-    },
-    "images": [
-      "images/seedream-images/7576128254126329134.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "futuristic",
-      "neon",
-      "metallic"
-    ],
-    "coverImage": "images/seedream-images/7576128254126329134.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "94",
-    "status": "0",
-    "prompts": [
-      "未来主义风格，科技感产品发布会背景，深蓝渐变背景，流动的光线粒子在空间中穿梭，冷色调，高对比度，动态模糊效果，金属质感，强光影对比，科技氛围。",
-      "科技感产品发布会背景，深蓝渐变，流动光线粒子，未来主义，无文字"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100227",
-    "slug": "jm-prompt-7574421444256386313",
-    "title": "疯狂动物城2：朱迪与尼克的电影之夜",
-    "source": {
-      "name": "潇公子",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAyi-6sHUYwnBaqfUBR_rjs0gV3q73ETMIgUftTAHjP0Q"
-    },
-    "images": [
-      "images/seedream-images/7574421444256386313.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "animal",
-      "poster"
-    ],
-    "coverImage": "images/seedream-images/7574421444256386313.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "383",
-    "status": "0",
-    "prompts": [
-      "3D动画风格，背景是撕破的报纸，画面中有穿警服的兔子朱迪与穿绿衬衫配紫条纹领带的狐狸尼克，狐狸尼克前爪拿着电影票，电影票位于前景且宽度几乎与图片相同，呈现人眼3D感，电影票上有黑色文字“疯狂动物城2”“国语3D 3张”“11-29”“6号厅”“18:30~20:18”“10排10座|10排11座|10排12座”，右侧有《疯狂动物城2》电影海报小图，画面比例3:4。",
-      "将两张图片融合在一起，保持图一背景不变，要求人物和电影票有互动，图一人物手拿图二电影票，电影票至于前景，电影票的宽度几乎与图片相同，人物与电影票的互动，呈现人眼3D感，比例3:4"
-    ],
-    "width": 1536,
-    "height": 2048,
     "type": "image",
     "create_time": 0,
     "update_time": 0
@@ -7906,77 +7039,6 @@
       "3D盲盒，可爱的蓝色小羊拟人化ip，微笑，高清，超级细节，泡玛特风格，C4D渲染，柔和灯光，干净背景，从上到下展示第一步：设计IP三视图草图，第二部：平面矢量三视图，第三步：3D三视图渲染效果"
     ],
     "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100230",
-    "slug": "jm-prompt-7576493231899266314",
-    "title": "尼克与朱迪的萌趣探头",
-    "source": {
-      "name": "小小昔尧",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAxDFPYM1yffl0AUmVEEFfI5MS5iTJIhgJh4ZAX8sLHDI"
-    },
-    "images": [
-      "images/seedream-images/7576493231899266314.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "character",
-      "illustration",
-      "cute"
-    ],
-    "coverImage": "images/seedream-images/7576493231899266314.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "31",
-    "status": "0",
-    "prompts": [
-      "Q版手绘插画，可爱俏皮风格，暖色调，柔和笔触。狐狸尼克和兔子朱迪Q版形象，尼克趴在朱迪上方，两人一起从门后探出脑袋，朱迪身旁有两颗爱心元素。温馨氛围，萌趣感，角色默契感强。",
-      "这是迪士尼动画电影《疯狂动物城》中的经典角色组合——狐狸尼克和兔子朱迪的Q版手绘插画。\r\n \r\n画面里，尼克趴在朱迪上方，两人一起从门后探出脑袋，朱迪身旁还有两颗爱心元素，整体风格可爱俏皮，将这对搭档的默契与萌趣展现得淋漓尽致，充满了温馨的氛围感。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100231",
-    "slug": "jm-prompt-7573527484071824649",
-    "title": "麦田中的低语",
-    "source": {
-      "name": "个中滋味",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAmFHwa0shThZkLUHI7OBNg8PIh4Tv2UR8Rnso4bFk4UY"
-    },
-    "images": [
-      "images/seedream-images/7573527484071824649.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "minimalist",
-      "portrait",
-      "typography"
-    ],
-    "coverImage": "images/seedream-images/7573527484071824649.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "272",
-    "status": "0",
-    "prompts": [
-      "极简主义风格，文学书籍杂志主题插画，丁达尔效应柔和光线笼罩辽阔麦田，金色麦浪反射温暖鎏金色调，油画质感静谧氛围。画面中心戴帽子的小人物微微露头，轮廓模糊被光线包围，局部明亮与背景沉金形成强烈对比。大量留白构图，低饱和度背景以温柔金色为主基调，光影对比技术处理赋予诗意违和感，时间凝固氛围。顶部上方居中排列无衬线字体\"MIQIAI-DESIGN\"，下方小字\"东方美学·无限创造\"居中排列，黄思萌低饱和度色调与光影对比叙事插画风格，未尽故事感。",
-      "在一片辽阔的麦田上，所有景物都被丁达尔效应的柔和光线所笼罩。麦田的金色在光线下反射出一种温暖的鎏金色调，整片麦田如同一幅油画般静谧。画面的中心，一个戴着帽子的小人物微微露出头，显得孤独而思索。人物的轮廓模糊不清，仿佛被光线所包围，局部的明亮与背景的沉金形成强烈的对比。\r\n\r\n整个画面采用极简主义风格，大量留白使得麦田和小人物更加突出。背景色调低饱和度，以一种温柔的金色为主基调，营造出一种静谧与神秘的氛围。光影对比技术处理得当，赋予画面一种诗意的违和感，仿佛时间在此刻凝固。\r\n\r\n在画面顶部的上方，简洁无衬线体字样 \"MIQIAI-DESIGN\" 清晰可见，下方是小字 “东方美学·无限创造”，居中排列，保持了构图的平衡。整个画面传递出一种文学书籍和杂志主题插画的强烈氛围感，体现了黄思萌偏好低饱和度色调与光影对比的叙事插画风格，仿佛在述说一个未尽的故事。"
-    ],
-    "width": 1152,
     "height": 2048,
     "type": "image",
     "create_time": 0,
@@ -8393,40 +7455,6 @@
     "update_time": 0
   },
   {
-    "id": "100244",
-    "slug": "jm-prompt-7551676074946530612",
-    "title": "哆啦A梦的神秘道具",
-    "source": {
-      "name": "科迪梦圆",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAWNrT759ht-ReTIpRO0VGMCgDXdi0zlcJRgenfjVNwlP9LkTlcbPZVv-_q_9uQcdp"
-    },
-    "images": [
-      "images/seedream-images/7551676074946530612.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "branding"
-    ],
-    "coverImage": "images/seedream-images/7551676074946530612.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "143",
-    "status": "0",
-    "prompts": [
-      "日系二次元风五格漫画，超细腻笔触，细密颗粒感，朦胧感，细笔风格，手绘质感，自然光影，漫画式处理，黑白2D平面，细密颗粒，中景。第一格：画面上半部分左边，戴眼镜的野比哭着，旁边对话框\"我又被胖虎欺负了\"；第二格：画面上半部分右边，哆啦A梦说话，旁边对话框\"好的\"；第三格：画面最中间，哆啦A梦举着💩，离镜头很近，💩特写，放射状线条；第四格：画面下半部分，哆啦A梦笑着拿💩交给野比，野比一脸惊讶；第五格：哆啦A梦对话框文字\"只要变成这个就没人敢欺负你\"，带有放射状线条、速度线。",
-      "超细腻笔触，细密颗粒感，朦胧感，细笔风格，手绘质感，自然光影，漫画式处理，黑白2D平面。细密颗粒，中景，日系二次元风五格漫画。画面上半部分左边是野比在哭着（戴眼镜），旁边加个对话框：“我又被胖虎欺负了”。画面上半部分右边是哆啦A梦在说话，旁边加个对话框“好的”。画面最中间是哆啦A梦举起来💩，离镜头很近，💩特写，放射状线条，画面下半部分是哆啦A梦笑着拿着💩交给野比，野比一脸惊讶，哆啦A梦对话框里文字“只要变成这个就没人敢欺负你”。带有放射状线条、速度线。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100245",
     "slug": "jm-prompt-7576645726705421594",
     "title": "光影中的军人肖像",
@@ -8597,42 +7625,6 @@
     "update_time": 0
   },
   {
-    "id": "100250",
-    "slug": "jm-prompt-7575035366214864166",
-    "title": "封神神仙坐飞机",
-    "source": {
-      "name": "晴天菠菜",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAHDvUSF873iH5g-2CzQIUvb0Rug74-gyREJKWjdbaoQhhI1K0xVBpnK8W1Ea_UfDj"
-    },
-    "images": [
-      "images/seedream-images/7575035366214864166.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "photography",
-      "character",
-      "fantasy",
-      "interior"
-    ],
-    "coverImage": "images/seedream-images/7575035366214864166.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "10",
-    "status": "0",
-    "prompts": [
-      "真实拍摄风格，自然光，中景视角，一个巨大空客内，座位上坐着封神榜里形形色色、男男女女的神仙，他们绑着安全带，坐姿千奇百怪：有的懒散瘫坐，有的端坐，有的半躺半坐、手臂随意搭在扶手上，有的盘腿而坐，有的戴耳机闭目养神，有的与邻座聊天。过道上哪吒推着餐车派发飞机餐，前排猪八戒狼吞虎咽吃飞机餐，后排孙悟空举金箍棒要打猪八戒被唐僧阻止，沙悟净吃惊看着他们。真实场景质感，生动人物互动，空客内景细节清晰。",
-      "真实拍摄，在一个巨大空客内，座位上分别坐着封神榜里形形色色、男男女女的神仙，他们的坐姿千奇百怪，有的懒散地瘫在座位上，有的端坐在位子上，有的半躺半坐，将手臂随意搭在座位扶手上，还有的盘坐在座位上，有的戴着耳机闭目养神，有的与旁边位子的人讲话聊天…各自展现出独特的姿态，他们都绑好了安全带，哪吒推着餐车在过道上派发飞机餐，猪八戒坐在前排狼吞虎咽的吃飞机餐，孙悟空坐在猪八戒后面举起金箍棒正要打猪八戒被唐僧给阻止了，沙悟净吃惊的看着他们。"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100251",
     "slug": "jm-prompt-7571799050857516314",
     "title": "海上丝路：古今对话",
@@ -8660,40 +7652,6 @@
       "以“海上丝路，古今对话”为主题，古代广州作为海上丝绸之路的重要港口，成为南方重要的贸易中心，商业繁荣，南来北往的人汇聚于此，早茶逐渐兴起并成为一种重要的社交活动。现代广州高铁，交通，新能源，芯片等科技领域发达的贸易中心。古今交融！出一张这样的插画"
     ],
     "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100252",
-    "slug": "jm-prompt-7574730668832263462",
-    "title": "疯狂动物城自拍",
-    "source": {
-      "name": "檀星柳梦",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAsJr6SnZRSI-xKJLM-AQOtiGyyMIU4YSX-tWbg-y76ELDUXM2_qOvwrWrZY0mdyte"
-    },
-    "images": [
-      "images/seedream-images/7574730668832263462.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "portrait"
-    ],
-    "coverImage": "images/seedream-images/7574730668832263462.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "55",
-    "status": "0",
-    "prompts": [
-      "日系视觉系风格，iphone前置自拍效果，画面光线明亮均匀，主体清晰；中间是浅金色毛发的金毛犬，呈坐姿身体略微内扣，头部比例夸张放大；左侧是穿蓝色警服比耶的兔子朱迪，右侧是穿绿衬衫紫条纹领带抱臂的狐狸尼克，三人靠得很近，头部略微上仰直视镜头；背景为坐满观众的电影院，三人背对银幕，银幕显示“疯狂动物城2”电影精美海报填满屏幕。",
-      "不要换脸，人物脸部不能有任何改变！请将图1和图2的三人融合成一张三人俯拍自拍照，画面构图紧凑，三位主体靠得很近，头部略微上仰，眼神直视镜头，营造出强烈的视觉冲击力。图一人物站中间略靠前，需要保持人脸相似度；需要保持人脸相似度，略微内扣身体，拍摄角度为高角度俯拍，使头部比例被夸张放大，符合典型的日韩视觉自拍风格。简洁干净，进一步凸显人物主体。画面风格偏向日系视觉系，整体画面清晰度高。用iphone前置自拍合影效果。要求人物实现无缝融进画面，视觉过渡自然，整体画面光线明亮且均匀，背景为电影院坐满观众，两人背对银幕～银幕显示《 疯狂动物城2 》电影精美海报填满屏幕。"
-    ],
-    "width": 1536,
     "height": 2048,
     "type": "image",
     "create_time": 0,
@@ -8795,40 +7753,6 @@
     "prompts": [
       "毛茸茸风格手机icon设计，9宫格布局，6个小图标分别对应照相机、图片、微信、抖音、信息、天气app，毛绒材质，造型逼真。可爱、精致、简约风格，细腻毛绒质感，色彩柔和，专业设计师获奖作品氛围。",
       "手机icon设计，分别给照相机、图片、微信、抖音、信息、天气6个app设计icon，毛茸茸风格，可爱，精致的，可爱风格，简约，毛绒材质，小图标，逼真的，9宫格布局，，设计师设计，获奖作品"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100256",
-    "slug": "jm-prompt-7573228443521797426",
-    "title": "谷物汇聚的温暖'O'",
-    "source": {
-      "name": "salmongo",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAgFMp4jI_LMs16krYXGNk0TaveugEQOZe-6nW1M71PBqu2hbwLAMfYK0vMS7DeYYv"
-    },
-    "images": [
-      "images/seedream-images/7573228443521797426.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "food",
-      "photography"
-    ],
-    "coverImage": "images/seedream-images/7573228443521797426.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "74",
-    "status": "0",
-    "prompts": [
-      "食品摄影风格，淡卡其色背景，中心有由无数铁棍山药、酶解燕麦、茯苓、赤小豆、薏苡仁、芡实、白扁豆、陈皮、桑椹组合排列成的立体化\"0\"。谷物数量繁多，真实肌理清晰，颗粒饱满，质感细腻，暖光照射，光影柔和，焦点集中于\"0\"的中心，周围虚化，突出主体，自然真实氛围。",
-      "淡卡其色背景，中心有个由无数的铁棍山药、酶解燕麦、茯苓、赤小豆、薏苡仁、芡实、白扁豆、陈皮、桑椹、组合排列成的立体化0，重点突出谷物的数量繁多以及真实肌理，"
     ],
     "width": 1536,
     "height": 2048,
@@ -9147,41 +8071,6 @@
     "update_time": 0
   },
   {
-    "id": "100266",
-    "slug": "jm-prompt-7575401204948192563",
-    "title": "圣诞尼克·现代简约珐琅冰箱贴",
-    "source": {
-      "name": "今夜不睡",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAoLZXbHIlQXGQG174aIlBFrxzP1Qqlpgsn7CYko4a2u1_ZEGka3PojiEeqAOcSiQK"
-    },
-    "images": [
-      "images/seedream-images/7575401204948192563.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "character",
-      "product",
-      "minimalist"
-    ],
-    "coverImage": "images/seedream-images/7575401204948192563.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "2048:2048",
-    "likes": "73",
-    "status": "0",
-    "prompts": [
-      "现代简约设计风格，疯狂动物城主题珐琅冰箱贴设计，圆形造型，狐狸尼克半身特写，周围环绕圣诞元素图案，底部有\"Merry Christmas\"英文字体，国际化设计，浅紫色渐变配色，纯净质感背景。",
-      "现代简约设计风格，疯狂动物城主题珐琅冰箱贴设计，圆形冰箱贴，狐狸尼克的半身特写，周围环绕着圣诞元素图案，底部有\"Merry  Christmas\"英文字体，国际化设计，颜色为浅紫色渐变。纯净质感背景"
-    ],
-    "width": 2048,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100267",
     "slug": "jm-prompt-7573957014485847342",
     "title": "国风水彩中国元素插画",
@@ -9249,40 +8138,6 @@
       "极简美学雕塑，抽象概括，细节提炼，低饱和度且和谐，背景默认为纯黑色（#000000），均匀光照，不规则流线结晶，暗黑风格，不规则造型, 外面浮空环绕流线型装饰，微透视，精度提升，光感，对比度提升，虚无，概念设计，未来，异世界，杰作，孤寂，电影海报，虚空，，视觉冲击，极强对比，前景虚化镜头感，远景虚化，空间感，纵深感，虚实结合"
     ],
     "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100269",
-    "slug": "jm-prompt-7575130250288336179",
-    "title": "哆啦A梦之无敌大喇叭的代价",
-    "source": {
-      "name": "焦虑奋斗的熊猫",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAKpC1oPi8wULECraXLUUdMDi5UtQv0apA2Pmtir-mvUGDGyhcWewTi19Ghx7Wj_WX"
-    },
-    "images": [
-      "images/seedream-images/7575130250288336179.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "帮我生成图片：二次元漫画风格，彩色漫画，分格漫画，整个画面上半部分左边是野比和哆啦A梦愉快地对话，背后有个大喇叭，哆啦A梦旁边加个对话框：这是无敌大喇叭，想要什么可以拿起喇叭吼一声。背景是房间，画面上半部分右边是野比拿着无敌大喇叭(注意大喇叭要与左边相同)，对话框：我要…。背景是房间。画面下半部分是野比和哆啦A梦（哆啦A梦直冒冷汗）背对镜头，旁边有一个对话框：……。中间是胖虎（肥男、肥头大耳、左手拿拉面，右手拿筷子、上身黄色紧身美团短袖外卖服）外卖快递员，表情凶狠，对话框：野比！你敢让我送外卖，一次999。背景是室内的大门。比例 1:1。",
-    "tags": [
-      "cartoon",
-      "comic"
-    ],
-    "coverImage": "images/seedream-images/7575130250288336179.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "11",
-    "status": "0",
-    "prompts": [
-      "二次元漫画风格，彩色分格漫画，1:1比例，上半部分左格：野比和哆啦A梦在房间内愉快对话，背后有大喇叭，哆啦A梦旁对话框\"这是无敌大喇叭，想要什么可以拿起喇叭吼一声\"；上半部分右格：野比在房间内拿与左格相同的无敌大喇叭，对话框\"我要…\"；下半部分：野比和哆啦A梦背对镜头，哆啦A梦直冒冷汗，旁对话框\"……\"；中间：胖虎（肥男、肥头大耳）穿黄色紧身美团短袖外卖服，左手拿拉面，右手拿筷子，表情凶狠，对话框\"野比！你敢让我送外卖，一次999\"，背景为室内大门。",
-      "帮我生成图片：二次元漫画风格，彩色漫画，分格漫画，整个画面上半部分左边是野比和哆啦A梦愉快地对话，背后有个大喇叭，哆啦A梦旁边加个对话框：这是无敌大喇叭，想要什么可以拿起喇叭吼一声。背景是房间，画面上半部分右边是野比拿着无敌大喇叭(注意大喇叭要与左边相同)，对话框：我要…。背景是房间。画面下半部分是野比和哆啦A梦（哆啦A梦直冒冷汗）背对镜头，旁边有一个对话框：……。中间是胖虎（肥男、肥头大耳、左手拿拉面，右手拿筷子、上身黄色紧身美团短袖外卖服）外卖快递员，表情凶狠，对话框：野比！你敢让我送外卖，一次999。背景是室内的大门。比例 1:1。"
-    ],
-    "width": 1152,
     "height": 2048,
     "type": "image",
     "create_time": 0,
@@ -9456,41 +8311,6 @@
     ],
     "width": 1584,
     "height": 1056,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100275",
-    "slug": "jm-prompt-7574770156035902771",
-    "title": "雨夜中的动画明星与现实交错",
-    "source": {
-      "name": "爆火特效",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAASwKLsZoOP8HAoPDnw-YiHTN_-u4po2UXdO7Hd0ldoLiUrx2qtK2jF8JaKq_Q_K9"
-    },
-    "images": [
-      "images/seedream-images/7574770156035902771.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "雨天，湿漉漉的黑色和地面上，有积水，散落着落叶。我的面前是《疯狂动物城》里的兔朱迪（穿着警服）和狐尼克，它们并排站在我面前抬头看着我，表情生动。画面温暖可爱，3D动画风格，超细节，质感真实，电影级光线。",
-    "tags": [
-      "3d",
-      "anime",
-      "poster"
-    ],
-    "coverImage": "images/seedream-images/7574770156035902771.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "88",
-    "status": "0",
-    "prompts": [
-      "3D动画风格，超细节，质感真实，电影级光线，一只手拿着带卡通图案、插白色吸管的绿色饮品，穿着浅灰色长裤、红白配色帆布鞋、白色带红色标志长袖的人，站在雨天湿漉漉的黑色地面上，地面有积水、散落落叶，人物前方有《疯狂动物城》里穿警服的兔朱迪和狐尼克并排站立抬头看向人物",
-      "雨天，湿漉漉的黑色和地面上，有积水，散落着落叶。我的面前是《疯狂动物城》里的兔朱迪（穿着警服）和狐尼克，它们并排站在我面前抬头看着我，表情生动。画面温暖可爱，3D动画风格，超细节，质感真实，电影级光线。"
-    ],
-    "width": 1536,
-    "height": 2048,
     "type": "image",
     "create_time": 0,
     "update_time": 0
@@ -9808,75 +8628,6 @@
     "update_time": 0
   },
   {
-    "id": "100286",
-    "slug": "jm-prompt-7570652004675079462",
-    "title": "摄影棚中的3D企鹅绅士",
-    "source": {
-      "name": "Lens Zero",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA04wlDMdpa8Tuso-CLI7b0MaOFeVhDR-isYwxfPZ3sYwtqfHmYfE7Fwq2PFca-qFo"
-    },
-    "images": [
-      "images/seedream-images/7570652004675079462.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "photography",
-      "3d"
-    ],
-    "coverImage": "images/seedream-images/7570652004675079462.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "2048:2048",
-    "likes": "25",
-    "status": "0",
-    "prompts": [
-      "摄影风格，低质量3D建模，四分之三侧视角，戴老式方框墨镜的企鹅，镜片有反光，戴着黑色礼帽和黑色领带，扛着巨大的蓝色诺基亚手机，影棚光，纯白背景，幽默感。",
-      "摄影风格，低质量3d建模，四分之三侧，戴老式方框墨镜的企鹅，镜片反光，戴着黑色礼帽，黑色领带，扛着巨大的蓝色诺基亚手机，影棚光，纯白背景，幽默感"
-    ],
-    "width": 2048,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100287",
-    "slug": "jm-prompt-7559446518885780782",
-    "title": "阳光魅惑的时尚男性",
-    "source": {
-      "name": "小艺同学",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAA5Eg4BEqFrl9-KDN3PLyjhoNCsO8Y7Y9CfXda16NgMcI__swHmbSNVcNWfPtDsIj"
-    },
-    "images": [
-      "images/seedream-images/7559446518885780782.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "portrait",
-      "photography",
-      "fashion"
-    ],
-    "coverImage": "images/seedream-images/7559446518885780782.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "46",
-    "status": "0",
-    "prompts": [
-      "细腻皮肤真实质感风格，一个戴棕色大皮帽的男性，身穿紫色带浅棕色毛领上衣、紫色裤子、棕色鞋子，姿态为用食指放在嘴角且微微抬头，背景是清醒系阳光场景，呈现散乱头发随风飘动效果，人物眼神闪闪发光，有欧美辣妹大睫毛、性感透亮厚嘴唇且带着阳光魅惑情绪，着重勾勒面部细节且高光处理讲究，画质带有摄影机极蓝噪点且呈现蓝色通透效果，手指甲有超美水晶钻美甲且闪闪发光，画面比例为9:16。",
-      "采用细腻皮肤真实质感的风格，画面中展现了一个不改变原图形象的的脸部特写，通过略微仰视的镜头角度进行呈现。人物微微抬头井且人物不要占太多画面。背景营造出清醒系且阳光的场景氛围，有着散乱的头发随风飘动的感觉，发型不变，发丝随风飘动，不改变原片发色。他的眼神闪闪发光，拥有欧美辣妹大睫毛，性感透亮的厚嘴唇，其中带着阳光和魅惑的情绪，尽显魅惑高冷的气质。画面着重句勒了面部细节，高先处理十分讲究，同时画面虽现出带有摄影机极蓝噪点的画质，并且有着蓝 色通透效果。不要改变人脸。加上用食指放在嘴角，手指甲做了超美的水晶钻美甲，闪闪发光比例9:16"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100288",
     "slug": "jm-prompt-7568838637417237810",
     "title": "硅基生命体：机械蚂蚱",
@@ -9948,40 +8699,6 @@
     "update_time": 0
   },
   {
-    "id": "100290",
-    "slug": "jm-prompt-7575571259208027418",
-    "title": "疯狂动物城之森林巡逻",
-    "source": {
-      "name": "M瑾",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAnjglHgdpQH5jrrwFPNz9L9Kwr3yBBnvw3AfFV6nN52i4_ZKq0I-MIAX1yOCjbSpQ"
-    },
-    "images": [
-      "images/seedream-images/7575571259208027418.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "character"
-    ],
-    "coverImage": "images/seedream-images/7575571259208027418.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1365:2048",
-    "likes": "22",
-    "status": "0",
-    "prompts": [
-      "参考疯狂动物城人物，宫格漫画风格生成：森林小径场景，阳光透过树叶洒在地面，兔子朱迪手持警棍警惕张望，耳朵竖起；狐狸尼克双手插兜，嘴角带笑，尾巴轻摆，背景是茂密树木与灌木丛，画面比例为3:4。",
-      "宫格漫画。帮我根据疯狂动物城人物角色，生成10张漫画，故事是狐狸尼克和兔子朱迪遇到蛇的冒险故事"
-    ],
-    "width": 1365,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100291",
     "slug": "jm-prompt-7567811451491044635",
     "title": "东方诗意眼妆",
@@ -10046,49 +8763,6 @@
       "白橙科技感信息可视化，未来感UI界面漂浮融合在科技感波浪曲面上，几条信息带特别宽叠在一起，多个非常宽的波浪曲面重叠，起伏流动的透明玻璃质感宽度铺满的信息带从左上角往右下角飘动，光滑立体，玻璃质感，柔和光泽，信息带上集成了各类APP图标，有微信小程序、域名注册、企业邮箱，具有3D立体风格，沿波浪曲面自然分布，立体漂浮。带有悬浮球形高光元素，整体画面具有未来感、科技感和数字金融氛围，背景浅蓝至白色渐变色调和背景明亮的色彩，背景带有光线波纹、流动粒子和渐变光效，营造出数字化、未来感，适用于智能生活、数据流、信息可视化等主题，3D，4K，高清晰度"
     ],
     "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100293",
-    "slug": "jm-prompt-7547326300432649515",
-    "title": "Labubu在金黄羽毛中的梦幻凝视",
-    "source": {
-      "name": "熊猫爱绘画",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAJolkjZR6Kdpnb1iGgFUYSKh8NQpWkVO7XymPTHYjpfbVccM7iUUiHnpBooVAiZW_"
-    },
-    "images": [
-      "images/seedream-images/7547326300432649515.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "cartoon",
-      "character",
-      "fantasy",
-      "illustration",
-      "minimalist",
-      "neon",
-      "portrait",
-      "product",
-      "retro",
-      "sci-fi",
-      "toy"
-    ],
-    "coverImage": "images/seedream-images/7547326300432649515.webp",
-    "model": "high_aes_general_v30l_art_fangzhou:general_v3.0_18b",
-    "ratio": "1152:2048",
-    "likes": "220",
-    "status": "1",
-    "prompts": [
-      "3D动画风格，拉布布是毛绒身体+搪胶脸部材质组成的卡通娃娃，Labubu，泡泡玛特角色mokoko，卡通风格，拟人化角色，深棕色毛茸茸的毛发四肢也是棕色的，大眼睛，9颗尖牙齿，淡淡粉腮红，拉布布置身于深浅不一的金黄色羽毛中，只露出脑袋，大大的蓝色眼睛，羽毛密集地分布在整个画面，营造出一种被羽毛环绕的氛围。采用绒毛材质风格，插画，朦胧感加重，景深加重，聚焦，高饱和度，毛茸茸的纹理。繁复的装饰风格，流动的线条，充满华丽与感性，金箔发出闪烁的光芒，抽象线条与曲面线条，柔美色块构成，灵魂画手，透明，意识流，水墨意境，烟雾质感，梦幻禅意，超现实主义，克莱因蓝线勾勒，大师杰作海报，具有无穷丰富的表现力，神秘而炽热的世界，高品质细节，超高清分辨率，最佳品质，8K壁纸，彩色背景"
-    ],
-    "width": 1152,
     "height": 2048,
     "type": "image",
     "create_time": 0,
@@ -10438,41 +9112,6 @@
     "update_time": 0
   },
   {
-    "id": "100304",
-    "slug": "jm-prompt-7575847719705611547",
-    "title": "视觉系少年与动画伙伴的电影之夜",
-    "source": {
-      "name": "七夕",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAFgy9_FIUW6TY7wUp9wAmqrJH0rR1V5E4OZ7Fl8BXE0-AyMu5wynXgjUl_JjdY3m2"
-    },
-    "images": [
-      "images/seedream-images/7575847719705611547.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "character",
-      "portrait",
-      "cartoon"
-    ],
-    "coverImage": "images/seedream-images/7575847719705611547.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "71",
-    "status": "0",
-    "prompts": [
-      "日系视觉系风格，高角度俯拍，头部比例夸张放大，一个小男孩在中间站得略靠前且身体略微内扣，穿着蓝白拼接长袖卫衣、深蓝色长裤、蓝白拼色运动鞋，双手拿着物品放于嘴边；左侧是动画风格狐狸角色，橙红色毛发，身穿黄绿几何图案短袖衬衫、紫粉条纹领带，双手比心；右侧是动画风格兔子角色，灰色毛发，身穿蓝色长袖上衣、深灰色背心与长裤、配金色腰带扣，双手比心；三位主体靠得很近，头部略微上仰，眼神直视镜头，画面构图紧凑，光线明亮且均匀，背景为超大电影院坐满观众，两人背对银幕，银幕显示《疯狂动物城2》电影精美海报填满屏幕，整体画面用iphone前置自拍呈现精致时尚感。",
-      "不要换脸，人物脸部不能有任何改变！请将图1和图2和图3的三人融合成一张三人俯拍自拍照，画面构图紧凑，三位主体靠得很近，头部略微上仰，眼神直视镜头，营造出强烈的视觉冲击力。图1在中间人物站得略靠前，需要保持人脸相似度；需要保持人脸相似度，略微内扣身体，拍摄角度为高角度俯拍，使头部比例被夸张放大，符合典型的日韩视觉自拍风格。简洁干净，进一步凸显人物主体。画面风格偏向日系视觉系，整体画面清晰度高，用iphone前置自拍，最终呈现出精致、时尚、略带的合影效果。要求人物实现无缝融进画面，视觉过渡自然，整体画面光线明亮且均匀，背景为超大电影院坐满了观众，两人背对银幕，银幕显示《疯狂动物城2》电影精美海报填满屏幕。"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100305",
     "slug": "jm-prompt-7572866546494672137",
     "title": "宋代制豆腐工艺图",
@@ -10613,42 +9252,6 @@
     "update_time": 0
   },
   {
-    "id": "100309",
-    "slug": "jm-prompt-7575437902872628506",
-    "title": "橙狐与蓝兔的温馨夜遇",
-    "source": {
-      "name": "蓝天237317081",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAoSumgxpTcnJDOy7gckzIwMX3QAbQ-MDzHXCL2foZwwo"
-    },
-    "images": [
-      "images/seedream-images/7575437902872628506.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "cartoon",
-      "night",
-      "fantasy"
-    ],
-    "coverImage": "images/seedream-images/7575437902872628506.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "124",
-    "status": "0",
-    "prompts": [
-      "3D卡通风格，夜晚场景有星空、路灯暖光、绿植花卉；橙色狐狸穿绿底花纹衬衫、条纹领带、卡其裤，与穿蓝色警服的灰色兔子共同手持狐狸兔子头像造型带闪光效果的气球束；下方有“Mi Tuo”卡通文字；氛围温馨浪漫，动画质感。",
-      "3D卡通风格，夜晚场景（星空，路灯暖光，绿植花卉）；橙色狐狸（穿绿底花纹衬衫、条纹领带、卡其裤）与灰色兔子（穿蓝色警服）共同手持气球束；气球为狐狸、兔子头像造型，带闪光效果；下方有“Mi Tuo”卡通文字；氛围温馨浪漫，动画质感"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100310",
     "slug": "jm-prompt-7569519485678292251",
     "title": "五谷杂粮布偶猫",
@@ -10781,41 +9384,6 @@
     ],
     "width": 576,
     "height": 1024,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100314",
-    "slug": "jm-prompt-7575134186579840302",
-    "title": "疯狂动物城之萌宝探险",
-    "source": {
-      "name": "Monica",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAANZh85FnPidue1QWCN5knPjntdBRbelsfeegvhR04SYBkWXUMVJImzyeihGRpLSWz"
-    },
-    "images": [
-      "images/seedream-images/7575134186579840302.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "character",
-      "portrait",
-      "cartoon"
-    ],
-    "coverImage": "images/seedream-images/7575134186579840302.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "22",
-    "status": "0",
-    "prompts": [
-      "一个八个月大的男宝宝戴着狐狸尼克头套，穿着狐狸尼克的衣服裤子并佩戴领带，与兔子朱迪一起走在疯狂动物城动画片的街道里，周围背景有影片相关元素，整体画面呈现高清、注重光影层次感的复古氛围人物写真，构图充满童趣。",
-      "生成高清人物写真，细腻地描绘出城市中各种动物角色的生动形象，注重光影的层次感，营造出浓郁的复古氛围，展现出独特的艺术构图。八个月的男宝宝戴着可爱的狐狸尼克头套，穿着狐狸尼克的衣服裤子和领带，和可爱活泼的兔子朱迪一起走在动画片的街道里，周围背景适当加入疯狂动物城里的元素，构图充满童趣，保持脸部不变"
-    ],
-    "width": 1536,
-    "height": 2048,
     "type": "image",
     "create_time": 0,
     "update_time": 0
@@ -11026,111 +9594,6 @@
     ],
     "width": 936,
     "height": 1664,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100321",
-    "slug": "jm-prompt-7574833040652832027",
-    "title": "怪诞童话之白发道士",
-    "source": {
-      "name": "无非由",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAFU6uKmo2T1bHA7Q6A5zUWThIQw8476rx9pqyOW7-hxLgj9_Iqn9d2p9q-ciduuCU"
-    },
-    "images": [
-      "images/seedream-images/7574833040652832027.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon",
-      "character",
-      "fantasy",
-      "abstract"
-    ],
-    "coverImage": "images/seedream-images/7574833040652832027.webp",
-    "model": "high_aes_general_v30l:general_v3.0_18b",
-    "ratio": "936:1664",
-    "likes": "285",
-    "status": "1",
-    "prompts": [
-      "卡通动漫人物，白发白须道士，挤眉弄眼，一手持宝葫芦，一手指向前方，深蓝色道袍，造型夸张，光影艺术，几何弧度与艺术形变抽象派艺术，人物造型，CG厚涂，纯色背景，张扬，个性，夸张，抽象，纯白色背景，怪诞童话。"
-    ],
-    "width": 936,
-    "height": 1664,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100322",
-    "slug": "jm-prompt-7562524682210020635",
-    "title": "流泪的小奶猫",
-    "source": {
-      "name": "水到渠成",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA41vw__rl0zjOGLzssXKBfZnmTvUzcdCtI6_Qu4A4IeGf5HdmL0g58k1hooKhBP2w"
-    },
-    "images": [
-      "images/seedream-images/7562524682210020635.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "身心疲惫",
-    "tags": [
-      "illustration",
-      "portrait",
-      "animal"
-    ],
-    "coverImage": "images/seedream-images/7562524682210020635.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "46",
-    "status": "0",
-    "prompts": [
-      "插画风格，柔和光线，室内场景，暖色调，粉色鼻头，大眼睛含泪，流泪。金三花曼基康矮脚小奶猫拟人化，穿着淡黄色带图标背带裤，低着头，靠墙站立，旁边有手机。近景构图，温馨氛围，细节清晰。",
-      "金三花曼基康矮脚小奶猫，大眼睛含泪，粉鼻头，粉鼻头，流泪，穿淡黄色带图标背带裤，低着头，拟人，靠墙站立（旁有手机），室内场景（柔和光线、背景），写"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100323",
-    "slug": "jm-prompt-7551262569286143247",
-    "title": "Q版蜜雪冰城公仔的UI设计",
-    "source": {
-      "name": "隽隽",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAi3C7ZADYSIo1GH6-xmALxWCbQ7RsXtCctH4Lb_4EL-2Ih6C_jy3DpV1D96Y2-oCk"
-    },
-    "images": [
-      "images/seedream-images/7551262569286143247.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "ui",
-      "character",
-      "toy"
-    ],
-    "coverImage": "images/seedream-images/7551262569286143247.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1365:2048",
-    "likes": "354",
-    "status": "0",
-    "prompts": [
-      "UI设计风格，参考Pinterest、Dribbble风格，OC渲染器，光线追踪，16K高清，红色和白色色调组合，白色和红点缀，透明反光玻璃质感，透明感，干净背景，浅色背景，大面积留白，Q版蜜雪冰城公仔，细节丰富。",
-      "蜜雪冰城，Q版公仔，红色和白色色调组合，白色和红点缀，透明反光玻璃质感，透明感，UI设计风格，光线追踪，干净背景，参考Pinterest、Dribbble 风格，使用OC渲染器，细节丰富，16K高清，浅色背景，大面积留白。"
-    ],
-    "width": 1365,
-    "height": 2048,
     "type": "image",
     "create_time": 0,
     "update_time": 0
@@ -11481,42 +9944,6 @@
     "update_time": 0
   },
   {
-    "id": "100334",
-    "slug": "jm-prompt-7567747279239580966",
-    "title": "神秘的奇幻狗妖",
-    "source": {
-      "name": "AIGC女魔头",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAKvP_CLg061A_okBKPgG7R-dmWH3S-N7l0SV7nsyoq3WjQlcu4Vv7fYz0YeyI5MRp"
-    },
-    "images": [
-      "images/seedream-images/7567747279239580966.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "3d",
-      "fantasy",
-      "neon",
-      "sculpture"
-    ],
-    "coverImage": "images/seedream-images/7567747279239580966.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "241",
-    "status": "0",
-    "prompts": [
-      "抽象风格，3D立体，OC渲染器，黑金色渐变，极简神秘的现代美学。奇幻狗妖，身材比例夸张，灵动优雅，修长流畅的完美形态，平滑质感。光影对比强烈，金属光泽，透明材质，几何结构，动态模糊，背景虚化，氛围神秘。",
-      "奇幻的狗妖，抽象风格，身材比例夸张，灵动，优雅，修长流畅，完美的形态，平滑，营造极简神秘的现代美学。黑金色渐变、3D立体，OC渲染器"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100335",
     "slug": "jm-prompt-7574813984356945161",
     "title": "皮克斯风格的大卫卡通半身像",
@@ -11623,42 +10050,6 @@
     "update_time": 0
   },
   {
-    "id": "100338",
-    "slug": "jm-prompt-7572936745205894409",
-    "title": "闪亮猫爪Q版头像框",
-    "source": {
-      "name": "兔纸菌",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA_uUL08YMsnAFAJ1DOdWm6be2Xb5BTOpoto3vBSFoiAA"
-    },
-    "images": [
-      "images/seedream-images/7572936745205894409.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "gaming",
-      "cartoon",
-      "character",
-      "creative"
-    ],
-    "coverImage": "images/seedream-images/7572936745205894409.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "2048:2048",
-    "likes": "106",
-    "status": "0",
-    "prompts": [
-      "2D游戏素材，Q版二次元风格，抽象提炼，飘逸，均匀光照，不规则圆形，不对称设计，大量留白，黑色背景，游戏头像框，闪亮可爱猫爪主题，可爱猫耳朵，猫爪，少量有层次感和清晰轮廓的扁平蝴蝶结，零星爱心点缀，创意设计，唯美，可爱配色，氛围感，光泽，互补色点缀，虚实变化，主次区分，节奏感，块面感，大师杰作。",
-      "2D游戏素材，飘逸，均匀光照，不规则圆形，不对称设计，大量留白，大师杰作，黑色背景，游戏头像框，抽象提炼，闪亮可爱猫爪主题，可爱猫耳朵，猫爪，少量有层次感和清晰轮廓的扁平蝴蝶结，零星爱心点缀，创意设计，唯美，可爱配色，氛围感，光泽，互补色点缀，虚实变化，主次区分，节奏感，Q版二次元结合，块面感"
-    ],
-    "width": 2048,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100339",
     "slug": "jm-prompt-7567763094768848154",
     "title": "雪夜的侧颜",
@@ -11687,41 +10078,6 @@
     ],
     "width": 936,
     "height": 1664,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100340",
-    "slug": "jm-prompt-7543348045002460467",
-    "title": "奥巴马夸张漫画肖像",
-    "source": {
-      "name": "心路",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAQfnhD903VIlXXnSEA8uexfTRdX9IIty3BwuGxwAdQMA4Qeulga_awuYK-8BJ0DyY"
-    },
-    "images": [
-      "images/seedream-images/7543348045002460467.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "一幅滑稽夸张的人物肖像，奥巴马，突出幽默和古怪的特点，漫画风格、夸张的大头，夸张俏皮的神情。纯色背景。极致高清和细节。创意手稿，彩铅线条涂鸦，漫画，抽象，夸张，凌乱，插画，32k高清",
-    "tags": [
-      "cartoon",
-      "portrait",
-      "character",
-      "illustration"
-    ],
-    "coverImage": "images/seedream-images/7543348045002460467.webp",
-    "model": "high_aes_general_v20_L:general_v2.0_L",
-    "ratio": "1152:2048",
-    "likes": "122",
-    "status": "1",
-    "prompts": [
-      "一幅滑稽夸张的人物肖像，奥巴马，突出幽默和古怪的特点，漫画风格、夸张的大头，夸张俏皮的神情。纯色背景。极致高清和细节。创意手稿，彩铅线条涂鸦，漫画，抽象，夸张，凌乱，插画，32k高清"
-    ],
-    "width": 1152,
-    "height": 2048,
     "type": "image",
     "create_time": 0,
     "update_time": 0
@@ -12136,41 +10492,6 @@
     "update_time": 0
   },
   {
-    "id": "100353",
-    "slug": "jm-prompt-7569866686963207462",
-    "title": "代码粒子亚丑钺",
-    "source": {
-      "name": "卢西西",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAGT26bjcSbTBpY78U0a-UYHY3WCcwJ8af4Gvdc92HB4Fx4gtc0bdGxxtNKPMQ4bVt"
-    },
-    "images": [
-      "images/seedream-images/7569866686963207462.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "poster",
-      "sci-fi",
-      "minimalist"
-    ],
-    "coverImage": "images/seedream-images/7569866686963207462.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "1467",
-    "status": "0",
-    "prompts": [
-      "前卫先锋新中式海报，大师级排版，极简主义，意识流，浅绿渐变极简背景，极致留白，禅意氛围。画面中间主体为亚丑钺正面，由无数代码粒子弥散组成，呈现从模糊到清晰的影像和轮廓，中景构图。神秘，科技感。",
-      "前卫先锋新中式海报，大师级排版，画面中间主体为亚丑钺正面，由无数代码粒子弥散组成，从模糊到清晰的影像和轮廓，浅绿渐变背景，极简背景，新中式，极致留白，禅意，意识流，极简主义，中景，神秘，科技感"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "100354",
     "slug": "jm-prompt-7572979743348313390",
     "title": "Q版唐僧表情九宫格",
@@ -12199,41 +10520,6 @@
     ],
     "width": 1024,
     "height": 1024,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100355",
-    "slug": "jm-prompt-7571030683410320650",
-    "title": "静物咖啡摄影：橙香冰美式",
-    "source": {
-      "name": "哈哈熊",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA87f-4qO4weEHKVwDgYngx8dDAJ-4UTcYT8GXEUo67lZC5-16aKjFDcuuni98_gsF"
-    },
-    "images": [
-      "images/seedream-images/7571030683410320650.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "photography",
-      "minimalist",
-      "product"
-    ],
-    "coverImage": "images/seedream-images/7571030683410320650.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "2048:2048",
-    "likes": "47",
-    "status": "0",
-    "prompts": [
-      "日式极简风格，静物摄影，商业咖啡摄影，透明塑料杯装分层冰橙C美式，杯身凝结水珠，冰块浮于表面，浅棕色木质托盘，新鲜迷迭香枝，半个橙子，散落的咖啡豆，风化木摆件，带迷迭香的小鹅卵石，接近正视图，浅米色背景，自然光影，叶片投影，温暖色调，柔和阴影，高清晰度，8K分辨率。",
-      "一张商业咖啡摄影，透明塑料杯中的分层冰橙C美式，杯身凝结水珠，冰块浮于表面，浅棕色木质托盘，新鲜迷迭香枝，半个橙子，散落的咖啡豆，风化木摆件，带迷迭香的小鹅卵石，接近正视图，浅米色背景，自然光影，叶片投影，日式极简风格，静物摄影，温暖色调，柔和阴影，高清晰度，8K分辨率"
-    ],
-    "width": 2048,
-    "height": 2048,
     "type": "image",
     "create_time": 0,
     "update_time": 0
@@ -12340,73 +10626,6 @@
     "update_time": 0
   },
   {
-    "id": "100359",
-    "slug": "jm-prompt-7575521410768997642",
-    "title": "收集星光的伙伴们",
-    "source": {
-      "name": "玻璃美人",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAAsl6tTroOzUBGvzd9Vb-Qyj2Lrl4eW3niJC1DohX6NjqfYiwewb-PH76K0ynpr24u"
-    },
-    "images": [
-      "images/seedream-images/7575521410768997642.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "cartoon"
-    ],
-    "coverImage": "images/seedream-images/7575521410768997642.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1152:2048",
-    "likes": "58",
-    "status": "0",
-    "prompts": [
-      "童趣治愈的卡通动画风格，深蓝色夜空布满闪烁星星，派大星站在梯子上伸手够一颗发光星星，海绵宝宝站在草地上手持发光星星，脸上洋溢开心笑容。草地上有透明袋子装满发光星星，部分星星散落在草地上，仿佛在收集星星。画面以深蓝夜空为背景，星星和角色手中星星散发暖黄色光，与冷色调夜空形成对比，突出梦幻感。色彩以深蓝（夜空）、橙红（派大星）、黄（海绵宝宝、星星）、绿（草地）为主，整体色调明快梦幻，传递童真治愈情绪。",
-      "帮我生成图片：画面是童趣治愈的卡通动画风格，整体氛围充满梦幻与友爱的纯真感。\r\n \r\n元素与布局\r\n \r\n- 深蓝色的夜空布满闪烁的星星，派大星站在梯子上，伸手去够一颗发光的星星；海绵宝宝站在草地上，手里也拿着一颗发光的星星，脸上洋溢着开心的笑容。\r\n- 草地上有一个透明的袋子，里面装满了发光的星星，还有一些星星散落在草地上，仿佛他们在收集星星，充满了童话般的趣味。\r\n \r\n光线与色彩\r\n \r\n画面以深蓝色的夜空为背景，星星和角色手中的星星散发着暖黄色的光，与冷色调的夜空形成鲜明对比，突出了星星的梦幻感；色彩以深蓝（夜空）、橙红（派大星）、黄（海绵宝宝、星星）、绿（草地）为主，整体色调明快梦幻，传递出童真治愈的情绪。"
-    ],
-    "width": 1152,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "100360",
-    "slug": "jm-prompt-7569254161527672091",
-    "title": "雪夜好奇猫",
-    "source": {
-      "name": "x",
-      "url": "https://jimeng.jianying.com/ai-tool/personal/MS4wLjABAAAA7--Pa8v-zafkbb6z0G0F4biMi9eE0zGLGB4s0U_ym0U"
-    },
-    "images": [
-      "images/seedream-images/7569254161527672091.webp"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "",
-    "description": "",
-    "tags": [
-      "animal",
-      "portrait"
-    ],
-    "coverImage": "images/seedream-images/7569254161527672091.webp",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "619",
-    "status": "0",
-    "prompts": [
-      "一只穿橙色带粉色格纹装饰衣物的猫，近景面部特写，低下头眼睛看双爪里有光亮的雪，双爪合起捧着雪，光折射在脸上，表情好奇又呆萌，眼睫毛有较多雪花、手上有落雪效果，背景为黑夜下雪天。",
-      "以图片中的宠物为主体，宠物低下头，眼睛看着爪子里的雪，宠物近景面部特写，突出宠物的爪子，双爪合在一起捧着雪，爪爪里的雪有光亮，并且有光折射在脸上，表情好奇又呆萌，双爪里是捧着雪，并添加下雪天氛围，着重让眼睫毛雪花多一些和手上有落雪效果。背景是黑夜下雪。图片中的宠物不变。"
-    ],
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
     "id": "309",
     "slug": "prompt-328",
     "title": "工作室写真风格照片",
@@ -12471,115 +10690,6 @@
     "likes": "",
     "width": 675,
     "height": 900,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "294",
-    "slug": "prompt-398",
-    "title": "超大道具的影棚拍摄照片",
-    "source": {
-      "name": "Arminn_Ai",
-      "url": "https://x.com/Arminn_Ai/status/1983963917425480087"
-    },
-    "images": [
-      "images/398.jpeg"
-    ],
-    "prompts": [
-      "A full-body hyper-realistic studio portrait of [CHARACTER DESCRIPTION] in a [POSE TYPE] pose, sitting gracefully on a large [OBJECT] positioned [ORIENTATION: horizontal / vertical] on a smooth [BACKGROUND COLOR] floor. The object appears oversized and realistic, perfectly integrated with the subject — not floating. Its surface shows accurate texture, reflections, and material depth. The pose defines the subject’s attitude and interaction with the object — natural, stylish, and expressive. The character is balanced and confident, matching the object’s tone and style. Background is seamless, same color for wall and floor, slightly lighter below with soft reflections. Lighting: clean professional studio setup — diffused key from front-left, mild fill from right, subtle rim for separation, evenly balanced exposure. Mood: cinematic luxury editorial with minimal composition and photorealistic realism.",
-      "一张全身超写实摄影棚肖像照，[人物描述] 以[姿势类型]的姿态优雅地坐在一个大型[物体]上，该物体[方向：水平/垂直]放置在光滑的[背景颜色]地板上。物体显得尺寸较大且逼真，与人物完美融合，而非悬浮。物体表面展现出精准的纹理、反射和材质深度。姿势展现了人物与物体之间的互动——自然、时尚且富有表现力。人物姿态平衡自信，与物体的色调和风格相得益彰。背景无缝衔接，墙面和地板颜色相同，下方略浅并带有柔和的反射。灯光：干净专业的摄影棚布光——左前方柔和的主光，右侧轻柔的补光，以及用于分离主体的微妙边缘光，曝光均衡。氛围：电影般的奢华时尚大片风格，构图极简，追求照片级的真实感。"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "400.md",
-    "description": "",
-    "tags": [
-      "character",
-      "minimalist",
-      "nature",
-      "photography",
-      "portrait"
-    ],
-    "coverImage": "images/398.jpeg",
-    "model": "high_aes_general_v40",
-    "ratio": "1536:2048",
-    "likes": "",
-    "width": 1536,
-    "height": 2048,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "260",
-    "slug": "prompt-409",
-    "title": "大型胶囊形容器的品牌3D渲染图",
-    "source": {
-      "name": "TechieBySA",
-      "url": "https://x.com/TechieBySA/status/1984265548251980140"
-    },
-    "images": [
-      "images/409.jpeg"
-    ],
-    "prompts": [
-      "Create a hyper-realistic 3D render of a large capsule-shaped container. The top half is solid and glossy in the brand’s signature color, featuring the official [BRAND] logo prominently. The bottom half is transparent, revealing multiple miniature famous products of this brand, [PRODUCT], neatly packed inside. Set against a dark background with cinematic lighting and soft reflections to create a premium, surreal advertising aesthetic. Ultra-detailed, professional product render style. 1080x1080 dimension",
-      "制作一个超逼真的大型胶囊形容器的3D渲染图。上半部分为品牌标志性颜色的实心亮面材质，并醒目地印有[品牌]官方标识。下半部分为透明材质，展现出该品牌众多知名产品的微缩模型[产品]，整齐地包装在内。以深色背景搭配电影级灯光和柔和的反射效果，营造出高端超现实的广告美感。采用超精细的专业产品渲染风格。尺寸为1080x1080。"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "README.md",
-    "description": "",
-    "tags": [
-      "branding",
-      "logo",
-      "nature",
-      "product"
-    ],
-    "coverImage": "images/409.jpeg",
-    "model": "high_aes_general_v40",
-    "ratio": "1080:1080",
-    "likes": "",
-    "width": 1080,
-    "height": 1080,
-    "type": "image",
-    "create_time": 0,
-    "update_time": 0
-  },
-  {
-    "id": "224",
-    "slug": "prompt-383",
-    "title": "一张超现实的微距照片",
-    "source": {
-      "name": "Samann_ai",
-      "url": "https://x.com/Samann_ai/status/1982774584198991988"
-    },
-    "images": [
-      "images/383.jpeg"
-    ],
-    "prompts": [
-      "Create a hyper-real macro photograph of a tiny (CHARACTER) about 10–12 cm tall, gently held between a real human thumb and index finger or sitting on the fingertip. The character naturally touches the thumb for scale and holds (ACCESSORY). Studio setting with a soft grey gradient background, subtle bokeh. Skin, fabric and hair show micro-texture; add accurate contact shadows where fingers meet the character. Lighting: softbox at 45°, faint rim light on the far side; no harsh glare. Camera look: 100mm macro • f/2.8 • ISO 100 • 1/160s (shallow depth of field; eyes perfectly in focus). Hands look clean, natural anatomy, 5 fingers, realistic nails and pores. The character’s outfit is simple textured knit (dark grey) unless the identity demands otherwise; proportions and perspective must read real, not toy. Treat (CHARACTER) respectfully and keep likeness faithful if based on a real person. Composition: subject centered, from mid-torso up, with the thumb and index framing the character;",
-      "创建一张超现实的微距照片，照片中一个约 10-12 厘米高的微小（角色），轻轻地放在真人的拇指和食指之间或放在指尖上。角色自然地触摸拇指以进行缩放并握住（配件）。工作室设置具有柔和的灰色渐变背景，微妙的散景。皮肤、织物和头发显示微观纹理；在手指与角色接触的地方添加准确的接触阴影。照明：45° 柔光箱，远端微弱的边缘光；无刺眼眩光。相机外观：100mm 微距 • f/2.8 • ISO 100 • 1/160s（浅景深；眼睛完美对焦）。手看起来干净，解剖自然，5 个手指，逼真的指甲和毛孔。除非身份另有要求，否则角色的服装是简单的纹理针织（深灰色）；比例和透视必须是真实的，而不是玩具。尊重地对待（角色），如果基于真人，则保持相似性。构图：以主体为中心，从躯干中部向上，用拇指和食指框住人物；"
-    ],
-    "examples": [],
-    "notes": [],
-    "originFile": "400.md",
-    "description": "",
-    "tags": [
-      "character",
-      "fashion",
-      "food",
-      "nature",
-      "photography",
-      "portrait",
-      "toy"
-    ],
-    "coverImage": "images/383.jpeg",
-    "model": "high_aes_general_v40",
-    "ratio": "1549:2048",
-    "likes": "",
-    "width": 1549,
-    "height": 2048,
     "type": "image",
     "create_time": 0,
     "update_time": 0
