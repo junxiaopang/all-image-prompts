@@ -5,6 +5,7 @@ import { PromptItem } from '../types';
 import LazyImage from './LazyImage';
 import { Language, translations } from '../translations';
 import { useToast } from './Toast';
+import { getImageUrl } from '../utils/imageUrl';
 interface PromptCardProps {
   item: PromptItem;
   onClick: (item: PromptItem) => void;
@@ -40,7 +41,7 @@ const PromptCard: React.FC<PromptCardProps> = ({ item, onClick, isLiked, onToggl
       <div className="relative w-full overflow-hidden">
         {/* Replaced standard img with LazyImage */}
         <LazyImage
-          src={item.coverImage}
+          src={getImageUrl(item.coverImage)}
           alt={item.title}
           className="w-full h-auto object-cover transform group-hover:scale-110 transition-transform duration-700 ease-out"
           placeholderColor="bg-gray-200 dark:bg-slate-700"

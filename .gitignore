@@ -20,7 +20,7 @@ scripts
 # System Files
 .DS_Store
 Thumbs.db
-
+.trae/
 # IDEs and Editors
 .idea
 .vscode/*

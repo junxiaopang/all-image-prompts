@@ -4,6 +4,7 @@ import { X, Copy, Heart, Tag, Sparkles, AlertCircle, ExternalLink, ChevronLeft, 
 import { PromptItem } from '../types';
 import { Language, translations } from '../translations';
 import { useToast } from './Toast';
+import { getImageUrl } from '../utils/imageUrl';
 
 interface ModalProps {
   item: PromptItem | null;
@@ -36,7 +37,7 @@ const Modal: React.FC<ModalProps> = ({ item, onClose, isLiked, onToggleLike, lan
 
   if (!item) return null;
 
-  const displayImages = item.images && item.images.length > 0 ? item.images : [item.coverImage];
+  const displayImages = (item.images && item.images.length > 0 ? item.images : [item.coverImage]).map(getImageUrl);
   const hasMultipleImages = displayImages.length > 1;
 
   const handleCopy = (text: string) => {
