@@ -24,7 +24,7 @@
       "nature",
       "portrait"
     ],
-    "coverImage": "images/327.jpeg",
+    "coverImage": "/images/327.jpeg",
     "model": "grok-2-image",
     "ratio": "832:1248",
     "likes": "",
@@ -32,7 +32,10 @@
     "height": 1248,
     "type": "image",
     "create_time": 0,
-    "update_time": 0
+    "update_time": 0,
+    "prompt": "A cinematic portrait of a young East Asian woman sitting gracefully at a white marble vanity table. She has long, sleek, dark brown hair parted in the middle, styled simply to frame her face. Her skin is luminous and smooth with a warm tone. She wears soft, peach-toned makeup with a light shimmer on the eyelids, subtle eyeliner, and coral lipstick that gives her a polished glow.\n\nShe’s dressed in an off-shoulder black velvet dress that accentuates her neckline and shoulders, elegant yet modern. A delicate silver necklace with a small pendant rests on her collarbone, and she wears matching silver earrings and a ring, adding a refined touch. Her posture is confident and feminine, one arm resting naturally on the marble surface, the other relaxed by her side.\n\nThe scene takes place in a softly lit vanity space with a mirror reflecting part of her silhouette. The lighting is balanced and diffused, creating a clean, luxurious look, soft shadows, no harsh highlights, and a smooth skin texture. On the vanity, there are makeup items such as a compact palette, a small decorative brush, and bottles of foundation neatly placed beside her.\n\nThe background features deep navy or dark curtains and minimalist decor, including white vases filled with dried flowers in warm autumn hues of orange, cream, and gold. The overall mood feels elegant, poised, and quietly glamorous, like a high-end beauty editorial captured on a crisp modern camera with cinematic lighting and 8K ultra-realistic clarity.\n\nColor palette: ivory white, black velvet, warm peach tones, and soft gold floral accents.\nAspect ratio: 4:5.\nStyle: hyper-realistic, luxury portrait, magazine aesthetic.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/327.jpeg",
+    "referenceImageUrls": []
   },
   {
     "id": "487",
@@ -55,7 +58,7 @@
     "tags": [
       "interior"
     ],
-    "coverImage": "images/49.jpeg",
+    "coverImage": "/images/49.jpeg",
     "model": "grok-2-image",
     "ratio": "1024:1024",
     "likes": "",
@@ -63,7 +66,10 @@
     "height": 1024,
     "type": "image",
     "create_time": 0,
-    "update_time": 0
+    "update_time": 0,
+    "prompt": "Create a hyper-realistic image where [SHAPE] shape is formed by the magical parting of [wavy] blue ocean, with the [SHAPE] shape being a [COLOUR] empty land. The top view should show the water being pushed aside by an unseen force, creating the [SHAPE] with an ultra-thin line. The stark [COLOR] color of the [SHAPE] interior should contrast with the vibrant blue water around it, emphasizing the supernatural effect as if the water is being parted to reveal the [SHAPE] shape distinctly.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/49.jpeg",
+    "referenceImageUrls": []
   },
   {
     "id": "2002773947658760200",
@@ -98,7 +104,10 @@
     "type": "",
     "create_time": 1766333493000,
     "update_time": 1766543610359,
-    "status": 1
+    "status": 1,
+    "prompt": "Get inside of Grok Imagine! You only need a simple prompt. \n\nPrompt: “The skin of her face opens up revealing the complex mechanics beneath”",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2025-12-21/2002773947658760200_cover.jpg",
+    "referenceImageUrls": []
   },
   {
     "id": "2004747766657155300",
@@ -136,7 +145,10 @@
     "type": "",
     "create_time": 1766804088000,
     "update_time": 1766925585062,
-    "status": 1
+    "status": 1,
+    "prompt": "ABSOLUTE FACE LOCK (NON-NEGOTIABLE)\n\nFACE LOCK – PHOTOGRAPHIC IDENTITY PRESERVATION\n\nUse the uploaded reference image as the ONLY and EXACT facial source. The generated subject must be the same individual, with 100% facial identity accuracy.\n\n❌ Do NOT beautify, stylize, enhance, idealize, age, de-age, or reinterpret the face ❌ No changes to facial proportions, bone structure, symmetry, skin texture, beard shape, hairline, or gaze ❌ No AI smoothing, no face morphing, no correction of asymmetry\n\n✔ Preserve with forensic photographic fidelity:\n\nExact bone structure & face shape\n\nNatural skin tone, pores, micro-texture, imperfections\n\nIdentical hairline, density, volume, and hairstyle\n\nExact eye shape, spacing, eyelids, and gaze\n\nIdentical beard shape, density, edges, and texture\n\nNeutral, intense expression only (no added emotion)\n\nTreat the face as a locked photographic identity, as if captured in the same second.\n\n🎥 VISUAL STYLE & COMPOSITION\n\nUltra-cinematic, high-contrast perfectly symmetrical wide shot, captured on a 35mm anamorphic lens. Set inside a vast abandoned steel mill, converted into a brutalist command center. Cold, desaturated God-rays cut through shattered skylights, revealing volumetric dust. Cracked concrete floor stained with oil, rust, and age.\n\n🪑 THE SUBJECT\n\nCentered in frame sits a mafia kingpin, face matching the uploaded reference with absolute fidelity. Seated on a makeshift throne built from weathered industrial crates, draped in distressed dark leather. Posture conveys silent authority and controlled menace — legs crossed, one arm resting casually.\n\n🧥 ATTIRE — UTILITARIAN LUXURY\n\nHeavy raw-denim jacket with visible triple stitching\n\nThick wool flannel shirt\n\nQuilted canvas vest\n\nRugged oil-tanned leather boots\n\nAll fabrics realistic, worn, tactile, and grounded.\n\n🦁 THE GUARD\n\nAt his feet lies a full-grown male lion, crouched protectively. Unsheathed claws dig into crumbling concrete. Dense mane contrasts sharply with the cold, rusted industrial setting.\n\n🎞️ CINEMATOGRAPHY & REALISM\n\nUltra-cinematic chiaroscuro lighting — deep shadows, strong contrast. Extreme 8K hyper-realism:\n\nOxidized I-beams with visible rust\n\nFlaking paint on corrugated steel walls\n\nConcrete dust, fabric fibers, leather grain\n\nPore-level facial realism (no smoothing)\n\nMood: intimidating, powerful, cinematic.\n\n🚫 NEGATIVE PROMPT (STRICT)\n\nblur, soft focus, low detail, low resolution, CGI, 3D render, cartoon, anime, illustration, painterly style, smooth skin, beauty filter, altered face, different person, face morphing, symmetry correction, de-aging, over-stylized lighting, exaggerated emotion, extra limbs, bad anatomy, watermark, text, logo",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2025-12-27/2004747766657155300_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "id": "2004706544340844722",
@@ -172,7 +184,10 @@
     "page_type": "native",
     "status": 1,
     "create_time": 1766794260000,
-    "update_time": 1767100074459
+    "update_time": 1767100074459,
+    "prompt": "A calm winter morning, softened by golden light.\nQuiet streets, warm layers, and a peaceful start to the day.\n\nGrok Ai   vs  Gemini \nPrompt \n{\n  \"image_prompt\": {\n    \"title\": \"Winter Dusk – Quiet Evening Elegance\",\n    \"layout\": {\n      \"type\": \"2x2 Grid\",\n      \"consistency\": \"Single model, serene lifestyle editorial, muted winter tones\"\n    },\n    \"subject_global\": {\n      \"demographics\": \"Young woman, timeless and graceful presence\",\n      \"hair\": \"Straight or softly waved hair, partially covered with scarf\",\n      \"makeup\": \"Soft matte skin, neutral blush, nude lips, subtle eye definition\",\n      \"expression_base\": \"Calm warmth, introspective mood\",\n      \"wardrobe\": {\n        \"outerwear\": \"Camel brown or muted olive long winter coat\",\n        \"inner_layer\": \"High-neck knit sweater in cream or mocha tones\",\n        \"accessories\": [\n          \"Wool scarf wrapped snugly\",\n          \"Leather boots\",\n          \"Minimal gold earrings\"\n        ]\n      }\n    },\n    \"environment_global\": {\n      \"location\": \"Quiet winter street near cafés or old city architecture\",\n      \"elements\": [\n        \"Soft street lights\",\n        \"Light snowflakes or cold evening air\"\n      ],\n      \"lighting\": \"Blue-hour light mixed with warm ambient lamps\"\n    },\n    \"frames\": [\n      {\n        \"position\": \"Top Left\",\n        \"theme\": \"EVENING STILLNESS\",\n        \"composition\": {\n          \"shot_size\": \"Medium close-up\",\n          \"angle\": \"Eye level\",\n          \"depth\": \"Soft blurred lights behind\"\n        },\n        \"action\": {\n          \"pose\": \"Hands wrapped around a warm cup, eyes lowered\"\n        },\n        \"emotion\": \"Quiet comfort\",\n        \"atmosphere\": \"Cold evening calm\"\n      },\n      {\n        \"position\": \"Top Right\",\n        \"theme\": \"WINTER DETAILS\",\n        \"composition\": {\n          \"shot_size\": \"Close-up\",\n          \"angle\": \"45-degree side\"\n        },\n        \"action\": {\n          \"pose\": \"Adjusting coat buttons or scarf\"\n        },\n        \"emotion\": \"Soft elegance\",\n        \"focus\": \"Fabric texture and warm light on hands\"\n      },\n      {\n        \"position\": \"Bottom Left\",\n        \"theme\": \"SLOW WALK HOME\",\n        \"composition\": {\n          \"shot_size\": \"Medium shot\",\n          \"angle\": \"Rear three-quarter view\"\n        },\n        \"action\": {\n          \"pose\": \"Walking slowly under street lights\"\n        },\n        \"emotion\": \"Peaceful solitude\",\n        \"background_specifics\": \"Empty road, glowing lamps, winter haze\"\n      },\n      {\n        \"position\": \"Bottom Right\",\n        \"theme\": \"QUIET GLOW\",\n        \"composition\": {\n          \"shot_size\": \"Tight medium close-up\",\n          \"angle\": \"Straight-on\"\n        },\n        \"action\": {\n          \"pose\": \"Soft smile, relaxed shoulders\"\n        },\n        \"emotion\": \"Warm, composed\",\n        \"details\": \"Natural skin, gentle rim light from street lamp\"\n      }\n    ],\n    \"technical_specs\": {\n      \"camera\": {\n        \"lens\": \"50 mm\",\n        \"aperture\": \"f/1.8\",\n        \"depth_of_field\": \"Creamy bokeh, cinematic separation\"\n      },\n      \"textures\": {\n        \"coat\": \"Wool blend texture\",\n        \"skin\": \"Natural evening realism\",\n        \"air\": \"Cool tones with warm highlights\"\n      },\n      \"style_modifiers\": [\n        \"Calm winter lifestyle\",\n        \"Cinematic minimal fashion\",\n        \"Aesthetic social-media editorial\"\n      ],\n      \"color_grading\": \"Cool blues, warm ambers, soft browns, balanced contrast\"\n    }\n  }\n}",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2025-12-27/2004706544340844722_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "id": "2005838176729063677",
@@ -207,7 +222,10 @@
     "page_type": "native",
     "status": 1,
     "create_time": 1767064062000,
-    "update_time": 1767100095279
+    "update_time": 1767100095279,
+    "prompt": "Grok AI\nPrompt:\n{\n  \"image_description\": \"A medium shot of a young woman with long, dark espresso-colored hair and soft curtain bangs posing outdoors in a sun-drenched park.\",\n  \"subject_details\": {\n    \"features\": \"Youthful face, porcelain skin with a soft blush, dark eyes, and warm reddish-pink lipstick.\",\n    \"hair\": \"Long, flowing dark brown hair with natural volume and wispy bangs framing the face.\",\n    \"pose\": \"Looking off-camera with a slight, natural smile, one hand gently touching her hair.\"\n  },\n  \"attire_and_accessories\": {\n    \"clothing\": \"A light sky-blue halter neck top paired with low-rise light-wash denim jeans.\",\n    \"jewelry\": \"Layered necklaces including a thin pearl choker, a gold chain with a Hamsa pendant, and a colorful beaded strand; gold bangles on the wrists and a delicate gold belly chain.\"\n  },\n  \"environment\": {\n    \"setting\": \"A paved walkway in a lush park with tall green trees and dappled sunlight filtering through the leaves.\",\n    \"lighting\": \"Bright, natural golden hour sunlight creating soft shadows and highlights on the subject's hair and skin.\",\n    \"atmosphere\": \"Serene, aesthetic, and summery.\"\n  },\n  \"technical_specs\": {\n    \"camera\": \"High-resolution photography, 35mm lens, f/2.8 aperture for slight background blur.\",\n    \"style\": \"Lifestyle photography, cinematic lighting, vibrant colors.\"\n  }\n}",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2025-12-30/2005838176729063677_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-17/2012329997714010260_cover.jpg",
@@ -235,7 +253,10 @@
       "cinematic"
     ],
     "title": "光与影的交错：人像中的狮面",
-    "update_time": 1768736650827
+    "update_time": 1768736650827,
+    "prompt": "A hyper-realistic, 8k black and white studio portrait shot at eye-level with a 50mm lens, featuring a person with a shaved head, wearing a dark long-sleeved shirt. The composition is a close-up, centered on the subject's head and upper torso against a pure white, seamless background, illuminated by soft, high-key cinematic lighting that emphasizes highly detailed textures and creates minimal shadows. The subject's left hand gently cups the left side of their face, while their right hand covers the right side. On the left wrist, multiple braided leather bracelets are visible, one with a small circular charm. The image incorporates a surreal, digitally composited effect: the entire right half of the subject's face, from the bridge of the nose outwards, and their right hand, are seamlessly overlaid with the highly detailed features of a lion's face, including realistic fur, prominent whiskers, and a visible lion's eye peering through the fingers of the right hand. The lion's fur texture extends down the subject's right arm, creating a striking visual fusion between human and animal. uploaded face as reference.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-17/2012329997714010260_cover.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-15/2011840235731370200_0.jpg",
@@ -270,7 +291,10 @@
     "title": "3D动画角色拼贴画",
     "type": "",
     "update_time": 1768735003318,
-    "width": 736
+    "width": 736,
+    "prompt": "A cozy, whimsical 3D animated character collage featuring multiple stylized young girls with oversized expressive eyes and soft rounded facial features, inspired by modern Pixar–Disney aesthetics. Each character wears warm, oversized knit sweaters, fluffy jackets, hoodies, and colorful winter outfits with detailed fabric textures. Soft pastel and earthy tones, rainbow knits, freckles, rosy cheeks, playful hairstyles, headphones, glasses, and cute accessories. Cozy autumn–winter vibe, wholesome and joyful expressions, cinematic soft lighting, shallow depth of field, ultra-detailed fur and fabric, smooth skin shading, high realism stylized 3D render, warm brown background, aesthetic Instagram mood, 4K quality.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-15/2011840235731370200_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-17/2012329979577532700_0.jpg",
@@ -305,7 +329,10 @@
     "title": "超现实主义黑白概念摄影作品",
     "type": "",
     "update_time": 1768735003319,
-    "width": 848
+    "width": 848,
+    "prompt": "A striking, surrealist black-and-white conceptual photograph featuring a dramatic play on scale and forced perspective against a stark, infinite pure white background. In the lower quadrant, a massive, hyper-realistic profile of a man—using the uploaded face as reference—is tilted back with eyes closed and mouth gaping wide open in an expression of anticipation, showcasing high-fidelity skin textures, individual beard hairs, and detailed pores. Descending from the top right corner, an enormous, disembodied hand, rendered with intense dermatological detail and wearing braided wristbands, pinches the ankles of a miniature human figure between the thumb and forefinger. This tiny, helpless figure, dressed in dark casual clothing, dangles upside down in freefall, arms outstretched downwards, perfectly aligned to be dropped directly into the giant open mouth below. The image utilizes high-contrast monochrome grading, sharp focus, and seamless compositing to create a bizarre, dreamlike self-consumption narrative, rendered in 8k resolution with the clarity of a high-end studio portrait.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-17/2012329979577532700_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-17/2012350843656552700_0.jpg",
@@ -341,7 +368,10 @@
     "title": "开朗女孩的3D卡通形象",
     "type": "",
     "update_time": 1768735003319,
-    "width": 736
+    "width": 736,
+    "prompt": "A high-quality 3D cartoon-style character of a cheerful young girl with expressive oversized eyes and soft facial features, rendered in a Pixar/Disney-inspired aesthetic. She has long, wavy blonde hair with detailed strands, wearing round oversized glasses and a cozy yellow-and-white outfit. The character is dressed in a yellow hoodie layered with a textured jacket, white cargo pants, and chunky sneakers. Accessories include a beanie hat and playful glasses matching the warm color palette. The pose is energetic and expressive—either mid-jump with arms raised in excitement or standing confidently with crossed arms and a surprised, curious expression. Clean monochrome yellow background, soft studio lighting, smooth clay-like textures, ultra-detailed clothing fabric, vibrant colors, joyful mood, cinematic depth of field, 4K resolution, modern stylized 3D illustration.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-17/2012350843656552700_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-17/2012433071652668000_0.jpg",
@@ -376,7 +406,10 @@
     "title": "自信的彩虹运动者",
     "type": "",
     "update_time": 1768735003320,
-    "width": 736
+    "width": 736,
+    "prompt": "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt ⤵️\nA stylized 3D cartoon character standing confidently against a solid orange background, wearing a fluffy rainbow-striped tracksuit with a zip-up jacket and matching pants. The texture is ultra-soft and furry, with vibrant pastel colors (pink, green, yellow, orange). The character has a cute, rounded face, closed eyes, and a calm expression. Hair is tied in a messy bun. Wearing oversized white headphones and large round transparent glasses. White chunky sneakers with minimal branding. Pixar-style proportions, soft lighting, smooth gradients, high detail, cinematic studio render, shallow depth of field, ultra-clean composition, modern aesthetic, 8K quality.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-17/2012433071652668000_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-17/2012433071652667872_0.jpg",
@@ -404,7 +437,10 @@
       "cinematic"
     ],
     "title": "自信的彩虹运动装角色",
-    "update_time": 1768825564717
+    "update_time": 1768825564717,
+    "prompt": "A stylized 3D cartoon character standing confidently against a solid orange background, wearing a fluffy rainbow-striped tracksuit with a zip-up jacket and matching pants. The texture is ultra-soft and furry, with vibrant pastel colors (pink, green, yellow, orange). The character has a cute, rounded face, closed eyes, and a calm expression. Hair is tied in a messy bun. Wearing oversized white headphones and large round transparent glasses. White chunky sneakers with minimal branding. Pixar-style proportions, soft lighting, smooth gradients, high detail, cinematic studio render, shallow depth of field, ultra-clean composition, modern aesthetic, 8K quality.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-17/2012433071652667872_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-19/2013100461835075724_0.jpg",
@@ -435,7 +471,10 @@
       "cute"
     ],
     "title": "温馨可爱的现代女孩角色",
-    "update_time": 1768906402666
+    "update_time": 1768906402666,
+    "prompt": "Ultra-high-quality 3D stylized character illustration, Pixar-inspired but original, featuring a cute modern girl character series. Smooth plastic-like skin, soft rounded facial features, big expressive eyes, small nose, subtle blush, cozy aesthetic.\nThe character appears in multiple outfits and moods:\n– pastel pink fluffy jacket with joggers and sneakers, wearing round glasses and headphones, calm and stylish pose\n– bright yellow cardigan with playful polka-dot pants, joyful expression, arms raised, cheerful energy\n– cozy red oversized hoodie with bold typography, eyes closed, arms open, peaceful and happy vibe\n– soft fashion look with cropped jacket and skirt, elegant pose, oversized round glasses, dreamy expression\nHair styles include messy buns, soft updos, and stylized volume; fashion-forward streetwear mixed with cozy textures (knit fabric, fleece, wool).\nSolid vibrant backgrounds (pink, yellow, red, peach), studio lighting, soft shadows, global illumination, subsurface scattering.\nClean composition, full-body and medium shots, high detail textures, cinematic lighting, depth of field, ultra-smooth render, 8K resolution, Octane/Arnold render style, wholesome, cute, modern aesthetic.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-19/2013100461835075724_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-21/2013878012694196652_0.jpg",
@@ -463,7 +502,10 @@
       "portrait"
     ],
     "title": "3D写实风格的社交媒体网红肖像",
-    "update_time": 1769070867844
+    "update_time": 1769070867844,
+    "prompt": "Ultra-high-quality 3D stylized character illustration created from the uploaded reference image.\nCharacter must remain 100% identical to the reference: same face shape, eyes, glasses, hairstyle, skin tone, expression, outfit, jewelry, and pose (arms crossed).\nPixar-inspired but realistic and premium, not cartoonish or chibi.\nSmooth skin, soft blush, big expressive eyes, detailed eyelashes, clean textures, professional studio lighting.\nBackground: a slightly blurred X (Twitter) profile page UI, showing the same profile as in the reference image (name, username, bio, follower count, posts tab).\nThe background must look like a real X profile screenshot, softly blurred for depth, while the character remains sharp and in focus.\nMinimal, modern, influencer-style composition.\nUltra-sharp focus, cinematic depth of field, high-resolution, polished 3D render.\nNo changes to character or profile details.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-21/2013878012694196652_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-24/2015049336003166398_0.jpg",
@@ -487,7 +529,10 @@
     "status": 1,
     "tags": [],
     "title": "皮克斯风格3D动画女性摄影师",
-    "update_time": 1769524355607
+    "update_time": 1769524355607,
+    "prompt": "A stylized 3D animated female photographer character, Pixar–Disney style, soft cinematic lighting. A young woman with short curly brown hair, big expressive eyes, round glasses, and a calm confident expression. She is standing with arms crossed, a vintage analog camera hanging around her neck. Wearing a cream button-up shirt with rolled sleeves and high-waisted olive green trousers.\nThe background is a cozy vintage photography studio filled with old cameras, film rolls, photo prints pinned on the wall, wooden tables, and warm desk lamps. Retro aesthetic, nostalgic mood, warm tones, shallow depth of field, ultra-detailed textures, soft shadows, highly polished 3D render, studio quality, cinematic composition, 4k, portrait orientation.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-24/2015049336003166398_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-24/2015012622140424574_0.jpg",
@@ -515,7 +560,10 @@
       "cute"
     ],
     "title": "皮克斯风格3D动画女孩与狗狗的温馨自拍",
-    "update_time": 1769524355607
+    "update_time": 1769524355607,
+    "prompt": "A cute Pixar-style 3D animated girl taking a close-up selfie with her small playful dog outdoors. The girl has big expressive eyes, freckles on her cheeks, soft rosy skin, and light brown hair tied in a messy bun, making a surprised “O” mouth expression. The dog is a small terrier with white and brown fur, tongue out, happy and energetic. Bright natural sunlight, soft golden hour lighting, shallow depth of field, green grassy background with bokeh. Ultra-detailed fur and skin textures, cinematic composition, vibrant colors, wholesome joyful mood, high-resolution, 3D cartoon realism, Pixar–Disney animation style.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-24/2015012622140424574_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-26/2015783528752111653_0.jpg",
@@ -543,7 +591,10 @@
       "cartoon"
     ],
     "title": "可爱3D卡通女孩多彩表情贴纸",
-    "update_time": 1769524355607
+    "update_time": 1769524355607,
+    "prompt": "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt\nA cute 3D chibi-style cartoon girl sticker set, featuring the same character in multiple emotions and poses. Big expressive glossy eyes, soft rounded face, slightly oversized head, small body proportions. Light brown/blonde messy bun hairstyle with loose strands. Wearing a red leather jacket over a white top. Each pose shows different expressions: surprised, sad, confused, happy, thinking, winking, peace sign, shrugging. Pixar/Disney-inspired 3D render, smooth plastic-like texture, soft lighting, pastel beige background. Sticker-style white outline around each character, clean and minimal aesthetic, high detail, ultra cute, emoji-like expressions, high resolution, studio quality.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-26/2015783528752111653_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-28/2016392330652336161_0.jpg",
@@ -571,7 +622,10 @@
       "emoji"
     ],
     "title": "皮克斯风格的3D卡通女孩表情包",
-    "update_time": 1769606058723
+    "update_time": 1769606058723,
+    "prompt": "A cute 3D cartoon female avatar emoji set, Pixar-style character design, soft clay-like texture, smooth lighting, warm pastel color palette. A young girl with long brown hair, fair skin, big expressive eyes, wearing a red jacket over a dark top. 9 different facial expressions arranged in a 3x3 grid: laughing with eyes closed, thinking with finger on chin, peaceful with eyes closed and hearts, angry expression, surprised with mouth open and light bulb idea, friendly neutral smile, crying with tears, shocked expression, waving hello. Clean beige background, soft shadows, high detail, consistent character design, emoji-style faces, studio lighting, ultra-high quality, 4k render.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-28/2016392330652336161_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-27/2016244247813620194_0.jpg",
@@ -600,7 +654,10 @@
       "technical"
     ],
     "title": "解构对象：内部结构与关键组件",
-    "update_time": 1769695828143
+    "update_time": 1769695828143,
+    "prompt": "Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:\n•Key component labels\n•Internal cutaway or exploded-view outlines\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure)\n•Simple schematic or sectional diagrams where relevant\n\nPlace the title [OBJECT] inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations feel sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.\n\nColor palette:\nWhite background, black annotation lines and text only. No colors.\n\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-27/2016244247813620194_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-30/2017084427139203442_0.jpg",
@@ -628,7 +685,10 @@
       "cute"
     ],
     "title": "小女孩与金毛犬的温馨瞬间",
-    "update_time": 1769779072218
+    "update_time": 1769779072218,
+    "prompt": "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt\n3D Pixar-style portrait of a cute young girl hugging a golden retriever, soft warm lighting, big expressive eyes, gentle smile, cozy emotional mood, ultra-detailed fur texture, smooth skin shading, pastel neutral background, shallow depth of field, cinematic close-up framing, soft natural colors, wholesome friendship vibe, high-resolution, studio quality render",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-30/2017084427139203442_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-30/2017066146332377188_0.jpg",
@@ -658,7 +718,10 @@
       "realistic"
     ],
     "title": "硬核动作惊悚片中的超写实战士",
-    "update_time": 1769779072218
+    "update_time": 1769779072218,
+    "prompt": "{\n  \"prompt\": \"Use the uploaded image strictly as IDENTITY reference only. Preserve facial features, body proportions, and build exactly. Do NOT derive pose, posture, camera angle, orientation, or perspective from the reference.\\n\\nCinematic ultra-realistic FULL-BODY portrait, Golden Ratio composition. Subject stands perfectly upright with neutral vertical spine; no lean, no arch, no slouch. Head, shoulders, torso, hips, knees, ankles vertically aligned; weight evenly distributed.\\n\\nExtreme LOW-ANGLE camera near ground, angled upward for dominance; zero camera roll; single vanishing point below subject. Body rotated 15–20° counter-clockwise, left shoulder closer, posture fully upright.\\n\\nRight arm extended downward-forward, near-locked elbow, firm ONE-HAND grip holding a Desert Eagle. Wrist locked, recoil-ready. Gun angled diagonally lower-left → upper-right, offset camera-right ~10–15%. Barrel exits frame toward viewer via foreshortening, NOT aligned to camera axis.\\n\\nHead and gaze aligned precisely with weapon direction, eyes focused along gun line (not at lens). Expression: calm, heroic dominance, intimidating presence toward off-frame enemy. Left arm relaxed and partially obscured.\\n\\nWardrobe: grey heavily wrinkled button-up, sleeves rolled mid-forearm; brown leather suspenders; loose dark tie lifted by wind; black pants.\\n\\nEnvironment: tactical helicopter hovering behind/above with rotor blur; strong downdraft affecting hair, clothing, dust, debris, sparks, shattered glass. Stormy smoky sky. Lighting: cool overhead atmosphere + harsh top-down helicopter highlights, warm sparks below.\\n\\nGritty action-thriller realism, ultra-sharp 4K–8K, no text, no logos.\",\n  \n  \"conditional_rules\": {\n    \"if_female\": { \"add\": \"dark sunglasses\" }\n  },\n\n  \"negative_prompt\": \"pose or posture from reference, leaning, crouching, lunging, bent spine, head facing camera, eye contact with lens, gaze misaligned with weapon, squared front-facing body, gun aimed straight at camera, weapon aligned with camera axis, centered barrel, camera roll, fisheye distortion, flat lighting, clean clothing, beauty retouching, stylized look, blur, motion blur on subject, extra/missing limbs, distorted anatomy, bent wrist, two-handed grip, cropped head/feet, duplicated weapons, jewelry, accessories (except sunglasses if female), text, logos, watermarks\",\n\n  \"pose_lock\": {\n    \"lock_level\": \"absolute\"\n  },\n\n  \"seed_system\": {\n    \"base_seed\": 74291836,\n    \"variation_method\": \"offset\",\n    \"allowed_offset_range\": [-50, 50],\n    \"locked\": [\n      \"identity\",\n      \"pose\",\n      \"posture\",\n      \"camera_angle\",\n      \"camera_roll\",\n      \"vanishing_point\",\n      \"composition\",\n      \"body_rotation\",\n      \"arm_extension\",\n      \"weapon_direction\",\n      \"weapon_cropping\",\n      \"head_orientation\",\n      \"gaze_direction\"\n    ],\n    \"allowed_variation\": [\n      \"debris\",\n      \"sparks\",\n      \"clouds\",\n      \"fabric_motion\",\n      \"light_intensity\"\n    ]\n  },\n\n  \"style\": \"cinematic realism\",\n  \"resolution\": \"8k\",\n  \"quality\": \"ultra-high\"\n}",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-30/2017066146332377188_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-31/2017470598616916165_0.jpg",
@@ -686,7 +749,10 @@
       "portrait"
     ],
     "title": "暗黑优雅写真：红棚中的时尚人像与黑豹",
-    "update_time": 1769861767583
+    "update_time": 1769861767583,
+    "prompt": "High-fashion editorial portrait of a pale woman with symmetrical double space buns, round black sunglasses, glossy black lipstick, wearing a black turtleneck, calm expression. A roaring black panther stands behind her wearing a diamond jeweled collar. Bold red studio background, dramatic lighting, luxury fashion magazine aesthetic, ultra-detailed, cinematic contrast, sharp focus, Vogue style, photorealistic, dark elegant mood.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-31/2017470598616916165_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-01-30/2017217674242396333_0.jpg",
@@ -714,7 +780,10 @@
       "cute"
     ],
     "title": "超现实时尚人像：迷你版自我尖叫",
-    "update_time": 1769861767583
+    "update_time": 1769861767583,
+    "prompt": "A playful surreal fashion portrait of an adult woman with short wavy blonde hair wearing cherry-themed accessories and glossy red outfit, holding a tiny animated miniature version of herself between her fingers, the miniature screaming with exaggerated cartoon expression, Pixar-style 3D doll character mixed with photorealistic human, pastel pink room with cherry decor and flowers, soft sunlight, dreamy bokeh light leaks, kawaii aesthetic, ultra-detailed fashion photography, shallow depth of field, magazine editorial vibe, vibrant red and pink color palette, cinematic lighting, high resolution",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-01-30/2017217674242396333_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-02-01/2017768487297683715_0.jpg",
@@ -743,7 +812,10 @@
       "cartoon"
     ],
     "title": "活力四射的3D卡通女孩跳跃瞬间",
-    "update_time": 1769951226228
+    "update_time": 1769951226228,
+    "prompt": "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt\nA joyful 3D Pixar-style cartoon girl captured mid-jump, full of energy and happiness. She has blonde hair (either in cute buns or flowing freely), oversized round glasses, and playful accessories like goggles or a beret. Big expressive eyes, wide cheerful smile, soft toy-like facial features. Outfit in a warm yellow-and-white palette: a fuzzy mustard-yellow sweater or jacket over a white top, fluffy white cargo pants, and chunky white sneakers. Dynamic jumping pose with arms raised or making peace signs, lively motion frozen in air. Ultra-detailed 3D render, smooth stylized textures, soft studio lighting, subtle shadows, vibrant monochrome yellow background, cinematic depth of field, adorable animated movie aesthetic, high resolution, cheerful and uplifting mood.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-02-01/2017768487297683715_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-02-01/2017911449595809920_0.jpg",
@@ -771,7 +843,10 @@
       "cinematic"
     ],
     "title": "时尚女孩引导你关注Noor的X（Twitter）主页",
-    "update_time": 1769951226229
+    "update_time": 1769951226229,
+    "prompt": "1. Open @grok\n\n2. Upload your photo \n\n3. Prompt\nA hyper-realistic 3D cartoon illustration of a stylish girl standing outside a giant modern smartphone. The phone screen clearly displays an X (Twitter) profile interface with the name “Noor ”, username @Noor_ul_ain43, verified blue tick, bio text “Stoic!”, and follower/following counts visible. The “Follow” button is bright blue and clearly readable.\nThe girl is wearing a cozy oversized mustard-yellow knitted outfit (cardigan and wide pants), white sneakers with yellow accents, and a small backpack. She has round black glasses, soft expressive eyes, and curly hair tied in a messy bun. Her pose is dynamic and engaging — she is smiling and pointing her index finger directly at the “Follow” button on the phone screen, as if encouraging viewers to follow.\nThe character stands slightly in front and to the side of the phone, creating a strong depth effect. Lighting is soft studio lighting with gentle shadows. Background is minimal and light grey for a clean, premium look. Style is Pixar-quality 3D, ultra-detailed, smooth textures, realistic fabric knitting, sharp UI details, high resolution, cinematic composition",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-02-01/2017911449595809920_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-02-01/2017889153774735423_0.jpg",
@@ -799,7 +874,10 @@
       "chinese-style"
     ],
     "title": "冷瓷肌肤的东方肖像",
-    "update_time": 1769951226230
+    "update_time": 1769951226230,
+    "prompt": "东方美学与古典油画的碰撞。\nOriental aesthetics meet classical texture.Testing a new prompt for that \"cold porcelain\" look. \n\n左边GROK\n右边SEEDREAM\n你pick哪一种风格？\n\nPrompt：\n\nClose-up portrait of a stunning East Asian woman, blending classical medieval oil painting style with hyper-realistic photography. Cold white porcelain skin, natural \"no-makeup\" look, glossy wet lips. Messy light brown hair, windswept strands crossing the face adding a sense of chaos. Emotional direct gaze, deep eyes. Wearing pearl earrings, cream-white Chinese traditional couture with floral embroidery and sequins, hand gently touching the collar. Vintage brownish background, dappled light and shadows, soft focus creating a dreamy ethereal atmosphere, 8k resolution, extremely detailed texture, cinematic lighting.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-02-01/2017889153774735423_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-02-02/2018333840402759934_0.jpg",
@@ -828,7 +906,10 @@
       "realistic"
     ],
     "title": "黄昏海边的白衬衫女子",
-    "update_time": 1770125991919
+    "update_time": 1770125991919,
+    "prompt": "Cinematic portrait of a young woman by the seaside at twilight, wind in her hair, loose white shirt, holding wildflowers. Minimal, soft natural light, deep blue tones, calm sea, melancholic Korean music-video aesthetic. 8K ultra-realistic, film look, subtle lens flare,",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-02-02/2018333840402759934_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-02-07/2020018576242163909_0.jpg",
@@ -856,7 +937,10 @@
       "realistic"
     ],
     "title": "女孩从报纸中破纸而出",
-    "update_time": 1770473654611
+    "update_time": 1770473654611,
+    "prompt": "A cinematic, hyper-realistic editorial artwork of a cute animated-style girl breaking through a torn newspaper page. Replace the man with this girl (same face, same hairstyle, same proportions, do not change her facial features). The newspaper is ripped open in the center with dramatic jagged paper edges curling outward. The girl is emerging confidently through the paper, slightly turned pose, expressive big eyes, soft smile, stylized Pixar-like realism.\nAt the top of the newspaper, replace the headline text with bold black typography reading “NOOR UL AIN”, clean newspaper font, perfectly aligned and clearly readable. The newspaper layout looks authentic, vintage journalism style.\nHer outfit remains modern and elegant, smooth lighting on skin, realistic textures mixed with animated charm. Cinematic studio lighting, shallow depth of field, strong foreground depth, high detail, magazine cover quality, 4K resolution, creative surreal composition.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-02-07/2020018576242163909_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-02-08/2020497303585567168_0.jpg",
@@ -885,7 +969,10 @@
       "cinematic"
     ],
     "title": "欢快的3D卡通女孩在色彩斑斓的城市小巷中",
-    "update_time": 1770559802473
+    "update_time": 1770559802473,
+    "prompt": "A cute stylized 3D cartoon girl with a Pixar–Disney-inspired look, big expressive green eyes, soft freckles, rosy cheeks, and a warm innocent smile. She is standing confidently in a colorful urban alley with a vibrant graffiti brick wall background, cinematic depth of field and soft bokeh lights.\nThe character has a cozy oversized knitted sweater in a neutral beige tone with long sleeves covering part of the hands. She wears loose-fit cargo pants (olive green / camouflage tone), slightly baggy, paired with chunky casual sneakers.\nHer pose is joyful and playful with both arms stretched wide outward, conveying happiness and freedom. Hair is medium-length brown, slightly messy yet cute, styled naturally (can be open or lightly tied), with soft realistic strands.\nLighting is warm and cinematic, soft ambient glow, ultra-detailed textures, high-quality 3D render, realistic fabric knit details, smooth skin shading, shallow depth of field, vibrant colors, whimsical mood, modern animated movie character style, ultra HD, sharp focus.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-02-08/2020497303585567168_0.jpg",
+    "referenceImageUrls": []
   },
   {
     "coverImage": "/images/2026-02-08/2020396912474747234_0.jpg",
@@ -913,6 +1000,9 @@
       "product"
     ],
     "title": "高端3D女孩收藏人偶展示",
-    "update_time": 1770809719396
+    "update_time": 1770809719396,
+    "prompt": "A premium 3D starter pack collectible toy figure displayed in transparent blister packaging on a soft pastel pink background.\nCentered full-body anime / Pixar-inspired 3D girl doll with a cute, elegant face:\nbig expressive eyes, soft blush cheeks, smooth porcelain skin, glossy lips, wavy medium-length brown hair, gentle sweet expression.\nOutfit: oversized pastel pink button-up shirt worn open, white crop top inside, blue denim shorts, black sneakers with white soles.\nAccessories neatly arranged in molded compartments around the figure:\nblue backpack, smartphone, wired earphones, airpods, compact camera, instant camera, selfie stick/tripod, iced coffee cup, coffee mug, pen, casual shoes.\nPackaging design:\nminimalist aesthetic, symmetrical layout, clean plastic mold, premium collectible look.\nTop title text:\n“NOOR ” in a soft modern font, centered at the top of the packaging.\nSoft studio lighting, pastel color palette, ultra-detailed textures, realistic shadows, product photography style, kawaii modern aesthetic, 8K resolution, sharp focus.",
+    "coverUrl": "https://cdn.jsdelivr.net/gh/junxiaopang/all-image-prompts@main/public/images/2026-02-08/2020396912474747234_0.jpg",
+    "referenceImageUrls": []
   }
 ]
